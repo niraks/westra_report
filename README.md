@@ -1,4 +1,7 @@
 # Statistics overview
+
+Statistics generated 2025-10-12
+
 ## Season 25/26
 
 - [HU15A Höst](25_26/HU15/hu15a_höst.md)

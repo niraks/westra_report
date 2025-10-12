@@ -83,7 +83,7 @@ Players (sorted by points)
 | Gustav Setterberg |  2 |  1 |  0 |  0 |  0 |
 | Jan Hysenaj |  0 |  0 |  0 |  0 |  0 |
 
-### Kvarnby Basket Gul - Crossover Basketball
+### Kvarnby Basket Gul - Crossover Basketball Academy Club
 
 Players (sorted by points)
 

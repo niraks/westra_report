@@ -30,7 +30,7 @@
 
 ## Games
 
-### Crossover Basketball - Onsala Pirates BBK
+### Crossover Basketball Academy - Onsala Pirates BBK
 
 Players (sorted by points)
 

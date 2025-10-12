@@ -31,8 +31,8 @@
 | Rank | Player | Value |
 |----:|:-------|------:|
 | 1 | Harley Gustafsson | 7.50 |
-| 2 | Suheb Ahmed Ahmed | 6.33 |
 | 2 | Hjalmar Valberg | 6.33 |
+| 2 | Suheb Ahmed Ahmed | 6.33 |
 | 4 | Kelvin Hansson Sjöö | 5.43 |
 | 5 | Elias Magnusson | 5.14 |
 | 6 | Axel Hasewinkel | 4.89 |
@@ -49,10 +49,10 @@
 | 2 | Malcom Sempf | 1.50 |
 | 3 | Oliver Rosenlund | 1.22 |
 | 4 | Benjamin Hosseinzadeh | 1.14 |
-| 5 | Olle Bornäs-Hagelin | 1.00 |
 | 5 | Fred Andersson | 1.00 |
 | 5 | Max Colbro | 1.00 |
 | 5 | Jonathan Sodéus | 1.00 |
+| 5 | Olle Bornäs-Hagelin | 1.00 |
 | 9 | Jonatan Birath | 0.88 |
 | 10 | Vincent Tistrand | 0.86 |
 | 10 | Axel Borin | 0.86 |

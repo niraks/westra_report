@@ -42,7 +42,7 @@ Players (sorted by points)
 | Elio Rahme |  0 |  0 |  0 |  0 |  1 |
 | Jalil Mohammed |  0 |  0 |  0 |  0 |  1 |
 
-### Hammarkullens - Trollhättans Basket Svart
+### Hammarkullens Basketklubb HKB - Trollhättans Basket Svart
 
 Players (sorted by points)
 
@@ -57,7 +57,7 @@ Players (sorted by points)
 | Viktor Johansson | 10 |  3 |  1 |  1 |  0 |
 | Albin Ahlström Hestrander |  5 |  2 |  0 |  1 |  0 |
 
-### Trollhättans Basket Svart - Stenungsunds Basketklubb
+### Trollhättans Basket Svart - Stenungsunds Basketklubb Blå
 
 Players (sorted by points)
 
@@ -116,7 +116,7 @@ Players (sorted by points)
 | Albin Ahlström Hestrander |  6 |  2 |  0 |  2 |  1 |
 | Jalil Mohammed |  0 |  0 |  0 |  0 |  1 |
 
-### Trollhättans Basket Svart - Hammarkullens Basketklubb
+### Trollhättans Basket Svart - Hammarkullens Basketklubb HKB
 
 Players (sorted by points)
 
@@ -136,7 +136,7 @@ Players (sorted by points)
 | Jalil Mohammed |  9 |  2 |  1 |  2 |  2 |
 | Albin Ahlström Hestrander |  9 |  4 |  0 |  1 |  0 |
 
-### Stenungsunds Basketklubb - Trollhättans Basket Svart
+### Stenungsunds Basketklubb Blå - Trollhättans Basket Svart
 
 Players (sorted by points)
 

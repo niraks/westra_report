@@ -1,97 +1,71 @@
-# Statistics for Eastside Dragons Blue
+# Statistics for Sätila Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eastside Dragons Blue | 8 | 50.50 | 19.88 | 2.25 | 4.00 | 13.12 |
+| Sätila Basket | 8 | 44.38 | 20.25 | 0.38 | 2.75 | 10.75 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Christian Gonzal | 2 | 16.50 | 7.00 | 0.00 | 2.50 | 2.50 |
-| Vincent Uzieblo | 3 | 15.67 | 7.00 | 0.00 | 1.67 | 1.00 |
-| Nireas Solidakis | 8 | 10.50 | 3.25 | 1.12 | 0.62 | 2.00 |
-| Yuhanan Hailemichael | 8 | 8.12 | 4.00 | 0.00 | 0.12 | 1.75 |
-| Nikolas Frestad | 8 | 7.38 | 2.38 | 0.62 | 0.75 | 1.62 |
-| Vidar Ekström | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 2.00 |
-| Leon Frestad | 7 | 3.86 | 1.43 | 0.29 | 0.14 | 1.86 |
-| Novak Punos | 6 | 3.50 | 1.50 | 0.00 | 0.50 | 1.17 |
-| Albin Helmfridsson | 2 | 3.50 | 1.00 | 0.00 | 1.50 | 1.50 |
-| Sam Aldenborn | 6 | 3.33 | 1.67 | 0.00 | 0.00 | 0.50 |
-| Elvin Enhager | 6 | 2.17 | 1.00 | 0.00 | 0.17 | 1.17 |
-| Henry von Knorring | 8 | 1.50 | 0.75 | 0.00 | 0.00 | 1.38 |
-| Elias El Rhali | 4 | 1.50 | 0.25 | 0.25 | 0.25 | 0.75 |
-| Leon Askerdal | 5 | 1.20 | 0.20 | 0.20 | 0.20 | 0.80 |
-| Noel Westerberg | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Alexander Wahlbeck | 6 | 13.33 | 5.83 | 0.33 | 0.67 | 2.50 |
+| Liam Larsson | 7 | 12.86 | 6.00 | 0.00 | 0.86 | 2.14 |
+| Örjan Österberg | 6 | 8.00 | 3.83 | 0.00 | 0.33 | 1.83 |
+| Elias Södergren | 7 | 6.29 | 3.00 | 0.00 | 0.29 | 0.43 |
+| Alexander Gustafsson | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 4.00 |
+| Tim Hedin | 5 | 5.80 | 2.40 | 0.00 | 1.00 | 2.20 |
+| Simon Terner | 5 | 4.20 | 1.80 | 0.20 | 0.00 | 0.40 |
+| Wilmer Månsson | 7 | 3.86 | 1.86 | 0.00 | 0.14 | 2.00 |
+| Anjouk Dornquast | 2 | 2.00 | 0.50 | 0.00 | 1.00 | 0.50 |
+| Leo Oetting | 6 | 1.00 | 0.50 | 0.00 | 0.00 | 1.67 |
 
 ## Games
 
-### Lerum Basket P11 Svart - Eastside Dragons Blue
+### Sätila Basket - Trollhättans Basket Svart
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Nireas Solidakis | 19 |  8 |  0 |  3 |  3 |
-| Leon Frestad | 11 |  5 |  0 |  1 |  2 |
-| Yuhanan Hailemichael | 10 |  5 |  0 |  0 |  1 |
-| Nikolas Frestad | 10 |  2 |  2 |  0 |  5 |
-| Novak Punos |  4 |  2 |  0 |  0 |  2 |
-| Elvin Enhager |  4 |  2 |  0 |  0 |  0 |
-| Henry von Knorring |  2 |  1 |  0 |  0 |  3 |
-| Leon Askerdal |  0 |  0 |  0 |  0 |  0 |
+| Alexander Wahlbeck | 20 |  9 |  0 |  2 |  2 |
+| Örjan Österberg |  8 |  4 |  0 |  0 |  1 |
+| Simon Terner |  8 |  4 |  0 |  0 |  1 |
+| Elias Södergren |  8 |  4 |  0 |  0 |  0 |
+| Liam Larsson |  5 |  2 |  0 |  1 |  4 |
+| Wilmer Månsson |  3 |  1 |  0 |  1 |  2 |
+| Leo Oetting |  2 |  1 |  0 |  0 |  3 |
 
-### Eastside Dragons Blue - Kvarnby Basket Grön
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Nikolas Frestad | 10 |  2 |  2 |  0 |  3 |
-| Nireas Solidakis |  9 |  3 |  1 |  0 |  3 |
-| Yuhanan Hailemichael |  8 |  4 |  0 |  0 |  3 |
-| Elias El Rhali |  3 |  1 |  0 |  1 |  2 |
-| Leon Frestad |  2 |  1 |  0 |  0 |  2 |
-| Elvin Enhager |  2 |  1 |  0 |  0 |  1 |
-| Henry von Knorring |  2 |  1 |  0 |  0 |  0 |
-| Sam Aldenborn |  0 |  0 |  0 |  0 |  0 |
-| Novak Punos |  0 |  0 |  0 |  0 |  2 |
-| Leon Askerdal |  0 |  0 |  0 |  0 |  1 |
-
-### Kungsbacka Basketklubb - Eastside Dragons Blue
+### Ale Basket - Sätila Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Nireas Solidakis | 16 |  5 |  2 |  0 |  2 |
-| Yuhanan Hailemichael |  9 |  4 |  0 |  1 |  2 |
-| Nikolas Frestad |  8 |  3 |  0 |  2 |  3 |
-| Leon Frestad |  7 |  2 |  1 |  0 |  1 |
-| Sam Aldenborn |  6 |  3 |  0 |  0 |  0 |
-| Novak Punos |  6 |  3 |  0 |  0 |  2 |
-| Leon Askerdal |  3 |  0 |  1 |  0 |  1 |
-| Elvin Enhager |  1 |  0 |  0 |  1 |  3 |
-| Henry von Knorring |  0 |  0 |  0 |  0 |  2 |
+| Alexander Wahlbeck | 16 |  8 |  0 |  0 |  3 |
+| Elias Södergren | 13 |  6 |  0 |  1 |  2 |
+| Simon Terner |  4 |  2 |  0 |  0 |  0 |
+| Örjan Österberg |  4 |  2 |  0 |  0 |  2 |
+| Wilmer Månsson |  2 |  1 |  0 |  0 |  3 |
+| Liam Larsson |  2 |  1 |  0 |  0 |  1 |
+| Leo Oetting |  0 |  0 |  0 |  0 |  2 |
 
-### Eastside Dragons Blue - Borås Basket
+### Sätila Basket - Lerum Basket P11 Svart
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Yuhanan Hailemichael | 10 |  5 |  0 |  0 |  2 |
-| Nireas Solidakis |  8 |  2 |  1 |  1 |  3 |
-| Novak Punos |  7 |  3 |  0 |  1 |  0 |
-| Nikolas Frestad |  5 |  2 |  0 |  1 |  0 |
-| Sam Aldenborn |  4 |  2 |  0 |  0 |  1 |
-| Henry von Knorring |  2 |  1 |  0 |  0 |  0 |
-| Leon Frestad |  0 |  0 |  0 |  0 |  1 |
-| Elvin Enhager |  0 |  0 |  0 |  0 |  1 |
-| Elias El Rhali |  0 |  0 |  0 |  0 |  0 |
-| Noel Westerberg |  0 |  0 |  0 |  0 |  1 |
+| Alexander Wahlbeck | 15 |  7 |  0 |  1 |  2 |
+| Örjan Österberg |  9 |  4 |  0 |  1 |  2 |
+| Tim Hedin |  7 |  3 |  0 |  1 |  5 |
+| Liam Larsson |  6 |  3 |  0 |  0 |  1 |
+| Elias Södergren |  5 |  2 |  0 |  1 |  0 |
+| Simon Terner |  5 |  1 |  1 |  0 |  1 |
+| Wilmer Månsson |  2 |  1 |  0 |  0 |  0 |
+| Leo Oetting |  2 |  1 |  0 |  0 |  2 |
+| Anjouk Dornquast |  0 |  0 |  0 |  0 |  0 |
 
 ### Eastside Dragons Blue - Sätila Basket
 
@@ -99,63 +73,61 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Nireas Solidakis | 15 |  4 |  2 |  1 |  1 |
-| Nikolas Frestad | 13 |  5 |  0 |  3 |  1 |
-| Yuhanan Hailemichael | 10 |  5 |  0 |  0 |  0 |
-| Leon Frestad |  5 |  1 |  1 |  0 |  2 |
-| Sam Aldenborn |  4 |  2 |  0 |  0 |  0 |
-| Elvin Enhager |  4 |  2 |  0 |  0 |  0 |
-| Elias El Rhali |  3 |  0 |  1 |  0 |  0 |
-| Leon Askerdal |  1 |  0 |  0 |  1 |  1 |
-| Novak Punos |  1 |  0 |  0 |  1 |  1 |
-| Henry von Knorring |  0 |  0 |  0 |  0 |  1 |
+| Liam Larsson | 22 | 10 |  0 |  2 |  4 |
+| Alexander Wahlbeck | 16 |  5 |  2 |  0 |  4 |
+| Tim Hedin |  9 |  4 |  0 |  1 |  1 |
+| Örjan Österberg |  6 |  3 |  0 |  0 |  0 |
+| Simon Terner |  4 |  2 |  0 |  0 |  0 |
+| Anjouk Dornquast |  4 |  1 |  0 |  2 |  1 |
+| Leo Oetting |  2 |  1 |  0 |  0 |  2 |
+| Wilmer Månsson |  0 |  0 |  0 |  0 |  0 |
+| Elias Södergren |  0 |  0 |  0 |  0 |  0 |
 
-### Högsbo Basket Röd - Eastside Dragons Blue
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Vincent Uzieblo | 17 |  6 |  0 |  5 |  2 |
-| Albin Helmfridsson |  5 |  1 |  0 |  3 |  2 |
-| Sam Aldenborn |  4 |  2 |  0 |  0 |  2 |
-| Nireas Solidakis |  2 |  1 |  0 |  0 |  3 |
-| Yuhanan Hailemichael |  2 |  1 |  0 |  0 |  2 |
-| Nikolas Frestad |  2 |  1 |  0 |  0 |  1 |
-| Elvin Enhager |  2 |  1 |  0 |  0 |  2 |
-| Henry von Knorring |  2 |  1 |  0 |  0 |  2 |
-| Leon Askerdal |  2 |  1 |  0 |  0 |  1 |
-
-### Eastside Dragons Blue - Trollhättans Basket Svart
+### Sätila Basket - Kungsbacka Basketklubb Blå
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Christian Gonzal | 15 |  6 |  0 |  3 |  3 |
-| Vincent Uzieblo | 14 |  7 |  0 |  0 |  0 |
-| Nikolas Frestad |  9 |  3 |  1 |  0 |  0 |
-| Nireas Solidakis |  8 |  1 |  2 |  0 |  1 |
-| Yuhanan Hailemichael |  8 |  4 |  0 |  0 |  4 |
-| Vidar Ekström |  4 |  2 |  0 |  0 |  2 |
-| Leon Frestad |  2 |  1 |  0 |  0 |  1 |
-| Sam Aldenborn |  2 |  1 |  0 |  0 |  0 |
-| Henry von Knorring |  2 |  1 |  0 |  0 |  3 |
-| Elias El Rhali |  0 |  0 |  0 |  0 |  1 |
+| Liam Larsson | 19 |  8 |  0 |  3 |  2 |
+| Wilmer Månsson | 16 |  8 |  0 |  0 |  4 |
+| Tim Hedin |  9 |  4 |  0 |  1 |  1 |
+| Alexander Gustafsson |  6 |  3 |  0 |  0 |  4 |
+| Alexander Wahlbeck |  6 |  3 |  0 |  0 |  3 |
+| Elias Södergren |  4 |  2 |  0 |  0 |  0 |
+| Simon Terner |  0 |  0 |  0 |  0 |  0 |
+| Leo Oetting |  0 |  0 |  0 |  0 |  0 |
 
-### Ale Basket - Eastside Dragons Blue
+### Borås Basket - Sätila Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Christian Gonzal | 18 |  8 |  0 |  2 |  2 |
-| Vincent Uzieblo | 16 |  8 |  0 |  0 |  1 |
-| Yuhanan Hailemichael |  8 |  4 |  0 |  0 |  0 |
-| Nireas Solidakis |  7 |  2 |  1 |  0 |  0 |
-| Novak Punos |  3 |  1 |  0 |  1 |  0 |
-| Albin Helmfridsson |  2 |  1 |  0 |  0 |  1 |
-| Nikolas Frestad |  2 |  1 |  0 |  0 |  0 |
-| Henry von Knorring |  2 |  1 |  0 |  0 |  0 |
-| Leon Frestad |  0 |  0 |  0 |  0 |  4 |
+| Liam Larsson | 20 | 10 |  0 |  0 |  3 |
+| Örjan Österberg |  7 |  3 |  0 |  1 |  2 |
+| Elias Södergren |  6 |  3 |  0 |  0 |  0 |
+| Wilmer Månsson |  4 |  2 |  0 |  0 |  4 |
+| Tim Hedin |  4 |  1 |  0 |  2 |  3 |
+| Leo Oetting |  0 |  0 |  0 |  0 |  1 |
+
+### Sätila Basket - Kvarnby Basket Grön
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+
+### Högsbo Basket Röd - Sätila Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Liam Larsson | 16 |  8 |  0 |  0 |  0 |
+| Örjan Österberg | 14 |  7 |  0 |  0 |  4 |
+| Elias Södergren |  8 |  4 |  0 |  0 |  1 |
+| Alexander Wahlbeck |  7 |  3 |  0 |  1 |  1 |
+| Wilmer Månsson |  0 |  0 |  0 |  0 |  1 |
+| Tim Hedin |  0 |  0 |  0 |  0 |  1 |
 

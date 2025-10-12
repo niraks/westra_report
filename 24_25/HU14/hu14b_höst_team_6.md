@@ -40,7 +40,7 @@ Players (sorted by points)
 | Amjad Abuhasanein |  4 |  2 |  0 |  0 |  0 |
 | Jaky Mujasevic |  2 |  1 |  0 |  0 |  0 |
 
-### WestCoast WildCats Vit - Crossover Basketball
+### WestCoast WildCats Vit - Crossover Basketball Academy Club
 
 Players (sorted by points)
 

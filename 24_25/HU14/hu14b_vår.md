@@ -36,8 +36,8 @@
 | 3 | Gustav Karlsson Glasell | 7.62 |
 | 4 | Oliver Reit | 6.88 |
 | 5 | Joseph Jonsson | 6.29 |
-| 6 | Rony Aljojo | 5.86 |
 | 6 | Vincent Bozic | 5.86 |
+| 6 | Rony Aljojo | 5.86 |
 | 8 | Nikolas Frestad | 5.25 |
 | 9 | Khaled Hussein | 5.00 |
 | 10 | Vincent Uzieblo | 4.50 |
@@ -50,14 +50,14 @@
 | 2 | Aiden Kehoe | 1.60 |
 | 3 | Rony Aljojo | 1.43 |
 | 4 | Ludvig Skarin | 1.00 |
-| 4 | Albin Helmfridsson | 1.00 |
 | 4 | Emil Wiberg Kjellvestad | 1.00 |
 | 4 | Lucky Lindmo | 1.00 |
+| 4 | Albin Helmfridsson | 1.00 |
 | 4 | Oliver Reit | 1.00 |
 | 4 | Ilon Åhman | 1.00 |
+| 10 | Noel Sagestam | 0.88 |
 | 10 | Sigge Gemzell | 0.88 |
 | 10 | Nikolas Frestad | 0.88 |
-| 10 | Noel Sagestam | 0.88 |
 
 ### Free throws made per game
 
@@ -71,8 +71,8 @@
 | 6 | Lazar Ilic | 1.50 |
 | 7 | Vincent Bozic | 1.43 |
 | 8 | Ludvig Skarin | 1.38 |
-| 9 | Dominykas Jonusas | 1.00 |
 | 9 | Joel Carlén | 1.00 |
 | 9 | Axel Odengård | 1.00 |
+| 9 | Dominykas Jonusas | 1.00 |
 | 9 | Oliver Reit | 1.00 |
 

@@ -1,24 +1,28 @@
-# Statistics for Kortedala Basket, svart
+# Statistics for Bosna IF
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kortedala Basket, svart | 8 | 59.00 | 22.50 | 2.12 | 7.62 | 15.00 |
+| Bosna IF | 8 | 51.38 | 21.25 | 1.00 | 5.88 | 16.38 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Hjalmar Spångberg | 7 | 19.00 | 7.71 | 0.29 | 2.71 | 2.00 |
-| Vigan Raci | 7 | 14.43 | 6.43 | 0.29 | 0.71 | 2.00 |
-| Melker Ciba | 6 | 9.83 | 2.67 | 0.83 | 2.00 | 4.00 |
-| Evangelos Kochliaridis | 7 | 9.14 | 2.29 | 1.00 | 1.57 | 2.43 |
-| Alvin Wendel | 4 | 6.50 | 3.00 | 0.00 | 0.50 | 1.50 |
-| Wilmer Myhr | 7 | 5.57 | 2.57 | 0.00 | 0.43 | 1.57 |
-| Noah Colley Otomewo | 7 | 4.14 | 1.43 | 0.14 | 0.86 | 2.00 |
-| Emmanuel Okpamen Friberg | 4 | 2.25 | 1.00 | 0.00 | 0.25 | 0.25 |
-| Theodor Markey | 6 | 2.00 | 0.83 | 0.00 | 0.33 | 3.17 |
+| Edin Pejmanovic | 8 | 21.25 | 8.62 | 0.12 | 3.62 | 2.75 |
+| Beslagic Nail | 8 | 10.75 | 4.62 | 0.00 | 1.50 | 2.25 |
+| Adis Hrustanovic | 8 | 6.12 | 2.25 | 0.38 | 0.50 | 2.25 |
+| Sergej Pusonjic | 4 | 4.00 | 1.25 | 0.50 | 0.00 | 2.25 |
+| Emmanuel Chukwudalu Aneke | 8 | 3.50 | 1.38 | 0.25 | 0.00 | 2.12 |
+| Edvin Hafizovic | 8 | 3.12 | 1.50 | 0.00 | 0.12 | 1.62 |
+| Melvin Zekic | 8 | 2.88 | 1.38 | 0.00 | 0.12 | 2.00 |
+| Elvin Dzaferagic | 5 | 1.60 | 0.80 | 0.00 | 0.00 | 1.00 |
+| Saleh Adjeoud | 7 | 0.29 | 0.14 | 0.00 | 0.00 | 0.00 |
+| Viktor Mihajlovic | 7 | 0.29 | 0.14 | 0.00 | 0.00 | 0.57 |
+| Angelo Aljimi | 8 | 0.25 | 0.12 | 0.00 | 0.00 | 1.12 |
+| Yasin Sürer | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Adem Beslagic | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
@@ -28,108 +32,134 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Vigan Raci | 24 | 11 |  0 |  2 |  4 |
-| Hjalmar Spångberg | 20 |  9 |  0 |  2 |  2 |
-| Evangelos Kochliaridis | 19 |  7 |  1 |  2 |  2 |
-| Melker Ciba | 10 |  3 |  1 |  1 |  5 |
-| Wilmer Myhr |  4 |  2 |  0 |  0 |  1 |
-| Emmanuel Okpamen Friberg |  3 |  1 |  0 |  1 |  0 |
-| Noah Colley Otomewo |  2 |  1 |  0 |  0 |  3 |
-| Theodor Markey |  0 |  0 |  0 |  0 |  4 |
+| Edin Pejmanovic | 16 |  6 |  0 |  4 |  5 |
+| Adis Hrustanovic | 10 |  3 |  1 |  1 |  2 |
+| Beslagic Nail |  7 |  3 |  0 |  1 |  2 |
+| Sergej Pusonjic |  6 |  0 |  2 |  0 |  4 |
+| Melvin Zekic |  2 |  1 |  0 |  0 |  2 |
+| Yasin Sürer |  0 |  0 |  0 |  0 |  0 |
+| Angelo Aljimi |  0 |  0 |  0 |  0 |  1 |
+| Emmanuel Chukwudalu Aneke |  0 |  0 |  0 |  0 |  2 |
+| Saleh Adjeoud |  0 |  0 |  0 |  0 |  0 |
+| Viktor Mihajlovic |  0 |  0 |  0 |  0 |  1 |
+| Edvin Hafizovic |  0 |  0 |  0 |  0 |  2 |
 
-### Högsbo Basket Röd - Kortedala Basket, svart
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-
-### Kortedala Basket, svart - Ale Basket
+### Bosna IF - Kungsbacka Basketklubb Blå
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Hjalmar Spångberg | 14 |  5 |  0 |  4 |  3 |
-| Vigan Raci | 14 |  6 |  0 |  2 |  1 |
-| Melker Ciba | 11 |  5 |  0 |  1 |  4 |
-| Evangelos Kochliaridis |  7 |  2 |  0 |  3 |  1 |
-| Alvin Wendel |  4 |  2 |  0 |  0 |  2 |
-| Theodor Markey |  3 |  1 |  0 |  1 |  1 |
-| Noah Colley Otomewo |  0 |  0 |  0 |  0 |  0 |
-| Wilmer Myhr |  0 |  0 |  0 |  0 |  0 |
+| Beslagic Nail | 19 |  9 |  0 |  1 |  3 |
+| Adis Hrustanovic | 12 |  6 |  0 |  0 |  2 |
+| Edin Pejmanovic |  9 |  4 |  0 |  1 |  1 |
+| Edvin Hafizovic |  8 |  4 |  0 |  0 |  1 |
+| Melvin Zekic |  6 |  3 |  0 |  0 |  5 |
+| Emmanuel Chukwudalu Aneke |  2 |  1 |  0 |  0 |  2 |
+| Angelo Aljimi |  0 |  0 |  0 |  0 |  4 |
+| Sergej Pusonjic |  0 |  0 |  0 |  0 |  0 |
+| Saleh Adjeoud |  0 |  0 |  0 |  0 |  0 |
+| Elvin Dzaferagic |  0 |  0 |  0 |  0 |  0 |
+| Viktor Mihajlovic |  0 |  0 |  0 |  0 |  0 |
 
-### Kungsbacka Basketklubb - Kortedala Basket, svart
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Hjalmar Spångberg | 19 |  6 |  1 |  4 |  1 |
-| Melker Ciba | 11 |  3 |  1 |  2 |  3 |
-| Evangelos Kochliaridis | 10 |  2 |  1 |  3 |  0 |
-| Alvin Wendel |  8 |  4 |  0 |  0 |  1 |
-| Wilmer Myhr |  8 |  3 |  0 |  2 |  1 |
-| Vigan Raci |  6 |  3 |  0 |  0 |  4 |
-| Noah Colley Otomewo |  5 |  2 |  0 |  1 |  2 |
-| Emmanuel Okpamen Friberg |  2 |  1 |  0 |  0 |  0 |
-| Theodor Markey |  0 |  0 |  0 |  0 |  3 |
-
-### Kortedala Basket, svart - Lerum Basket P11 Svart
+### Kvarnby Basket Grön - Bosna IF
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Hjalmar Spångberg | 16 |  8 |  0 |  0 |  2 |
-| Vigan Raci | 14 |  7 |  0 |  0 |  3 |
-| Wilmer Myhr |  8 |  4 |  0 |  0 |  1 |
-| Evangelos Kochliaridis |  7 |  2 |  1 |  0 |  3 |
-| Noah Colley Otomewo |  7 |  1 |  1 |  2 |  3 |
-| Melker Ciba |  5 |  1 |  1 |  0 |  4 |
-| Theodor Markey |  5 |  2 |  0 |  1 |  1 |
+| Edin Pejmanovic | 23 | 11 |  0 |  1 |  3 |
+| Beslagic Nail | 19 |  9 |  0 |  1 |  1 |
+| Emmanuel Chukwudalu Aneke |  4 |  2 |  0 |  0 |  1 |
+| Edvin Hafizovic |  4 |  2 |  0 |  0 |  2 |
+| Adis Hrustanovic |  3 |  1 |  0 |  1 |  2 |
+| Saleh Adjeoud |  2 |  1 |  0 |  0 |  0 |
+| Angelo Aljimi |  0 |  0 |  0 |  0 |  2 |
+| Melvin Zekic |  0 |  0 |  0 |  0 |  2 |
+| Viktor Mihajlovic |  0 |  0 |  0 |  0 |  0 |
 
-### Borås Basket - Kortedala Basket, svart
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Hjalmar Spångberg | 30 | 12 |  1 |  3 |  2 |
-| Melker Ciba | 16 |  4 |  1 |  5 |  4 |
-| Vigan Raci | 11 |  4 |  1 |  0 |  0 |
-| Noah Colley Otomewo |  9 |  3 |  0 |  3 |  2 |
-| Wilmer Myhr |  8 |  4 |  0 |  0 |  1 |
-| Evangelos Kochliaridis |  7 |  1 |  1 |  2 |  4 |
-| Theodor Markey |  0 |  0 |  0 |  0 |  5 |
-
-### Kvarnby Basket Grön - Kortedala Basket, svart
+### Bosna IF - Lerum Basket P11 Svart
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Vigan Raci | 14 |  7 |  0 |  0 |  1 |
-| Hjalmar Spångberg | 13 |  6 |  0 |  1 |  2 |
-| Evangelos Kochliaridis |  9 |  1 |  2 |  1 |  2 |
-| Noah Colley Otomewo |  6 |  3 |  0 |  0 |  2 |
-| Emmanuel Okpamen Friberg |  4 |  2 |  0 |  0 |  1 |
-| Alvin Wendel |  4 |  2 |  0 |  0 |  2 |
-| Wilmer Myhr |  2 |  1 |  0 |  0 |  2 |
+| Edin Pejmanovic | 24 |  9 |  1 |  3 |  4 |
+| Beslagic Nail |  6 |  2 |  0 |  2 |  5 |
+| Adis Hrustanovic |  6 |  3 |  0 |  0 |  0 |
+| Melvin Zekic |  4 |  2 |  0 |  0 |  0 |
+| Emmanuel Chukwudalu Aneke |  2 |  1 |  0 |  0 |  3 |
+| Viktor Mihajlovic |  2 |  1 |  0 |  0 |  1 |
+| Edvin Hafizovic |  2 |  1 |  0 |  0 |  0 |
+| Angelo Aljimi |  0 |  0 |  0 |  0 |  1 |
+| Saleh Adjeoud |  0 |  0 |  0 |  0 |  0 |
+| Elvin Dzaferagic |  0 |  0 |  0 |  0 |  2 |
 
-### Kortedala Basket, svart - Eastside Falcons
+### Borås Basket - Bosna IF
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Hjalmar Spångberg | 21 |  8 |  0 |  5 |  2 |
-| Vigan Raci | 18 |  7 |  1 |  1 |  1 |
-| Alvin Wendel | 10 |  4 |  0 |  2 |  1 |
-| Wilmer Myhr |  9 |  4 |  0 |  1 |  5 |
-| Melker Ciba |  6 |  0 |  1 |  3 |  4 |
-| Evangelos Kochliaridis |  5 |  1 |  1 |  0 |  5 |
-| Theodor Markey |  4 |  2 |  0 |  0 |  5 |
-| Noah Colley Otomewo |  0 |  0 |  0 |  0 |  2 |
-| Emmanuel Okpamen Friberg |  0 |  0 |  0 |  0 |  0 |
+| Edin Pejmanovic | 30 | 14 |  0 |  2 |  2 |
+| Adis Hrustanovic | 14 |  4 |  2 |  0 |  3 |
+| Beslagic Nail | 12 |  4 |  0 |  4 |  2 |
+| Sergej Pusonjic | 10 |  5 |  0 |  0 |  0 |
+| Emmanuel Chukwudalu Aneke |  4 |  2 |  0 |  0 |  4 |
+| Angelo Aljimi |  2 |  1 |  0 |  0 |  0 |
+| Elvin Dzaferagic |  2 |  1 |  0 |  0 |  1 |
+| Melvin Zekic |  0 |  0 |  0 |  0 |  2 |
+| Saleh Adjeoud |  0 |  0 |  0 |  0 |  0 |
+| Viktor Mihajlovic |  0 |  0 |  0 |  0 |  1 |
+| Edvin Hafizovic |  0 |  0 |  0 |  0 |  0 |
+
+### Bosna IF - Ale Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Edin Pejmanovic | 27 |  9 |  0 |  9 |  4 |
+| Beslagic Nail | 11 |  5 |  0 |  1 |  1 |
+| Emmanuel Chukwudalu Aneke |  7 |  2 |  1 |  0 |  2 |
+| Melvin Zekic |  4 |  2 |  0 |  0 |  4 |
+| Edvin Hafizovic |  2 |  1 |  0 |  0 |  5 |
+| Angelo Aljimi |  0 |  0 |  0 |  0 |  0 |
+| Viktor Mihajlovic |  0 |  0 |  0 |  0 |  1 |
+| Adis Hrustanovic |  0 |  0 |  0 |  0 |  2 |
+
+### Bosna IF - Eastside Falcons
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Edin Pejmanovic | 19 |  7 |  0 |  5 |  1 |
+| Emmanuel Chukwudalu Aneke |  9 |  3 |  1 |  0 |  2 |
+| Melvin Zekic |  7 |  3 |  0 |  1 |  1 |
+| Beslagic Nail |  6 |  2 |  0 |  2 |  2 |
+| Edvin Hafizovic |  4 |  2 |  0 |  0 |  1 |
+| Elvin Dzaferagic |  2 |  1 |  0 |  0 |  2 |
+| Adis Hrustanovic |  2 |  0 |  0 |  2 |  5 |
+| Angelo Aljimi |  0 |  0 |  0 |  0 |  0 |
+| Adem Beslagic |  0 |  0 |  0 |  0 |  0 |
+| Saleh Adjeoud |  0 |  0 |  0 |  0 |  0 |
+
+### Högsbo Basket Röd - Bosna IF
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Edin Pejmanovic | 22 |  9 |  0 |  4 |  2 |
+| Beslagic Nail |  6 |  3 |  0 |  0 |  2 |
+| Edvin Hafizovic |  5 |  2 |  0 |  1 |  2 |
+| Elvin Dzaferagic |  4 |  2 |  0 |  0 |  0 |
+| Adis Hrustanovic |  2 |  1 |  0 |  0 |  2 |
+| Angelo Aljimi |  0 |  0 |  0 |  0 |  1 |
+| Melvin Zekic |  0 |  0 |  0 |  0 |  0 |
+| Sergej Pusonjic |  0 |  0 |  0 |  0 |  5 |
+| Emmanuel Chukwudalu Aneke |  0 |  0 |  0 |  0 |  1 |
+| Saleh Adjeoud |  0 |  0 |  0 |  0 |  0 |
+| Viktor Mihajlovic |  0 |  0 |  0 |  0 |  0 |
 

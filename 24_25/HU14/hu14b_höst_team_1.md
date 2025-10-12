@@ -128,7 +128,7 @@ Players (sorted by points)
 | Alvin Wendel |  4 |  2 |  0 |  0 |  5 |
 | Vigan Raci |  3 |  1 |  0 |  1 |  2 |
 
-### Crossover Basketball - Kortedala Basket, svart
+### Crossover Basketball Academy - Kortedala Basket, svart
 
 Players (sorted by points)
 

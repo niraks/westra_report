@@ -9,8 +9,8 @@
 | [Lerum Basket P10 Svart](hu15b_höst_team_3.md) | 6 | 79.67 | 30.50 | 4.00 | 6.67 | 13.17 |
 | [Bosna IF](hu15b_höst_team_4.md) | 7 | 76.00 | 27.86 | 5.29 | 4.43 | 18.43 |
 | [Trollhättans Basket Svart](hu15b_höst_team_5.md) | 7 | 75.86 | 33.71 | 0.43 | 7.14 | 11.14 |
-| [Ale Basket](hu15b_höst_team_6.md) | 7 | 72.71 | 23.86 | 5.29 | 9.14 | 15.86 |
-| [Varbergs Basket](hu15b_höst_team_7.md) | 7 | 72.71 | 26.86 | 4.00 | 7.00 | 11.00 |
+| [Varbergs Basket](hu15b_höst_team_6.md) | 7 | 72.71 | 26.86 | 4.00 | 7.00 | 11.00 |
+| [Ale Basket](hu15b_höst_team_7.md) | 7 | 72.71 | 23.86 | 5.29 | 9.14 | 15.86 |
 | [Högsbo Basket vit](hu15b_höst_team_8.md) | 7 | 72.29 | 29.57 | 2.57 | 5.43 | 17.57 |
 
 ## Season leaders
@@ -42,8 +42,8 @@
 | 6 | Alexandru Bejat | 8.50 |
 | 7 | Kenan Bukvic | 8.25 |
 | 8 | Ramtin Molaeibarogh | 8.00 |
-| 9 | Benjamin Sadzak | 7.40 |
 | 9 | Leo Wall | 7.40 |
+| 9 | Benjamin Sadzak | 7.40 |
 
 ### 3P made per game
 

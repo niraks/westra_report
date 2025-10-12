@@ -91,7 +91,7 @@ Players (sorted by points)
 | Sergej Pusonjic |  0 |  0 |  0 |  0 |  4 |
 | Saleh Adjeoud |  0 |  0 |  0 |  0 |  0 |
 
-### Bosna IF - Crossover Basketball
+### Bosna IF - Crossover Basketball Academy Club
 
 Players (sorted by points)
 

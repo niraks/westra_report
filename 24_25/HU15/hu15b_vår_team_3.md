@@ -57,7 +57,7 @@ Players (sorted by points)
 | Charlie Sandstedt |  0 |  0 |  0 |  0 |  0 |
 | Nathan Abarca Fung |  0 |  0 |  0 |  0 |  0 |
 
-### Hammarkullens - WestCoast WildCats
+### Hammarkullens Basketklubb HKB - WestCoast WildCats
 
 Players (sorted by points)
 
@@ -74,7 +74,7 @@ Players (sorted by points)
 | Shael Benavides Knight |  4 |  2 |  0 |  0 |  0 |
 | Dante Radniecki |  2 |  1 |  0 |  0 |  1 |
 
-### WestCoast WildCats - Stenungsunds Basketklubb
+### WestCoast WildCats - Stenungsunds Basketklubb Blå
 
 Players (sorted by points)
 
@@ -139,7 +139,7 @@ Players (sorted by points)
 | Dante Radniecki |  0 |  0 |  0 |  0 |  0 |
 | Shael Benavides Knight |  0 |  0 |  0 |  0 |  0 |
 
-### WestCoast WildCats - Hammarkullens Basketklubb
+### WestCoast WildCats - Hammarkullens Basketklubb HKB
 
 Players (sorted by points)
 
@@ -173,7 +173,7 @@ Players (sorted by points)
 | Charlie Sandstedt |  2 |  1 |  0 |  0 |  1 |
 | Shael Benavides Knight |  0 |  0 |  0 |  0 |  0 |
 
-### Stenungsunds Basketklubb - WestCoast WildCats
+### Stenungsunds Basketklubb Blå - WestCoast WildCats
 
 Players (sorted by points)
 

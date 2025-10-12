@@ -74,7 +74,7 @@ Players (sorted by points)
 | Rony Aljojo |  0 |  0 |  0 |  0 |  1 |
 | Yahia Alabd |  0 |  0 |  0 |  0 |  0 |
 
-### Basketklubben Marbo - Hammarkullens Basketklubb
+### Basketklubben Marbo - Hammarkullens Basketklubb HKB
 
 Players (sorted by points)
 
@@ -90,7 +90,7 @@ Players (sorted by points)
 | Oskar Backström |  2 |  1 |  0 |  0 |  0 |
 | Yahia Alabd |  2 |  1 |  0 |  0 |  1 |
 
-### Stenungsunds Basketklubb - Basketklubben Marbo
+### Stenungsunds Basketklubb Blå - Basketklubben Marbo
 
 Players (sorted by points)
 
@@ -166,7 +166,7 @@ Players (sorted by points)
 | Oskar Backström |  0 |  0 |  0 |  0 |  3 |
 | Anton Marknäs |  0 |  0 |  0 |  0 |  2 |
 
-### Hammarkullens - Basketklubben Marbo
+### Hammarkullens Basketklubb HKB - Basketklubben Marbo
 
 Players (sorted by points)
 
@@ -181,7 +181,7 @@ Players (sorted by points)
 | Anton Marknäs |  2 |  1 |  0 |  0 |  2 |
 | Oskar Backström |  0 |  0 |  0 |  0 |  4 |
 
-### Basketklubben Marbo - Stenungsunds Basketklubb
+### Basketklubben Marbo - Stenungsunds Basketklubb Blå
 
 Players (sorted by points)
 

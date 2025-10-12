@@ -126,7 +126,7 @@ Players (sorted by points)
 | Sakarias Hänninen |  0 |  0 |  0 |  0 |  0 |
 | Wiggo Edvinsson |  0 |  0 |  0 |  0 |  0 |
 
-### Varbergs Basket - Crossover Basketball
+### Varbergs Basket - Crossover Basketball Academy Club
 
 Players (sorted by points)
 

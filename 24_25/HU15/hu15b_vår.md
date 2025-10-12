@@ -9,9 +9,8 @@
 | [WestCoast WildCats](hu15b_vår_team_3.md) | 12 | 75.17 | 31.08 | 2.42 | 5.75 | 10.67 |
 | [Kvarnby Basket Grön](hu15b_vår_team_4.md) | 12 | 73.00 | 28.08 | 4.50 | 3.33 | 11.33 |
 | [Trollhättans Basket Svart](hu15b_vår_team_5.md) | 12 | 70.67 | 28.75 | 2.17 | 6.67 | 9.58 |
-| [Stenungsunds Basketklubb](hu15b_vår_team_6.md) | 12 | 59.42 | 19.67 | 5.33 | 4.08 | 11.08 |
-| [Hammarkullens](hu15b_vår_team_7.md) | 6 | 45.83 | 15.33 | 3.50 | 4.67 | 7.67 |
-| [Hammarkullens Basketklubb](hu15b_vår_team_8.md) | 6 | 39.33 | 13.17 | 3.50 | 2.50 | 7.00 |
+| [Stenungsunds Basketklubb Blå](hu15b_vår_team_6.md) | 12 | 59.42 | 19.67 | 5.33 | 4.08 | 11.08 |
+| [Hammarkullens Basketklubb HKB](hu15b_vår_team_7.md) | 12 | 42.58 | 14.25 | 3.50 | 3.58 | 7.33 |
 
 ## Season leaders
 
@@ -52,10 +51,10 @@
 | 1 | Gustaf Högenberg | 3.12 |
 | 2 | Ramadan Omeirat | 2.00 |
 | 3 | Elias Ahlin Löfgren | 1.80 |
-| 4 | Azad Akgun | 1.75 |
-| 5 | Vinton Gertmo | 1.64 |
-| 6 | Kelvin Hansson Sjöö | 1.50 |
-| 6 | Viggo Fältjäger | 1.50 |
+| 4 | Vinton Gertmo | 1.64 |
+| 5 | Viggo Fältjäger | 1.50 |
+| 5 | Kelvin Hansson Sjöö | 1.50 |
+| 7 | Azad Akgun | 1.44 |
 | 8 | Danilo Pantic | 1.36 |
 | 9 | Julian Friis | 1.33 |
 | 10 | Jonatan Birath | 1.29 |
@@ -71,8 +70,7 @@
 | 5 | Vinton Gertmo | 2.18 |
 | 6 | Lucas Jatko | 2.00 |
 | 7 | Albin Zenkic | 1.80 |
-| 8 | Adilon Salihu | 1.75 |
-| 9 | Danilo Pantic | 1.73 |
-| 10 | Ramadan Omeirat | 1.50 |
-| 10 | Leo Wall | 1.50 |
+| 8 | Danilo Pantic | 1.73 |
+| 9 | Ramadan Omeirat | 1.50 |
+| 9 | Leo Wall | 1.50 |
 

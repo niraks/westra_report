@@ -158,7 +158,7 @@ Players (sorted by points)
 | William Nordqvist |  4 |  2 |  0 |  0 |  4 |
 | Jacob Faraj |  0 |  0 |  0 |  0 |  0 |
 
-### Högsbo Basket Vit - Crossover Basketball
+### Högsbo Basket Vit - Crossover Basketball Academy Club
 
 Players (sorted by points)
 

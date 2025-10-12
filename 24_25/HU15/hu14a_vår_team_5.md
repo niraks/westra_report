@@ -1,123 +1,136 @@
-# Statistics for Kvarnby Basket Grön
+# Statistics for Lerum Basket P11 Svart
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kvarnby Basket Grön | 8 | 71.50 | 25.88 | 3.75 | 8.50 | 10.50 |
+| Lerum Basket P11 Svart | 8 | 69.12 | 24.50 | 3.25 | 10.38 | 11.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Alexander Blomgren | 5 | 17.60 | 5.20 | 1.60 | 2.40 | 2.00 |
-| Sam Limberg | 7 | 15.43 | 6.86 | 0.00 | 1.71 | 2.86 |
-| Viggo Fältjäger | 5 | 15.20 | 4.80 | 1.40 | 1.40 | 0.60 |
-| Theodor Nankler | 6 | 14.50 | 5.33 | 0.67 | 1.83 | 1.00 |
-| Elvin Östenson Grimfeldt | 6 | 9.33 | 4.33 | 0.00 | 0.67 | 1.33 |
-| Sebastian Nilsson | 7 | 6.57 | 2.29 | 0.57 | 0.29 | 0.57 |
-| Liam Kim Börjesson | 4 | 5.75 | 2.25 | 0.00 | 1.25 | 0.50 |
-| Leo Hashemi | 6 | 5.33 | 1.17 | 0.83 | 0.50 | 1.33 |
-| Ville Ek | 1 | 5.00 | 2.00 | 0.00 | 1.00 | 0.00 |
-| Noel Dalgärde | 2 | 4.00 | 2.00 | 0.00 | 0.00 | 0.00 |
-| Amir Vakili | 2 | 4.00 | 1.00 | 0.00 | 2.00 | 3.00 |
-| Michael Mei | 6 | 2.33 | 0.67 | 0.33 | 0.00 | 2.17 |
-| Sixten Offerle | 4 | 2.25 | 0.75 | 0.00 | 0.75 | 0.00 |
-| Einar Fors | 5 | 2.00 | 0.60 | 0.00 | 0.80 | 0.60 |
-| Gustav Setterberg | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
+| Valter Larsson | 8 | 25.38 | 8.38 | 1.00 | 5.62 | 3.00 |
+| Filip Lundberg | 8 | 14.38 | 5.62 | 0.50 | 1.62 | 1.12 |
+| Jakov Markovic | 4 | 12.25 | 4.75 | 0.25 | 2.00 | 1.75 |
+| Charlie Mattsson Meijer | 3 | 10.33 | 2.33 | 1.67 | 0.67 | 0.67 |
+| Washington Adanihomwan | 8 | 8.12 | 3.62 | 0.25 | 0.12 | 2.12 |
+| Nikolas Magnusson Giannourakis | 8 | 4.38 | 1.62 | 0.12 | 0.75 | 1.75 |
+| Victor Björkman | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 1.00 |
+| Karl Brännare | 4 | 3.00 | 0.50 | 0.25 | 1.25 | 0.50 |
+| Mansour Iyoun Soud | 5 | 2.00 | 0.80 | 0.00 | 0.40 | 1.00 |
+| Alvin Bolteus | 6 | 2.00 | 0.50 | 0.33 | 0.00 | 0.33 |
+| Rajan Risa Bajramovic | 6 | 1.83 | 0.83 | 0.00 | 0.17 | 0.67 |
+| Ebbe Crona-Sahlberg | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 1.00 |
+| Axel Steffansson Wickelgren | 3 | 1.00 | 0.00 | 0.33 | 0.00 | 1.00 |
 
 ## Games
 
-### Borås Basket - Kvarnby Basket Grön
+### Lerum Basket P11 Svart - Ale Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
+| Valter Larsson | 29 | 11 |  1 |  4 |  2 |
+| Washington Adanihomwan | 10 |  5 |  0 |  0 |  2 |
+| Filip Lundberg |  8 |  3 |  0 |  2 |  0 |
+| Karl Brännare |  4 |  0 |  0 |  4 |  1 |
+| Nikolas Magnusson Giannourakis |  4 |  2 |  0 |  0 |  2 |
+| Rajan Risa Bajramovic |  0 |  0 |  0 |  0 |  0 |
+| Mansour Iyoun Soud |  0 |  0 |  0 |  0 |  0 |
+| Axel Steffansson Wickelgren |  0 |  0 |  0 |  0 |  0 |
+| Alvin Bolteus |  0 |  0 |  0 |  0 |  1 |
 
-### Kvarnby Basket Grön - Bosna IF
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Viggo Fältjäger | 25 |  8 |  2 |  3 |  0 |
-| Sam Limberg | 20 |  8 |  0 |  4 |  4 |
-| Theodor Nankler | 15 |  4 |  1 |  4 |  1 |
-| Leo Hashemi |  7 |  2 |  1 |  0 |  3 |
-| Noel Dalgärde |  6 |  3 |  0 |  0 |  0 |
-| Ville Ek |  5 |  2 |  0 |  1 |  0 |
-| Sebastian Nilsson |  4 |  2 |  0 |  0 |  0 |
-| Einar Fors |  3 |  1 |  0 |  1 |  0 |
-| Sixten Offerle |  3 |  0 |  0 |  3 |  0 |
-| Michael Mei |  2 |  1 |  0 |  0 |  3 |
-| Gustav Setterberg |  2 |  1 |  0 |  0 |  1 |
-
-### Kvarnby Basket Grön - Eastside Falcons
+### Lerum Basket P11 Svart - Borås Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Theodor Nankler | 24 |  7 |  2 |  4 |  0 |
-| Liam Kim Börjesson | 13 |  5 |  0 |  3 |  1 |
-| Sam Limberg | 10 |  5 |  0 |  0 |  5 |
-| Elvin Östenson Grimfeldt |  7 |  2 |  0 |  3 |  2 |
-| Leo Hashemi |  6 |  0 |  2 |  0 |  1 |
-| Amir Vakili |  5 |  1 |  0 |  3 |  3 |
-| Sebastian Nilsson |  3 |  1 |  0 |  1 |  1 |
-| Einar Fors |  2 |  0 |  0 |  2 |  1 |
-| Sixten Offerle |  2 |  1 |  0 |  0 |  0 |
+| Valter Larsson | 26 |  9 |  0 |  8 |  5 |
+| Filip Lundberg | 25 | 10 |  0 |  5 |  3 |
+| Washington Adanihomwan | 20 |  8 |  1 |  1 |  3 |
+| Mansour Iyoun Soud |  5 |  2 |  0 |  1 |  2 |
+| Nikolas Magnusson Giannourakis |  4 |  2 |  0 |  0 |  2 |
+| Rajan Risa Bajramovic |  2 |  1 |  0 |  0 |  3 |
+| Karl Brännare |  2 |  1 |  0 |  0 |  1 |
+| Alvin Bolteus |  0 |  0 |  0 |  0 |  0 |
 
-### Ale Basket - Kvarnby Basket Grön
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Alexander Blomgren | 21 |  3 |  3 |  6 |  4 |
-| Viggo Fältjäger | 16 |  2 |  3 |  3 |  3 |
-| Elvin Östenson Grimfeldt | 15 |  7 |  0 |  1 |  4 |
-| Sam Limberg | 11 |  4 |  0 |  3 |  6 |
-| Sebastian Nilsson |  6 |  0 |  2 |  0 |  1 |
-| Theodor Nankler |  4 |  2 |  0 |  0 |  1 |
-| Noel Dalgärde |  2 |  1 |  0 |  0 |  0 |
-| Liam Kim Börjesson |  1 |  0 |  0 |  1 |  0 |
-| Michael Mei |  0 |  0 |  0 |  0 |  3 |
-| Leo Hashemi |  0 |  0 |  0 |  0 |  1 |
-
-### Kvarnby Basket Grön - Kungsbacka Basketklubb Blå
+### Bosna IF - Lerum Basket P11 Svart
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Theodor Nankler | 17 |  6 |  1 |  2 |  1 |
-| Elvin Östenson Grimfeldt | 14 |  7 |  0 |  0 |  2 |
-| Sam Limberg | 13 |  6 |  0 |  1 |  1 |
-| Alexander Blomgren | 12 |  5 |  0 |  2 |  1 |
-| Viggo Fältjäger | 10 |  5 |  0 |  0 |  0 |
-| Sebastian Nilsson |  5 |  2 |  0 |  1 |  1 |
-| Michael Mei |  5 |  1 |  1 |  0 |  2 |
-| Leo Hashemi |  5 |  1 |  1 |  0 |  0 |
-| Liam Kim Börjesson |  4 |  2 |  0 |  0 |  0 |
-| Sixten Offerle |  4 |  2 |  0 |  0 |  0 |
-| Einar Fors |  0 |  0 |  0 |  0 |  1 |
+| Valter Larsson | 37 | 14 |  1 |  6 |  4 |
+| Jakov Markovic | 18 |  8 |  0 |  2 |  3 |
+| Filip Lundberg | 14 |  5 |  1 |  1 |  1 |
+| Washington Adanihomwan | 10 |  5 |  0 |  0 |  3 |
+| Nikolas Magnusson Giannourakis |  6 |  3 |  0 |  0 |  4 |
+| Alvin Bolteus |  5 |  1 |  1 |  0 |  0 |
+| Mansour Iyoun Soud |  2 |  1 |  0 |  0 |  1 |
+| Ebbe Crona-Sahlberg |  0 |  0 |  0 |  0 |  1 |
 
-### Högsbo Basket Röd - Kvarnby Basket Grön
+### Eastside Falcons - Lerum Basket P11 Svart
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Sam Limberg | 23 | 11 |  0 |  1 |  0 |
-| Alexander Blomgren | 15 |  5 |  1 |  2 |  3 |
-| Sebastian Nilsson |  8 |  1 |  2 |  0 |  1 |
-| Elvin Östenson Grimfeldt |  6 |  3 |  0 |  0 |  0 |
-| Viggo Fältjäger |  5 |  1 |  1 |  0 |  0 |
-| Einar Fors |  1 |  0 |  0 |  1 |  0 |
-| Michael Mei |  0 |  0 |  0 |  0 |  2 |
-| Sixten Offerle |  0 |  0 |  0 |  0 |  0 |
+| Filip Lundberg | 23 | 10 |  1 |  0 |  0 |
+| Jakov Markovic | 13 |  4 |  1 |  2 |  0 |
+| Valter Larsson | 11 |  2 |  1 |  4 |  4 |
+| Nikolas Magnusson Giannourakis |  9 |  2 |  1 |  2 |  2 |
+| Alvin Bolteus |  7 |  2 |  1 |  0 |  0 |
+| Washington Adanihomwan |  4 |  2 |  0 |  0 |  1 |
+| Mansour Iyoun Soud |  3 |  1 |  0 |  1 |  2 |
+| Rajan Risa Bajramovic |  0 |  0 |  0 |  0 |  0 |
+
+### Lerum Basket P11 Svart - Högsbo Basket Röd
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Valter Larsson | 15 |  3 |  0 |  9 |  4 |
+| Filip Lundberg | 10 |  4 |  0 |  2 |  2 |
+| Washington Adanihomwan | 10 |  5 |  0 |  0 |  2 |
+| Nikolas Magnusson Giannourakis |  8 |  3 |  0 |  2 |  1 |
+| Karl Brännare |  6 |  1 |  1 |  1 |  0 |
+| Rajan Risa Bajramovic |  4 |  2 |  0 |  0 |  0 |
+| Axel Steffansson Wickelgren |  3 |  0 |  1 |  0 |  1 |
+| Jakov Markovic |  3 |  1 |  0 |  1 |  2 |
+| Alvin Bolteus |  0 |  0 |  0 |  0 |  0 |
+
+### Kortedala Basket, svart - Lerum Basket P11 Svart
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Valter Larsson | 41 | 12 |  4 |  5 |  4 |
+| Charlie Mattsson Meijer | 16 |  4 |  2 |  2 |  1 |
+| Filip Lundberg |  8 |  4 |  0 |  0 |  0 |
+| Washington Adanihomwan |  4 |  2 |  0 |  0 |  3 |
+| Rajan Risa Bajramovic |  3 |  1 |  0 |  1 |  1 |
+| Ebbe Crona-Sahlberg |  3 |  0 |  1 |  0 |  1 |
+| Nikolas Magnusson Giannourakis |  1 |  0 |  0 |  1 |  1 |
+
+### Kungsbacka Basketklubb Blå - Lerum Basket P11 Svart
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Valter Larsson | 17 |  6 |  1 |  2 |  1 |
+| Filip Lundberg | 17 |  7 |  0 |  3 |  2 |
+| Jakov Markovic | 15 |  6 |  0 |  3 |  2 |
+| Charlie Mattsson Meijer |  6 |  0 |  2 |  0 |  1 |
+| Washington Adanihomwan |  4 |  2 |  0 |  0 |  1 |
+| Nikolas Magnusson Giannourakis |  3 |  1 |  0 |  1 |  1 |
+| Rajan Risa Bajramovic |  2 |  1 |  0 |  0 |  0 |
+| Karl Brännare |  0 |  0 |  0 |  0 |  0 |
 
 ### Lerum Basket P11 Svart - Kvarnby Basket Grön
 
@@ -125,29 +138,13 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Alexander Blomgren | 17 |  5 |  2 |  1 |  1 |
-| Sam Limberg | 16 |  8 |  0 |  0 |  1 |
-| Theodor Nankler | 15 |  7 |  0 |  1 |  2 |
-| Elvin Östenson Grimfeldt | 10 |  5 |  0 |  0 |  0 |
-| Leo Hashemi |  8 |  4 |  0 |  0 |  3 |
-| Sebastian Nilsson |  6 |  3 |  0 |  0 |  0 |
-| Liam Kim Börjesson |  5 |  2 |  0 |  1 |  1 |
-| Einar Fors |  4 |  2 |  0 |  0 |  1 |
-| Amir Vakili |  3 |  1 |  0 |  1 |  3 |
-| Michael Mei |  0 |  0 |  0 |  0 |  1 |
-
-### Kvarnby Basket Grön - Kortedala Basket, svart
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Alexander Blomgren | 23 |  8 |  2 |  1 |  1 |
-| Viggo Fältjäger | 20 |  8 |  1 |  1 |  0 |
-| Sam Limberg | 15 |  6 |  0 |  3 |  3 |
-| Sebastian Nilsson | 14 |  7 |  0 |  0 |  0 |
-| Theodor Nankler | 12 |  6 |  0 |  0 |  1 |
-| Michael Mei |  7 |  2 |  1 |  0 |  2 |
-| Leo Hashemi |  6 |  0 |  1 |  3 |  0 |
-| Elvin Östenson Grimfeldt |  4 |  2 |  0 |  0 |  0 |
+| Valter Larsson | 27 | 10 |  0 |  7 |  0 |
+| Filip Lundberg | 10 |  2 |  2 |  0 |  1 |
+| Charlie Mattsson Meijer |  9 |  3 |  1 |  0 |  0 |
+| Victor Björkman |  4 |  2 |  0 |  0 |  1 |
+| Washington Adanihomwan |  3 |  0 |  1 |  0 |  2 |
+| Mansour Iyoun Soud |  0 |  0 |  0 |  0 |  0 |
+| Axel Steffansson Wickelgren |  0 |  0 |  0 |  0 |  2 |
+| Nikolas Magnusson Giannourakis |  0 |  0 |  0 |  0 |  1 |
+| Alvin Bolteus |  0 |  0 |  0 |  0 |  1 |
 

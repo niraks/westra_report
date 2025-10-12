@@ -100,7 +100,7 @@ Players (sorted by points)
 | Oliver Rosenlund |  4 |  2 |  0 |  0 |  2 |
 | Linus Tangberg |  0 |  0 |  0 |  0 |  0 |
 
-### Hammarkullens - Kvarnby Basket Grön
+### Hammarkullens Basketklubb HKB - Kvarnby Basket Grön
 
 Players (sorted by points)
 
@@ -114,7 +114,7 @@ Players (sorted by points)
 | Albert Fagerberg Juteryd | 10 |  5 |  0 |  0 |  1 |
 | Eric Rosén |  2 |  1 |  0 |  0 |  1 |
 
-### Kvarnby Basket Grön - Stenungsunds Basketklubb
+### Kvarnby Basket Grön - Stenungsunds Basketklubb Blå
 
 Players (sorted by points)
 
@@ -196,7 +196,7 @@ Players (sorted by points)
 | Linus Tangberg |  0 |  0 |  0 |  0 |  0 |
 | Sid Klevgård |  0 |  0 |  0 |  0 |  3 |
 
-### Kvarnby Basket Grön - Hammarkullens Basketklubb
+### Kvarnby Basket Grön - Hammarkullens Basketklubb HKB
 
 Players (sorted by points)
 
@@ -210,7 +210,7 @@ Players (sorted by points)
 | Måns Bindgård |  4 |  2 |  0 |  0 |  1 |
 | Fabian Sjöberg |  3 |  0 |  1 |  0 |  0 |
 
-### Stenungsunds Basketklubb - Kvarnby Basket Grön
+### Stenungsunds Basketklubb Blå - Kvarnby Basket Grön
 
 Players (sorted by points)
 

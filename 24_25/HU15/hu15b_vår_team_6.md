@@ -1,10 +1,10 @@
-# Statistics for Stenungsunds Basketklubb
+# Statistics for Stenungsunds Basketklubb Blå
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Stenungsunds Basketklubb | 12 | 59.42 | 19.67 | 5.33 | 4.08 | 11.08 |
+| Stenungsunds Basketklubb Blå | 12 | 59.42 | 19.67 | 5.33 | 4.08 | 11.08 |
 
 ## Players summary
 
@@ -25,7 +25,7 @@
 
 ## Games
 
-### Stenungsunds Basketklubb - Hammarkullens Basketklubb
+### Stenungsunds Basketklubb Blå - Hammarkullens Basketklubb HKB
 
 Players (sorted by points)
 
@@ -40,7 +40,7 @@ Players (sorted by points)
 | Simon Tegborg Deij |  3 |  0 |  1 |  0 |  4 |
 | Julius Eilersson |  0 |  0 |  0 |  0 |  1 |
 
-### Trollhättans Basket Svart - Stenungsunds Basketklubb
+### Trollhättans Basket Svart - Stenungsunds Basketklubb Blå
 
 Players (sorted by points)
 
@@ -53,7 +53,7 @@ Players (sorted by points)
 | Julius Eilersson |  2 |  1 |  0 |  0 |  3 |
 | Vidar Henriksson |  0 |  0 |  0 |  0 |  0 |
 
-### Stenungsunds Basketklubb - Högsbo Basket vit
+### Stenungsunds Basketklubb Blå - Högsbo Basket vit
 
 Players (sorted by points)
 
@@ -68,7 +68,7 @@ Players (sorted by points)
 | Julius Eilersson |  2 |  1 |  0 |  0 |  2 |
 | Hampus Eriksson Stubbe |  0 |  0 |  0 |  0 |  0 |
 
-### WestCoast WildCats - Stenungsunds Basketklubb
+### WestCoast WildCats - Stenungsunds Basketklubb Blå
 
 Players (sorted by points)
 
@@ -85,7 +85,7 @@ Players (sorted by points)
 | Julius Eilersson |  0 |  0 |  0 |  0 |  1 |
 | Rasmus Jäderberg |  0 |  0 |  0 |  0 |  0 |
 
-### Stenungsunds Basketklubb - Basketklubben Marbo
+### Stenungsunds Basketklubb Blå - Basketklubben Marbo
 
 Players (sorted by points)
 
@@ -102,7 +102,7 @@ Players (sorted by points)
 | Hampus Eriksson Stubbe |  0 |  0 |  0 |  0 |  0 |
 | Edvin Ojde |  0 |  0 |  0 |  0 |  2 |
 
-### Kvarnby Basket Grön - Stenungsunds Basketklubb
+### Kvarnby Basket Grön - Stenungsunds Basketklubb Blå
 
 Players (sorted by points)
 
@@ -116,7 +116,7 @@ Players (sorted by points)
 | Erik Schmidt |  5 |  1 |  1 |  0 |  0 |
 | Sigge Nyrén |  0 |  0 |  0 |  0 |  0 |
 
-### Stenungsunds Basketklubb - Trollhättans Basket Svart
+### Stenungsunds Basketklubb Blå - Trollhättans Basket Svart
 
 Players (sorted by points)
 
@@ -132,7 +132,7 @@ Players (sorted by points)
 | Hampus Eriksson Stubbe |  0 |  0 |  0 |  0 |  0 |
 | Julius Eilersson |  0 |  0 |  0 |  0 |  0 |
 
-### Högsbo Basket vit - Stenungsunds Basketklubb
+### Högsbo Basket vit - Stenungsunds Basketklubb Blå
 
 Players (sorted by points)
 
@@ -148,7 +148,7 @@ Players (sorted by points)
 | Vidar Henriksson |  0 |  0 |  0 |  0 |  1 |
 | Julius Eilersson |  0 |  0 |  0 |  0 |  0 |
 
-### Stenungsunds Basketklubb - WestCoast WildCats
+### Stenungsunds Basketklubb Blå - WestCoast WildCats
 
 Players (sorted by points)
 
@@ -165,7 +165,7 @@ Players (sorted by points)
 | Julius Eilersson |  0 |  0 |  0 |  0 |  1 |
 | Erik Schmidt |  0 |  0 |  0 |  0 |  2 |
 
-### Hammarkullens - Stenungsunds Basketklubb
+### Hammarkullens Basketklubb HKB - Stenungsunds Basketklubb Blå
 
 Players (sorted by points)
 
@@ -181,7 +181,7 @@ Players (sorted by points)
 | Elias Hedenvik |  2 |  1 |  0 |  0 |  3 |
 | Erik Schmidt |  2 |  1 |  0 |  0 |  0 |
 
-### Basketklubben Marbo - Stenungsunds Basketklubb
+### Basketklubben Marbo - Stenungsunds Basketklubb Blå
 
 Players (sorted by points)
 
@@ -194,7 +194,7 @@ Players (sorted by points)
 | Hampus Eriksson Stubbe | 12 |  6 |  0 |  0 |  0 |
 | Vidar Henriksson |  6 |  2 |  0 |  2 |  2 |
 
-### Stenungsunds Basketklubb - Kvarnby Basket Grön
+### Stenungsunds Basketklubb Blå - Kvarnby Basket Grön
 
 Players (sorted by points)
 

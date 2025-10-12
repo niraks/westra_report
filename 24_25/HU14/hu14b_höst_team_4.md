@@ -111,7 +111,7 @@ Players (sorted by points)
 | Ludvig Skarin |  4 |  2 |  0 |  0 |  0 |
 | Houssam Al Kotob |  2 |  1 |  0 |  0 |  0 |
 
-### Crossover Basketball - Basketklubben Marbo
+### Crossover Basketball Academy - Basketklubben Marbo
 
 Players (sorted by points)
 

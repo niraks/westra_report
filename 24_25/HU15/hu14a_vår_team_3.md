@@ -28,7 +28,7 @@
 
 ## Games
 
-### Kungsbacka Basketklubb - Borås Basket
+### Kungsbacka Basketklubb Blå - Borås Basket
 
 Players (sorted by points)
 

@@ -138,7 +138,7 @@ Players (sorted by points)
 | Noah Nilsson |  2 |  1 |  0 |  0 |  5 |
 | Alvin Nylén |  0 |  0 |  0 |  0 |  1 |
 
-### Kungsbacka Basketklubb - Ale Basket
+### Kungsbacka Basketklubb Blå - Ale Basket
 
 Players (sorted by points)
 

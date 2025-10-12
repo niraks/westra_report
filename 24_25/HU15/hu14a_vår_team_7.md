@@ -1,28 +1,28 @@
-# Statistics for Högsbo Basket Röd
+# Statistics for Eastside Falcons
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Högsbo Basket Röd | 8 | 66.62 | 23.75 | 4.50 | 5.62 | 13.50 |
+| Eastside Falcons | 8 | 63.62 | 24.50 | 2.75 | 6.38 | 12.38 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Noah Lansler | 7 | 13.86 | 6.00 | 0.43 | 0.57 | 1.43 |
-| Felix Rezler | 7 | 12.00 | 3.43 | 0.86 | 2.57 | 2.00 |
-| Ward Haddad | 7 | 11.14 | 4.00 | 0.71 | 1.00 | 2.43 |
-| Hugo Thorson | 7 | 10.86 | 3.00 | 1.29 | 1.00 | 1.14 |
-| Liam Dahlén | 6 | 8.67 | 4.17 | 0.00 | 0.33 | 0.83 |
-| Jonathan Silverwaldt | 4 | 8.00 | 2.75 | 0.75 | 0.25 | 0.75 |
-| Oskar Rosén | 6 | 5.00 | 2.00 | 0.17 | 0.50 | 2.00 |
-| Colin Amnéus | 7 | 3.71 | 1.00 | 0.57 | 0.00 | 1.57 |
-| Alvin Hertzman | 5 | 3.40 | 1.40 | 0.20 | 0.00 | 1.00 |
-| Kristijonas Alminas | 4 | 3.00 | 0.75 | 0.50 | 0.00 | 1.25 |
-| Andreas Persson | 4 | 2.75 | 0.75 | 0.25 | 0.50 | 0.00 |
-| Ibrahim Salma | 6 | 2.00 | 0.67 | 0.17 | 0.17 | 2.50 |
-| Loui Envall Blixt | 4 | 1.50 | 0.75 | 0.00 | 0.00 | 0.75 |
+| Christian Gonzal | 8 | 16.25 | 7.38 | 0.00 | 1.50 | 2.62 |
+| Vincent Uzieblo | 7 | 13.43 | 5.00 | 0.14 | 3.00 | 2.00 |
+| Nikolas Frestad | 3 | 8.67 | 4.00 | 0.00 | 0.67 | 1.00 |
+| Otis Foon | 8 | 7.88 | 2.62 | 0.62 | 0.75 | 1.88 |
+| Vidar Ekström | 8 | 7.62 | 2.25 | 0.88 | 0.50 | 2.00 |
+| Albin Helmfridsson | 8 | 6.50 | 2.00 | 0.75 | 0.25 | 1.88 |
+| Leon Frestad | 3 | 5.67 | 2.33 | 0.33 | 0.00 | 0.67 |
+| Nireas Solidakis | 2 | 5.50 | 1.50 | 0.50 | 1.00 | 0.50 |
+| Ebbe Vikström | 8 | 5.12 | 2.50 | 0.00 | 0.12 | 0.38 |
+| Yuhanan Hailemichael | 3 | 4.67 | 1.67 | 0.33 | 0.33 | 1.00 |
+| Milton Asplund | 7 | 0.00 | 0.00 | 0.00 | 0.00 | 0.57 |
+| Melker Termén | 5 | 0.00 | 0.00 | 0.00 | 0.00 | 0.40 |
+| Noah Thomas | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
@@ -32,127 +32,124 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Noah Lansler | 32 | 13 |  2 |  0 |  0 |
-| Felix Rezler | 16 |  8 |  0 |  0 |  1 |
-| Hugo Thorson | 12 |  3 |  2 |  0 |  0 |
-| Jonathan Silverwaldt | 11 |  4 |  1 |  0 |  2 |
-| Colin Amnéus |  7 |  2 |  1 |  0 |  0 |
-| Ward Haddad |  6 |  3 |  0 |  0 |  4 |
-| Liam Dahlén |  2 |  1 |  0 |  0 |  0 |
-| Ibrahim Salma |  2 |  1 |  0 |  0 |  0 |
-| Andreas Persson |  0 |  0 |  0 |  0 |  0 |
-| Oskar Rosén |  0 |  0 |  0 |  0 |  1 |
+| Christian Gonzal | 22 | 11 |  0 |  0 |  0 |
+| Vincent Uzieblo | 17 |  8 |  0 |  1 |  0 |
+| Otis Foon | 10 |  3 |  1 |  1 |  2 |
+| Albin Helmfridsson |  8 |  1 |  2 |  0 |  0 |
+| Ebbe Vikström |  6 |  3 |  0 |  0 |  0 |
+| Vidar Ekström |  4 |  2 |  0 |  0 |  0 |
+| Milton Asplund |  0 |  0 |  0 |  0 |  0 |
 
-### Ale Basket - Högsbo Basket Röd
+### Eastside Falcons - Kungsbacka Basketklubb Blå
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Felix Rezler | 14 |  2 |  1 |  7 |  1 |
-| Jonathan Silverwaldt | 13 |  5 |  1 |  0 |  0 |
-| Hugo Thorson |  9 |  3 |  1 |  0 |  2 |
-| Ward Haddad |  8 |  2 |  1 |  1 |  3 |
-| Noah Lansler |  8 |  4 |  0 |  0 |  2 |
-| Colin Amnéus |  5 |  1 |  1 |  0 |  2 |
-| Andreas Persson |  3 |  0 |  1 |  0 |  0 |
-| Oskar Rosén |  3 |  1 |  0 |  1 |  5 |
-| Alvin Hertzman |  0 |  0 |  0 |  0 |  1 |
-| Ibrahim Salma |  0 |  0 |  0 |  0 |  2 |
+| Christian Gonzal | 19 |  9 |  0 |  1 |  3 |
+| Vidar Ekström | 12 |  3 |  1 |  3 |  0 |
+| Otis Foon |  9 |  3 |  1 |  0 |  1 |
+| Vincent Uzieblo |  9 |  3 |  0 |  3 |  0 |
+| Leon Frestad |  7 |  2 |  1 |  0 |  1 |
+| Ebbe Vikström |  4 |  2 |  0 |  0 |  0 |
+| Nikolas Frestad |  2 |  1 |  0 |  0 |  1 |
+| Albin Helmfridsson |  0 |  0 |  0 |  0 |  1 |
+| Milton Asplund |  0 |  0 |  0 |  0 |  1 |
+| Melker Termén |  0 |  0 |  0 |  0 |  0 |
 
-### Högsbo Basket Röd - Kortedala Basket, svart
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-
-### Högsbo Basket Röd - Borås Basket
+### Kvarnby Basket Grön - Eastside Falcons
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Ward Haddad | 19 |  5 |  2 |  3 |  3 |
-| Noah Lansler | 16 |  6 |  1 |  1 |  2 |
-| Hugo Thorson | 13 |  3 |  1 |  4 |  2 |
-| Felix Rezler |  6 |  1 |  1 |  1 |  4 |
-| Liam Dahlén |  6 |  3 |  0 |  0 |  0 |
-| Alvin Hertzman |  5 |  1 |  1 |  0 |  0 |
-| Andreas Persson |  4 |  1 |  0 |  2 |  0 |
-| Ibrahim Salma |  1 |  0 |  0 |  1 |  4 |
-| Kristijonas Alminas |  0 |  0 |  0 |  0 |  2 |
-| Colin Amnéus |  0 |  0 |  0 |  0 |  2 |
+| Christian Gonzal | 21 | 10 |  0 |  1 |  3 |
+| Otis Foon | 11 |  4 |  1 |  0 |  1 |
+| Leon Frestad | 10 |  5 |  0 |  0 |  1 |
+| Albin Helmfridsson |  9 |  1 |  2 |  1 |  5 |
+| Vidar Ekström |  7 |  2 |  1 |  0 |  2 |
+| Nireas Solidakis |  6 |  1 |  1 |  1 |  1 |
+| Vincent Uzieblo |  6 |  3 |  0 |  0 |  4 |
+| Ebbe Vikström |  0 |  0 |  0 |  0 |  1 |
+| Noah Thomas |  0 |  0 |  0 |  0 |  0 |
+| Milton Asplund |  0 |  0 |  0 |  0 |  1 |
+| Melker Termén |  0 |  0 |  0 |  0 |  1 |
 
-### Kungsbacka Basketklubb - Högsbo Basket Röd
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Ward Haddad | 21 |  6 |  2 |  3 |  3 |
-| Liam Dahlén | 16 |  7 |  0 |  2 |  2 |
-| Felix Rezler | 12 |  2 |  2 |  2 |  0 |
-| Noah Lansler | 12 |  5 |  0 |  2 |  0 |
-| Oskar Rosén | 10 |  3 |  1 |  1 |  3 |
-| Alvin Hertzman |  4 |  2 |  0 |  0 |  0 |
-| Colin Amnéus |  4 |  2 |  0 |  0 |  4 |
-| Hugo Thorson |  2 |  1 |  0 |  0 |  0 |
-| Loui Envall Blixt |  2 |  1 |  0 |  0 |  1 |
-| Kristijonas Alminas |  0 |  0 |  0 |  0 |  2 |
-
-### Lerum Basket P11 Svart - Högsbo Basket Röd
+### Eastside Falcons - Lerum Basket P11 Svart
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Ward Haddad | 14 |  7 |  0 |  0 |  2 |
-| Hugo Thorson | 12 |  3 |  2 |  0 |  2 |
-| Noah Lansler | 12 |  6 |  0 |  0 |  4 |
-| Kristijonas Alminas |  7 |  2 |  1 |  0 |  1 |
-| Colin Amnéus |  7 |  2 |  1 |  0 |  2 |
-| Liam Dahlén |  6 |  3 |  0 |  0 |  3 |
-| Oskar Rosén |  6 |  3 |  0 |  0 |  2 |
-| Felix Rezler |  4 |  2 |  0 |  0 |  4 |
-| Ibrahim Salma |  3 |  0 |  1 |  0 |  3 |
-| Loui Envall Blixt |  2 |  1 |  0 |  0 |  1 |
+| Christian Gonzal | 18 |  9 |  0 |  0 |  3 |
+| Vincent Uzieblo | 16 |  6 |  0 |  4 |  2 |
+| Vidar Ekström | 13 |  3 |  2 |  1 |  1 |
+| Ebbe Vikström |  8 |  4 |  0 |  0 |  0 |
+| Nikolas Frestad |  8 |  3 |  0 |  2 |  1 |
+| Yuhanan Hailemichael |  2 |  1 |  0 |  0 |  0 |
+| Albin Helmfridsson |  2 |  1 |  0 |  0 |  1 |
+| Otis Foon |  0 |  0 |  0 |  0 |  1 |
+| Milton Asplund |  0 |  0 |  0 |  0 |  0 |
+| Melker Termén |  0 |  0 |  0 |  0 |  0 |
 
-### Högsbo Basket Röd - Kvarnby Basket Grön
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Felix Rezler | 14 |  4 |  1 |  3 |  1 |
-| Hugo Thorson | 14 |  4 |  2 |  0 |  1 |
-| Liam Dahlén | 12 |  6 |  0 |  0 |  0 |
-| Alvin Hertzman |  4 |  2 |  0 |  0 |  1 |
-| Andreas Persson |  4 |  2 |  0 |  0 |  0 |
-| Jonathan Silverwaldt |  4 |  2 |  0 |  0 |  0 |
-| Colin Amnéus |  3 |  0 |  1 |  0 |  0 |
-| Oskar Rosén |  3 |  1 |  0 |  1 |  0 |
-| Ward Haddad |  2 |  1 |  0 |  0 |  2 |
-| Ibrahim Salma |  2 |  1 |  0 |  0 |  2 |
-| Noah Lansler |  0 |  0 |  0 |  0 |  1 |
-| Loui Envall Blixt |  0 |  0 |  0 |  0 |  0 |
-
-### Högsbo Basket Röd - Bosna IF
+### Borås Basket - Eastside Falcons
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Felix Rezler | 18 |  5 |  1 |  5 |  3 |
-| Noah Lansler | 17 |  8 |  0 |  1 |  1 |
-| Hugo Thorson | 14 |  4 |  1 |  3 |  1 |
-| Liam Dahlén | 10 |  5 |  0 |  0 |  0 |
-| Ward Haddad |  8 |  4 |  0 |  0 |  0 |
-| Oskar Rosén |  8 |  4 |  0 |  0 |  1 |
-| Kristijonas Alminas |  5 |  1 |  1 |  0 |  0 |
-| Alvin Hertzman |  4 |  2 |  0 |  0 |  3 |
-| Ibrahim Salma |  4 |  2 |  0 |  0 |  4 |
-| Jonathan Silverwaldt |  4 |  0 |  1 |  1 |  1 |
-| Loui Envall Blixt |  2 |  1 |  0 |  0 |  1 |
-| Colin Amnéus |  0 |  0 |  0 |  0 |  1 |
+| Otis Foon | 15 |  6 |  1 |  0 |  3 |
+| Christian Gonzal | 12 |  4 |  0 |  4 |  4 |
+| Vidar Ekström |  9 |  3 |  1 |  0 |  3 |
+| Albin Helmfridsson |  6 |  1 |  1 |  1 |  2 |
+| Ebbe Vikström |  6 |  3 |  0 |  0 |  0 |
+| Milton Asplund |  0 |  0 |  0 |  0 |  0 |
+| Melker Termén |  0 |  0 |  0 |  0 |  1 |
+
+### Bosna IF - Eastside Falcons
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Nikolas Frestad | 16 |  8 |  0 |  0 |  1 |
+| Albin Helmfridsson | 15 |  6 |  1 |  0 |  1 |
+| Yuhanan Hailemichael |  9 |  4 |  0 |  1 |  1 |
+| Vincent Uzieblo |  8 |  4 |  0 |  0 |  5 |
+| Christian Gonzal |  7 |  3 |  0 |  1 |  3 |
+| Otis Foon |  4 |  2 |  0 |  0 |  1 |
+| Ebbe Vikström |  4 |  2 |  0 |  0 |  1 |
+| Leon Frestad |  0 |  0 |  0 |  0 |  0 |
+| Vidar Ekström |  0 |  0 |  0 |  0 |  3 |
+| Melker Termén |  0 |  0 |  0 |  0 |  0 |
+
+### Eastside Falcons - Ale Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Vincent Uzieblo | 16 |  8 |  0 |  0 |  0 |
+| Christian Gonzal | 15 |  7 |  0 |  1 |  2 |
+| Otis Foon |  5 |  1 |  1 |  0 |  3 |
+| Nireas Solidakis |  5 |  2 |  0 |  1 |  0 |
+| Yuhanan Hailemichael |  3 |  0 |  1 |  0 |  2 |
+| Albin Helmfridsson |  2 |  1 |  0 |  0 |  0 |
+| Ebbe Vikström |  2 |  1 |  0 |  0 |  0 |
+| Vidar Ekström |  2 |  1 |  0 |  0 |  3 |
+| Milton Asplund |  0 |  0 |  0 |  0 |  0 |
+
+### Kortedala Basket, svart - Eastside Falcons
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Vincent Uzieblo | 22 |  3 |  1 | 13 |  3 |
+| Christian Gonzal | 16 |  6 |  0 |  4 |  3 |
+| Vidar Ekström | 14 |  4 |  2 |  0 |  4 |
+| Ebbe Vikström | 11 |  5 |  0 |  1 |  1 |
+| Albin Helmfridsson | 10 |  5 |  0 |  0 |  5 |
+| Otis Foon |  9 |  2 |  0 |  5 |  3 |
+| Milton Asplund |  0 |  0 |  0 |  0 |  2 |
 

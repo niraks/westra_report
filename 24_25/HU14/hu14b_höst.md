@@ -13,7 +13,8 @@
 | [Varbergs Basket](hu14b_höst_team_7.md) | 9 | 58.78 | 23.00 | 2.11 | 6.44 | 9.22 |
 | [Högsbo Basket Vit](hu14b_höst_team_8.md) | 9 | 50.78 | 17.56 | 3.56 | 5.00 | 12.56 |
 | [Kvarnby Basket Gul](hu14b_höst_team_9.md) | 9 | 49.22 | 20.78 | 0.56 | 6.00 | 9.22 |
-| [Crossover Basketball](hu14b_höst_team_10.md) | 9 | 45.67 | 20.00 | 0.78 | 3.33 | 8.89 |
+| [Crossover Basketball Academy](hu14b_höst_team_10.md) | 4 | 47.50 | 21.75 | 0.50 | 2.50 | 9.50 |
+| [Crossover Basketball Academy Club](hu14b_höst_team_11.md) | 5 | 44.20 | 18.60 | 1.00 | 4.00 | 8.40 |
 
 ## Season leaders
 
@@ -24,13 +25,13 @@
 | 1 | Cillian Bree | 26.88 |
 | 2 | Edin Pejmanovic | 26.56 |
 | 3 | Hjalmar Spångberg | 25.33 |
-| 4 | Felix Rezler | 22.00 |
-| 5 | Aston Starander Gustafsson | 20.44 |
-| 6 | Nikolaj Milutinovic | 18.75 |
-| 7 | Christian Gonzal | 18.62 |
-| 8 | Noah Ringheim | 17.50 |
-| 9 | Vincent Uzieblo | 17.33 |
-| 10 | Khaled Hussein | 17.20 |
+| 4 | Aston Starander Gustafsson | 22.50 |
+| 5 | Felix Rezler | 22.00 |
+| 6 | Aston Starander Gustafsson | 18.80 |
+| 7 | Nikolaj Milutinovic | 18.75 |
+| 8 | Christian Gonzal | 18.62 |
+| 9 | Noah Ringheim | 17.50 |
+| 10 | Vincent Uzieblo | 17.33 |
 
 ### 2P made per game
 
@@ -38,14 +39,15 @@
 |----:|:-------|------:|
 | 1 | Edin Pejmanovic | 12.22 |
 | 1 | Hjalmar Spångberg | 12.22 |
-| 3 | Aston Starander Gustafsson | 9.22 |
-| 4 | Nikolaj Milutinovic | 8.75 |
+| 3 | Aston Starander Gustafsson | 10.50 |
 | 4 | Christian Gonzal | 8.75 |
-| 6 | Vincent Uzieblo | 7.78 |
-| 7 | Cillian Bree | 7.50 |
-| 8 | Vigan Raci | 7.33 |
-| 9 | Noah Ringheim | 7.00 |
-| 9 | Alexander Blomgren | 7.00 |
+| 4 | Nikolaj Milutinovic | 8.75 |
+| 6 | Aston Starander Gustafsson | 8.20 |
+| 7 | Vincent Uzieblo | 7.78 |
+| 8 | Cillian Bree | 7.50 |
+| 9 | Vigan Raci | 7.33 |
+| 10 | Alexander Blomgren | 7.00 |
+| 10 | Noah Ringheim | 7.00 |
 
 ### 3P made per game
 
@@ -55,9 +57,9 @@
 | 2 | Jonathan Sodéus | 2.33 |
 | 3 | Felix Rezler | 2.00 |
 | 4 | Emre Alsancak Vennsten | 1.11 |
+| 5 | Nireas Solidakis | 1.00 |
 | 5 | Noah Ringheim | 1.00 |
 | 5 | Ludvig Skarin | 1.00 |
-| 5 | Nireas Solidakis | 1.00 |
 | 5 | Hugo Thorson | 1.00 |
 | 9 | Melker Ciba | 0.89 |
 | 9 | Vincent Bozic | 0.89 |
@@ -70,10 +72,10 @@
 | 1 | Felix Rezler | 4.00 |
 | 3 | Sebastian Nilsson | 3.00 |
 | 4 | Khaled Hussein | 2.80 |
-| 5 | Axel Sidiropoulos | 2.33 |
-| 6 | Aston Starander Gustafsson | 2.00 |
+| 5 | Aston Starander Gustafsson | 2.40 |
+| 6 | Axel Sidiropoulos | 2.33 |
 | 7 | Edin Pejmanovic | 1.78 |
 | 8 | Ludvig Skarin | 1.67 |
 | 9 | Amir Vakili | 1.50 |
-| 10 | Lazar Ilic | 1.44 |
+| 9 | Aston Starander Gustafsson | 1.50 |
 

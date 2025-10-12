@@ -1,89 +1,153 @@
-# Statistics for Kungsbacka Basketklubb
+# Statistics for Kvarnby Basket Grön
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kungsbacka Basketklubb | 4 | 80.50 | 33.00 | 3.00 | 5.50 | 13.75 |
+| Kvarnby Basket Grön | 8 | 71.50 | 25.88 | 3.75 | 8.50 | 10.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eric Svensson | 4 | 29.25 | 11.50 | 1.25 | 2.50 | 1.75 |
-| Filip Berndtsson | 4 | 22.25 | 10.75 | 0.00 | 0.75 | 3.50 |
-| Malcom Truija Wellington | 4 | 15.25 | 6.25 | 0.50 | 1.25 | 0.75 |
-| Algot Bui-Ljungqvist | 2 | 4.50 | 0.50 | 1.00 | 0.50 | 0.50 |
-| Eddy Kristofersson | 3 | 4.33 | 2.00 | 0.00 | 0.33 | 0.67 |
-| Nils Martinsson | 4 | 3.75 | 1.75 | 0.00 | 0.25 | 1.25 |
-| Dylan Lian | 4 | 2.00 | 1.00 | 0.00 | 0.00 | 2.00 |
-| Oskar Armini Lönberg | 3 | 2.00 | 0.00 | 0.67 | 0.00 | 2.67 |
-| Evan Fredriksson | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 1.50 |
-| Odai Ismaeil | 1 | 1.00 | 0.00 | 0.00 | 1.00 | 3.00 |
-| Melker Näsström | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.50 |
-| Elton Westlund | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Alexander Blomgren | 5 | 17.60 | 5.20 | 1.60 | 2.40 | 2.00 |
+| Sam Limberg | 7 | 15.43 | 6.86 | 0.00 | 1.71 | 2.86 |
+| Viggo Fältjäger | 5 | 15.20 | 4.80 | 1.40 | 1.40 | 0.60 |
+| Theodor Nankler | 6 | 14.50 | 5.33 | 0.67 | 1.83 | 1.00 |
+| Elvin Östenson Grimfeldt | 6 | 9.33 | 4.33 | 0.00 | 0.67 | 1.33 |
+| Sebastian Nilsson | 7 | 6.57 | 2.29 | 0.57 | 0.29 | 0.57 |
+| Liam Kim Börjesson | 4 | 5.75 | 2.25 | 0.00 | 1.25 | 0.50 |
+| Leo Hashemi | 6 | 5.33 | 1.17 | 0.83 | 0.50 | 1.33 |
+| Ville Ek | 1 | 5.00 | 2.00 | 0.00 | 1.00 | 0.00 |
+| Noel Dalgärde | 2 | 4.00 | 2.00 | 0.00 | 0.00 | 0.00 |
+| Amir Vakili | 2 | 4.00 | 1.00 | 0.00 | 2.00 | 3.00 |
+| Michael Mei | 6 | 2.33 | 0.67 | 0.33 | 0.00 | 2.17 |
+| Sixten Offerle | 4 | 2.25 | 0.75 | 0.00 | 0.75 | 0.00 |
+| Einar Fors | 5 | 2.00 | 0.60 | 0.00 | 0.80 | 0.60 |
+| Gustav Setterberg | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
 
 ## Games
 
-### Kungsbacka Basketklubb - Borås Basket
+### Borås Basket - Kvarnby Basket Grön
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Eric Svensson | 32 | 13 |  1 |  3 |  1 |
-| Filip Berndtsson | 28 | 13 |  0 |  2 |  4 |
-| Malcom Truija Wellington | 11 |  5 |  0 |  1 |  0 |
-| Nils Martinsson |  3 |  1 |  0 |  1 |  2 |
-| Algot Bui-Ljungqvist |  3 |  0 |  1 |  0 |  0 |
-| Dylan Lian |  2 |  1 |  0 |  0 |  2 |
-| Evan Fredriksson |  0 |  0 |  0 |  0 |  1 |
-| Melker Näsström |  0 |  0 |  0 |  0 |  0 |
 
-### Kungsbacka Basketklubb - Högsbo Basket Röd
+### Kvarnby Basket Grön - Bosna IF
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Filip Berndtsson | 18 |  9 |  0 |  0 |  4 |
-| Malcom Truija Wellington | 14 |  7 |  0 |  0 |  0 |
-| Eric Svensson | 13 |  3 |  1 |  4 |  1 |
-| Algot Bui-Ljungqvist |  6 |  1 |  1 |  1 |  1 |
-| Eddy Kristofersson |  4 |  2 |  0 |  0 |  0 |
-| Evan Fredriksson |  3 |  0 |  1 |  0 |  2 |
-| Oskar Armini Lönberg |  3 |  0 |  1 |  0 |  4 |
-| Nils Martinsson |  2 |  1 |  0 |  0 |  0 |
-| Dylan Lian |  0 |  0 |  0 |  0 |  2 |
+| Viggo Fältjäger | 25 |  8 |  2 |  3 |  0 |
+| Sam Limberg | 20 |  8 |  0 |  4 |  4 |
+| Theodor Nankler | 15 |  4 |  1 |  4 |  1 |
+| Leo Hashemi |  7 |  2 |  1 |  0 |  3 |
+| Noel Dalgärde |  6 |  3 |  0 |  0 |  0 |
+| Ville Ek |  5 |  2 |  0 |  1 |  0 |
+| Sebastian Nilsson |  4 |  2 |  0 |  0 |  0 |
+| Einar Fors |  3 |  1 |  0 |  1 |  0 |
+| Sixten Offerle |  3 |  0 |  0 |  3 |  0 |
+| Michael Mei |  2 |  1 |  0 |  0 |  3 |
+| Gustav Setterberg |  2 |  1 |  0 |  0 |  1 |
 
-### Kungsbacka Basketklubb - Kortedala Basket, svart
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Eric Svensson | 29 | 10 |  3 |  0 |  3 |
-| Malcom Truija Wellington | 25 |  8 |  2 |  3 |  1 |
-| Filip Berndtsson | 18 |  9 |  0 |  0 |  3 |
-| Nils Martinsson |  8 |  4 |  0 |  0 |  2 |
-| Eddy Kristofersson |  4 |  2 |  0 |  0 |  1 |
-| Dylan Lian |  2 |  1 |  0 |  0 |  2 |
-| Odai Ismaeil |  1 |  0 |  0 |  1 |  3 |
-| Elton Westlund |  0 |  0 |  0 |  0 |  0 |
-| Oskar Armini Lönberg |  0 |  0 |  0 |  0 |  2 |
-
-### Kungsbacka Basketklubb - Lerum Basket P11 Svart
+### Kvarnby Basket Grön - Eastside Falcons
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Eric Svensson | 43 | 20 |  0 |  3 |  2 |
-| Filip Berndtsson | 25 | 12 |  0 |  1 |  3 |
-| Malcom Truija Wellington | 11 |  5 |  0 |  1 |  2 |
-| Eddy Kristofersson |  5 |  2 |  0 |  1 |  1 |
-| Dylan Lian |  4 |  2 |  0 |  0 |  2 |
-| Oskar Armini Lönberg |  3 |  0 |  1 |  0 |  2 |
-| Nils Martinsson |  2 |  1 |  0 |  0 |  1 |
-| Melker Näsström |  0 |  0 |  0 |  0 |  1 |
+| Theodor Nankler | 24 |  7 |  2 |  4 |  0 |
+| Liam Kim Börjesson | 13 |  5 |  0 |  3 |  1 |
+| Sam Limberg | 10 |  5 |  0 |  0 |  5 |
+| Elvin Östenson Grimfeldt |  7 |  2 |  0 |  3 |  2 |
+| Leo Hashemi |  6 |  0 |  2 |  0 |  1 |
+| Amir Vakili |  5 |  1 |  0 |  3 |  3 |
+| Sebastian Nilsson |  3 |  1 |  0 |  1 |  1 |
+| Einar Fors |  2 |  0 |  0 |  2 |  1 |
+| Sixten Offerle |  2 |  1 |  0 |  0 |  0 |
+
+### Ale Basket - Kvarnby Basket Grön
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Alexander Blomgren | 21 |  3 |  3 |  6 |  4 |
+| Viggo Fältjäger | 16 |  2 |  3 |  3 |  3 |
+| Elvin Östenson Grimfeldt | 15 |  7 |  0 |  1 |  4 |
+| Sam Limberg | 11 |  4 |  0 |  3 |  6 |
+| Sebastian Nilsson |  6 |  0 |  2 |  0 |  1 |
+| Theodor Nankler |  4 |  2 |  0 |  0 |  1 |
+| Noel Dalgärde |  2 |  1 |  0 |  0 |  0 |
+| Liam Kim Börjesson |  1 |  0 |  0 |  1 |  0 |
+| Michael Mei |  0 |  0 |  0 |  0 |  3 |
+| Leo Hashemi |  0 |  0 |  0 |  0 |  1 |
+
+### Kvarnby Basket Grön - Kungsbacka Basketklubb Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Theodor Nankler | 17 |  6 |  1 |  2 |  1 |
+| Elvin Östenson Grimfeldt | 14 |  7 |  0 |  0 |  2 |
+| Sam Limberg | 13 |  6 |  0 |  1 |  1 |
+| Alexander Blomgren | 12 |  5 |  0 |  2 |  1 |
+| Viggo Fältjäger | 10 |  5 |  0 |  0 |  0 |
+| Sebastian Nilsson |  5 |  2 |  0 |  1 |  1 |
+| Michael Mei |  5 |  1 |  1 |  0 |  2 |
+| Leo Hashemi |  5 |  1 |  1 |  0 |  0 |
+| Liam Kim Börjesson |  4 |  2 |  0 |  0 |  0 |
+| Sixten Offerle |  4 |  2 |  0 |  0 |  0 |
+| Einar Fors |  0 |  0 |  0 |  0 |  1 |
+
+### Högsbo Basket Röd - Kvarnby Basket Grön
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Sam Limberg | 23 | 11 |  0 |  1 |  0 |
+| Alexander Blomgren | 15 |  5 |  1 |  2 |  3 |
+| Sebastian Nilsson |  8 |  1 |  2 |  0 |  1 |
+| Elvin Östenson Grimfeldt |  6 |  3 |  0 |  0 |  0 |
+| Viggo Fältjäger |  5 |  1 |  1 |  0 |  0 |
+| Einar Fors |  1 |  0 |  0 |  1 |  0 |
+| Michael Mei |  0 |  0 |  0 |  0 |  2 |
+| Sixten Offerle |  0 |  0 |  0 |  0 |  0 |
+
+### Lerum Basket P11 Svart - Kvarnby Basket Grön
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Alexander Blomgren | 17 |  5 |  2 |  1 |  1 |
+| Sam Limberg | 16 |  8 |  0 |  0 |  1 |
+| Theodor Nankler | 15 |  7 |  0 |  1 |  2 |
+| Elvin Östenson Grimfeldt | 10 |  5 |  0 |  0 |  0 |
+| Leo Hashemi |  8 |  4 |  0 |  0 |  3 |
+| Sebastian Nilsson |  6 |  3 |  0 |  0 |  0 |
+| Liam Kim Börjesson |  5 |  2 |  0 |  1 |  1 |
+| Einar Fors |  4 |  2 |  0 |  0 |  1 |
+| Amir Vakili |  3 |  1 |  0 |  1 |  3 |
+| Michael Mei |  0 |  0 |  0 |  0 |  1 |
+
+### Kvarnby Basket Grön - Kortedala Basket, svart
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Alexander Blomgren | 23 |  8 |  2 |  1 |  1 |
+| Viggo Fältjäger | 20 |  8 |  1 |  1 |  0 |
+| Sam Limberg | 15 |  6 |  0 |  3 |  3 |
+| Sebastian Nilsson | 14 |  7 |  0 |  0 |  0 |
+| Theodor Nankler | 12 |  6 |  0 |  0 |  1 |
+| Michael Mei |  7 |  2 |  1 |  0 |  2 |
+| Leo Hashemi |  6 |  0 |  1 |  3 |  0 |
+| Elvin Östenson Grimfeldt |  4 |  2 |  0 |  0 |  0 |
 

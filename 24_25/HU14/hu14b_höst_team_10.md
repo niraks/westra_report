@@ -1,31 +1,31 @@
-# Statistics for Crossover Basketball
+# Statistics for Crossover Basketball Academy
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Crossover Basketball | 9 | 45.67 | 20.00 | 0.78 | 3.33 | 8.89 |
+| Crossover Basketball Academy | 4 | 47.50 | 21.75 | 0.50 | 2.50 | 9.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Aston Starander Gustafsson | 9 | 20.44 | 9.22 | 0.00 | 2.00 | 1.22 |
-| Antony Tomic | 8 | 8.25 | 4.12 | 0.00 | 0.00 | 0.75 |
-| Luca Radic Ramér | 7 | 4.86 | 1.43 | 0.57 | 0.29 | 1.00 |
-| Emil Aliyev | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 2.00 |
-| Matteus Dahlin | 9 | 3.44 | 1.56 | 0.11 | 0.00 | 1.78 |
-| Elliot Karlsson | 8 | 3.12 | 1.12 | 0.25 | 0.12 | 1.00 |
-| Sam Milton | 8 | 2.62 | 1.00 | 0.00 | 0.62 | 1.25 |
-| Axel Hersvik | 6 | 2.00 | 1.00 | 0.00 | 0.00 | 0.17 |
-| Axel Kopp | 7 | 1.86 | 0.71 | 0.00 | 0.43 | 0.71 |
-| Carl Segergren | 9 | 1.22 | 0.56 | 0.00 | 0.11 | 0.67 |
-| Lucas Can | 4 | 0.50 | 0.25 | 0.00 | 0.00 | 0.50 |
-| Kornel Barcza-vetier | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.67 |
+| Aston Starander Gustafsson | 4 | 22.50 | 10.50 | 0.00 | 1.50 | 1.00 |
+| Antony Tomic | 4 | 9.50 | 4.75 | 0.00 | 0.00 | 1.50 |
+| Emil Aliyev | 2 | 6.00 | 3.00 | 0.00 | 0.00 | 3.00 |
+| Matteus Dahlin | 4 | 4.25 | 1.75 | 0.25 | 0.00 | 2.25 |
+| Luca Radic Ramér | 3 | 4.00 | 1.33 | 0.33 | 0.33 | 0.67 |
+| Sam Milton | 4 | 2.25 | 1.00 | 0.00 | 0.25 | 0.75 |
+| Lucas Can | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
+| Elliot Karlsson | 4 | 1.25 | 0.50 | 0.00 | 0.25 | 0.50 |
+| Carl Segergren | 4 | 1.00 | 0.50 | 0.00 | 0.00 | 0.75 |
+| Axel Kopp | 4 | 0.25 | 0.00 | 0.00 | 0.25 | 0.50 |
+| Axel Hersvik | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Kornel Barcza-vetier | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.50 |
 
 ## Games
 
-### Crossover Basketball - Onsala Pirates BBK
+### Crossover Basketball Academy - Onsala Pirates BBK
 
 Players (sorted by points)
 
@@ -42,22 +42,7 @@ Players (sorted by points)
 | Axel Hersvik |  0 |  0 |  0 |  0 |  0 |
 | Carl Segergren |  0 |  0 |  0 |  0 |  3 |
 
-### WestCoast WildCats Vit - Crossover Basketball
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Aston Starander Gustafsson | 18 |  6 |  0 |  6 |  2 |
-| Antony Tomic | 10 |  5 |  0 |  0 |  0 |
-| Elliot Karlsson |  8 |  4 |  0 |  0 |  2 |
-| Sam Milton |  2 |  0 |  0 |  2 |  2 |
-| Axel Hersvik |  2 |  1 |  0 |  0 |  0 |
-| Luca Radic Ramér |  0 |  0 |  0 |  0 |  1 |
-| Matteus Dahlin |  0 |  0 |  0 |  0 |  1 |
-| Carl Segergren |  0 |  0 |  0 |  0 |  0 |
-
-### Crossover Basketball - Eastside Falcons
+### Crossover Basketball Academy - Eastside Falcons
 
 Players (sorted by points)
 
@@ -74,38 +59,7 @@ Players (sorted by points)
 | Axel Hersvik |  0 |  0 |  0 |  0 |  0 |
 | Axel Kopp |  0 |  0 |  0 |  0 |  0 |
 
-### Kvarnby Basket Gul - Crossover Basketball
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Aston Starander Gustafsson | 22 | 11 |  0 |  0 |  1 |
-| Luca Radic Ramér | 12 |  3 |  2 |  0 |  0 |
-| Axel Kopp |  6 |  2 |  0 |  2 |  2 |
-| Matteus Dahlin |  6 |  3 |  0 |  0 |  3 |
-| Elliot Karlsson |  4 |  2 |  0 |  0 |  3 |
-| Carl Segergren |  1 |  0 |  0 |  1 |  2 |
-| Emil Aliyev |  0 |  0 |  0 |  0 |  0 |
-| Antony Tomic |  0 |  0 |  0 |  0 |  0 |
-
-### Bosna IF - Crossover Basketball
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Aston Starander Gustafsson | 15 |  5 |  0 |  5 |  2 |
-| Elliot Karlsson |  8 |  1 |  2 |  0 |  1 |
-| Antony Tomic |  6 |  3 |  0 |  0 |  0 |
-| Axel Hersvik |  6 |  3 |  0 |  0 |  0 |
-| Axel Kopp |  6 |  3 |  0 |  0 |  0 |
-| Sam Milton |  2 |  1 |  0 |  0 |  2 |
-| Matteus Dahlin |  2 |  1 |  0 |  0 |  0 |
-| Carl Segergren |  0 |  0 |  0 |  0 |  0 |
-| Lucas Can |  0 |  0 |  0 |  0 |  1 |
-
-### Crossover Basketball - Basketklubben Marbo
+### Crossover Basketball Academy - Basketklubben Marbo
 
 Players (sorted by points)
 
@@ -122,24 +76,7 @@ Players (sorted by points)
 | Kornel Barcza-vetier |  0 |  0 |  0 |  0 |  0 |
 | Axel Kopp |  0 |  0 |  0 |  0 |  1 |
 
-### Varbergs Basket - Crossover Basketball
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Aston Starander Gustafsson | 21 | 10 |  0 |  1 |  1 |
-| Antony Tomic | 12 |  6 |  0 |  0 |  0 |
-| Luca Radic Ramér |  6 |  3 |  0 |  0 |  2 |
-| Sam Milton |  4 |  2 |  0 |  0 |  0 |
-| Axel Hersvik |  2 |  1 |  0 |  0 |  1 |
-| Matteus Dahlin |  2 |  1 |  0 |  0 |  2 |
-| Kornel Barcza-vetier |  0 |  0 |  0 |  0 |  1 |
-| Axel Kopp |  0 |  0 |  0 |  0 |  1 |
-| Carl Segergren |  0 |  0 |  0 |  0 |  1 |
-| Lucas Can |  0 |  0 |  0 |  0 |  1 |
-
-### Crossover Basketball - Kortedala Basket, svart
+### Crossover Basketball Academy - Kortedala Basket, svart
 
 Players (sorted by points)
 
@@ -153,19 +90,4 @@ Players (sorted by points)
 | Axel Kopp |  0 |  0 |  0 |  0 |  0 |
 | Matteus Dahlin |  0 |  0 |  0 |  0 |  3 |
 | Carl Segergren |  0 |  0 |  0 |  0 |  0 |
-
-### Högsbo Basket Vit - Crossover Basketball
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Aston Starander Gustafsson | 18 |  9 |  0 |  0 |  1 |
-| Carl Segergren |  6 |  3 |  0 |  0 |  0 |
-| Luca Radic Ramér |  4 |  0 |  1 |  1 |  2 |
-| Sam Milton |  4 |  1 |  0 |  2 |  3 |
-| Matteus Dahlin |  4 |  2 |  0 |  0 |  1 |
-| Axel Hersvik |  2 |  1 |  0 |  0 |  0 |
-| Elliot Karlsson |  0 |  0 |  0 |  0 |  0 |
-| Lucas Can |  0 |  0 |  0 |  0 |  0 |
 

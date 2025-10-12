@@ -33,16 +33,16 @@
 |----:|:-------|------:|
 | 1 | Harley Gustafsson | 6.43 |
 | 2 | Olle Lindell Skoglund | 6.20 |
-| 3 | Axel Gustafsson | 6.00 |
 | 3 | August Bell | 6.00 |
+| 3 | Axel Gustafsson | 6.00 |
 | 5 | Hugo Mjögeman | 5.00 |
 | 6 | Elias Magnusson | 4.88 |
 | 6 | William Aadland | 4.88 |
 | 8 | Aro Kader | 4.71 |
 | 9 | Sean Mabuti Alingcastre | 4.38 |
-| 10 | Henry Mälbrink | 4.25 |
-| 10 | Charlie Lindblom | 4.25 |
 | 10 | Hjalmar Valberg | 4.25 |
+| 10 | Charlie Lindblom | 4.25 |
+| 10 | Henry Mälbrink | 4.25 |
 
 ### 3P made per game
 
@@ -56,10 +56,10 @@
 | 6 | Sem Bons Häll | 1.67 |
 | 7 | Axel Gustafsson | 1.40 |
 | 8 | Emil Järvinen | 1.33 |
+| 9 | Rasmus Lannér Dybeck | 1.00 |
+| 9 | Harley Gustafsson | 1.00 |
 | 9 | Henry Mälbrink | 1.00 |
 | 9 | Hugo Mjögeman | 1.00 |
-| 9 | Harley Gustafsson | 1.00 |
-| 9 | Rasmus Lannér Dybeck | 1.00 |
 
 ### Free throws made per game
 
@@ -68,8 +68,8 @@
 | 1 | Henry Mälbrink | 2.50 |
 | 2 | Olle Lindell Skoglund | 2.40 |
 | 3 | Harley Gustafsson | 2.29 |
-| 4 | Axel Gustafsson | 2.20 |
 | 4 | Adam Lund Olsson | 2.20 |
+| 4 | Axel Gustafsson | 2.20 |
 | 6 | Malcom Sempf | 2.00 |
 | 7 | Sean Mabuti Alingcastre | 1.88 |
 | 8 | Neo Geismar | 1.80 |

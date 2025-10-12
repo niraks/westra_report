@@ -70,7 +70,7 @@ Players (sorted by points)
 | Melker Termén |  2 |  1 |  0 |  0 |  1 |
 | Noah Thomas |  0 |  0 |  0 |  0 |  0 |
 
-### Crossover Basketball - Eastside Falcons
+### Crossover Basketball Academy - Eastside Falcons
 
 Players (sorted by points)
 

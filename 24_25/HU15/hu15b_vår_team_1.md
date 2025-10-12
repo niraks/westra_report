@@ -70,7 +70,7 @@ Players (sorted by points)
 | Axel Tedman |  4 |  2 |  0 |  0 |  1 |
 | Edwin Ståhle |  2 |  1 |  0 |  0 |  0 |
 
-### Högsbo Basket vit - Hammarkullens Basketklubb
+### Högsbo Basket vit - Hammarkullens Basketklubb HKB
 
 Players (sorted by points)
 
@@ -87,7 +87,7 @@ Players (sorted by points)
 | Adam Mambo |  6 |  3 |  0 |  0 |  2 |
 | Aleksa Vladisavljevic |  6 |  3 |  0 |  0 |  0 |
 
-### Stenungsunds Basketklubb - Högsbo Basket vit
+### Stenungsunds Basketklubb Blå - Högsbo Basket vit
 
 Players (sorted by points)
 
@@ -176,7 +176,7 @@ Players (sorted by points)
 | Deen Kadribasic |  0 |  0 |  0 |  0 |  0 |
 | Edwin Ståhle |  0 |  0 |  0 |  0 |  1 |
 
-### Hammarkullens - Högsbo Basket vit
+### Hammarkullens Basketklubb HKB - Högsbo Basket vit
 
 Players (sorted by points)
 
@@ -191,7 +191,7 @@ Players (sorted by points)
 | Shalom Kabusu Alona Luyeye |  0 |  0 |  0 |  0 |  2 |
 | Deen Kadribasic |  0 |  0 |  0 |  0 |  0 |
 
-### Högsbo Basket vit - Stenungsunds Basketklubb
+### Högsbo Basket vit - Stenungsunds Basketklubb Blå
 
 Players (sorted by points)
 
