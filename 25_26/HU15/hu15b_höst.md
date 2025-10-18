@@ -36,8 +36,8 @@
 | 2 | Jakov Markovic | 10.00 |
 | 3 | Gustav Setterberg | 9.00 |
 | 4 | Lazar Ilic | 8.67 |
-| 5 | Mattis Gemzell | 8.00 |
 | 5 | Adis Hrustanovic | 8.00 |
+| 5 | Mattis Gemzell | 8.00 |
 | 7 | Edin Pejmanovic | 7.67 |
 | 8 | Viktor Hedberg | 7.50 |
 | 9 | Valter Larsson | 7.00 |
@@ -51,30 +51,30 @@
 | 2 | Viktor Hedberg | 1.00 |
 | 2 | Axel Odengård | 1.00 |
 | 2 | Noel Sagestam | 1.00 |
-| 2 | Filip Förstberg | 1.00 |
+| 2 | Lion Ingvall | 1.00 |
 | 2 | Valter Larsson | 1.00 |
 | 2 | Harry Askerdal | 1.00 |
 | 2 | Benjamin Mårtensson | 1.00 |
-| 2 | Lion Ingvall | 1.00 |
+| 2 | Filip Förstberg | 1.00 |
+| 10 | Melvin Zekic | 0.67 |
+| 10 | Sergej Pusonjic | 0.67 |
 | 10 | Charlie Mattsson Meijer | 0.67 |
 | 10 | Filip Lundberg | 0.67 |
 | 10 | Ludvig Skarin | 0.67 |
-| 10 | Melvin Zekic | 0.67 |
-| 10 | Sergej Pusonjic | 0.67 |
 
 ### Free throws made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
 | 1 | Mattis Gemzell | 5.50 |
-| 2 | Ludvig Skarin | 2.67 |
 | 2 | Edin Pejmanovic | 2.67 |
+| 2 | Ludvig Skarin | 2.67 |
+| 4 | Henning Lundberg | 2.00 |
+| 4 | Valter Larsson | 2.00 |
+| 4 | Benjamin Mårtensson | 2.00 |
 | 4 | Ville Ek | 2.00 |
 | 4 | Sixten Offerle | 2.00 |
 | 4 | Gustav Setterberg | 2.00 |
-| 4 | Valter Larsson | 2.00 |
-| 4 | Benjamin Mårtensson | 2.00 |
-| 4 | Henning Lundberg | 2.00 |
 | 10 | Axel Odengård | 1.67 |
 | 10 | Vincent Bozic | 1.67 |
 | 10 | Lion Ingvall | 1.67 |

@@ -1,6 +1,6 @@
 # Statistics overview
 
-Statistics generated 2025-10-12
+Statistics generated 2025-10-18
 
 ## Season 25/26
 
