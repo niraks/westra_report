@@ -25,8 +25,8 @@
 | 7 | Joseph Jonsson | 18.00 |
 | 8 | Eric Svensson | 17.50 |
 | 9 | Felix Rezler | 15.00 |
-| 10 | Fabian Hjärtinge | 14.00 |
 | 10 | Vigan Raci | 14.00 |
+| 10 | Fabian Hjärtinge | 14.00 |
 
 ### 2P made per game
 
@@ -53,11 +53,11 @@
 | 3 | Elliott Askenbäck | 1.50 |
 | 5 | Wassem Al Hafez | 1.00 |
 | 5 | Dylan Lian | 1.00 |
-| 5 | Felix Rezler | 1.00 |
 | 5 | Nireas Solidakis | 1.00 |
 | 5 | Albin Helmfridsson | 1.00 |
 | 5 | Vidar Ekström | 1.00 |
 | 5 | Evangelos Kochliaridis | 1.00 |
+| 5 | Felix Rezler | 1.00 |
 
 ### Free throws made per game
 
@@ -72,6 +72,6 @@
 | 7 | Emil Järvinen | 2.33 |
 | 8 | Dylan Lian | 2.00 |
 | 8 | Joseph Jonsson | 2.00 |
-| 8 | Felix Rezler | 2.00 |
 | 8 | Vidar Ekström | 2.00 |
+| 8 | Felix Rezler | 2.00 |
 
