@@ -1,105 +1,91 @@
-# Statistics for Högsbo Basket Röd
+# Statistics for Lerum Basket P11 Svart
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Högsbo Basket Röd | 8 | 66.62 | 23.75 | 4.50 | 5.62 | 13.50 |
+| Lerum Basket P11 Svart | 8 | 69.12 | 24.50 | 3.25 | 10.38 | 11.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Noah Lansler | 7 | 13.86 | 6.00 | 0.43 | 0.57 | 1.43 |
-| Felix Rezler | 7 | 12.00 | 3.43 | 0.86 | 2.57 | 2.00 |
-| Ward Haddad | 7 | 11.14 | 4.00 | 0.71 | 1.00 | 2.43 |
-| Hugo Thorson | 7 | 10.86 | 3.00 | 1.29 | 1.00 | 1.14 |
-| Liam Dahlén | 6 | 8.67 | 4.17 | 0.00 | 0.33 | 0.83 |
-| Jonathan Silverwaldt | 4 | 8.00 | 2.75 | 0.75 | 0.25 | 0.75 |
-| Oskar Rosén | 6 | 5.00 | 2.00 | 0.17 | 0.50 | 2.00 |
-| Colin Amnéus | 7 | 3.71 | 1.00 | 0.57 | 0.00 | 1.57 |
-| Alvin Hertzman | 5 | 3.40 | 1.40 | 0.20 | 0.00 | 1.00 |
-| Kristijonas Alminas | 4 | 3.00 | 0.75 | 0.50 | 0.00 | 1.25 |
-| Andreas Persson | 4 | 2.75 | 0.75 | 0.25 | 0.50 | 0.00 |
-| Ibrahim Salma | 6 | 2.00 | 0.67 | 0.17 | 0.17 | 2.50 |
-| Loui Envall Blixt | 4 | 1.50 | 0.75 | 0.00 | 0.00 | 0.75 |
+| Valter Larsson | 8 | 25.38 | 8.38 | 1.00 | 5.62 | 3.00 |
+| Filip Lundberg | 8 | 14.38 | 5.62 | 0.50 | 1.62 | 1.12 |
+| Jakov Markovic | 4 | 12.25 | 4.75 | 0.25 | 2.00 | 1.75 |
+| Charlie Mattsson Meijer | 3 | 10.33 | 2.33 | 1.67 | 0.67 | 0.67 |
+| Washington Adanihomwan | 8 | 8.12 | 3.62 | 0.25 | 0.12 | 2.12 |
+| Nikolas Magnusson Giannourakis | 8 | 4.38 | 1.62 | 0.12 | 0.75 | 1.75 |
+| Victor Björkman | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 1.00 |
+| Karl Brännare | 4 | 3.00 | 0.50 | 0.25 | 1.25 | 0.50 |
+| Mansour Iyoun Soud | 5 | 2.00 | 0.80 | 0.00 | 0.40 | 1.00 |
+| Alvin Bolteus | 6 | 2.00 | 0.50 | 0.33 | 0.00 | 0.33 |
+| Rajan Risa Bajramovic | 6 | 1.83 | 0.83 | 0.00 | 0.17 | 0.67 |
+| Ebbe Crona-Sahlberg | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 1.00 |
+| Axel Steffansson Wickelgren | 3 | 1.00 | 0.00 | 0.33 | 0.00 | 1.00 |
 
 ## Games
 
-### Eastside Falcons - Högsbo Basket Röd
+### Lerum Basket P11 Svart - Ale Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Noah Lansler | 32 | 13 |  2 |  0 |  0 |
-| Felix Rezler | 16 |  8 |  0 |  0 |  1 |
-| Hugo Thorson | 12 |  3 |  2 |  0 |  0 |
-| Jonathan Silverwaldt | 11 |  4 |  1 |  0 |  2 |
-| Colin Amnéus |  7 |  2 |  1 |  0 |  0 |
-| Ward Haddad |  6 |  3 |  0 |  0 |  4 |
-| Liam Dahlén |  2 |  1 |  0 |  0 |  0 |
-| Ibrahim Salma |  2 |  1 |  0 |  0 |  0 |
-| Andreas Persson |  0 |  0 |  0 |  0 |  0 |
-| Oskar Rosén |  0 |  0 |  0 |  0 |  1 |
+| Valter Larsson | 29 | 11 |  1 |  4 |  2 |
+| Washington Adanihomwan | 10 |  5 |  0 |  0 |  2 |
+| Filip Lundberg |  8 |  3 |  0 |  2 |  0 |
+| Karl Brännare |  4 |  0 |  0 |  4 |  1 |
+| Nikolas Magnusson Giannourakis |  4 |  2 |  0 |  0 |  2 |
+| Rajan Risa Bajramovic |  0 |  0 |  0 |  0 |  0 |
+| Mansour Iyoun Soud |  0 |  0 |  0 |  0 |  0 |
+| Axel Steffansson Wickelgren |  0 |  0 |  0 |  0 |  0 |
+| Alvin Bolteus |  0 |  0 |  0 |  0 |  1 |
 
-### Ale Basket - Högsbo Basket Röd
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Felix Rezler | 14 |  2 |  1 |  7 |  1 |
-| Jonathan Silverwaldt | 13 |  5 |  1 |  0 |  0 |
-| Hugo Thorson |  9 |  3 |  1 |  0 |  2 |
-| Ward Haddad |  8 |  2 |  1 |  1 |  3 |
-| Noah Lansler |  8 |  4 |  0 |  0 |  2 |
-| Colin Amnéus |  5 |  1 |  1 |  0 |  2 |
-| Andreas Persson |  3 |  0 |  1 |  0 |  0 |
-| Oskar Rosén |  3 |  1 |  0 |  1 |  5 |
-| Alvin Hertzman |  0 |  0 |  0 |  0 |  1 |
-| Ibrahim Salma |  0 |  0 |  0 |  0 |  2 |
-
-### Högsbo Basket Röd - Kortedala Basket, svart
+### Lerum Basket P11 Svart - Borås Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
+| Valter Larsson | 26 |  9 |  0 |  8 |  5 |
+| Filip Lundberg | 25 | 10 |  0 |  5 |  3 |
+| Washington Adanihomwan | 20 |  8 |  1 |  1 |  3 |
+| Mansour Iyoun Soud |  5 |  2 |  0 |  1 |  2 |
+| Nikolas Magnusson Giannourakis |  4 |  2 |  0 |  0 |  2 |
+| Rajan Risa Bajramovic |  2 |  1 |  0 |  0 |  3 |
+| Karl Brännare |  2 |  1 |  0 |  0 |  1 |
+| Alvin Bolteus |  0 |  0 |  0 |  0 |  0 |
 
-### Högsbo Basket Röd - Borås Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Ward Haddad | 19 |  5 |  2 |  3 |  3 |
-| Noah Lansler | 16 |  6 |  1 |  1 |  2 |
-| Hugo Thorson | 13 |  3 |  1 |  4 |  2 |
-| Felix Rezler |  6 |  1 |  1 |  1 |  4 |
-| Liam Dahlén |  6 |  3 |  0 |  0 |  0 |
-| Alvin Hertzman |  5 |  1 |  1 |  0 |  0 |
-| Andreas Persson |  4 |  1 |  0 |  2 |  0 |
-| Ibrahim Salma |  1 |  0 |  0 |  1 |  4 |
-| Kristijonas Alminas |  0 |  0 |  0 |  0 |  2 |
-| Colin Amnéus |  0 |  0 |  0 |  0 |  2 |
-
-### Kungsbacka Basketklubb Blå - Högsbo Basket Röd
+### Bosna IF - Lerum Basket P11 Svart
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Ward Haddad | 21 |  6 |  2 |  3 |  3 |
-| Liam Dahlén | 16 |  7 |  0 |  2 |  2 |
-| Felix Rezler | 12 |  2 |  2 |  2 |  0 |
-| Noah Lansler | 12 |  5 |  0 |  2 |  0 |
-| Oskar Rosén | 10 |  3 |  1 |  1 |  3 |
-| Alvin Hertzman |  4 |  2 |  0 |  0 |  0 |
-| Colin Amnéus |  4 |  2 |  0 |  0 |  4 |
-| Hugo Thorson |  2 |  1 |  0 |  0 |  0 |
-| Loui Envall Blixt |  2 |  1 |  0 |  0 |  1 |
-| Kristijonas Alminas |  0 |  0 |  0 |  0 |  2 |
+| Valter Larsson | 37 | 14 |  1 |  6 |  4 |
+| Jakov Markovic | 18 |  8 |  0 |  2 |  3 |
+| Filip Lundberg | 14 |  5 |  1 |  1 |  1 |
+| Washington Adanihomwan | 10 |  5 |  0 |  0 |  3 |
+| Nikolas Magnusson Giannourakis |  6 |  3 |  0 |  0 |  4 |
+| Alvin Bolteus |  5 |  1 |  1 |  0 |  0 |
+| Mansour Iyoun Soud |  2 |  1 |  0 |  0 |  1 |
+| Ebbe Crona-Sahlberg |  0 |  0 |  0 |  0 |  1 |
+
+### Eastside Falcons - Lerum Basket P11 Svart
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Filip Lundberg | 23 | 10 |  1 |  0 |  0 |
+| Jakov Markovic | 13 |  4 |  1 |  2 |  0 |
+| Valter Larsson | 11 |  2 |  1 |  4 |  4 |
+| Nikolas Magnusson Giannourakis |  9 |  2 |  1 |  2 |  2 |
+| Alvin Bolteus |  7 |  2 |  1 |  0 |  0 |
+| Washington Adanihomwan |  4 |  2 |  0 |  0 |  1 |
+| Mansour Iyoun Soud |  3 |  1 |  0 |  1 |  2 |
+| Rajan Risa Bajramovic |  0 |  0 |  0 |  0 |  0 |
 
 ### Lerum Basket P11 Svart - Högsbo Basket Röd
 
@@ -107,52 +93,58 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Ward Haddad | 14 |  7 |  0 |  0 |  2 |
-| Hugo Thorson | 12 |  3 |  2 |  0 |  2 |
-| Noah Lansler | 12 |  6 |  0 |  0 |  4 |
-| Kristijonas Alminas |  7 |  2 |  1 |  0 |  1 |
-| Colin Amnéus |  7 |  2 |  1 |  0 |  2 |
-| Liam Dahlén |  6 |  3 |  0 |  0 |  3 |
-| Oskar Rosén |  6 |  3 |  0 |  0 |  2 |
-| Felix Rezler |  4 |  2 |  0 |  0 |  4 |
-| Ibrahim Salma |  3 |  0 |  1 |  0 |  3 |
-| Loui Envall Blixt |  2 |  1 |  0 |  0 |  1 |
+| Valter Larsson | 15 |  3 |  0 |  9 |  4 |
+| Filip Lundberg | 10 |  4 |  0 |  2 |  2 |
+| Washington Adanihomwan | 10 |  5 |  0 |  0 |  2 |
+| Nikolas Magnusson Giannourakis |  8 |  3 |  0 |  2 |  1 |
+| Karl Brännare |  6 |  1 |  1 |  1 |  0 |
+| Rajan Risa Bajramovic |  4 |  2 |  0 |  0 |  0 |
+| Axel Steffansson Wickelgren |  3 |  0 |  1 |  0 |  1 |
+| Jakov Markovic |  3 |  1 |  0 |  1 |  2 |
+| Alvin Bolteus |  0 |  0 |  0 |  0 |  0 |
 
-### Högsbo Basket Röd - Kvarnby Basket Grön
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Felix Rezler | 14 |  4 |  1 |  3 |  1 |
-| Hugo Thorson | 14 |  4 |  2 |  0 |  1 |
-| Liam Dahlén | 12 |  6 |  0 |  0 |  0 |
-| Alvin Hertzman |  4 |  2 |  0 |  0 |  1 |
-| Andreas Persson |  4 |  2 |  0 |  0 |  0 |
-| Jonathan Silverwaldt |  4 |  2 |  0 |  0 |  0 |
-| Colin Amnéus |  3 |  0 |  1 |  0 |  0 |
-| Oskar Rosén |  3 |  1 |  0 |  1 |  0 |
-| Ward Haddad |  2 |  1 |  0 |  0 |  2 |
-| Ibrahim Salma |  2 |  1 |  0 |  0 |  2 |
-| Noah Lansler |  0 |  0 |  0 |  0 |  1 |
-| Loui Envall Blixt |  0 |  0 |  0 |  0 |  0 |
-
-### Högsbo Basket Röd - Bosna IF
+### Kortedala Basket, svart - Lerum Basket P11 Svart
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Felix Rezler | 18 |  5 |  1 |  5 |  3 |
-| Noah Lansler | 17 |  8 |  0 |  1 |  1 |
-| Hugo Thorson | 14 |  4 |  1 |  3 |  1 |
-| Liam Dahlén | 10 |  5 |  0 |  0 |  0 |
-| Ward Haddad |  8 |  4 |  0 |  0 |  0 |
-| Oskar Rosén |  8 |  4 |  0 |  0 |  1 |
-| Kristijonas Alminas |  5 |  1 |  1 |  0 |  0 |
-| Alvin Hertzman |  4 |  2 |  0 |  0 |  3 |
-| Ibrahim Salma |  4 |  2 |  0 |  0 |  4 |
-| Jonathan Silverwaldt |  4 |  0 |  1 |  1 |  1 |
-| Loui Envall Blixt |  2 |  1 |  0 |  0 |  1 |
-| Colin Amnéus |  0 |  0 |  0 |  0 |  1 |
+| Valter Larsson | 41 | 12 |  4 |  5 |  4 |
+| Charlie Mattsson Meijer | 16 |  4 |  2 |  2 |  1 |
+| Filip Lundberg |  8 |  4 |  0 |  0 |  0 |
+| Washington Adanihomwan |  4 |  2 |  0 |  0 |  3 |
+| Rajan Risa Bajramovic |  3 |  1 |  0 |  1 |  1 |
+| Ebbe Crona-Sahlberg |  3 |  0 |  1 |  0 |  1 |
+| Nikolas Magnusson Giannourakis |  1 |  0 |  0 |  1 |  1 |
+
+### Kungsbacka Basketklubb Blå - Lerum Basket P11 Svart
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Valter Larsson | 17 |  6 |  1 |  2 |  1 |
+| Filip Lundberg | 17 |  7 |  0 |  3 |  2 |
+| Jakov Markovic | 15 |  6 |  0 |  3 |  2 |
+| Charlie Mattsson Meijer |  6 |  0 |  2 |  0 |  1 |
+| Washington Adanihomwan |  4 |  2 |  0 |  0 |  1 |
+| Nikolas Magnusson Giannourakis |  3 |  1 |  0 |  1 |  1 |
+| Rajan Risa Bajramovic |  2 |  1 |  0 |  0 |  0 |
+| Karl Brännare |  0 |  0 |  0 |  0 |  0 |
+
+### Lerum Basket P11 Svart - Kvarnby Basket Grön
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Valter Larsson | 27 | 10 |  0 |  7 |  0 |
+| Filip Lundberg | 10 |  2 |  2 |  0 |  1 |
+| Charlie Mattsson Meijer |  9 |  3 |  1 |  0 |  0 |
+| Victor Björkman |  4 |  2 |  0 |  0 |  1 |
+| Washington Adanihomwan |  3 |  0 |  1 |  0 |  2 |
+| Mansour Iyoun Soud |  0 |  0 |  0 |  0 |  0 |
+| Axel Steffansson Wickelgren |  0 |  0 |  0 |  0 |  2 |
+| Nikolas Magnusson Giannourakis |  0 |  0 |  0 |  0 |  1 |
+| Alvin Bolteus |  0 |  0 |  0 |  0 |  1 |
 

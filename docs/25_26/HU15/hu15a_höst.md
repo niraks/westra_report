@@ -16,62 +16,62 @@
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Charlie Lindblom | 32.33 |
-| 2 | Ilon Åhman | 31.50 |
-| 3 | Filip Berndtsson | 28.50 |
-| 4 | Elliott Askenbäck | 26.50 |
-| 5 | Oliver Reit | 23.33 |
-| 6 | Robin Hysén | 18.50 |
-| 7 | Joseph Jonsson | 18.00 |
-| 8 | Eric Svensson | 17.50 |
-| 9 | Felix Rezler | 15.00 |
-| 10 | Vigan Raci | 14.00 |
-| 10 | Fabian Hjärtinge | 14.00 |
+| 1 | [Charlie Lindblom](hu15a_höst_team_1.md) | 32.33 |
+| 2 | [Ilon Åhman](hu15a_höst_team_5.md) | 31.50 |
+| 3 | [Filip Berndtsson](hu15a_höst_team_3.md) | 28.50 |
+| 4 | [Elliott Askenbäck](hu15a_höst_team_2.md) | 26.50 |
+| 5 | [Oliver Reit](hu15a_höst_team_5.md) | 23.33 |
+| 6 | [Robin Hysén](hu15a_höst_team_1.md) | 18.50 |
+| 7 | [Joseph Jonsson](hu15a_höst_team_5.md) | 18.00 |
+| 8 | [Eric Svensson](hu15a_höst_team_3.md) | 17.50 |
+| 9 | [Felix Rezler](hu15a_höst_team_2.md) | 15.00 |
+| 10 | [Fabian Hjärtinge](hu15a_höst_team_1.md) | 14.00 |
+| 10 | [Vigan Raci](hu15a_höst_team_4.md) | 14.00 |
 
 ### 2P made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Filip Berndtsson | 12.50 |
-| 2 | Ilon Åhman | 11.00 |
-| 3 | Elliott Askenbäck | 10.50 |
-| 4 | Robin Hysén | 8.50 |
-| 5 | Charlie Lindblom | 8.33 |
-| 6 | Joseph Jonsson | 8.00 |
-| 7 | Vigan Raci | 7.00 |
-| 8 | Oliver Reit | 6.33 |
-| 9 | Eric Svensson | 6.00 |
-| 9 | Edvin Harbas | 6.00 |
+| 1 | [Filip Berndtsson](hu15a_höst_team_3.md) | 12.50 |
+| 2 | [Ilon Åhman](hu15a_höst_team_5.md) | 11.00 |
+| 3 | [Elliott Askenbäck](hu15a_höst_team_2.md) | 10.50 |
+| 4 | [Robin Hysén](hu15a_höst_team_1.md) | 8.50 |
+| 5 | [Charlie Lindblom](hu15a_höst_team_1.md) | 8.33 |
+| 6 | [Joseph Jonsson](hu15a_höst_team_5.md) | 8.00 |
+| 7 | [Vigan Raci](hu15a_höst_team_4.md) | 7.00 |
+| 8 | [Oliver Reit](hu15a_höst_team_5.md) | 6.33 |
+| 9 | [Edvin Harbas](hu15a_höst_team_1.md) | 6.00 |
+| 9 | [Eric Svensson](hu15a_höst_team_3.md) | 6.00 |
 
 ### 3P made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Charlie Lindblom | 3.00 |
-| 2 | Oliver Reit | 2.33 |
-| 3 | Eric Svensson | 1.50 |
-| 3 | Elliott Askenbäck | 1.50 |
-| 5 | Nireas Solidakis | 1.00 |
-| 5 | Albin Helmfridsson | 1.00 |
-| 5 | Vidar Ekström | 1.00 |
-| 5 | Evangelos Kochliaridis | 1.00 |
-| 5 | Wassem Al Hafez | 1.00 |
-| 5 | Dylan Lian | 1.00 |
-| 5 | Felix Rezler | 1.00 |
+| 1 | [Charlie Lindblom](hu15a_höst_team_1.md) | 3.00 |
+| 2 | [Oliver Reit](hu15a_höst_team_5.md) | 2.33 |
+| 3 | [Eric Svensson](hu15a_höst_team_3.md) | 1.50 |
+| 3 | [Elliott Askenbäck](hu15a_höst_team_2.md) | 1.50 |
+| 5 | [Wassem Al Hafez](hu15a_höst_team_3.md) | 1.00 |
+| 5 | [Dylan Lian](hu15a_höst_team_3.md) | 1.00 |
+| 5 | [Felix Rezler](hu15a_höst_team_2.md) | 1.00 |
+| 5 | [Nireas Solidakis](hu15a_höst_team_4.md) | 1.00 |
+| 5 | [Albin Helmfridsson](hu15a_höst_team_4.md) | 1.00 |
+| 5 | [Vidar Ekström](hu15a_höst_team_4.md) | 1.00 |
+| 5 | [Evangelos Kochliaridis](hu15a_höst_team_4.md) | 1.00 |
 
 ### Free throws made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Ilon Åhman | 8.00 |
-| 2 | Charlie Lindblom | 6.67 |
-| 3 | Fabian Hjärtinge | 4.00 |
-| 3 | Noah Lansler | 4.00 |
-| 5 | Oliver Reit | 3.67 |
-| 6 | Filip Berndtsson | 3.50 |
-| 7 | Emil Järvinen | 2.33 |
-| 8 | Vidar Ekström | 2.00 |
-| 8 | Dylan Lian | 2.00 |
-| 8 | Joseph Jonsson | 2.00 |
-| 8 | Felix Rezler | 2.00 |
+| 1 | [Ilon Åhman](hu15a_höst_team_5.md) | 8.00 |
+| 2 | [Charlie Lindblom](hu15a_höst_team_1.md) | 6.67 |
+| 3 | [Fabian Hjärtinge](hu15a_höst_team_1.md) | 4.00 |
+| 3 | [Noah Lansler](hu15a_höst_team_2.md) | 4.00 |
+| 5 | [Oliver Reit](hu15a_höst_team_5.md) | 3.67 |
+| 6 | [Filip Berndtsson](hu15a_höst_team_3.md) | 3.50 |
+| 7 | [Emil Järvinen](hu15a_höst_team_1.md) | 2.33 |
+| 8 | [Joseph Jonsson](hu15a_höst_team_5.md) | 2.00 |
+| 8 | [Dylan Lian](hu15a_höst_team_3.md) | 2.00 |
+| 8 | [Felix Rezler](hu15a_höst_team_2.md) | 2.00 |
+| 8 | [Vidar Ekström](hu15a_höst_team_4.md) | 2.00 |
 

@@ -20,59 +20,59 @@
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Ilon Åhman | 35.00 |
-| 2 | Valter Larsson | 30.00 |
-| 3 | Eric Svensson | 29.88 |
-| 4 | Filip Berndtsson | 25.57 |
-| 5 | Luka Caktas | 25.29 |
-| 6 | Charlie Lindblom | 25.00 |
-| 7 | Joseph Jonsson | 21.00 |
-| 8 | Filip Lundberg | 20.50 |
-| 9 | Fabian Hjärtinge | 19.12 |
-| 10 | Oliver Reit | 18.12 |
+| 1 | [Ilon Åhman](hu14a_höst_team_5.md) | 35.00 |
+| 2 | [Valter Larsson](hu14a_höst_team_6.md) | 30.00 |
+| 3 | [Eric Svensson](hu14a_höst_team_2.md) | 29.88 |
+| 4 | [Filip Berndtsson](hu14a_höst_team_2.md) | 25.57 |
+| 5 | [Luka Caktas](hu14a_höst_team_1.md) | 25.29 |
+| 6 | [Charlie Lindblom](hu14a_höst_team_3.md) | 25.00 |
+| 7 | [Joseph Jonsson](hu14a_höst_team_5.md) | 21.00 |
+| 8 | [Filip Lundberg](hu14a_höst_team_6.md) | 20.50 |
+| 9 | [Fabian Hjärtinge](hu14a_höst_team_3.md) | 19.12 |
+| 10 | [Oliver Reit](hu14a_höst_team_5.md) | 18.12 |
 
 ### 2P made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Ilon Åhman | 13.00 |
-| 2 | Filip Berndtsson | 11.71 |
-| 3 | Luka Caktas | 11.29 |
-| 4 | Eric Svensson | 10.38 |
-| 5 | Valter Larsson | 10.00 |
-| 6 | Joseph Jonsson | 8.88 |
-| 7 | Filip Lundberg | 8.75 |
-| 8 | Fabian Hjärtinge | 8.50 |
-| 9 | Charlie Lindblom | 8.17 |
-| 10 | Viggo Fältjäger | 7.57 |
+| 1 | [Ilon Åhman](hu14a_höst_team_5.md) | 13.00 |
+| 2 | [Filip Berndtsson](hu14a_höst_team_2.md) | 11.71 |
+| 3 | [Luka Caktas](hu14a_höst_team_1.md) | 11.29 |
+| 4 | [Eric Svensson](hu14a_höst_team_2.md) | 10.38 |
+| 5 | [Valter Larsson](hu14a_höst_team_6.md) | 10.00 |
+| 6 | [Joseph Jonsson](hu14a_höst_team_5.md) | 8.88 |
+| 7 | [Filip Lundberg](hu14a_höst_team_6.md) | 8.75 |
+| 8 | [Fabian Hjärtinge](hu14a_höst_team_3.md) | 8.50 |
+| 9 | [Charlie Lindblom](hu14a_höst_team_3.md) | 8.17 |
+| 10 | [Viggo Fältjäger](hu14a_höst_team_7.md) | 7.57 |
 
 ### 3P made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Charlie Lindblom | 2.50 |
-| 2 | Emil Järvinen | 2.38 |
-| 3 | Eric Svensson | 2.25 |
-| 4 | Oliver Reit | 1.88 |
-| 5 | Felix Rezler | 1.50 |
-| 6 | Alexander Blomgren | 1.25 |
-| 7 | Valter Larsson | 1.14 |
-| 8 | Nireas Solidakis | 1.12 |
-| 9 | Ilon Åhman | 1.00 |
-| 10 | Sabi Memedovski | 0.88 |
+| 1 | [Charlie Lindblom](hu14a_höst_team_3.md) | 2.50 |
+| 2 | [Emil Järvinen](hu14a_höst_team_3.md) | 2.38 |
+| 3 | [Eric Svensson](hu14a_höst_team_2.md) | 2.25 |
+| 4 | [Oliver Reit](hu14a_höst_team_5.md) | 1.88 |
+| 5 | [Felix Rezler](hu14a_höst_team_4.md) | 1.50 |
+| 6 | [Alexander Blomgren](hu14a_höst_team_7.md) | 1.25 |
+| 7 | [Valter Larsson](hu14a_höst_team_6.md) | 1.14 |
+| 8 | [Nireas Solidakis](hu14a_höst_team_8.md) | 1.12 |
+| 9 | [Ilon Åhman](hu14a_höst_team_5.md) | 1.00 |
+| 10 | [Sabi Memedovski](hu14a_höst_team_5.md) | 0.88 |
 
 ### Free throws made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Valter Larsson | 6.57 |
-| 2 | Ilon Åhman | 6.00 |
-| 3 | Luka Caktas | 2.71 |
-| 4 | Johan Brännare | 2.50 |
-| 4 | Oliver Reit | 2.50 |
-| 4 | Joseph Jonsson | 2.50 |
-| 4 | Christian Gonzal | 2.50 |
-| 8 | Eric Svensson | 2.38 |
-| 9 | Filip Lundberg | 1.88 |
-| 10 | Sam Limberg | 1.86 |
+| 1 | [Valter Larsson](hu14a_höst_team_6.md) | 6.57 |
+| 2 | [Ilon Åhman](hu14a_höst_team_5.md) | 6.00 |
+| 3 | [Luka Caktas](hu14a_höst_team_1.md) | 2.71 |
+| 4 | [Oliver Reit](hu14a_höst_team_5.md) | 2.50 |
+| 4 | [Joseph Jonsson](hu14a_höst_team_5.md) | 2.50 |
+| 4 | [Johan Brännare](hu14a_höst_team_6.md) | 2.50 |
+| 4 | [Christian Gonzal](hu14a_höst_team_8.md) | 2.50 |
+| 8 | [Eric Svensson](hu14a_höst_team_2.md) | 2.38 |
+| 9 | [Filip Lundberg](hu14a_höst_team_6.md) | 1.88 |
+| 10 | [Sam Limberg](hu14a_höst_team_7.md) | 1.86 |
 

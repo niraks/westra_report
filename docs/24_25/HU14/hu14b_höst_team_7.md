@@ -4,23 +4,24 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Varbergs Basket | 9 | 51.56 | 19.78 | 2.00 | 6.00 | 7.44 |
+| Varbergs Basket | 9 | 58.78 | 23.00 | 2.11 | 6.44 | 9.22 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Khaled Hussein | 4 | 18.00 | 6.25 | 0.75 | 3.25 | 2.50 |
-| Lazar Ilic | 8 | 15.50 | 6.50 | 0.38 | 1.38 | 2.12 |
-| Vincent Bozic | 8 | 11.75 | 3.88 | 1.00 | 1.00 | 0.75 |
-| Axel Odengård | 8 | 7.88 | 3.25 | 0.12 | 1.00 | 0.62 |
-| Olle Lykkbo | 7 | 4.43 | 1.86 | 0.00 | 0.71 | 0.00 |
-| Joel Carlén | 6 | 3.83 | 1.50 | 0.17 | 0.33 | 0.50 |
-| Sakarias Hänninen | 7 | 2.43 | 1.14 | 0.00 | 0.14 | 0.71 |
-| Enguun Bat-urnult | 5 | 2.20 | 1.00 | 0.00 | 0.20 | 0.40 |
-| Aaron Batatina | 5 | 2.00 | 0.60 | 0.00 | 0.80 | 2.40 |
-| Noel Sagestam | 8 | 1.25 | 0.25 | 0.25 | 0.00 | 0.50 |
-| Wiggo Edvinsson | 8 | 1.12 | 0.50 | 0.00 | 0.12 | 0.38 |
+| Khaled Hussein | 5 | 17.20 | 6.00 | 0.80 | 2.80 | 2.40 |
+| Lazar Ilic | 9 | 15.78 | 6.67 | 0.33 | 1.44 | 2.22 |
+| Vincent Bozic | 9 | 11.11 | 3.78 | 0.89 | 0.89 | 0.78 |
+| Axel Odengård | 9 | 7.67 | 3.22 | 0.11 | 0.89 | 0.56 |
+| Joel Carlén | 7 | 4.14 | 1.71 | 0.14 | 0.29 | 0.86 |
+| Olle Lykkbo | 8 | 3.88 | 1.62 | 0.00 | 0.62 | 0.12 |
+| Sakarias Hänninen | 8 | 2.62 | 1.25 | 0.00 | 0.12 | 1.00 |
+| Aaron Batatina | 6 | 2.33 | 0.83 | 0.00 | 0.67 | 2.17 |
+| Enguun Bat-urnult | 6 | 2.17 | 1.00 | 0.00 | 0.17 | 0.50 |
+| Carl-Philip Jahn | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
+| Noel Sagestam | 9 | 1.22 | 0.22 | 0.22 | 0.11 | 0.56 |
+| Wiggo Edvinsson | 9 | 1.22 | 0.56 | 0.00 | 0.11 | 0.33 |
 
 ## Games
 
@@ -30,6 +31,18 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
+| Lazar Ilic | 18 |  8 |  0 |  2 |  3 |
+| Khaled Hussein | 14 |  5 |  1 |  1 |  2 |
+| Axel Odengård |  6 |  3 |  0 |  0 |  0 |
+| Joel Carlén |  6 |  3 |  0 |  0 |  3 |
+| Vincent Bozic |  6 |  3 |  0 |  0 |  1 |
+| Aaron Batatina |  4 |  2 |  0 |  0 |  1 |
+| Sakarias Hänninen |  4 |  2 |  0 |  0 |  3 |
+| Carl-Philip Jahn |  2 |  1 |  0 |  0 |  0 |
+| Wiggo Edvinsson |  2 |  1 |  0 |  0 |  0 |
+| Enguun Bat-urnult |  2 |  1 |  0 |  0 |  1 |
+| Noel Sagestam |  1 |  0 |  0 |  1 |  1 |
+| Olle Lykkbo |  0 |  0 |  0 |  0 |  1 |
 
 ### Kortedala Basket, svart - Varbergs Basket
 

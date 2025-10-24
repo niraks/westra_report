@@ -18,59 +18,59 @@
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Gustaf Högenberg | 36.75 |
-| 2 | Mohamed Abdi | 27.50 |
-| 3 | Ramadan Omeirat | 24.50 |
-| 4 | Mattis Gemzell | 24.00 |
-| 5 | Leo Wall | 23.83 |
-| 6 | Noah Lansler | 20.00 |
-| 7 | Axel Hasewinkel | 19.27 |
-| 8 | Alexander Tinnerholm | 18.20 |
-| 9 | Kelvin Hansson Sjöö | 18.00 |
-| 10 | Danilo Pantic | 17.09 |
+| 1 | [Gustaf Högenberg](hu15b_vår_team_2.md) | 36.75 |
+| 2 | [Mohamed Abdi](hu15b_vår_team_3.md) | 27.50 |
+| 3 | [Ramadan Omeirat](hu15b_vår_team_7.md) | 24.50 |
+| 4 | [Mattis Gemzell](hu15b_vår_team_2.md) | 24.00 |
+| 5 | [Leo Wall](hu15b_vår_team_5.md) | 23.83 |
+| 6 | [Noah Lansler](hu15b_vår_team_1.md) | 20.00 |
+| 7 | [Axel Hasewinkel](hu15b_vår_team_4.md) | 19.27 |
+| 8 | [Alexander Tinnerholm](hu15b_vår_team_1.md) | 18.20 |
+| 9 | [Kelvin Hansson Sjöö](hu15b_vår_team_1.md) | 18.00 |
+| 10 | [Danilo Pantic](hu15b_vår_team_2.md) | 17.09 |
 
 ### 2P made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Gustaf Högenberg | 12.50 |
-| 2 | Mohamed Abdi | 11.83 |
-| 3 | Leo Wall | 11.17 |
-| 4 | Noah Lansler | 10.00 |
-| 5 | Axel Hasewinkel | 8.82 |
-| 6 | Ramadan Omeirat | 8.50 |
-| 7 | Mattis Gemzell | 8.30 |
-| 8 | Alexander Tinnerholm | 7.80 |
-| 9 | Gabriel Velazco Salvo | 7.00 |
-| 10 | Aleksa Vladisavljevic | 6.64 |
+| 1 | [Gustaf Högenberg](hu15b_vår_team_2.md) | 12.50 |
+| 2 | [Mohamed Abdi](hu15b_vår_team_3.md) | 11.83 |
+| 3 | [Leo Wall](hu15b_vår_team_5.md) | 11.17 |
+| 4 | [Noah Lansler](hu15b_vår_team_1.md) | 10.00 |
+| 5 | [Axel Hasewinkel](hu15b_vår_team_4.md) | 8.82 |
+| 6 | [Ramadan Omeirat](hu15b_vår_team_7.md) | 8.50 |
+| 7 | [Mattis Gemzell](hu15b_vår_team_2.md) | 8.30 |
+| 8 | [Alexander Tinnerholm](hu15b_vår_team_1.md) | 7.80 |
+| 9 | [Gabriel Velazco Salvo](hu15b_vår_team_4.md) | 7.00 |
+| 10 | [Aleksa Vladisavljevic](hu15b_vår_team_1.md) | 6.64 |
 
 ### 3P made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Gustaf Högenberg | 3.12 |
-| 2 | Ramadan Omeirat | 2.00 |
-| 3 | Elias Ahlin Löfgren | 1.80 |
-| 4 | Vinton Gertmo | 1.64 |
-| 5 | Kelvin Hansson Sjöö | 1.50 |
-| 5 | Viggo Fältjäger | 1.50 |
-| 7 | Azad Akgun | 1.44 |
-| 8 | Danilo Pantic | 1.36 |
-| 9 | Julian Friis | 1.33 |
-| 10 | Jonatan Birath | 1.29 |
+| 1 | [Gustaf Högenberg](hu15b_vår_team_2.md) | 3.12 |
+| 2 | [Ramadan Omeirat](hu15b_vår_team_7.md) | 2.00 |
+| 3 | [Elias Ahlin Löfgren](hu15b_vår_team_6.md) | 1.80 |
+| 4 | [Vinton Gertmo](hu15b_vår_team_6.md) | 1.64 |
+| 5 | [Kelvin Hansson Sjöö](hu15b_vår_team_1.md) | 1.50 |
+| 5 | [Viggo Fältjäger](hu15b_vår_team_4.md) | 1.50 |
+| 7 | [Azad Akgun](hu15b_vår_team_7.md) | 1.44 |
+| 8 | [Danilo Pantic](hu15b_vår_team_2.md) | 1.36 |
+| 9 | [Julian Friis](hu15b_vår_team_1.md) | 1.33 |
+| 10 | [Jonatan Birath](hu15b_vår_team_1.md) | 1.29 |
 
 ### Free throws made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Mattis Gemzell | 4.40 |
-| 2 | Mohamed Abdi | 2.58 |
-| 3 | Gustaf Högenberg | 2.38 |
-| 4 | Douglas Helm | 2.25 |
-| 5 | Vinton Gertmo | 2.18 |
-| 6 | Lucas Jatko | 2.00 |
-| 7 | Albin Zenkic | 1.80 |
-| 8 | Danilo Pantic | 1.73 |
-| 9 | Leo Wall | 1.50 |
-| 9 | Ramadan Omeirat | 1.50 |
+| 1 | [Mattis Gemzell](hu15b_vår_team_2.md) | 4.40 |
+| 2 | [Mohamed Abdi](hu15b_vår_team_3.md) | 2.58 |
+| 3 | [Gustaf Högenberg](hu15b_vår_team_2.md) | 2.38 |
+| 4 | [Douglas Helm](hu15b_vår_team_1.md) | 2.25 |
+| 5 | [Vinton Gertmo](hu15b_vår_team_6.md) | 2.18 |
+| 6 | [Lucas Jatko](hu15b_vår_team_5.md) | 2.00 |
+| 7 | [Albin Zenkic](hu15b_vår_team_5.md) | 1.80 |
+| 8 | [Danilo Pantic](hu15b_vår_team_2.md) | 1.73 |
+| 9 | [Ramadan Omeirat](hu15b_vår_team_7.md) | 1.50 |
+| 9 | [Leo Wall](hu15b_vår_team_5.md) | 1.50 |
 

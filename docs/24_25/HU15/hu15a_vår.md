@@ -16,63 +16,63 @@
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Axel Gustafsson | 18.40 |
-| 2 | Harley Gustafsson | 18.14 |
-| 3 | Sean Mabuti Alingcastre | 17.75 |
-| 4 | Olle Lindell Skoglund | 16.60 |
-| 5 | Charlie Lindblom | 16.25 |
-| 6 | August Bell | 14.33 |
-| 7 | Henry Mälbrink | 14.00 |
-| 8 | Sem Bons Häll | 13.67 |
-| 9 | Hugo Mjögeman | 13.00 |
-| 10 | Aro Kader | 12.57 |
+| 1 | [Axel Gustafsson](hu15a_vår_team_2.md) | 18.40 |
+| 2 | [Harley Gustafsson](hu15a_vår_team_3.md) | 18.14 |
+| 3 | [Sean Mabuti Alingcastre](hu15a_vår_team_4.md) | 17.75 |
+| 4 | [Olle Lindell Skoglund](hu15a_vår_team_5.md) | 16.60 |
+| 5 | [Charlie Lindblom](hu15a_vår_team_4.md) | 16.25 |
+| 6 | [August Bell](hu15a_vår_team_1.md) | 14.33 |
+| 7 | [Henry Mälbrink](hu15a_vår_team_2.md) | 14.00 |
+| 8 | [Sem Bons Häll](hu15a_vår_team_5.md) | 13.67 |
+| 9 | [Hugo Mjögeman](hu15a_vår_team_2.md) | 13.00 |
+| 10 | [Aro Kader](hu15a_vår_team_2.md) | 12.57 |
 
 ### 2P made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Harley Gustafsson | 6.43 |
-| 2 | Olle Lindell Skoglund | 6.20 |
-| 3 | August Bell | 6.00 |
-| 3 | Axel Gustafsson | 6.00 |
-| 5 | Hugo Mjögeman | 5.00 |
-| 6 | Elias Magnusson | 4.88 |
-| 6 | William Aadland | 4.88 |
-| 8 | Aro Kader | 4.71 |
-| 9 | Sean Mabuti Alingcastre | 4.38 |
-| 10 | Hjalmar Valberg | 4.25 |
-| 10 | Charlie Lindblom | 4.25 |
-| 10 | Henry Mälbrink | 4.25 |
+| 1 | [Harley Gustafsson](hu15a_vår_team_3.md) | 6.43 |
+| 2 | [Olle Lindell Skoglund](hu15a_vår_team_5.md) | 6.20 |
+| 3 | [August Bell](hu15a_vår_team_1.md) | 6.00 |
+| 3 | [Axel Gustafsson](hu15a_vår_team_2.md) | 6.00 |
+| 5 | [Hugo Mjögeman](hu15a_vår_team_2.md) | 5.00 |
+| 6 | [Elias Magnusson](hu15a_vår_team_1.md) | 4.88 |
+| 6 | [William Aadland](hu15a_vår_team_1.md) | 4.88 |
+| 8 | [Aro Kader](hu15a_vår_team_2.md) | 4.71 |
+| 9 | [Sean Mabuti Alingcastre](hu15a_vår_team_4.md) | 4.38 |
+| 10 | [Charlie Lindblom](hu15a_vår_team_4.md) | 4.25 |
+| 10 | [Hjalmar Valberg](hu15a_vår_team_1.md) | 4.25 |
+| 10 | [Henry Mälbrink](hu15a_vår_team_2.md) | 4.25 |
 
 ### 3P made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Ossian Bernström | 3.20 |
-| 2 | Sean Mabuti Alingcastre | 2.38 |
-| 3 | Charlie Lindblom | 2.00 |
-| 4 | Theodor Wallin | 1.88 |
-| 5 | Oscar Sjölander | 1.71 |
-| 6 | Sem Bons Häll | 1.67 |
-| 7 | Axel Gustafsson | 1.40 |
-| 8 | Emil Järvinen | 1.33 |
-| 9 | Harley Gustafsson | 1.00 |
-| 9 | Rasmus Lannér Dybeck | 1.00 |
-| 9 | Henry Mälbrink | 1.00 |
-| 9 | Hugo Mjögeman | 1.00 |
+| 1 | [Ossian Bernström](hu15a_vår_team_5.md) | 3.20 |
+| 2 | [Sean Mabuti Alingcastre](hu15a_vår_team_4.md) | 2.38 |
+| 3 | [Charlie Lindblom](hu15a_vår_team_4.md) | 2.00 |
+| 4 | [Theodor Wallin](hu15a_vår_team_4.md) | 1.88 |
+| 5 | [Oscar Sjölander](hu15a_vår_team_3.md) | 1.71 |
+| 6 | [Sem Bons Häll](hu15a_vår_team_5.md) | 1.67 |
+| 7 | [Axel Gustafsson](hu15a_vår_team_2.md) | 1.40 |
+| 8 | [Emil Järvinen](hu15a_vår_team_4.md) | 1.33 |
+| 9 | [Harley Gustafsson](hu15a_vår_team_3.md) | 1.00 |
+| 9 | [Rasmus Lannér Dybeck](hu15a_vår_team_5.md) | 1.00 |
+| 9 | [Henry Mälbrink](hu15a_vår_team_2.md) | 1.00 |
+| 9 | [Hugo Mjögeman](hu15a_vår_team_2.md) | 1.00 |
 
 ### Free throws made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | Henry Mälbrink | 2.50 |
-| 2 | Olle Lindell Skoglund | 2.40 |
-| 3 | Harley Gustafsson | 2.29 |
-| 4 | Adam Lund Olsson | 2.20 |
-| 4 | Axel Gustafsson | 2.20 |
-| 6 | Malcom Sempf | 2.00 |
-| 7 | Sean Mabuti Alingcastre | 1.88 |
-| 8 | Neo Geismar | 1.80 |
-| 8 | Jesper Lundgren | 1.80 |
-| 10 | Charlie Lindblom | 1.75 |
+| 1 | [Henry Mälbrink](hu15a_vår_team_2.md) | 2.50 |
+| 2 | [Olle Lindell Skoglund](hu15a_vår_team_5.md) | 2.40 |
+| 3 | [Harley Gustafsson](hu15a_vår_team_3.md) | 2.29 |
+| 4 | [Adam Lund Olsson](hu15a_vår_team_5.md) | 2.20 |
+| 4 | [Axel Gustafsson](hu15a_vår_team_2.md) | 2.20 |
+| 6 | [Malcom Sempf](hu15a_vår_team_1.md) | 2.00 |
+| 7 | [Sean Mabuti Alingcastre](hu15a_vår_team_4.md) | 1.88 |
+| 8 | [Neo Geismar](hu15a_vår_team_2.md) | 1.80 |
+| 8 | [Jesper Lundgren](hu15a_vår_team_2.md) | 1.80 |
+| 10 | [Charlie Lindblom](hu15a_vår_team_4.md) | 1.75 |
 
