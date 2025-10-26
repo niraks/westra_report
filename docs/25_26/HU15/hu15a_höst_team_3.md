@@ -4,21 +4,23 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kungsbacka Basket Blå | 2 | 77.50 | 30.50 | 3.50 | 6.00 | 17.00 |
+| Kungsbacka Basket Blå | 3 | 77.33 | 31.33 | 2.67 | 6.67 | 15.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Filip Berndtsson | 2 | 28.50 | 12.50 | 0.00 | 3.50 | 3.50 |
-| Eric Svensson | 2 | 17.50 | 6.00 | 1.50 | 1.00 | 1.00 |
+| Filip Berndtsson | 3 | 28.67 | 12.67 | 0.00 | 3.33 | 3.00 |
+| Eric Svensson | 3 | 18.33 | 6.67 | 1.00 | 2.00 | 1.00 |
+| Malcom Truija Wellington | 1 | 10.00 | 3.00 | 1.00 | 1.00 | 0.00 |
 | Wassem Al Hafez | 2 | 9.00 | 3.00 | 1.00 | 0.00 | 1.50 |
-| Algot Bui-Ljungqvist | 1 | 8.00 | 4.00 | 0.00 | 0.00 | 4.00 |
-| Dylan Lian | 1 | 7.00 | 1.00 | 1.00 | 2.00 | 1.00 |
-| Evan Fredriksson | 2 | 6.00 | 3.00 | 0.00 | 0.00 | 0.00 |
-| Eddy Kristofersson | 2 | 5.00 | 2.50 | 0.00 | 0.00 | 3.50 |
+| Algot Bui-Ljungqvist | 2 | 6.00 | 3.00 | 0.00 | 0.00 | 2.50 |
+| Dylan Lian | 2 | 5.50 | 1.50 | 0.50 | 1.00 | 0.50 |
+| Evan Fredriksson | 3 | 4.67 | 2.33 | 0.00 | 0.00 | 0.33 |
+| Eddy Kristofersson | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 3.67 |
 | Melker Näsström | 2 | 2.50 | 0.50 | 0.50 | 0.00 | 1.50 |
-| Oskar Armini Lönberg | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 3.50 |
+| Oskar Armini Lönberg | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 3.00 |
+| Kristijonas Alminas | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
 | Nils Martinsson | 1 | 1.00 | 0.00 | 0.00 | 1.00 | 0.00 |
 
 ## Games
@@ -53,4 +55,20 @@ Players (sorted by points)
 | Wassem Al Hafez |  2 |  1 |  0 |  0 |  1 |
 | Nils Martinsson |  1 |  0 |  0 |  1 |  0 |
 | Melker Näsström |  0 |  0 |  0 |  0 |  2 |
+
+### Kungsbacka Basket Blå - Ale Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Filip Berndtsson | 29 | 13 |  0 |  3 |  2 |
+| Eric Svensson | 20 |  8 |  0 |  4 |  1 |
+| Malcom Truija Wellington | 10 |  3 |  1 |  1 |  0 |
+| Dylan Lian |  4 |  2 |  0 |  0 |  0 |
+| Oskar Armini Lönberg |  4 |  2 |  0 |  0 |  2 |
+| Algot Bui-Ljungqvist |  4 |  2 |  0 |  0 |  1 |
+| Eddy Kristofersson |  2 |  1 |  0 |  0 |  4 |
+| Evan Fredriksson |  2 |  1 |  0 |  0 |  1 |
+| Kristijonas Alminas |  2 |  1 |  0 |  0 |  0 |
 

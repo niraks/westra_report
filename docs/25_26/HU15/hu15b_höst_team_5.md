@@ -4,28 +4,30 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| S:t Helena BK - Vit | 3 | 58.00 | 23.67 | 1.33 | 6.67 | 15.33 |
+| S:t Helena BK - Vit | 4 | 56.75 | 22.25 | 1.75 | 7.00 | 14.25 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Henning Lundberg | 2 | 14.50 | 5.50 | 0.50 | 2.00 | 3.00 |
-| Theo Kolicic | 3 | 13.33 | 6.33 | 0.00 | 0.67 | 2.33 |
-| Johan Montin | 2 | 11.00 | 5.00 | 0.00 | 1.00 | 3.50 |
+| Henning Lundberg | 3 | 13.67 | 4.67 | 1.00 | 1.33 | 3.33 |
+| Theo Kolicic | 4 | 12.25 | 5.75 | 0.00 | 0.75 | 1.75 |
+| Johan Montin | 3 | 10.67 | 5.00 | 0.00 | 0.67 | 3.00 |
 | Lion Ingvall | 3 | 9.33 | 2.33 | 1.00 | 1.67 | 3.33 |
-| Donatas Auryla | 2 | 7.00 | 3.00 | 0.00 | 1.00 | 0.50 |
 | Albert Edvinsson | 2 | 6.50 | 3.00 | 0.00 | 0.50 | 0.50 |
-| Gustav Sahlberg | 2 | 3.50 | 1.50 | 0.00 | 0.50 | 1.50 |
+| Gustav Sahlberg | 3 | 5.67 | 2.00 | 0.00 | 1.67 | 2.33 |
+| Donatas Auryla | 3 | 5.00 | 2.00 | 0.00 | 1.00 | 0.33 |
 | Mailo Ajax | 3 | 3.33 | 1.67 | 0.00 | 0.00 | 0.00 |
 | Arthur Eriksson | 2 | 2.50 | 1.00 | 0.00 | 0.50 | 0.50 |
 | Luka Lukic | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
+| Arvid Hogström | 1 | 2.00 | 0.00 | 0.00 | 2.00 | 0.00 |
+| Muhammed Zuna | 3 | 1.67 | 0.33 | 0.33 | 0.00 | 1.33 |
+| William Landenmark | 3 | 1.67 | 0.67 | 0.00 | 0.33 | 0.33 |
 | Amar Kocevic | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.50 |
 | Vincent Ageton | 2 | 0.50 | 0.00 | 0.00 | 0.50 | 0.50 |
-| William Landenmark | 2 | 0.50 | 0.00 | 0.00 | 0.50 | 0.50 |
 | Victor Santana | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
-| Muhammed Zuna | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
 | Linus Samuelsson Andersson | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Gustaf Brandshage | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 
 ## Games
 
@@ -82,4 +84,20 @@ Players (sorted by points)
 | Arthur Eriksson |  2 |  1 |  0 |  0 |  1 |
 | Luka Lukic |  2 |  1 |  0 |  0 |  0 |
 | William Landenmark |  0 |  0 |  0 |  0 |  1 |
+
+### S:t Helena BK - Vit - Gota Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Henning Lundberg | 12 |  3 |  2 |  0 |  4 |
+| Gustav Sahlberg | 10 |  3 |  0 |  4 |  4 |
+| Johan Montin | 10 |  5 |  0 |  0 |  2 |
+| Theo Kolicic |  9 |  4 |  0 |  1 |  0 |
+| Muhammed Zuna |  5 |  1 |  1 |  0 |  0 |
+| William Landenmark |  4 |  2 |  0 |  0 |  0 |
+| Arvid Hogström |  2 |  0 |  0 |  2 |  0 |
+| Donatas Auryla |  1 |  0 |  0 |  1 |  0 |
+| Gustaf Brandshage |  0 |  0 |  0 |  0 |  1 |
 

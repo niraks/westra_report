@@ -4,24 +4,24 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ale Basket | 3 | 92.67 | 34.67 | 3.33 | 13.33 | 18.00 |
+| Ale Basket | 4 | 91.25 | 34.75 | 3.25 | 12.00 | 18.25 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Charlie Lindblom | 3 | 32.33 | 8.33 | 3.00 | 6.67 | 2.00 |
-| Robin Hysén | 2 | 18.50 | 8.50 | 0.00 | 1.50 | 0.50 |
-| Fabian Hjärtinge | 1 | 14.00 | 5.00 | 0.00 | 4.00 | 4.00 |
-| Edvin Harbas | 3 | 12.33 | 6.00 | 0.00 | 0.33 | 3.00 |
-| Noah Nilsson | 2 | 11.00 | 5.50 | 0.00 | 0.00 | 3.00 |
-| Emil Järvinen | 3 | 9.33 | 3.00 | 0.33 | 2.33 | 2.67 |
-| Bakir Hasanovic | 3 | 5.67 | 2.67 | 0.00 | 0.33 | 2.67 |
-| Jack Kilany | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 0.00 |
-| David Franco Weihe | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 1.33 |
+| Charlie Lindblom | 4 | 28.00 | 7.50 | 2.25 | 6.25 | 2.25 |
+| Robin Hysén | 3 | 21.67 | 10.33 | 0.00 | 1.00 | 0.67 |
+| Fabian Hjärtinge | 2 | 16.50 | 6.50 | 0.00 | 3.50 | 3.50 |
+| Edvin Harbas | 4 | 9.75 | 4.75 | 0.00 | 0.25 | 3.00 |
+| Emil Järvinen | 4 | 8.75 | 2.75 | 0.50 | 1.75 | 3.25 |
+| Noah Nilsson | 3 | 8.00 | 4.00 | 0.00 | 0.00 | 2.33 |
+| David Franco Weihe | 4 | 5.50 | 1.75 | 0.50 | 0.50 | 1.50 |
+| Bakir Hasanovic | 4 | 4.75 | 2.25 | 0.00 | 0.25 | 2.00 |
+| Jack Kilany | 4 | 2.50 | 1.00 | 0.00 | 0.50 | 0.25 |
 | Oscar Jansson | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
-| Alvin Nylén | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.00 |
-| Anton Hjärn | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.67 |
+| Alvin Nylén | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.67 |
+| Anton Hjärn | 4 | 0.50 | 0.25 | 0.00 | 0.00 | 1.25 |
 
 ## Games
 
@@ -74,4 +74,22 @@ Players (sorted by points)
 | Bakir Hasanovic |  4 |  2 |  0 |  0 |  2 |
 | Anton Hjärn |  2 |  1 |  0 |  0 |  3 |
 | Alvin Nylén |  2 |  1 |  0 |  0 |  2 |
+
+### Kungsbacka Basket Blå - Ale Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Robin Hysén | 28 | 14 |  0 |  0 |  1 |
+| Fabian Hjärtinge | 19 |  8 |  0 |  3 |  3 |
+| Charlie Lindblom | 15 |  5 |  0 |  5 |  3 |
+| David Franco Weihe | 12 |  3 |  2 |  0 |  2 |
+| Emil Järvinen |  7 |  2 |  1 |  0 |  5 |
+| Edvin Harbas |  2 |  1 |  0 |  0 |  3 |
+| Bakir Hasanovic |  2 |  1 |  0 |  0 |  0 |
+| Noah Nilsson |  2 |  1 |  0 |  0 |  1 |
+| Anton Hjärn |  0 |  0 |  0 |  0 |  0 |
+| Alvin Nylén |  0 |  0 |  0 |  0 |  0 |
+| Jack Kilany |  0 |  0 |  0 |  0 |  1 |
 

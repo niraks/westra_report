@@ -10,7 +10,7 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ture Knutsson | 3 | 24.33 | 7.33 | 2.33 | 2.67 | 1.33 |
+| Ture Skoglund Knutsson | 3 | 24.33 | 7.33 | 2.33 | 2.67 | 1.33 |
 | Sigge Benerfalk | 3 | 24.00 | 8.33 | 1.67 | 2.33 | 1.67 |
 | Valdemar Säwström | 3 | 19.00 | 7.67 | 1.00 | 0.67 | 1.33 |
 | Elias Hurtigh | 3 | 14.00 | 3.67 | 2.00 | 0.67 | 3.00 |
@@ -28,7 +28,7 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Ture Knutsson | 27 |  7 |  3 |  4 |  3 |
+| Ture Skoglund Knutsson | 27 |  7 |  3 |  4 |  3 |
 | Sigge Benerfalk | 20 |  7 |  1 |  3 |  2 |
 | Valdemar Säwström | 20 | 10 |  0 |  0 |  0 |
 | Elias Hurtigh | 16 |  7 |  0 |  2 |  3 |
@@ -44,7 +44,7 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Ture Knutsson | 25 |  9 |  2 |  1 |  1 |
+| Ture Skoglund Knutsson | 25 |  9 |  2 |  1 |  1 |
 | Sigge Benerfalk | 24 |  5 |  4 |  2 |  2 |
 | Valdemar Säwström | 19 |  9 |  0 |  1 |  2 |
 | Mattis Svedberg | 13 |  5 |  1 |  0 |  1 |
@@ -61,7 +61,7 @@ Players (sorted by points)
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
 | Sigge Benerfalk | 28 | 13 |  0 |  2 |  1 |
-| Ture Knutsson | 21 |  6 |  2 |  3 |  0 |
+| Ture Skoglund Knutsson | 21 |  6 |  2 |  3 |  0 |
 | Elias Hurtigh | 18 |  3 |  4 |  0 |  4 |
 | Valdemar Säwström | 18 |  4 |  3 |  1 |  2 |
 | Axel Wenna | 15 |  4 |  2 |  1 |  1 |

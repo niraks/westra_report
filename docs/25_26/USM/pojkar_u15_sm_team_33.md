@@ -1,88 +1,76 @@
-# Statistics for S:t Helena BK
+# Statistics for WestCoast Basketförening
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| S:t Helena BK | 3 | 48.00 | 17.00 | 2.00 | 8.00 | 13.00 |
+| WestCoast Basketförening | 3 | 48.00 | 20.00 | 1.33 | 4.00 | 19.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Theo Kolicic | 3 | 11.00 | 4.33 | 0.33 | 1.33 | 2.67 |
-| Lion Ingvall | 3 | 11.00 | 3.67 | 0.67 | 1.67 | 2.67 |
-| Henning Lundberg | 3 | 9.33 | 2.33 | 0.67 | 2.67 | 2.00 |
-| Johan Montin | 3 | 6.33 | 3.00 | 0.00 | 0.33 | 2.33 |
-| Albert Edvinsson | 2 | 5.50 | 2.50 | 0.00 | 0.50 | 0.50 |
-| Amar Kocevic | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
-| Arthur Eriksson | 3 | 1.67 | 0.33 | 0.33 | 0.00 | 0.00 |
-| William Landenmark | 3 | 1.67 | 0.67 | 0.00 | 0.33 | 1.00 |
-| Gustav Sahlberg | 3 | 1.33 | 0.33 | 0.00 | 0.67 | 1.33 |
-| Vincent Ageton | 3 | 0.67 | 0.00 | 0.00 | 0.67 | 0.00 |
-| Gustaf Brandshage | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Victor Santana | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Muhammed Zuna | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Mailo Ajax | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Linus Samuelsson Andersson | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Niko Kemismoljanec | 3 | 12.67 | 4.33 | 1.33 | 0.00 | 2.00 |
+| Noah Henrik Burmann | 3 | 9.00 | 4.33 | 0.00 | 0.33 | 3.00 |
+| Nikolaj Milutinovic | 3 | 8.67 | 4.00 | 0.00 | 0.67 | 3.33 |
+| Amjad Abuhasanein | 3 | 5.33 | 2.33 | 0.00 | 0.67 | 2.33 |
+| Niels Schneider | 3 | 4.33 | 2.00 | 0.00 | 0.33 | 2.00 |
+| Anakin Nellbro | 3 | 2.67 | 0.67 | 0.00 | 1.33 | 2.33 |
+| Vidar Ramberg | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 0.33 |
+| Bille Abdi | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 2.67 |
+| Ivan Svensk | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 0.33 |
+| Aime Dafe | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.67 |
 
 ## Games
 
-### KFUM Örebro Basket - S:t Helena BK
+### Hammarby - WestCoast Basketförening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Theo Kolicic | 13 |  6 |  0 |  1 |  0 |
-| Lion Ingvall |  9 |  2 |  1 |  2 |  2 |
-| William Landenmark |  5 |  2 |  0 |  1 |  0 |
-| Henning Lundberg |  3 |  1 |  0 |  1 |  1 |
-| Johan Montin |  2 |  1 |  0 |  0 |  3 |
-| Vincent Ageton |  1 |  0 |  0 |  1 |  0 |
-| Gustav Sahlberg |  1 |  0 |  0 |  1 |  0 |
-| Gustaf Brandshage |  0 |  0 |  0 |  0 |  0 |
-| Victor Santana |  0 |  0 |  0 |  0 |  0 |
-| Muhammed Zuna |  0 |  0 |  0 |  0 |  0 |
-| Arthur Eriksson |  0 |  0 |  0 |  0 |  0 |
-| Albert Edvinsson |  0 |  0 |  0 |  0 |  0 |
-| Mailo Ajax |  0 |  0 |  0 |  0 |  0 |
+| Noah Henrik Burmann | 10 |  5 |  0 |  0 |  2 |
+| Niko Kemismoljanec |  9 |  3 |  1 |  0 |  1 |
+| Vidar Ramberg |  7 |  3 |  0 |  1 |  1 |
+| Nikolaj Milutinovic |  6 |  3 |  0 |  0 |  4 |
+| Amjad Abuhasanein |  3 |  1 |  0 |  1 |  3 |
+| Aime Dafe |  0 |  0 |  0 |  0 |  0 |
+| Bille Abdi |  0 |  0 |  0 |  0 |  1 |
+| Ivan Svensk |  0 |  0 |  0 |  0 |  0 |
+| Niels Schneider |  0 |  0 |  0 |  0 |  1 |
+| Anakin Nellbro |  0 |  0 |  0 |  0 |  3 |
 
-### S:t Helena BK - Malbas Svart
+### WestCoast Basketförening - AIK
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Johan Montin | 14 |  7 |  0 |  0 |  2 |
-| Henning Lundberg | 13 |  4 |  0 |  5 |  3 |
-| Theo Kolicic | 12 |  4 |  1 |  1 |  3 |
-| Albert Edvinsson | 11 |  5 |  0 |  1 |  1 |
-| Lion Ingvall |  8 |  4 |  0 |  0 |  4 |
-| Arthur Eriksson |  5 |  1 |  1 |  0 |  0 |
-| Amar Kocevic |  2 |  1 |  0 |  0 |  2 |
-| Vincent Ageton |  1 |  0 |  0 |  1 |  0 |
-| Gustav Sahlberg |  1 |  0 |  0 |  1 |  2 |
-| William Landenmark |  0 |  0 |  0 |  0 |  1 |
-| Mailo Ajax |  0 |  0 |  0 |  0 |  0 |
-| Linus Samuelsson Andersson |  0 |  0 |  0 |  0 |  0 |
+| Niko Kemismoljanec | 14 |  4 |  2 |  0 |  1 |
+| Noah Henrik Burmann | 11 |  5 |  0 |  1 |  2 |
+| Nikolaj Milutinovic | 10 |  5 |  0 |  0 |  4 |
+| Anakin Nellbro |  6 |  1 |  0 |  4 |  2 |
+| Bille Abdi |  2 |  1 |  0 |  0 |  3 |
+| Niels Schneider |  2 |  1 |  0 |  0 |  4 |
+| Amjad Abuhasanein |  2 |  1 |  0 |  0 |  1 |
+| Vidar Ramberg |  0 |  0 |  0 |  0 |  0 |
+| Aime Dafe |  0 |  0 |  0 |  0 |  1 |
+| Ivan Svensk |  0 |  0 |  0 |  0 |  1 |
 
-### Lerums Basket Förening - S:t Helena BK
+### Oskarshamns Basketbollklubb - WestCoast Basketförening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Lion Ingvall | 16 |  5 |  1 |  3 |  2 |
-| Henning Lundberg | 12 |  2 |  2 |  2 |  2 |
-| Theo Kolicic |  8 |  3 |  0 |  2 |  5 |
-| Johan Montin |  3 |  1 |  0 |  1 |  2 |
-| Amar Kocevic |  2 |  1 |  0 |  0 |  0 |
-| Gustav Sahlberg |  2 |  1 |  0 |  0 |  2 |
-| Vincent Ageton |  0 |  0 |  0 |  0 |  0 |
-| Victor Santana |  0 |  0 |  0 |  0 |  0 |
-| Muhammed Zuna |  0 |  0 |  0 |  0 |  0 |
-| Arthur Eriksson |  0 |  0 |  0 |  0 |  0 |
-| William Landenmark |  0 |  0 |  0 |  0 |  2 |
-| Linus Samuelsson Andersson |  0 |  0 |  0 |  0 |  0 |
+| Niko Kemismoljanec | 15 |  6 |  1 |  0 |  4 |
+| Niels Schneider | 11 |  5 |  0 |  1 |  1 |
+| Amjad Abuhasanein | 11 |  5 |  0 |  1 |  3 |
+| Nikolaj Milutinovic | 10 |  4 |  0 |  2 |  2 |
+| Noah Henrik Burmann |  6 |  3 |  0 |  0 |  5 |
+| Bille Abdi |  4 |  2 |  0 |  0 |  4 |
+| Ivan Svensk |  3 |  1 |  0 |  1 |  0 |
+| Anakin Nellbro |  2 |  1 |  0 |  0 |  2 |
+| Vidar Ramberg |  0 |  0 |  0 |  0 |  0 |
+| Aime Dafe |  0 |  0 |  0 |  0 |  1 |
 

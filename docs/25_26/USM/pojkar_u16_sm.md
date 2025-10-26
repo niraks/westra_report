@@ -58,19 +58,19 @@
 | 7 | [Harley Gustafsson](pojkar_u16_sm_team_20.md) | 25.33 |
 | 8 | [Mio Bergqvist](pojkar_u16_sm_team_3.md) | 24.67 |
 | 9 | [Rance Manu](pojkar_u16_sm_team_38.md) | 24.50 |
-| 10 | [Ture Knutsson](pojkar_u16_sm_team_1.md) | 24.33 |
 | 10 | [Rasmus Edenvik](pojkar_u16_sm_team_23.md) | 24.33 |
+| 10 | [Ture Skoglund Knutsson](pojkar_u16_sm_team_1.md) | 24.33 |
 
 ### 2P made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
 | 1 | [Bob Berggren](pojkar_u16_sm_team_7.md) | 19.33 |
-| 2 | [Adrian Döme](pojkar_u16_sm_team_4.md) | 10.33 |
 | 2 | [Algot Bråhammar](pojkar_u16_sm_team_3.md) | 10.33 |
+| 2 | [Adrian Döme](pojkar_u16_sm_team_4.md) | 10.33 |
 | 4 | [Rance Manu](pojkar_u16_sm_team_38.md) | 10.00 |
-| 5 | [Rasmus Edenvik](pojkar_u16_sm_team_23.md) | 9.00 |
 | 5 | [Gustav Dundeberg](pojkar_u16_sm_team_17.md) | 9.00 |
+| 5 | [Rasmus Edenvik](pojkar_u16_sm_team_23.md) | 9.00 |
 | 5 | [Harley Gustafsson](pojkar_u16_sm_team_20.md) | 9.00 |
 | 5 | [Ture Ljunggren](pojkar_u16_sm_team_16.md) | 9.00 |
 | 9 | [Noah Grahn Gustafsson](pojkar_u16_sm_team_4.md) | 8.33 |
@@ -89,9 +89,9 @@
 | 6 | [Eli Aggesjö](pojkar_u16_sm_team_15.md) | 2.67 |
 | 6 | [Jonathan Laurin](pojkar_u16_sm_team_13.md) | 2.67 |
 | 9 | [Eli Andersson](pojkar_u16_sm_team_3.md) | 2.33 |
-| 9 | [Ture Knutsson](pojkar_u16_sm_team_1.md) | 2.33 |
 | 9 | [Arvid Kling](pojkar_u16_sm_team_23.md) | 2.33 |
 | 9 | [Algot Lindberg](pojkar_u16_sm_team_13.md) | 2.33 |
+| 9 | [Ture Skoglund Knutsson](pojkar_u16_sm_team_1.md) | 2.33 |
 
 ### Free throws made per game
 
@@ -100,12 +100,12 @@
 | 1 | [Eli Aggesjö](pojkar_u16_sm_team_15.md) | 10.33 |
 | 2 | [Bob Berggren](pojkar_u16_sm_team_7.md) | 9.33 |
 | 3 | [Alvin Vuckic](pojkar_u16_sm_team_11.md) | 7.00 |
-| 4 | [Adrian Döme](pojkar_u16_sm_team_4.md) | 6.67 |
 | 4 | [Algot Bråhammar](pojkar_u16_sm_team_3.md) | 6.67 |
+| 4 | [Adrian Döme](pojkar_u16_sm_team_4.md) | 6.67 |
 | 6 | [Eliel Lonsa Kanda](pojkar_u16_sm_team_25.md) | 6.00 |
 | 7 | [Mio Bergqvist](pojkar_u16_sm_team_3.md) | 5.33 |
-| 7 | [Melker Halldin Lindskog](pojkar_u16_sm_team_18.md) | 5.33 |
 | 7 | [Harley Gustafsson](pojkar_u16_sm_team_20.md) | 5.33 |
+| 7 | [Melker Halldin Lindskog](pojkar_u16_sm_team_18.md) | 5.33 |
 | 10 | [Axel Curry](pojkar_u16_sm_team_5.md) | 5.00 |
 | 10 | [Felix Plaksin](pojkar_u16_sm_team_8.md) | 5.00 |
 
