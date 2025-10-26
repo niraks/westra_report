@@ -4,27 +4,28 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kvarnby Basket Gul | 3 | 62.33 | 24.00 | 2.00 | 8.33 | 12.00 |
+| Kvarnby Basket Gul | 4 | 62.50 | 23.25 | 2.25 | 9.25 | 10.25 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
 | Gustav Setterberg | 2 | 21.50 | 9.00 | 0.50 | 2.00 | 2.50 |
-| Sixten Offerle | 3 | 10.33 | 3.67 | 0.33 | 2.00 | 0.67 |
-| Kasper Hallberg | 3 | 10.00 | 4.67 | 0.00 | 0.67 | 0.33 |
+| Liam Kim Börjesson | 2 | 13.00 | 5.50 | 0.00 | 2.00 | 1.00 |
+| Noel Dalgärde | 1 | 12.00 | 5.00 | 0.00 | 2.00 | 0.00 |
 | Aravind Sreenivas | 1 | 10.00 | 5.00 | 0.00 | 0.00 | 1.00 |
-| Liam Kim Börjesson | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 1.00 |
+| Sixten Offerle | 4 | 9.75 | 3.00 | 0.75 | 1.50 | 0.50 |
+| Kasper Hallberg | 4 | 9.50 | 4.25 | 0.00 | 1.00 | 1.00 |
 | Leon Doormann | 3 | 5.67 | 2.33 | 0.33 | 0.00 | 1.33 |
-| Eliott Bordes | 2 | 4.50 | 2.00 | 0.00 | 0.50 | 3.50 |
-| Ville Ek | 3 | 3.33 | 0.67 | 0.00 | 2.00 | 0.00 |
+| Ville Ek | 4 | 4.25 | 0.75 | 0.25 | 2.00 | 0.00 |
+| Eliott Bordes | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 2.33 |
 | Filip Förstberg | 2 | 3.00 | 0.00 | 1.00 | 0.00 | 0.50 |
+| Einar Fors | 3 | 3.00 | 1.00 | 0.00 | 1.00 | 1.00 |
 | Leo Hashemi | 1 | 3.00 | 1.00 | 0.00 | 1.00 | 1.00 |
 | Andrija Savic | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 0.33 |
-| Einar Fors | 2 | 2.50 | 0.50 | 0.00 | 1.50 | 1.00 |
 | Amir Vakili | 2 | 2.00 | 0.50 | 0.00 | 1.00 | 2.50 |
+| Lucas Mouravidze | 3 | 1.67 | 0.67 | 0.00 | 0.33 | 1.00 |
 | Hannes Kanebratt | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 1.00 |
-| Lucas Mouravidze | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.50 |
 
 ## Games
 
@@ -80,4 +81,19 @@ Players (sorted by points)
 | Einar Fors |  1 |  0 |  0 |  1 |  1 |
 | Lucas Mouravidze |  0 |  0 |  0 |  0 |  1 |
 | Andrija Savic |  0 |  0 |  0 |  0 |  0 |
+
+### Varbergs Basket - Kvarnby Basket Gul
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Liam Kim Börjesson | 20 |  8 |  0 |  4 |  1 |
+| Noel Dalgärde | 12 |  5 |  0 |  2 |  0 |
+| Kasper Hallberg |  8 |  3 |  0 |  2 |  3 |
+| Sixten Offerle |  8 |  1 |  2 |  0 |  0 |
+| Ville Ek |  7 |  1 |  1 |  2 |  0 |
+| Einar Fors |  4 |  2 |  0 |  0 |  1 |
+| Lucas Mouravidze |  3 |  1 |  0 |  1 |  0 |
+| Eliott Bordes |  1 |  0 |  0 |  1 |  0 |
 

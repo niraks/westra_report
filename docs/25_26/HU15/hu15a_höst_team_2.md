@@ -4,23 +4,23 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Högsbo Basket P11 röd | 2 | 78.50 | 30.00 | 2.50 | 11.00 | 20.50 |
+| Högsbo Basket P11 röd | 3 | 83.00 | 32.00 | 3.33 | 9.00 | 19.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Elliott Askenbäck | 2 | 26.50 | 10.50 | 1.50 | 1.00 | 3.00 |
-| Felix Rezler | 1 | 15.00 | 5.00 | 1.00 | 2.00 | 2.00 |
-| Noah Lansler | 2 | 13.00 | 4.50 | 0.00 | 4.00 | 2.00 |
-| Oskar Rosén | 2 | 8.50 | 3.50 | 0.50 | 0.00 | 1.00 |
-| Ward Haddad | 2 | 7.00 | 3.00 | 0.00 | 1.00 | 2.00 |
-| Wilmer Myhr | 2 | 6.00 | 2.50 | 0.00 | 1.00 | 4.50 |
-| Hugo Thorson | 2 | 3.00 | 1.00 | 0.00 | 1.00 | 2.00 |
-| Liam Dahlén | 2 | 3.00 | 1.00 | 0.00 | 1.00 | 0.00 |
-| Ibrahim Salma | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 3.00 |
-| Melker Ciba | 2 | 2.00 | 0.50 | 0.00 | 1.00 | 2.00 |
-| Alvin Hertzman | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Elliott Askenbäck | 3 | 24.67 | 9.00 | 2.00 | 0.67 | 3.00 |
+| Felix Rezler | 2 | 15.50 | 5.50 | 1.00 | 1.50 | 2.50 |
+| Noah Lansler | 3 | 12.33 | 4.67 | 0.00 | 3.00 | 1.33 |
+| Ward Haddad | 3 | 8.33 | 3.33 | 0.33 | 0.67 | 2.00 |
+| Wilmer Myhr | 3 | 7.33 | 3.33 | 0.00 | 0.67 | 3.33 |
+| Oskar Rosén | 3 | 7.00 | 3.00 | 0.33 | 0.00 | 0.67 |
+| Liam Dahlén | 3 | 5.00 | 1.67 | 0.00 | 1.67 | 1.00 |
+| Hugo Thorson | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 1.67 |
+| Melker Ciba | 3 | 2.67 | 1.00 | 0.00 | 0.67 | 2.00 |
+| Ibrahim Salma | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 2.33 |
+| Alvin Hertzman | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
@@ -57,4 +57,22 @@ Players (sorted by points)
 | Liam Dahlén |  2 |  0 |  0 |  2 |  0 |
 | Ibrahim Salma |  2 |  1 |  0 |  0 |  3 |
 | Melker Ciba |  0 |  0 |  0 |  0 |  2 |
+
+### Högsbo Basket P11 röd - Eastside Falcons
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Elliott Askenbäck | 21 |  6 |  3 |  0 |  3 |
+| Felix Rezler | 16 |  6 |  1 |  1 |  3 |
+| Ward Haddad | 11 |  4 |  1 |  0 |  2 |
+| Noah Lansler | 11 |  5 |  0 |  1 |  0 |
+| Wilmer Myhr | 10 |  5 |  0 |  0 |  1 |
+| Liam Dahlén |  9 |  3 |  0 |  3 |  3 |
+| Hugo Thorson |  4 |  2 |  0 |  0 |  1 |
+| Oskar Rosén |  4 |  2 |  0 |  0 |  0 |
+| Melker Ciba |  4 |  2 |  0 |  0 |  2 |
+| Alvin Hertzman |  2 |  1 |  0 |  0 |  0 |
+| Ibrahim Salma |  0 |  0 |  0 |  0 |  1 |
 
