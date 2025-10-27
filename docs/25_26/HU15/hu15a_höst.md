@@ -50,12 +50,12 @@
 | 2 | [Charlie Lindblom](hu15a_höst_team_1.md) | 2.25 |
 | 3 | [Elliott Askenbäck](hu15a_höst_team_2.md) | 2.00 |
 | 4 | [Vidar Ekström](hu15a_höst_team_5.md) | 1.33 |
-| 5 | [Otis Foon](hu15a_höst_team_5.md) | 1.00 |
-| 5 | [Nireas Solidakis](hu15a_höst_team_5.md) | 1.00 |
 | 5 | [Felix Rezler](hu15a_höst_team_2.md) | 1.00 |
 | 5 | [Eric Svensson](hu15a_höst_team_3.md) | 1.00 |
 | 5 | [Wassem Al Hafez](hu15a_höst_team_3.md) | 1.00 |
 | 5 | [Malcom Truija Wellington](hu15a_höst_team_3.md) | 1.00 |
+| 5 | [Otis Foon](hu15a_höst_team_5.md) | 1.00 |
+| 5 | [Nireas Solidakis](hu15a_höst_team_5.md) | 1.00 |
 
 ### Free throws made per game
 
@@ -67,9 +67,9 @@
 | 4 | [Fabian Hjärtinge](hu15a_höst_team_1.md) | 3.50 |
 | 5 | [Filip Berndtsson](hu15a_höst_team_3.md) | 3.33 |
 | 6 | [Noah Lansler](hu15a_höst_team_2.md) | 3.00 |
-| 7 | [Joseph Jonsson](hu15a_höst_team_4.md) | 2.00 |
 | 7 | [Eric Svensson](hu15a_höst_team_3.md) | 2.00 |
+| 7 | [Joseph Jonsson](hu15a_höst_team_4.md) | 2.00 |
 | 9 | [Emil Järvinen](hu15a_höst_team_1.md) | 1.75 |
-| 10 | [Vidar Ekström](hu15a_höst_team_5.md) | 1.67 |
 | 10 | [Liam Dahlén](hu15a_höst_team_2.md) | 1.67 |
+| 10 | [Vidar Ekström](hu15a_höst_team_5.md) | 1.67 |
 
