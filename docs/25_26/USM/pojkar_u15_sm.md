@@ -50,8 +50,8 @@
 | 1 | [Albin Ibricic Karlsson](pojkar_u15_sm_team_10.md) | 55.33 |
 | 2 | [Alexander Massamba Johansson](pojkar_u15_sm_team_2.md) | 47.00 |
 | 3 | [Matti Westman](pojkar_u15_sm_team_26.md) | 32.33 |
-| 4 | [Dax Metoyer](pojkar_u15_sm_team_4.md) | 31.00 |
 | 4 | [Olivers Stankevics](pojkar_u15_sm_team_19.md) | 31.00 |
+| 4 | [Dax Metoyer](pojkar_u15_sm_team_4.md) | 31.00 |
 | 6 | [Simon Sandahl](pojkar_u15_sm_team_23.md) | 30.00 |
 | 7 | [Adrian Pleick](pojkar_u15_sm_team_3.md) | 28.00 |
 | 8 | [Eric Svensson](pojkar_u15_sm_team_16.md) | 26.00 |
@@ -79,23 +79,23 @@
 |----:|:-------|------:|
 | 1 | [Albin Ibricic Karlsson](pojkar_u15_sm_team_10.md) | 6.67 |
 | 2 | [Alexander Massamba Johansson](pojkar_u15_sm_team_2.md) | 6.00 |
-| 3 | [Matti Westman](pojkar_u15_sm_team_26.md) | 5.00 |
 | 3 | [Algot Gyllebring](pojkar_u15_sm_team_28.md) | 5.00 |
+| 3 | [Matti Westman](pojkar_u15_sm_team_26.md) | 5.00 |
 | 5 | [Andy Kasarji](pojkar_u15_sm_team_2.md) | 3.00 |
+| 6 | [Eric Svensson](pojkar_u15_sm_team_16.md) | 2.67 |
 | 6 | [Ivar Fredman](pojkar_u15_sm_team_5.md) | 2.67 |
 | 6 | [Leo Nordstrand](pojkar_u15_sm_team_5.md) | 2.67 |
-| 6 | [Eric Svensson](pojkar_u15_sm_team_16.md) | 2.67 |
 | 9 | [Narek Atayan](pojkar_u15_sm_team_30.md) | 2.33 |
-| 10 | [Viktor Strandin](pojkar_u15_sm_team_21.md) | 2.00 |
+| 10 | [Sabir Mohamed](pojkar_u15_sm_team_7.md) | 2.00 |
 | 10 | [Nicholas Abboud](pojkar_u15_sm_team_25.md) | 2.00 |
 | 10 | [Angelo Silva Karbouj](pojkar_u15_sm_team_25.md) | 2.00 |
-| 10 | [Sabir Mohamed](pojkar_u15_sm_team_7.md) | 2.00 |
 | 10 | [Evren Weissbach](pojkar_u15_sm_team_6.md) | 2.00 |
 | 10 | [Filip Miskovic](pojkar_u15_sm_team_6.md) | 2.00 |
 | 10 | [Mohammad Sobh](pojkar_u15_sm_team_6.md) | 2.00 |
-| 10 | [Nireas Solidakis](pojkar_u15_sm_team_14.md) | 2.00 |
+| 10 | [Viktor Strandin](pojkar_u15_sm_team_21.md) | 2.00 |
 | 10 | [Leon Jansson Myrå](pojkar_u15_sm_team_28.md) | 2.00 |
 | 10 | [Charlie Lindblom](pojkar_u15_sm_team_11.md) | 2.00 |
+| 10 | [Nireas Solidakis](pojkar_u15_sm_team_14.md) | 2.00 |
 
 ### Free throws made per game
 
@@ -109,6 +109,6 @@
 | 6 | [Edvin Niemi](pojkar_u15_sm_team_20.md) | 5.00 |
 | 7 | [Matti Westman](pojkar_u15_sm_team_26.md) | 4.67 |
 | 8 | [Filip Miskovic](pojkar_u15_sm_team_6.md) | 4.50 |
-| 9 | [Dax Metoyer](pojkar_u15_sm_team_4.md) | 4.33 |
 | 9 | [Olivers Stankevics](pojkar_u15_sm_team_19.md) | 4.33 |
+| 9 | [Dax Metoyer](pojkar_u15_sm_team_4.md) | 4.33 |
 

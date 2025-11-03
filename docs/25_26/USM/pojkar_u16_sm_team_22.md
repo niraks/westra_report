@@ -1,84 +1,77 @@
-# Statistics for IK Eos Lund
+# Statistics for Vallentuna Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| IK Eos Lund | 3 | 73.00 | 21.67 | 5.00 | 14.67 | 25.33 |
+| Vallentuna Basket | 3 | 73.00 | 24.67 | 2.67 | 15.67 | 21.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Karl Wilén | 3 | 17.67 | 4.33 | 2.00 | 3.00 | 3.00 |
-| Kasra Ghaffari | 3 | 16.67 | 4.00 | 1.67 | 3.67 | 3.67 |
-| Sam Johansson | 3 | 11.00 | 4.33 | 0.67 | 0.33 | 1.67 |
-| Leonidas Kjällkvist | 3 | 7.33 | 2.67 | 0.00 | 2.00 | 2.67 |
-| Theodor Karabelas Diabaté | 3 | 5.33 | 2.00 | 0.00 | 1.33 | 2.00 |
-| Oskar Zhong | 3 | 5.33 | 1.33 | 0.67 | 0.67 | 2.33 |
-| Alan Curic | 3 | 3.00 | 1.00 | 0.00 | 1.00 | 2.67 |
-| Leo Arogani | 3 | 2.33 | 0.67 | 0.00 | 1.00 | 2.00 |
-| Elias Ahlberg | 3 | 2.00 | 0.33 | 0.00 | 1.33 | 0.67 |
-| Eskil Thapper | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 2.33 |
-| Oliver Viana Einarsson | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 2.00 |
-| Leo Halvardsson | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
+| Isak Olsson | 3 | 14.33 | 5.00 | 0.00 | 4.33 | 2.00 |
+| Erik Westerlund | 3 | 12.33 | 4.67 | 0.00 | 3.00 | 2.00 |
+| Alfred Källström | 3 | 12.00 | 3.67 | 0.67 | 2.67 | 0.33 |
+| Hampus Bartoft | 3 | 11.33 | 1.67 | 1.67 | 3.00 | 4.00 |
+| Felix Vindby | 3 | 7.67 | 3.33 | 0.00 | 1.00 | 1.67 |
+| Neo Muktar | 3 | 6.33 | 3.00 | 0.00 | 0.33 | 2.00 |
+| Jonathan Määttä Prell | 3 | 4.33 | 1.33 | 0.33 | 0.67 | 2.67 |
+| Johannes Bemnet | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 4.67 |
+| Hugo Hutyra-Gram | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 2.00 |
+| Simon Rehdin | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 0.33 |
+| Benjamin Beardsley | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Trelleborg Pirates U16 - IK Eos Lund
+### Vallentuna Basket - Eastside Aviators
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Kasra Ghaffari | 17 |  4 |  1 |  6 |  3 |
-| Karl Wilén | 15 |  2 |  1 |  8 |  2 |
-| Leonidas Kjällkvist |  9 |  4 |  0 |  1 |  2 |
-| Theodor Karabelas Diabaté |  8 |  3 |  0 |  2 |  3 |
-| Oskar Zhong |  7 |  2 |  1 |  0 |  2 |
-| Sam Johansson |  5 |  2 |  0 |  1 |  0 |
-| Leo Arogani |  3 |  0 |  0 |  3 |  3 |
-| Elias Ahlberg |  2 |  0 |  0 |  2 |  0 |
-| Oliver Viana Einarsson |  2 |  1 |  0 |  0 |  2 |
-| Eskil Thapper |  2 |  1 |  0 |  0 |  4 |
-| Alan Curic |  1 |  0 |  0 |  1 |  4 |
-| Leo Halvardsson |  0 |  0 |  0 |  0 |  0 |
+| Isak Olsson | 22 |  7 |  0 |  8 |  1 |
+| Hampus Bartoft | 21 |  3 |  3 |  6 |  5 |
+| Alfred Källström | 21 |  4 |  2 |  7 |  1 |
+| Erik Westerlund | 19 |  7 |  0 |  5 |  3 |
+| Felix Vindby | 10 |  4 |  0 |  2 |  2 |
+| Neo Muktar |  6 |  3 |  0 |  0 |  3 |
+| Jonathan Määttä Prell |  6 |  3 |  0 |  0 |  3 |
+| Simon Rehdin |  2 |  1 |  0 |  0 |  0 |
+| Johannes Bemnet |  0 |  0 |  0 |  0 |  5 |
+| Benjamin Beardsley |  0 |  0 |  0 |  0 |  0 |
 
-### Kalmar Basket - IK Eos Lund
+### Vallentuna Basket - Stockholm Nordväst
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Kasra Ghaffari | 24 |  5 |  4 |  2 |  3 |
-| Karl Wilén | 18 |  3 |  4 |  0 |  3 |
-| Sam Johansson | 14 |  7 |  0 |  0 |  2 |
-| Theodor Karabelas Diabaté |  4 |  2 |  0 |  0 |  2 |
-| Leonidas Kjällkvist |  4 |  2 |  0 |  0 |  3 |
-| Leo Arogani |  4 |  2 |  0 |  0 |  2 |
-| Alan Curic |  3 |  1 |  0 |  1 |  1 |
-| Oskar Zhong |  2 |  1 |  0 |  0 |  2 |
-| Elias Ahlberg |  1 |  0 |  0 |  1 |  0 |
-| Leo Halvardsson |  0 |  0 |  0 |  0 |  0 |
-| Oliver Viana Einarsson |  0 |  0 |  0 |  0 |  0 |
-| Eskil Thapper |  0 |  0 |  0 |  0 |  2 |
+| Erik Westerlund | 16 |  6 |  0 |  4 |  1 |
+| Isak Olsson | 13 |  5 |  0 |  3 |  3 |
+| Felix Vindby | 11 |  5 |  0 |  1 |  2 |
+| Neo Muktar |  8 |  4 |  0 |  0 |  1 |
+| Hampus Bartoft |  5 |  0 |  1 |  2 |  5 |
+| Johannes Bemnet |  4 |  2 |  0 |  0 |  5 |
+| Alfred Källström |  4 |  2 |  0 |  0 |  0 |
+| Hugo Hutyra-Gram |  2 |  1 |  0 |  0 |  3 |
+| Simon Rehdin |  1 |  0 |  0 |  1 |  1 |
+| Jonathan Määttä Prell |  0 |  0 |  0 |  0 |  3 |
 
-### IK Eos Lund - Pirates Basketboll
+### Vallentuna Basket - Åkersberga
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Karl Wilén | 20 |  8 |  1 |  1 |  4 |
-| Sam Johansson | 14 |  4 |  2 |  0 |  3 |
-| Kasra Ghaffari |  9 |  3 |  0 |  3 |  5 |
-| Leonidas Kjällkvist |  9 |  2 |  0 |  5 |  3 |
-| Oskar Zhong |  7 |  1 |  1 |  2 |  3 |
-| Alan Curic |  5 |  2 |  0 |  1 |  3 |
-| Theodor Karabelas Diabaté |  4 |  1 |  0 |  2 |  1 |
-| Elias Ahlberg |  3 |  1 |  0 |  1 |  2 |
-| Eskil Thapper |  2 |  1 |  0 |  0 |  1 |
-| Oliver Viana Einarsson |  1 |  0 |  0 |  1 |  4 |
-| Leo Halvardsson |  0 |  0 |  0 |  0 |  1 |
-| Leo Arogani |  0 |  0 |  0 |  0 |  1 |
+| Alfred Källström | 11 |  5 |  0 |  1 |  0 |
+| Isak Olsson |  8 |  3 |  0 |  2 |  2 |
+| Hampus Bartoft |  8 |  2 |  1 |  1 |  2 |
+| Jonathan Määttä Prell |  7 |  1 |  1 |  2 |  2 |
+| Neo Muktar |  5 |  2 |  0 |  1 |  2 |
+| Johannes Bemnet |  3 |  1 |  0 |  1 |  4 |
+| Hugo Hutyra-Gram |  2 |  1 |  0 |  0 |  1 |
+| Erik Westerlund |  2 |  1 |  0 |  0 |  2 |
+| Felix Vindby |  2 |  1 |  0 |  0 |  1 |
+| Simon Rehdin |  0 |  0 |  0 |  0 |  0 |
 

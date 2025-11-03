@@ -1,77 +1,76 @@
-# Statistics for Malbas Vit
+# Statistics for Nässjö Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Malbas Vit | 3 | 59.67 | 21.00 | 3.67 | 6.67 | 17.67 |
+| Nässjö Basket | 3 | 59.67 | 16.67 | 7.00 | 5.33 | 15.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Karlo Goreta | 3 | 15.67 | 5.67 | 1.00 | 1.33 | 1.33 |
-| Erlis Shala | 3 | 11.67 | 5.33 | 0.33 | 0.00 | 1.67 |
-| Denton Bankhead | 3 | 11.00 | 3.00 | 1.33 | 1.00 | 3.67 |
-| Filip Mattsson Warnerbring | 2 | 5.50 | 1.50 | 0.00 | 2.50 | 1.50 |
-| Oscar Lundqvist | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 2.33 |
-| Olle Hogebrandt Thalin | 3 | 4.00 | 1.33 | 0.00 | 1.33 | 1.33 |
-| Benjamin Strindberg | 3 | 3.33 | 1.00 | 0.33 | 0.33 | 2.33 |
-| James Michael Gere | 3 | 3.00 | 0.67 | 0.33 | 0.67 | 2.00 |
-| Leon Lundfald | 3 | 2.67 | 0.67 | 0.33 | 0.33 | 0.67 |
-| Samir Ftouni | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.33 |
-| August Thuröe | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Ayub Mohamed | 3 | 15.33 | 1.67 | 4.00 | 0.00 | 2.33 |
+| Muscab Maxamud | 3 | 12.00 | 5.00 | 0.00 | 2.00 | 2.67 |
+| Jamal Jamal | 3 | 11.33 | 3.33 | 1.00 | 1.67 | 1.33 |
+| Danilo Damjanovic | 3 | 9.00 | 1.67 | 1.67 | 0.67 | 2.00 |
+| Isak Rofors | 3 | 7.00 | 3.00 | 0.00 | 1.00 | 1.67 |
+| Nikola Sinani | 3 | 1.67 | 0.33 | 0.33 | 0.00 | 0.67 |
+| Abdulahi Yasser | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 1.67 |
+| Edvin Ericsson | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 0.33 |
+| Harman Ali | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.33 |
+| Guuled Ismail Abdi | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 
 ## Games
 
-### Växjö Ravens - Malbas Vit
+### Danderyd Basket - Nässjö Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Erlis Shala | 15 |  6 |  1 |  0 |  0 |
-| Karlo Goreta | 12 |  6 |  0 |  0 |  0 |
-| Denton Bankhead |  8 |  2 |  1 |  1 |  4 |
-| Oscar Lundqvist |  8 |  4 |  0 |  0 |  2 |
-| Filip Mattsson Warnerbring |  7 |  2 |  0 |  3 |  2 |
-| Benjamin Strindberg |  4 |  0 |  1 |  1 |  3 |
-| James Michael Gere |  3 |  0 |  1 |  0 |  1 |
-| Samir Ftouni |  2 |  1 |  0 |  0 |  2 |
-| Olle Hogebrandt Thalin |  2 |  1 |  0 |  0 |  1 |
-| Leon Lundfald |  1 |  0 |  0 |  1 |  0 |
+| Ayub Mohamed | 24 |  3 |  6 |  0 |  4 |
+| Isak Rofors | 11 |  5 |  0 |  1 |  0 |
+| Muscab Maxamud |  8 |  2 |  0 |  4 |  5 |
+| Jamal Jamal |  6 |  1 |  1 |  1 |  4 |
+| Danilo Damjanovic |  5 |  2 |  0 |  1 |  2 |
+| Nikola Sinani |  3 |  0 |  1 |  0 |  2 |
+| Harman Ali |  2 |  1 |  0 |  0 |  0 |
+| Guuled Ismail Abdi |  0 |  0 |  0 |  0 |  1 |
+| Abdulahi Yasser |  0 |  0 |  0 |  0 |  2 |
+| Edvin Ericsson |  0 |  0 |  0 |  0 |  0 |
 
-### Malbas Vit - Lerums Basket Förening
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Karlo Goreta | 17 |  6 |  1 |  2 |  2 |
-| Erlis Shala | 10 |  5 |  0 |  0 |  3 |
-| Olle Hogebrandt Thalin |  8 |  2 |  0 |  4 |  1 |
-| Denton Bankhead |  7 |  2 |  1 |  0 |  3 |
-| Filip Mattsson Warnerbring |  4 |  1 |  0 |  2 |  1 |
-| Leon Lundfald |  4 |  2 |  0 |  0 |  2 |
-| James Michael Gere |  4 |  1 |  0 |  2 |  3 |
-| Oscar Lundqvist |  2 |  1 |  0 |  0 |  0 |
-| Benjamin Strindberg |  2 |  1 |  0 |  0 |  2 |
-| August Thuröe |  0 |  0 |  0 |  0 |  0 |
-| Samir Ftouni |  0 |  0 |  0 |  0 |  0 |
-
-### Högsbo Basket - Malbas Vit
+### Nässjö Basket - Lidingö Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Karlo Goreta | 18 |  5 |  2 |  2 |  2 |
-| Denton Bankhead | 18 |  5 |  2 |  2 |  4 |
-| Erlis Shala | 10 |  5 |  0 |  0 |  2 |
-| Benjamin Strindberg |  4 |  2 |  0 |  0 |  2 |
-| Leon Lundfald |  3 |  0 |  1 |  0 |  0 |
-| Oscar Lundqvist |  2 |  1 |  0 |  0 |  5 |
-| James Michael Gere |  2 |  1 |  0 |  0 |  2 |
-| Olle Hogebrandt Thalin |  2 |  1 |  0 |  0 |  2 |
-| Samir Ftouni |  0 |  0 |  0 |  0 |  2 |
+| Danilo Damjanovic | 19 |  3 |  4 |  1 |  3 |
+| Muscab Maxamud | 18 |  8 |  0 |  2 |  3 |
+| Jamal Jamal | 11 |  3 |  1 |  2 |  0 |
+| Ayub Mohamed | 10 |  2 |  2 |  0 |  2 |
+| Isak Rofors |  4 |  2 |  0 |  0 |  1 |
+| Abdulahi Yasser |  2 |  1 |  0 |  0 |  3 |
+| Nikola Sinani |  2 |  1 |  0 |  0 |  0 |
+| Harman Ali |  0 |  0 |  0 |  0 |  2 |
+| Guuled Ismail Abdi |  0 |  0 |  0 |  0 |  0 |
+| Edvin Ericsson |  0 |  0 |  0 |  0 |  0 |
+
+### Alviks Basketbollklubb - Nässjö Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Jamal Jamal | 17 |  6 |  1 |  2 |  0 |
+| Ayub Mohamed | 12 |  0 |  4 |  0 |  1 |
+| Muscab Maxamud | 10 |  5 |  0 |  0 |  0 |
+| Isak Rofors |  6 |  2 |  0 |  2 |  4 |
+| Edvin Ericsson |  4 |  2 |  0 |  0 |  1 |
+| Danilo Damjanovic |  3 |  0 |  1 |  0 |  1 |
+| Abdulahi Yasser |  2 |  1 |  0 |  0 |  0 |
+| Nikola Sinani |  0 |  0 |  0 |  0 |  0 |
+| Harman Ali |  0 |  0 |  0 |  0 |  2 |
+| Guuled Ismail Abdi |  0 |  0 |  0 |  0 |  2 |
 
