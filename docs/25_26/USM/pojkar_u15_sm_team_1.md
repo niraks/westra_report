@@ -24,23 +24,23 @@
 
 ## Games
 
-### Hammarby - WestCoast Basketförening
+### AIK - Hammarby
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Sinisa Nikolic | 32 | 15 |  0 |  2 |  0 |
-| Jarl Westman | 25 | 10 |  1 |  2 |  2 |
-| Kaan Üzel | 22 | 10 |  0 |  2 |  1 |
-| Elias Fazeli | 14 |  7 |  0 |  0 |  1 |
-| Noah Yohannes Monfelt | 12 |  4 |  0 |  4 |  1 |
-| Stellan Björlin |  9 |  4 |  0 |  1 |  2 |
-| Amin Karlsson |  7 |  2 |  1 |  0 |  0 |
-| Erik Karlsson Bojstedt |  5 |  2 |  0 |  1 |  0 |
+| Sinisa Nikolic | 24 | 10 |  1 |  1 |  0 |
+| Kaan Üzel | 20 |  6 |  2 |  2 |  0 |
+| Stellan Björlin | 11 |  4 |  1 |  0 |  2 |
+| Malte Rask | 11 |  5 |  0 |  1 |  0 |
+| Jarl Westman |  9 |  4 |  0 |  1 |  1 |
+| Noah Yohannes Monfelt |  9 |  3 |  1 |  0 |  5 |
+| Erik Karlsson Bojstedt |  9 |  4 |  0 |  1 |  1 |
+| Noah Yombi De Yombi |  4 |  2 |  0 |  0 |  0 |
 | Hjalmar Sunnebo |  4 |  2 |  0 |  0 |  0 |
-| Malte Rask |  2 |  1 |  0 |  0 |  0 |
-| Noah Yombi De Yombi |  0 |  0 |  0 |  0 |  2 |
+| Amin Karlsson |  3 |  1 |  0 |  1 |  2 |
+| Elias Fazeli |  3 |  1 |  0 |  1 |  5 |
 
 ### Hammarby - Oskarshamns Basketbollklubb
 
@@ -60,21 +60,21 @@ Players (sorted by points)
 | Noah Yombi De Yombi |  6 |  3 |  0 |  0 |  2 |
 | Hjalmar Sunnebo |  6 |  3 |  0 |  0 |  1 |
 
-### AIK - Hammarby
+### Hammarby - WestCoast Basketförening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Sinisa Nikolic | 24 | 10 |  1 |  1 |  0 |
-| Kaan Üzel | 20 |  6 |  2 |  2 |  0 |
-| Stellan Björlin | 11 |  4 |  1 |  0 |  2 |
-| Malte Rask | 11 |  5 |  0 |  1 |  0 |
-| Jarl Westman |  9 |  4 |  0 |  1 |  1 |
-| Noah Yohannes Monfelt |  9 |  3 |  1 |  0 |  5 |
-| Erik Karlsson Bojstedt |  9 |  4 |  0 |  1 |  1 |
-| Noah Yombi De Yombi |  4 |  2 |  0 |  0 |  0 |
+| Sinisa Nikolic | 32 | 15 |  0 |  2 |  0 |
+| Jarl Westman | 25 | 10 |  1 |  2 |  2 |
+| Kaan Üzel | 22 | 10 |  0 |  2 |  1 |
+| Elias Fazeli | 14 |  7 |  0 |  0 |  1 |
+| Noah Yohannes Monfelt | 12 |  4 |  0 |  4 |  1 |
+| Stellan Björlin |  9 |  4 |  0 |  1 |  2 |
+| Amin Karlsson |  7 |  2 |  1 |  0 |  0 |
+| Erik Karlsson Bojstedt |  5 |  2 |  0 |  1 |  0 |
 | Hjalmar Sunnebo |  4 |  2 |  0 |  0 |  0 |
-| Amin Karlsson |  3 |  1 |  0 |  1 |  2 |
-| Elias Fazeli |  3 |  1 |  0 |  1 |  5 |
+| Malte Rask |  2 |  1 |  0 |  0 |  0 |
+| Noah Yombi De Yombi |  0 |  0 |  0 |  0 |  2 |
 

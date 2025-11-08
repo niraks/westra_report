@@ -1,84 +1,65 @@
-# Statistics for Malbas Svart
+# Statistics for IK Eos Lund
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Malbas Svart | 3 | 106.67 | 43.67 | 3.00 | 10.33 | 20.33 |
+| IK Eos Lund | 2 | 102.00 | 27.50 | 10.50 | 15.50 | 17.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Dax Metoyer | 3 | 31.00 | 13.33 | 0.00 | 4.33 | 3.33 |
-| Dez Martha | 3 | 25.00 | 11.00 | 0.33 | 2.00 | 3.00 |
-| David Askari Louyeh | 3 | 14.33 | 5.33 | 0.67 | 1.67 | 2.33 |
-| Lowe Kjellqvist Forsén | 3 | 6.33 | 2.67 | 0.33 | 0.00 | 1.67 |
-| Adam Gihan | 3 | 6.00 | 2.00 | 0.67 | 0.00 | 0.33 |
-| Mercx Metoyer | 3 | 5.00 | 1.67 | 0.33 | 0.67 | 1.00 |
-| Jens Lindberg Torkelsson | 3 | 5.00 | 2.00 | 0.00 | 1.00 | 1.67 |
-| Alfred Eborn | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 0.67 |
-| Monir Rashid | 3 | 3.00 | 1.00 | 0.33 | 0.00 | 2.33 |
-| Kristian Damevski | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 1.00 |
-| Arkis Moussa | 3 | 2.33 | 0.67 | 0.33 | 0.00 | 0.67 |
-| Rohan Abraham | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 2.33 |
+| Filip Miskovic | 2 | 23.50 | 6.50 | 2.00 | 4.50 | 2.50 |
+| Albin Lindh | 2 | 17.00 | 4.50 | 1.50 | 3.50 | 2.50 |
+| Arthur Cervenka | 2 | 11.00 | 3.00 | 1.00 | 2.00 | 1.00 |
+| Evren Weissbach | 2 | 11.00 | 2.00 | 2.00 | 1.00 | 1.00 |
+| Benjamin Löfgren Hadir | 2 | 9.50 | 2.50 | 0.50 | 3.00 | 1.00 |
+| Hector Gabriel | 2 | 9.00 | 3.00 | 1.00 | 0.00 | 2.50 |
+| Mohammad Sobh | 2 | 7.00 | 0.50 | 2.00 | 0.00 | 1.50 |
+| Jaiden Mudingay | 2 | 4.50 | 2.00 | 0.00 | 0.50 | 2.50 |
+| Ryan Charif | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 0.50 |
+| Noah Habtezgi | 2 | 2.50 | 0.50 | 0.50 | 0.00 | 0.50 |
+| Jacob Ehrencrona | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 0.50 |
+| Eric Mccormick | 2 | 2.00 | 0.50 | 0.00 | 1.00 | 1.50 |
 
 ## Games
 
-### Malbas Svart - Lerums Basket Förening
+### Eastside Falcons - IK Eos Lund
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Dax Metoyer | 28 | 14 |  0 |  0 |  4 |
-| Dez Martha | 25 | 12 |  0 |  1 |  3 |
-| Lowe Kjellqvist Forsén | 19 |  8 |  1 |  0 |  4 |
-| David Askari Louyeh | 16 |  6 |  1 |  1 |  3 |
-| Adam Gihan |  8 |  1 |  2 |  0 |  0 |
-| Jens Lindberg Torkelsson |  5 |  2 |  0 |  1 |  0 |
-| Monir Rashid |  3 |  0 |  1 |  0 |  4 |
-| Mercx Metoyer |  2 |  1 |  0 |  0 |  1 |
-| Alfred Eborn |  0 |  0 |  0 |  0 |  0 |
-| Kristian Damevski |  0 |  0 |  0 |  0 |  1 |
-| Arkis Moussa |  0 |  0 |  0 |  0 |  1 |
-| Rohan Abraham |  0 |  0 |  0 |  0 |  0 |
+| Filip Miskovic | 26 |  7 |  1 |  9 |  2 |
+| Arthur Cervenka | 15 |  4 |  1 |  4 |  2 |
+| Evren Weissbach |  9 |  3 |  1 |  0 |  0 |
+| Hector Gabriel |  8 |  4 |  0 |  0 |  2 |
+| Albin Lindh |  8 |  2 |  0 |  4 |  3 |
+| Benjamin Löfgren Hadir |  6 |  2 |  0 |  2 |  1 |
+| Mohammad Sobh |  6 |  0 |  2 |  0 |  2 |
+| Jaiden Mudingay |  5 |  2 |  0 |  1 |  4 |
+| Eric Mccormick |  2 |  0 |  0 |  2 |  2 |
+| Ryan Charif |  0 |  0 |  0 |  0 |  0 |
+| Jacob Ehrencrona |  0 |  0 |  0 |  0 |  0 |
+| Noah Habtezgi |  0 |  0 |  0 |  0 |  1 |
 
-### S:t Helena BK - Malbas Svart
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Dax Metoyer | 40 | 18 |  0 |  4 |  3 |
-| Dez Martha | 23 | 10 |  0 |  3 |  4 |
-| David Askari Louyeh | 19 |  8 |  0 |  3 |  2 |
-| Adam Gihan |  8 |  4 |  0 |  0 |  1 |
-| Mercx Metoyer |  7 |  3 |  0 |  1 |  1 |
-| Arkis Moussa |  7 |  2 |  1 |  0 |  1 |
-| Rohan Abraham |  7 |  3 |  0 |  1 |  4 |
-| Alfred Eborn |  6 |  3 |  0 |  0 |  1 |
-| Monir Rashid |  6 |  3 |  0 |  0 |  1 |
-| Kristian Damevski |  5 |  2 |  0 |  1 |  2 |
-| Jens Lindberg Torkelsson |  4 |  2 |  0 |  0 |  4 |
-| Lowe Kjellqvist Forsén |  0 |  0 |  0 |  0 |  0 |
-
-### Malbas Svart - KFUM Örebro Basket
+### IK Eos Lund - Hammarö Basketklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Dez Martha | 27 | 11 |  1 |  2 |  2 |
-| Dax Metoyer | 25 |  8 |  0 |  9 |  3 |
-| David Askari Louyeh |  8 |  2 |  1 |  1 |  2 |
-| Mercx Metoyer |  6 |  1 |  1 |  1 |  1 |
-| Jens Lindberg Torkelsson |  6 |  2 |  0 |  2 |  1 |
-| Alfred Eborn |  6 |  3 |  0 |  0 |  1 |
-| Kristian Damevski |  2 |  1 |  0 |  0 |  0 |
-| Adam Gihan |  2 |  1 |  0 |  0 |  0 |
-| Arkis Moussa |  0 |  0 |  0 |  0 |  0 |
-| Lowe Kjellqvist Forsén |  0 |  0 |  0 |  0 |  1 |
-| Monir Rashid |  0 |  0 |  0 |  0 |  2 |
-| Rohan Abraham |  0 |  0 |  0 |  0 |  3 |
+| Albin Lindh | 26 |  7 |  3 |  3 |  2 |
+| Filip Miskovic | 21 |  6 |  3 |  0 |  3 |
+| Benjamin Löfgren Hadir | 13 |  3 |  1 |  4 |  1 |
+| Evren Weissbach | 13 |  1 |  3 |  2 |  2 |
+| Hector Gabriel | 10 |  2 |  2 |  0 |  3 |
+| Mohammad Sobh |  8 |  1 |  2 |  0 |  1 |
+| Arthur Cervenka |  7 |  2 |  1 |  0 |  0 |
+| Ryan Charif |  6 |  3 |  0 |  0 |  1 |
+| Noah Habtezgi |  5 |  1 |  1 |  0 |  0 |
+| Jacob Ehrencrona |  4 |  2 |  0 |  0 |  1 |
+| Jaiden Mudingay |  4 |  2 |  0 |  0 |  1 |
+| Eric Mccormick |  2 |  1 |  0 |  0 |  1 |
 

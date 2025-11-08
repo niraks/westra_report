@@ -24,23 +24,23 @@
 
 ## Games
 
-### Kvarnby Basket - LIDBAS/Borås
+### LIDBAS/Borås - Bankeryds Basketklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Axel Svensson Kröldrup | 18 |  6 |  2 |  0 |  1 |
-| Adrian Durk | 16 |  8 |  0 |  0 |  1 |
-| Advin Halilovic | 15 |  6 |  1 |  0 |  0 |
-| Leo Hellqvist | 15 |  6 |  0 |  3 |  3 |
-| Gustaf Högenberg | 14 |  5 |  1 |  1 |  1 |
-| Semias Björkqvist Ly | 13 |  6 |  0 |  1 |  0 |
-| Vice Nakic | 10 |  4 |  0 |  2 |  1 |
-| Viggo Sjödin Lundgren |  9 |  1 |  2 |  1 |  0 |
-| Algot Bendixen |  9 |  3 |  1 |  0 |  2 |
-| Yuwei Hua |  4 |  2 |  0 |  0 |  2 |
-| Ville Ekbladh |  0 |  0 |  0 |  0 |  2 |
+| Vice Nakic | 29 | 10 |  3 |  0 |  4 |
+| Leo Hellqvist | 25 |  6 |  2 |  7 |  2 |
+| Axel Svensson Kröldrup | 15 |  7 |  0 |  1 |  2 |
+| Adrian Durk | 11 |  5 |  0 |  1 |  2 |
+| Semias Björkqvist Ly | 10 |  5 |  0 |  0 |  2 |
+| Advin Halilovic |  9 |  2 |  1 |  2 |  3 |
+| Viggo Sjödin Lundgren |  9 |  3 |  1 |  0 |  1 |
+| Ville Ekbladh |  2 |  1 |  0 |  0 |  2 |
+| Gustaf Högenberg |  2 |  1 |  0 |  0 |  0 |
+| Yuwei Hua |  0 |  0 |  0 |  0 |  3 |
+| Algot Bendixen |  0 |  0 |  0 |  0 |  1 |
 
 ### LIDBAS/Borås - Helsingborg
 
@@ -60,21 +60,21 @@ Players (sorted by points)
 | Ville Ekbladh |  0 |  0 |  0 |  0 |  0 |
 | Gustaf Högenberg |  0 |  0 |  0 |  0 |  0 |
 
-### LIDBAS/Borås - Bankeryds Basketklubb
+### Kvarnby Basket - LIDBAS/Borås
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Vice Nakic | 29 | 10 |  3 |  0 |  4 |
-| Leo Hellqvist | 25 |  6 |  2 |  7 |  2 |
-| Axel Svensson Kröldrup | 15 |  7 |  0 |  1 |  2 |
-| Adrian Durk | 11 |  5 |  0 |  1 |  2 |
-| Semias Björkqvist Ly | 10 |  5 |  0 |  0 |  2 |
-| Advin Halilovic |  9 |  2 |  1 |  2 |  3 |
-| Viggo Sjödin Lundgren |  9 |  3 |  1 |  0 |  1 |
-| Ville Ekbladh |  2 |  1 |  0 |  0 |  2 |
-| Gustaf Högenberg |  2 |  1 |  0 |  0 |  0 |
-| Yuwei Hua |  0 |  0 |  0 |  0 |  3 |
-| Algot Bendixen |  0 |  0 |  0 |  0 |  1 |
+| Axel Svensson Kröldrup | 18 |  6 |  2 |  0 |  1 |
+| Adrian Durk | 16 |  8 |  0 |  0 |  1 |
+| Advin Halilovic | 15 |  6 |  1 |  0 |  0 |
+| Leo Hellqvist | 15 |  6 |  0 |  3 |  3 |
+| Gustaf Högenberg | 14 |  5 |  1 |  1 |  1 |
+| Semias Björkqvist Ly | 13 |  6 |  0 |  1 |  0 |
+| Vice Nakic | 10 |  4 |  0 |  2 |  1 |
+| Viggo Sjödin Lundgren |  9 |  1 |  2 |  1 |  0 |
+| Algot Bendixen |  9 |  3 |  1 |  0 |  2 |
+| Yuwei Hua |  4 |  2 |  0 |  0 |  2 |
+| Ville Ekbladh |  0 |  0 |  0 |  0 |  2 |
 

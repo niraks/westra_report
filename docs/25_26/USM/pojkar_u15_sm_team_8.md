@@ -1,82 +1,84 @@
-# Statistics for Kvarnby Basket
+# Statistics for Skuru Idrottsklubb
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kvarnby Basket | 3 | 93.67 | 37.67 | 2.67 | 10.33 | 15.00 |
+| Skuru Idrottsklubb | 3 | 87.00 | 33.00 | 3.00 | 12.00 | 16.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Viggo Fältjäger | 3 | 17.33 | 8.00 | 0.33 | 0.33 | 1.00 |
-| Alexander Blomgren | 3 | 16.33 | 5.33 | 1.33 | 1.67 | 2.67 |
-| Sam Limberg | 3 | 14.00 | 5.67 | 0.00 | 2.67 | 3.67 |
-| Theodor Nankler | 3 | 11.00 | 4.67 | 0.00 | 1.67 | 2.00 |
-| Noel Dalgärde | 3 | 8.00 | 2.67 | 0.33 | 1.67 | 0.33 |
-| Elvin Östenson Grimfeldt | 3 | 6.00 | 2.33 | 0.00 | 1.33 | 0.33 |
-| Leo Hashemi | 3 | 5.67 | 2.33 | 0.33 | 0.00 | 1.00 |
-| Liam Kim Börjesson | 3 | 5.33 | 2.67 | 0.00 | 0.00 | 0.00 |
-| Michael Mei | 3 | 4.33 | 1.67 | 0.33 | 0.00 | 2.33 |
-| Gustav Setterberg | 3 | 3.67 | 1.67 | 0.00 | 0.33 | 0.67 |
-| Aravind Sreenivas | 3 | 2.00 | 0.67 | 0.00 | 0.67 | 1.00 |
-| Sebastian Nilsson | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Hugo Moberg Straume | 3 | 15.67 | 5.33 | 0.33 | 4.00 | 0.00 |
+| Olle Losin Österberg | 3 | 14.67 | 5.67 | 0.67 | 1.33 | 3.33 |
+| Liam Kleve | 3 | 12.33 | 5.00 | 0.33 | 1.33 | 2.00 |
+| Loa Tjärnberg | 3 | 11.33 | 4.67 | 0.33 | 1.00 | 1.00 |
+| Albert Holgersson | 3 | 7.00 | 2.33 | 0.33 | 1.33 | 1.33 |
+| Elvis Söderström | 3 | 5.33 | 2.67 | 0.00 | 0.00 | 0.00 |
+| Elliot Lilliehöök | 3 | 4.67 | 1.00 | 0.33 | 1.67 | 2.00 |
+| Olle Ramstedt | 3 | 4.00 | 1.33 | 0.33 | 0.33 | 2.33 |
+| Simon Laupa | 3 | 3.67 | 1.33 | 0.33 | 0.00 | 1.33 |
+| Rafal Gil | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 0.00 |
+| Neo Nguyen Sandell | 3 | 3.00 | 1.33 | 0.00 | 0.33 | 0.67 |
+| Filip Wahlkvist Sepa | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 2.00 |
 
 ## Games
 
-### Kvarnby Basket - Ale Basket
+### Skuru Idrottsklubb - Kungsholmen
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Theodor Nankler | 21 |  8 |  0 |  5 |  4 |
-| Viggo Fältjäger | 19 |  8 |  1 |  0 |  1 |
-| Alexander Blomgren | 13 |  3 |  1 |  4 |  3 |
-| Sam Limberg | 11 |  5 |  0 |  1 |  2 |
-| Elvin Östenson Grimfeldt |  5 |  1 |  0 |  3 |  0 |
-| Michael Mei |  4 |  2 |  0 |  0 |  3 |
-| Gustav Setterberg |  2 |  1 |  0 |  0 |  0 |
-| Noel Dalgärde |  0 |  0 |  0 |  0 |  0 |
-| Liam Kim Börjesson |  0 |  0 |  0 |  0 |  0 |
-| Aravind Sreenivas |  0 |  0 |  0 |  0 |  0 |
-| Leo Hashemi |  0 |  0 |  0 |  0 |  0 |
-| Sebastian Nilsson |  0 |  0 |  0 |  0 |  0 |
+| Olle Losin Österberg | 19 |  6 |  1 |  4 |  4 |
+| Hugo Moberg Straume | 16 |  6 |  0 |  4 |  0 |
+| Liam Kleve | 11 |  3 |  1 |  2 |  1 |
+| Elvis Söderström |  6 |  3 |  0 |  0 |  0 |
+| Elliot Lilliehöök |  6 |  1 |  1 |  1 |  3 |
+| Rafal Gil |  4 |  1 |  0 |  2 |  0 |
+| Neo Nguyen Sandell |  4 |  2 |  0 |  0 |  2 |
+| Loa Tjärnberg |  4 |  2 |  0 |  0 |  0 |
+| Albert Holgersson |  3 |  1 |  0 |  1 |  1 |
+| Olle Ramstedt |  1 |  0 |  0 |  1 |  2 |
+| Simon Laupa |  0 |  0 |  0 |  0 |  4 |
+| Filip Wahlkvist Sepa |  0 |  0 |  0 |  0 |  2 |
 
-### Lobas Röd - Kvarnby Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Viggo Fältjäger | 26 | 13 |  0 |  0 |  0 |
-| Alexander Blomgren | 18 |  4 |  3 |  1 |  4 |
-| Sam Limberg | 13 |  5 |  0 |  3 |  5 |
-| Noel Dalgärde | 12 |  4 |  1 |  1 |  0 |
-| Theodor Nankler | 12 |  6 |  0 |  0 |  0 |
-| Leo Hashemi |  9 |  3 |  1 |  0 |  2 |
-| Liam Kim Börjesson |  8 |  4 |  0 |  0 |  0 |
-| Michael Mei |  7 |  2 |  1 |  0 |  2 |
-| Gustav Setterberg |  5 |  2 |  0 |  1 |  1 |
-| Aravind Sreenivas |  4 |  1 |  0 |  2 |  2 |
-| Elvin Östenson Grimfeldt |  3 |  1 |  0 |  1 |  1 |
-
-### Kvarnby Basket - Aros Basketbollklubb
+### Täby Basket - Skuru Idrottsklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Alexander Blomgren | 18 |  9 |  0 |  0 |  1 |
-| Sam Limberg | 18 |  7 |  0 |  4 |  4 |
-| Noel Dalgärde | 12 |  4 |  0 |  4 |  1 |
-| Elvin Östenson Grimfeldt | 10 |  5 |  0 |  0 |  0 |
-| Liam Kim Börjesson |  8 |  4 |  0 |  0 |  0 |
-| Leo Hashemi |  8 |  4 |  0 |  0 |  1 |
-| Viggo Fältjäger |  7 |  3 |  0 |  1 |  2 |
-| Gustav Setterberg |  4 |  2 |  0 |  0 |  1 |
-| Michael Mei |  2 |  1 |  0 |  0 |  2 |
-| Aravind Sreenivas |  2 |  1 |  0 |  0 |  1 |
-| Theodor Nankler |  0 |  0 |  0 |  0 |  2 |
+| Loa Tjärnberg | 22 |  8 |  1 |  3 |  1 |
+| Liam Kleve | 15 |  7 |  0 |  1 |  3 |
+| Hugo Moberg Straume | 14 |  6 |  0 |  2 |  0 |
+| Olle Losin Österberg | 12 |  6 |  0 |  0 |  3 |
+| Olle Ramstedt | 11 |  4 |  1 |  0 |  3 |
+| Simon Laupa |  9 |  3 |  1 |  0 |  0 |
+| Albert Holgersson |  6 |  3 |  0 |  0 |  2 |
+| Elvis Söderström |  6 |  3 |  0 |  0 |  0 |
+| Rafal Gil |  4 |  2 |  0 |  0 |  0 |
+| Neo Nguyen Sandell |  3 |  1 |  0 |  1 |  0 |
+| Elliot Lilliehöök |  2 |  1 |  0 |  0 |  2 |
+| Filip Wahlkvist Sepa |  0 |  0 |  0 |  0 |  2 |
+
+### Skuru Idrottsklubb - Norrköpings Basketförening
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Hugo Moberg Straume | 17 |  4 |  1 |  6 |  0 |
+| Olle Losin Österberg | 13 |  5 |  1 |  0 |  3 |
+| Albert Holgersson | 12 |  3 |  1 |  3 |  1 |
+| Liam Kleve | 11 |  5 |  0 |  1 |  2 |
+| Loa Tjärnberg |  8 |  4 |  0 |  0 |  2 |
+| Elliot Lilliehöök |  6 |  1 |  0 |  4 |  1 |
+| Filip Wahlkvist Sepa |  6 |  3 |  0 |  0 |  2 |
+| Elvis Söderström |  4 |  2 |  0 |  0 |  0 |
+| Rafal Gil |  2 |  1 |  0 |  0 |  0 |
+| Simon Laupa |  2 |  1 |  0 |  0 |  0 |
+| Neo Nguyen Sandell |  2 |  1 |  0 |  0 |  0 |
+| Olle Ramstedt |  0 |  0 |  0 |  0 |  2 |
 

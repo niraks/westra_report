@@ -22,21 +22,21 @@
 
 ## Games
 
-### Östersund Basket Ungdom HU16 - Eskilstuna Basket
+### Östersund Basket Ungdom HU16 - AIK
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Ture Skoglund Knutsson | 27 |  7 |  3 |  4 |  3 |
-| Sigge Benerfalk | 20 |  7 |  1 |  3 |  2 |
-| Valdemar Säwström | 20 | 10 |  0 |  0 |  0 |
-| Elias Hurtigh | 16 |  7 |  0 |  2 |  3 |
-| Axel Wenna | 16 |  7 |  0 |  2 |  2 |
-| Mattis Svedberg | 14 |  7 |  0 |  0 |  3 |
-| Ingemar Stenwall | 12 |  3 |  2 |  0 |  2 |
-| Valter Eklund |  4 |  2 |  0 |  0 |  0 |
-| Axel Elgnäs |  4 |  2 |  0 |  0 |  1 |
+| Sigge Benerfalk | 28 | 13 |  0 |  2 |  1 |
+| Ture Skoglund Knutsson | 21 |  6 |  2 |  3 |  0 |
+| Elias Hurtigh | 18 |  3 |  4 |  0 |  4 |
+| Valdemar Säwström | 18 |  4 |  3 |  1 |  2 |
+| Axel Wenna | 15 |  4 |  2 |  1 |  1 |
+| Mattis Svedberg | 15 |  3 |  3 |  0 |  0 |
+| Ingemar Stenwall |  7 |  2 |  1 |  0 |  1 |
+| Axel Elgnäs |  4 |  0 |  1 |  1 |  0 |
+| Valter Eklund |  1 |  0 |  0 |  1 |  1 |
 
 ### Hammarby - Östersund Basket Ungdom HU16
 
@@ -54,19 +54,19 @@ Players (sorted by points)
 | Axel Wenna |  2 |  1 |  0 |  0 |  3 |
 | Valter Eklund |  2 |  1 |  0 |  0 |  3 |
 
-### Östersund Basket Ungdom HU16 - AIK
+### Östersund Basket Ungdom HU16 - Eskilstuna Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Sigge Benerfalk | 28 | 13 |  0 |  2 |  1 |
-| Ture Skoglund Knutsson | 21 |  6 |  2 |  3 |  0 |
-| Elias Hurtigh | 18 |  3 |  4 |  0 |  4 |
-| Valdemar Säwström | 18 |  4 |  3 |  1 |  2 |
-| Axel Wenna | 15 |  4 |  2 |  1 |  1 |
-| Mattis Svedberg | 15 |  3 |  3 |  0 |  0 |
-| Ingemar Stenwall |  7 |  2 |  1 |  0 |  1 |
-| Axel Elgnäs |  4 |  0 |  1 |  1 |  0 |
-| Valter Eklund |  1 |  0 |  0 |  1 |  1 |
+| Ture Skoglund Knutsson | 27 |  7 |  3 |  4 |  3 |
+| Sigge Benerfalk | 20 |  7 |  1 |  3 |  2 |
+| Valdemar Säwström | 20 | 10 |  0 |  0 |  0 |
+| Elias Hurtigh | 16 |  7 |  0 |  2 |  3 |
+| Axel Wenna | 16 |  7 |  0 |  2 |  2 |
+| Mattis Svedberg | 14 |  7 |  0 |  0 |  3 |
+| Ingemar Stenwall | 12 |  3 |  2 |  0 |  2 |
+| Valter Eklund |  4 |  2 |  0 |  0 |  0 |
+| Axel Elgnäs |  4 |  2 |  0 |  0 |  1 |
 

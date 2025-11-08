@@ -1,76 +1,69 @@
-# Statistics for Kungsholmen
+# Statistics for Basketklubben Gladan
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kungsholmen | 3 | 64.00 | 21.00 | 4.67 | 8.00 | 16.00 |
+| Basketklubben Gladan | 3 | 49.33 | 17.67 | 2.00 | 8.00 | 7.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Mustafa Muminovic | 3 | 11.00 | 4.00 | 0.67 | 1.00 | 3.33 |
-| Carl Zachrisson | 3 | 10.33 | 2.33 | 1.33 | 1.67 | 2.67 |
-| Carl Hårleman | 3 | 10.00 | 2.33 | 1.00 | 2.33 | 1.67 |
-| Hugo Mattsson Lundberg | 3 | 8.67 | 4.00 | 0.00 | 0.67 | 2.00 |
-| Adrian Dennemark | 3 | 8.33 | 2.67 | 0.67 | 1.00 | 0.33 |
-| Carljohan Werner Sundén | 3 | 7.67 | 2.67 | 0.33 | 1.33 | 1.67 |
-| Elas Kaae Kyauk | 3 | 3.33 | 0.67 | 0.67 | 0.00 | 1.67 |
-| Adrian Carlsten | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 0.33 |
-| Axel Axelsson | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 2.00 |
-| Johan Sjöstedt | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.33 |
+| Elijah Senften | 2 | 18.00 | 7.50 | 0.50 | 1.50 | 0.50 |
+| Edvin Niemi | 2 | 17.50 | 5.50 | 0.50 | 5.00 | 1.00 |
+| Jeremiah Famurewa | 2 | 10.50 | 5.00 | 0.00 | 0.50 | 4.00 |
+| Spyridon Sypsas | 2 | 8.00 | 3.00 | 0.50 | 0.50 | 1.00 |
+| Ted Hortell | 2 | 5.00 | 2.00 | 0.00 | 1.00 | 1.00 |
+| Wille Söderfalk | 2 | 4.00 | 2.00 | 0.00 | 0.00 | 1.50 |
+| Joseph Mbairi | 2 | 3.50 | 1.00 | 0.00 | 1.50 | 0.00 |
+| Gabriel Eleid | 2 | 3.50 | 0.00 | 1.00 | 0.50 | 0.00 |
+| Felix Lundqvist | 2 | 3.00 | 0.00 | 0.50 | 1.50 | 1.50 |
+| Ludvig Lindvall | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.50 |
+| Sixten Simonsson | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.50 |
 
 ## Games
 
-### Kungsholmen - Täby Basket
+### Basketklubben Gladan - Sunderby Sportklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Carl Zachrisson | 20 |  5 |  2 |  4 |  2 |
-| Mustafa Muminovic | 15 |  7 |  0 |  1 |  3 |
-| Carl Hårleman | 11 |  0 |  2 |  5 |  1 |
-| Carljohan Werner Sundén | 10 |  2 |  1 |  3 |  1 |
-| Adrian Dennemark |  8 |  3 |  0 |  2 |  1 |
-| Hugo Mattsson Lundberg |  8 |  4 |  0 |  0 |  1 |
-| Johan Sjöstedt |  0 |  0 |  0 |  0 |  0 |
-| Adrian Carlsten |  0 |  0 |  0 |  0 |  1 |
-| Elas Kaae Kyauk |  0 |  0 |  0 |  0 |  0 |
-| Axel Axelsson |  0 |  0 |  0 |  0 |  2 |
 
-### Norrköpings Basketförening - Kungsholmen
+### Uppsala Basket - Basketklubben Gladan
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Hugo Mattsson Lundberg | 16 |  7 |  0 |  2 |  4 |
-| Carl Hårleman | 11 |  4 |  1 |  0 |  1 |
-| Carljohan Werner Sundén | 11 |  5 |  0 |  1 |  2 |
-| Mustafa Muminovic |  8 |  3 |  0 |  2 |  5 |
-| Adrian Dennemark |  8 |  4 |  0 |  0 |  0 |
-| Adrian Carlsten |  4 |  2 |  0 |  0 |  0 |
-| Elas Kaae Kyauk |  4 |  2 |  0 |  0 |  3 |
-| Carl Zachrisson |  3 |  1 |  0 |  1 |  1 |
-| Johan Sjöstedt |  0 |  0 |  0 |  0 |  0 |
-| Axel Axelsson |  0 |  0 |  0 |  0 |  2 |
+| Edvin Niemi | 23 |  7 |  1 |  6 |  0 |
+| Elijah Senften | 13 |  5 |  1 |  0 |  0 |
+| Jeremiah Famurewa | 13 |  6 |  0 |  1 |  4 |
+| Ted Hortell |  4 |  2 |  0 |  0 |  0 |
+| Wille Söderfalk |  4 |  2 |  0 |  0 |  2 |
+| Gabriel Eleid |  4 |  0 |  1 |  1 |  0 |
+| Spyridon Sypsas |  4 |  2 |  0 |  0 |  0 |
+| Joseph Mbairi |  3 |  1 |  0 |  1 |  0 |
+| Ludvig Lindvall |  0 |  0 |  0 |  0 |  0 |
+| Felix Lundqvist |  0 |  0 |  0 |  0 |  2 |
+| Sixten Simonsson |  0 |  0 |  0 |  0 |  0 |
 
-### Skuru Idrottsklubb - Kungsholmen
+### Basketklubben Gladan - KFUM Blackebergs Idrottsklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Mustafa Muminovic | 10 |  2 |  2 |  0 |  2 |
-| Adrian Dennemark |  9 |  1 |  2 |  1 |  0 |
-| Carl Zachrisson |  8 |  1 |  2 |  0 |  5 |
-| Carl Hårleman |  8 |  3 |  0 |  2 |  3 |
-| Elas Kaae Kyauk |  6 |  0 |  2 |  0 |  2 |
-| Axel Axelsson |  6 |  3 |  0 |  0 |  2 |
-| Johan Sjöstedt |  2 |  1 |  0 |  0 |  1 |
-| Adrian Carlsten |  2 |  1 |  0 |  0 |  0 |
-| Hugo Mattsson Lundberg |  2 |  1 |  0 |  0 |  1 |
-| Carljohan Werner Sundén |  2 |  1 |  0 |  0 |  2 |
+| Elijah Senften | 23 | 10 |  0 |  3 |  1 |
+| Edvin Niemi | 12 |  4 |  0 |  4 |  2 |
+| Spyridon Sypsas | 12 |  4 |  1 |  1 |  2 |
+| Jeremiah Famurewa |  8 |  4 |  0 |  0 |  4 |
+| Ted Hortell |  6 |  2 |  0 |  2 |  2 |
+| Felix Lundqvist |  6 |  0 |  1 |  3 |  1 |
+| Joseph Mbairi |  4 |  1 |  0 |  2 |  0 |
+| Wille Söderfalk |  4 |  2 |  0 |  0 |  1 |
+| Gabriel Eleid |  3 |  0 |  1 |  0 |  0 |
+| Ludvig Lindvall |  2 |  1 |  0 |  0 |  1 |
+| Sixten Simonsson |  0 |  0 |  0 |  0 |  1 |
 

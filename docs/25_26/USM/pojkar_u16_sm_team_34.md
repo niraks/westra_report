@@ -1,76 +1,79 @@
-# Statistics for Nässjö Basket
+# Statistics for Duvbo
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Nässjö Basket | 3 | 59.67 | 16.67 | 7.00 | 5.33 | 15.00 |
+| Duvbo | 4 | 45.00 | 16.50 | 1.00 | 9.00 | 14.25 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ayub Mohamed | 3 | 15.33 | 1.67 | 4.00 | 0.00 | 2.33 |
-| Muscab Maxamud | 3 | 12.00 | 5.00 | 0.00 | 2.00 | 2.67 |
-| Jamal Jamal | 3 | 11.33 | 3.33 | 1.00 | 1.67 | 1.33 |
-| Danilo Damjanovic | 3 | 9.00 | 1.67 | 1.67 | 0.67 | 2.00 |
-| Isak Rofors | 3 | 7.00 | 3.00 | 0.00 | 1.00 | 1.67 |
-| Nikola Sinani | 3 | 1.67 | 0.33 | 0.33 | 0.00 | 0.67 |
-| Abdulahi Yasser | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 1.67 |
-| Edvin Ericsson | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 0.33 |
-| Harman Ali | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.33 |
-| Guuled Ismail Abdi | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Hristijan Beldjigerovski | 3 | 10.67 | 4.00 | 0.33 | 1.67 | 3.67 |
+| August Hermansson | 3 | 10.00 | 4.00 | 0.00 | 2.00 | 2.00 |
+| David Guerrero | 3 | 8.00 | 2.00 | 0.33 | 3.00 | 3.33 |
+| Liban Ismail | 3 | 8.00 | 3.33 | 0.00 | 1.33 | 1.67 |
+| Arman Heleg | 3 | 7.00 | 3.00 | 0.33 | 0.00 | 3.33 |
+| Vilmer Sundberg | 3 | 5.33 | 1.33 | 0.00 | 2.67 | 1.33 |
+| Leo Norrbo Erström | 3 | 5.33 | 1.67 | 0.33 | 1.00 | 2.33 |
+| Angelo Nounou | 3 | 3.00 | 1.33 | 0.00 | 0.33 | 0.67 |
+| Malte Ahlin | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 0.67 |
 
 ## Games
 
-### Danderyd Basket - Nässjö Basket
+### Duvbo - KFUM Basketbollklubb Skellefteå
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Ayub Mohamed | 24 |  3 |  6 |  0 |  4 |
-| Isak Rofors | 11 |  5 |  0 |  1 |  0 |
-| Muscab Maxamud |  8 |  2 |  0 |  4 |  5 |
-| Jamal Jamal |  6 |  1 |  1 |  1 |  4 |
-| Danilo Damjanovic |  5 |  2 |  0 |  1 |  2 |
-| Nikola Sinani |  3 |  0 |  1 |  0 |  2 |
-| Harman Ali |  2 |  1 |  0 |  0 |  0 |
-| Guuled Ismail Abdi |  0 |  0 |  0 |  0 |  1 |
-| Abdulahi Yasser |  0 |  0 |  0 |  0 |  2 |
-| Edvin Ericsson |  0 |  0 |  0 |  0 |  0 |
 
-### Nässjö Basket - Lidingö Basket
+### Viby Basket - Duvbo
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Danilo Damjanovic | 19 |  3 |  4 |  1 |  3 |
-| Muscab Maxamud | 18 |  8 |  0 |  2 |  3 |
-| Jamal Jamal | 11 |  3 |  1 |  2 |  0 |
-| Ayub Mohamed | 10 |  2 |  2 |  0 |  2 |
-| Isak Rofors |  4 |  2 |  0 |  0 |  1 |
-| Abdulahi Yasser |  2 |  1 |  0 |  0 |  3 |
-| Nikola Sinani |  2 |  1 |  0 |  0 |  0 |
-| Harman Ali |  0 |  0 |  0 |  0 |  2 |
-| Guuled Ismail Abdi |  0 |  0 |  0 |  0 |  0 |
-| Edvin Ericsson |  0 |  0 |  0 |  0 |  0 |
+| Arman Heleg |  9 |  3 |  1 |  0 |  3 |
+| David Guerrero |  8 |  3 |  0 |  2 |  2 |
+| Vilmer Sundberg |  7 |  2 |  0 |  3 |  4 |
+| Hristijan Beldjigerovski |  7 |  2 |  1 |  0 |  5 |
+| Liban Ismail |  4 |  2 |  0 |  0 |  0 |
+| August Hermansson |  4 |  2 |  0 |  0 |  1 |
+| Leo Norrbo Erström |  3 |  1 |  0 |  1 |  1 |
+| Malte Ahlin |  2 |  1 |  0 |  0 |  0 |
+| Angelo Nounou |  0 |  0 |  0 |  0 |  0 |
 
-### Alviks Basketbollklubb - Nässjö Basket
+### Skuru Idrottsklubb - Duvbo
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Jamal Jamal | 17 |  6 |  1 |  2 |  0 |
-| Ayub Mohamed | 12 |  0 |  4 |  0 |  1 |
-| Muscab Maxamud | 10 |  5 |  0 |  0 |  0 |
-| Isak Rofors |  6 |  2 |  0 |  2 |  4 |
-| Edvin Ericsson |  4 |  2 |  0 |  0 |  1 |
-| Danilo Damjanovic |  3 |  0 |  1 |  0 |  1 |
-| Abdulahi Yasser |  2 |  1 |  0 |  0 |  0 |
-| Nikola Sinani |  0 |  0 |  0 |  0 |  0 |
-| Harman Ali |  0 |  0 |  0 |  0 |  2 |
-| Guuled Ismail Abdi |  0 |  0 |  0 |  0 |  2 |
+| Liban Ismail | 16 |  6 |  0 |  4 |  2 |
+| August Hermansson | 16 |  7 |  0 |  2 |  2 |
+| Hristijan Beldjigerovski | 15 |  5 |  0 |  5 |  4 |
+| Leo Norrbo Erström |  9 |  2 |  1 |  2 |  4 |
+| Arman Heleg |  8 |  4 |  0 |  0 |  5 |
+| David Guerrero |  7 |  1 |  1 |  2 |  4 |
+| Angelo Nounou |  4 |  2 |  0 |  0 |  2 |
+| Malte Ahlin |  2 |  1 |  0 |  0 |  0 |
+| Vilmer Sundberg |  0 |  0 |  0 |  0 |  0 |
+
+### Duvbo - Hammarö Basketklubb P10
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Hristijan Beldjigerovski | 10 |  5 |  0 |  0 |  2 |
+| August Hermansson | 10 |  3 |  0 |  4 |  3 |
+| Vilmer Sundberg |  9 |  2 |  0 |  5 |  0 |
+| David Guerrero |  9 |  2 |  0 |  5 |  4 |
+| Angelo Nounou |  5 |  2 |  0 |  1 |  0 |
+| Liban Ismail |  4 |  2 |  0 |  0 |  3 |
+| Leo Norrbo Erström |  4 |  2 |  0 |  0 |  2 |
+| Malte Ahlin |  4 |  2 |  0 |  0 |  2 |
+| Arman Heleg |  4 |  2 |  0 |  0 |  2 |
 

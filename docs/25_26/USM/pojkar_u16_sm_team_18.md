@@ -1,83 +1,80 @@
-# Statistics for Lidingö Basket
+# Statistics for Växjö Ravens
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lidingö Basket | 3 | 76.00 | 22.33 | 6.33 | 12.33 | 15.00 |
+| Växjö Ravens | 3 | 70.33 | 25.33 | 4.33 | 6.67 | 15.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Melker Halldin Lindskog | 3 | 19.33 | 5.00 | 1.33 | 5.33 | 3.67 |
-| Benisse Diop | 3 | 17.67 | 5.00 | 1.67 | 2.67 | 2.67 |
-| Edvin Pettersson | 3 | 10.33 | 3.67 | 1.00 | 0.00 | 3.00 |
-| Iasonas Politis | 3 | 8.67 | 1.67 | 0.67 | 3.33 | 2.00 |
-| Axel Öman | 3 | 7.00 | 3.00 | 0.33 | 0.00 | 0.33 |
-| Vilhelm Ekelund | 3 | 5.33 | 1.00 | 1.00 | 0.33 | 1.33 |
-| Liam Tyvik | 3 | 3.33 | 1.00 | 0.33 | 0.33 | 1.00 |
-| Ata Guner | 3 | 3.00 | 1.33 | 0.00 | 0.33 | 0.33 |
-| Douglas Brändström | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.33 |
-| Måns Paulsen | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.33 |
-| Melker Kjerfve | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Leon Lagercrantz Fentie | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Benjamin Ahlberg | 3 | 20.67 | 8.00 | 1.00 | 1.67 | 2.67 |
+| Elend Chweich | 3 | 16.00 | 7.67 | 0.00 | 0.67 | 2.67 |
+| Elton Belo Da Silva | 3 | 11.33 | 3.33 | 1.00 | 1.67 | 3.00 |
+| Casper Edbäck | 3 | 6.00 | 1.67 | 0.67 | 0.67 | 2.00 |
+| Sublime Pandjo | 3 | 5.67 | 2.33 | 0.00 | 1.00 | 2.00 |
+| Noel Ståhlgren | 3 | 3.33 | 1.00 | 0.33 | 0.33 | 0.67 |
+| Ruzdija Beharovic | 3 | 2.67 | 0.33 | 0.67 | 0.00 | 0.00 |
+| Liam Mancilla | 3 | 2.33 | 0.67 | 0.33 | 0.00 | 0.33 |
+| Dellas Lazo | 3 | 2.33 | 0.33 | 0.33 | 0.67 | 1.33 |
+| Adrian Saglamoglu | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.67 |
+| Emilio Lopez | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
 
 ## Games
 
-### Lidingö Basket - Alviks Basketbollklubb
+### Växjö Ravens - Högsbo Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Melker Halldin Lindskog | 21 |  5 |  1 |  8 |  5 |
-| Benisse Diop | 18 |  4 |  3 |  1 |  4 |
-| Vilhelm Ekelund | 10 |  2 |  2 |  0 |  4 |
-| Edvin Pettersson |  9 |  3 |  1 |  0 |  5 |
-| Iasonas Politis |  9 |  1 |  1 |  4 |  3 |
-| Liam Tyvik |  4 |  2 |  0 |  0 |  2 |
-| Axel Öman |  2 |  1 |  0 |  0 |  0 |
-| Douglas Brändström |  2 |  1 |  0 |  0 |  0 |
-| Måns Paulsen |  2 |  1 |  0 |  0 |  1 |
-| Melker Kjerfve |  0 |  0 |  0 |  0 |  0 |
-| Ata Guner |  0 |  0 |  0 |  0 |  0 |
-| Leon Lagercrantz Fentie |  0 |  0 |  0 |  0 |  0 |
+| Benjamin Ahlberg | 27 | 10 |  2 |  1 |  3 |
+| Elend Chweich | 14 |  7 |  0 |  0 |  3 |
+| Noel Ståhlgren | 10 |  3 |  1 |  1 |  2 |
+| Casper Edbäck |  4 |  2 |  0 |  0 |  4 |
+| Elton Belo Da Silva |  4 |  2 |  0 |  0 |  4 |
+| Sublime Pandjo |  1 |  0 |  0 |  1 |  0 |
+| Liam Mancilla |  0 |  0 |  0 |  0 |  0 |
+| Ruzdija Beharovic |  0 |  0 |  0 |  0 |  0 |
+| Adrian Saglamoglu |  0 |  0 |  0 |  0 |  0 |
+| Emilio Lopez |  0 |  0 |  0 |  0 |  0 |
+| Dellas Lazo |  0 |  0 |  0 |  0 |  1 |
 
-### Nässjö Basket - Lidingö Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Melker Halldin Lindskog | 22 |  7 |  2 |  2 |  2 |
-| Benisse Diop | 17 |  4 |  1 |  6 |  3 |
-| Axel Öman | 15 |  6 |  1 |  0 |  1 |
-| Iasonas Politis |  8 |  3 |  0 |  2 |  2 |
-| Edvin Pettersson |  7 |  2 |  1 |  0 |  3 |
-| Vilhelm Ekelund |  6 |  1 |  1 |  1 |  0 |
-| Ata Guner |  4 |  2 |  0 |  0 |  0 |
-| Douglas Brändström |  0 |  0 |  0 |  0 |  0 |
-| Liam Tyvik |  0 |  0 |  0 |  0 |  1 |
-| Måns Paulsen |  0 |  0 |  0 |  0 |  0 |
-| Leon Lagercrantz Fentie |  0 |  0 |  0 |  0 |  0 |
-
-### Lidingö Basket - Danderyd Basket
+### Växjö Ravens - Lerums Basket Förening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Benisse Diop | 18 |  7 |  1 |  1 |  1 |
-| Edvin Pettersson | 15 |  6 |  1 |  0 |  1 |
-| Melker Halldin Lindskog | 15 |  3 |  1 |  6 |  4 |
-| Iasonas Politis |  9 |  1 |  1 |  4 |  1 |
-| Liam Tyvik |  6 |  1 |  1 |  1 |  0 |
-| Ata Guner |  5 |  2 |  0 |  1 |  1 |
-| Axel Öman |  4 |  2 |  0 |  0 |  0 |
-| Melker Kjerfve |  0 |  0 |  0 |  0 |  0 |
-| Douglas Brändström |  0 |  0 |  0 |  0 |  1 |
-| Måns Paulsen |  0 |  0 |  0 |  0 |  0 |
-| Vilhelm Ekelund |  0 |  0 |  0 |  0 |  0 |
-| Leon Lagercrantz Fentie |  0 |  0 |  0 |  0 |  0 |
+| Elend Chweich | 17 |  8 |  0 |  1 |  2 |
+| Benjamin Ahlberg | 15 |  7 |  0 |  1 |  4 |
+| Elton Belo Da Silva | 14 |  4 |  1 |  3 |  2 |
+| Sublime Pandjo | 12 |  5 |  0 |  2 |  2 |
+| Dellas Lazo |  7 |  1 |  1 |  2 |  2 |
+| Ruzdija Beharovic |  5 |  1 |  1 |  0 |  0 |
+| Liam Mancilla |  2 |  1 |  0 |  0 |  1 |
+| Casper Edbäck |  2 |  1 |  0 |  0 |  1 |
+| Adrian Saglamoglu |  0 |  0 |  0 |  0 |  0 |
+| Noel Ståhlgren |  0 |  0 |  0 |  0 |  0 |
+| Emilio Lopez |  0 |  0 |  0 |  0 |  0 |
+
+### Växjö Ravens - Malbas Vit
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Benjamin Ahlberg | 20 |  7 |  1 |  3 |  1 |
+| Elend Chweich | 17 |  8 |  0 |  1 |  3 |
+| Elton Belo Da Silva | 16 |  4 |  2 |  2 |  3 |
+| Casper Edbäck | 12 |  2 |  2 |  2 |  1 |
+| Liam Mancilla |  5 |  1 |  1 |  0 |  0 |
+| Sublime Pandjo |  4 |  2 |  0 |  0 |  4 |
+| Ruzdija Beharovic |  3 |  0 |  1 |  0 |  0 |
+| Adrian Saglamoglu |  0 |  0 |  0 |  0 |  2 |
+| Noel Ståhlgren |  0 |  0 |  0 |  0 |  0 |
+| Emilio Lopez |  0 |  0 |  0 |  0 |  1 |
+| Dellas Lazo |  0 |  0 |  0 |  0 |  1 |
 

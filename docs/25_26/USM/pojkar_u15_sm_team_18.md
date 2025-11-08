@@ -1,67 +1,84 @@
-# Statistics for Uppsala Basket
+# Statistics for Köping Stars Basketförening
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Uppsala Basket | 2 | 76.50 | 32.00 | 1.00 | 9.50 | 19.50 |
+| Köping Stars Basketförening | 3 | 68.33 | 24.00 | 4.00 | 8.33 | 10.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Felix Parmklev | 2 | 25.50 | 11.00 | 0.00 | 3.50 | 2.00 |
-| Spyridon Pouliasis | 2 | 11.50 | 4.50 | 0.50 | 1.00 | 4.00 |
-| Ludvig Sjöberg | 2 | 7.00 | 3.50 | 0.00 | 0.00 | 2.00 |
-| Ozzy Lee Petersson Årman | 2 | 6.00 | 3.00 | 0.00 | 0.00 | 1.00 |
-| Emil Dahl | 2 | 5.00 | 2.50 | 0.00 | 0.00 | 1.50 |
-| Theo Egemalm | 2 | 4.50 | 2.00 | 0.00 | 0.50 | 1.00 |
-| Hugo Wiborg | 1 | 4.00 | 1.00 | 0.00 | 2.00 | 0.00 |
-| Jonathan Berglind | 1 | 4.00 | 1.00 | 0.00 | 2.00 | 0.00 |
-| Kristaps Vaivads | 2 | 3.50 | 1.50 | 0.00 | 0.50 | 0.50 |
-| Dexter Rosén | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 0.00 |
-| Kiril Light | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 2.50 |
-| Sam Bujimu | 2 | 2.50 | 0.00 | 0.50 | 1.00 | 1.50 |
-| Vincent Hafstad | 1 | 2.00 | 0.00 | 0.00 | 2.00 | 3.00 |
-| Elon Almlöf | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 4.00 |
+| Ture Almqvist | 3 | 22.00 | 7.33 | 1.33 | 3.33 | 2.67 |
+| Oliwer Rudin | 3 | 14.00 | 4.67 | 1.33 | 0.67 | 1.33 |
+| Adam Attalla Hassan Hegazy | 3 | 11.33 | 4.00 | 0.33 | 2.33 | 2.33 |
+| Kevin Nålberg | 3 | 10.00 | 4.67 | 0.00 | 0.67 | 1.00 |
+| Wilmer Rudin | 3 | 6.67 | 1.33 | 1.00 | 1.00 | 0.67 |
+| Sune Tiger-ring | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 0.00 |
+| Emil Henic | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 0.00 |
+| Vilmer Pennerborn | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 1.00 |
+| Herman Bishop | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.00 |
+| Charlie Sundling | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
+| Loke Rosander | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Melwin Svensson | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.67 |
 
 ## Games
 
-### Uppsala Basket - Basketklubben Gladan
+### Köping Stars Basketförening - Wetterbygden Stars
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Felix Parmklev | 24 | 11 |  0 |  2 |  3 |
-| Spyridon Pouliasis | 11 |  4 |  1 |  0 |  3 |
-| Ludvig Sjöberg |  8 |  4 |  0 |  0 |  2 |
-| Emil Dahl |  8 |  4 |  0 |  0 |  2 |
-| Dexter Rosén |  6 |  3 |  0 |  0 |  0 |
-| Theo Egemalm |  6 |  3 |  0 |  0 |  0 |
-| Ozzy Lee Petersson Årman |  6 |  3 |  0 |  0 |  1 |
-| Kristaps Vaivads |  5 |  2 |  0 |  1 |  1 |
-| Hugo Wiborg |  4 |  1 |  0 |  2 |  0 |
-| Kiril Light |  4 |  2 |  0 |  0 |  2 |
-| Elon Almlöf |  0 |  0 |  0 |  0 |  4 |
-| Sam Bujimu |  0 |  0 |  0 |  0 |  0 |
+| Ture Almqvist | 24 |  9 |  0 |  6 |  3 |
+| Oliwer Rudin | 16 |  6 |  1 |  1 |  2 |
+| Adam Attalla Hassan Hegazy | 13 |  4 |  0 |  5 |  4 |
+| Kevin Nålberg | 13 |  6 |  0 |  1 |  2 |
+| Wilmer Rudin |  6 |  3 |  0 |  0 |  0 |
+| Sune Tiger-ring |  2 |  1 |  0 |  0 |  0 |
+| Emil Henic |  2 |  1 |  0 |  0 |  0 |
+| Charlie Sundling |  0 |  0 |  0 |  0 |  0 |
+| Vilmer Pennerborn |  0 |  0 |  0 |  0 |  3 |
+| Herman Bishop |  0 |  0 |  0 |  0 |  0 |
+| Loke Rosander |  0 |  0 |  0 |  0 |  0 |
+| Melwin Svensson |  0 |  0 |  0 |  0 |  2 |
 
-### KFUM Blackebergs Idrottsklubb - Uppsala Basket
+### Kungsbacka Basket - Köping Stars Basketförening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Felix Parmklev | 27 | 11 |  0 |  5 |  1 |
-| Spyridon Pouliasis | 12 |  5 |  0 |  2 |  5 |
-| Ludvig Sjöberg |  6 |  3 |  0 |  0 |  2 |
-| Ozzy Lee Petersson Årman |  6 |  3 |  0 |  0 |  1 |
-| Sam Bujimu |  5 |  0 |  1 |  2 |  3 |
-| Jonathan Berglind |  4 |  1 |  0 |  2 |  0 |
-| Theo Egemalm |  3 |  1 |  0 |  1 |  2 |
-| Kristaps Vaivads |  2 |  1 |  0 |  0 |  0 |
-| Vincent Hafstad |  2 |  0 |  0 |  2 |  3 |
-| Emil Dahl |  2 |  1 |  0 |  0 |  1 |
-| Kiril Light |  2 |  1 |  0 |  0 |  3 |
-| Dexter Rosén |  0 |  0 |  0 |  0 |  0 |
+| Ture Almqvist | 18 |  6 |  2 |  0 |  2 |
+| Oliwer Rudin | 15 |  4 |  2 |  1 |  0 |
+| Adam Attalla Hassan Hegazy |  9 |  4 |  0 |  1 |  2 |
+| Kevin Nålberg |  8 |  4 |  0 |  0 |  0 |
+| Wilmer Rudin |  7 |  0 |  2 |  1 |  0 |
+| Vilmer Pennerborn |  2 |  1 |  0 |  0 |  0 |
+| Herman Bishop |  2 |  1 |  0 |  0 |  0 |
+| Sune Tiger-ring |  2 |  1 |  0 |  0 |  0 |
+| Emil Henic |  2 |  1 |  0 |  0 |  0 |
+| Charlie Sundling |  0 |  0 |  0 |  0 |  0 |
+| Loke Rosander |  0 |  0 |  0 |  0 |  0 |
+| Melwin Svensson |  0 |  0 |  0 |  0 |  0 |
+
+### Arvika Basket - Köping Stars Basketförening
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Ture Almqvist | 24 |  7 |  2 |  4 |  3 |
+| Adam Attalla Hassan Hegazy | 12 |  4 |  1 |  1 |  1 |
+| Oliwer Rudin | 11 |  4 |  1 |  0 |  2 |
+| Kevin Nålberg |  9 |  4 |  0 |  1 |  1 |
+| Wilmer Rudin |  7 |  1 |  1 |  2 |  2 |
+| Vilmer Pennerborn |  1 |  0 |  0 |  1 |  0 |
+| Charlie Sundling |  0 |  0 |  0 |  0 |  1 |
+| Herman Bishop |  0 |  0 |  0 |  0 |  0 |
+| Loke Rosander |  0 |  0 |  0 |  0 |  0 |
+| Melwin Svensson |  0 |  0 |  0 |  0 |  0 |
+| Sune Tiger-ring |  0 |  0 |  0 |  0 |  0 |
+| Emil Henic |  0 |  0 |  0 |  0 |  0 |
 

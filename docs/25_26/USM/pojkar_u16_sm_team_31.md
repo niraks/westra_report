@@ -1,83 +1,110 @@
-# Statistics for Trollhättans Basketbollklubb
+# Statistics for Hammarby
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Trollhättans Basketbollklubb | 3 | 62.00 | 21.00 | 2.00 | 14.00 | 21.33 |
+| Hammarby | 5 | 50.40 | 17.40 | 1.80 | 10.20 | 11.60 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Oliver Reit | 3 | 19.67 | 5.67 | 1.33 | 4.33 | 1.00 |
-| Ilon Åhman | 3 | 12.00 | 3.33 | 0.67 | 3.33 | 2.00 |
-| William Alvekvist | 3 | 11.33 | 4.33 | 0.00 | 2.67 | 2.67 |
-| Gustav Karlsson Glasell | 3 | 7.00 | 3.00 | 0.00 | 1.00 | 1.67 |
-| Jalil Mohammed | 3 | 4.33 | 1.67 | 0.00 | 1.00 | 3.00 |
-| Albin Zenkic | 3 | 4.00 | 1.67 | 0.00 | 0.67 | 4.67 |
-| Viktor Johansson | 3 | 1.67 | 0.33 | 0.00 | 1.00 | 3.00 |
-| Joseph Jonsson | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.00 |
-| Alexandru Dena | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 2.33 |
-| Nour Antabi | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.33 |
-| Jack Främling | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
-| Elias Wigenius | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
+| Noel Englund Ghebreab | 1 | 21.00 | 8.00 | 0.00 | 5.00 | 0.00 |
+| Viktor Juth | 3 | 10.67 | 4.33 | 0.00 | 2.00 | 1.33 |
+| Adam Berghand | 2 | 10.50 | 4.50 | 0.00 | 1.50 | 0.50 |
+| Maxwell Mayorga Gonzalez | 4 | 7.50 | 2.00 | 0.25 | 2.75 | 1.75 |
+| Markus Bautista | 4 | 7.00 | 1.50 | 1.00 | 1.00 | 1.50 |
+| Elvis Larsson | 4 | 6.25 | 2.50 | 0.00 | 1.25 | 1.50 |
+| Nils Malmkvist | 4 | 6.25 | 2.50 | 0.25 | 0.50 | 2.50 |
+| Sigge Korphammar | 4 | 5.50 | 2.25 | 0.00 | 1.00 | 0.25 |
+| Bohdan Piskun | 4 | 4.25 | 1.25 | 0.25 | 1.00 | 1.25 |
+| Hugo Östmark | 4 | 4.25 | 1.00 | 0.50 | 0.75 | 1.25 |
+| Noah Yohannes Monfelt | 1 | 4.00 | 1.00 | 0.00 | 2.00 | 5.00 |
+| Milion Kawesa Nasri | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 2.00 |
+| Sebastian Pacheco Castellon | 3 | 2.00 | 0.67 | 0.00 | 0.67 | 0.67 |
+| Sam Bystedt Wennberg | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.67 |
+| Valentino Krstic | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.67 |
 
 ## Games
 
-### Älmhult Beasts BC P16 - Trollhättans Basketbollklubb
+### KFUM Sundsvall Basket - Hammarby
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Ilon Åhman | 12 |  4 |  1 |  1 |  3 |
-| William Alvekvist | 11 |  5 |  0 |  1 |  3 |
-| Oliver Reit |  5 |  1 |  1 |  0 |  0 |
-| Gustav Karlsson Glasell |  4 |  2 |  0 |  0 |  2 |
-| Jalil Mohammed |  4 |  1 |  0 |  2 |  3 |
-| Albin Zenkic |  3 |  1 |  0 |  1 |  5 |
-| Viktor Johansson |  2 |  1 |  0 |  0 |  3 |
-| Joseph Jonsson |  2 |  1 |  0 |  0 |  0 |
-| Jack Främling |  0 |  0 |  0 |  0 |  1 |
-| Alexandru Dena |  0 |  0 |  0 |  0 |  2 |
-| Nour Antabi |  0 |  0 |  0 |  0 |  1 |
-| Elias Wigenius |  0 |  0 |  0 |  0 |  1 |
 
-### Motala Basket - Trollhättans Basketbollklubb
+### Hammarby - KFUM Örebro Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Oliver Reit | 23 |  7 |  0 |  9 |  2 |
-| Ilon Åhman | 12 |  3 |  0 |  6 |  2 |
-| Gustav Karlsson Glasell | 11 |  5 |  0 |  1 |  1 |
-| Jalil Mohammed |  9 |  4 |  0 |  1 |  3 |
-| Albin Zenkic |  8 |  4 |  0 |  0 |  5 |
-| William Alvekvist |  6 |  2 |  0 |  2 |  3 |
-| Viktor Johansson |  0 |  0 |  0 |  0 |  2 |
-| Jack Främling |  0 |  0 |  0 |  0 |  0 |
-| Alexandru Dena |  0 |  0 |  0 |  0 |  1 |
-| Nour Antabi |  0 |  0 |  0 |  0 |  0 |
-| Elias Wigenius |  0 |  0 |  0 |  0 |  0 |
-| Joseph Jonsson |  0 |  0 |  0 |  0 |  0 |
+| Noel Englund Ghebreab | 21 |  8 |  0 |  5 |  0 |
+| Maxwell Mayorga Gonzalez |  8 |  3 |  0 |  2 |  2 |
+| Elvis Larsson |  8 |  4 |  0 |  0 |  1 |
+| Nils Malmkvist |  8 |  4 |  0 |  0 |  0 |
+| Noah Yohannes Monfelt |  4 |  1 |  0 |  2 |  5 |
+| Adam Berghand |  4 |  2 |  0 |  0 |  0 |
+| Sigge Korphammar |  3 |  1 |  0 |  1 |  0 |
+| Bohdan Piskun |  2 |  1 |  0 |  0 |  2 |
+| Markus Bautista |  2 |  0 |  0 |  2 |  1 |
+| Milion Kawesa Nasri |  2 |  1 |  0 |  0 |  2 |
+| Sebastian Pacheco Castellon |  2 |  0 |  0 |  2 |  0 |
+| Hugo Östmark |  1 |  0 |  0 |  1 |  1 |
 
-### Lobas - Trollhättans Basketbollklubb
+### Eskilstuna Basket - Hammarby
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Oliver Reit | 31 |  9 |  3 |  4 |  1 |
-| William Alvekvist | 17 |  6 |  0 |  5 |  2 |
-| Ilon Åhman | 12 |  3 |  1 |  3 |  1 |
-| Gustav Karlsson Glasell |  6 |  2 |  0 |  2 |  2 |
-| Viktor Johansson |  3 |  0 |  0 |  3 |  4 |
-| Alexandru Dena |  2 |  1 |  0 |  0 |  4 |
-| Nour Antabi |  2 |  1 |  0 |  0 |  0 |
-| Albin Zenkic |  1 |  0 |  0 |  1 |  4 |
-| Jack Främling |  0 |  0 |  0 |  0 |  0 |
-| Jalil Mohammed |  0 |  0 |  0 |  0 |  3 |
-| Elias Wigenius |  0 |  0 |  0 |  0 |  0 |
+| Adam Berghand | 17 |  7 |  0 |  3 |  1 |
+| Viktor Juth | 12 |  4 |  0 |  4 |  2 |
+| Sigge Korphammar | 11 |  5 |  0 |  1 |  0 |
+| Elvis Larsson |  9 |  2 |  0 |  5 |  2 |
+| Markus Bautista |  8 |  1 |  2 |  0 |  0 |
+| Nils Malmkvist |  8 |  4 |  0 |  0 |  5 |
+| Hugo Östmark |  7 |  2 |  1 |  0 |  4 |
+| Bohdan Piskun |  5 |  2 |  0 |  1 |  3 |
+| Maxwell Mayorga Gonzalez |  4 |  1 |  0 |  2 |  2 |
+| Valentino Krstic |  0 |  0 |  0 |  0 |  1 |
+| Sam Bystedt Wennberg |  0 |  0 |  0 |  0 |  1 |
+
+### Hammarby - Östersund Basket Ungdom HU16
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Viktor Juth | 13 |  6 |  0 |  1 |  1 |
+| Bohdan Piskun |  8 |  1 |  1 |  3 |  0 |
+| Markus Bautista |  7 |  2 |  1 |  0 |  1 |
+| Maxwell Mayorga Gonzalez |  6 |  3 |  0 |  0 |  1 |
+| Elvis Larsson |  4 |  2 |  0 |  0 |  2 |
+| Hugo Östmark |  4 |  0 |  1 |  1 |  0 |
+| Sigge Korphammar |  2 |  1 |  0 |  0 |  0 |
+| Valentino Krstic |  0 |  0 |  0 |  0 |  0 |
+| Sebastian Pacheco Castellon |  0 |  0 |  0 |  0 |  0 |
+| Nils Malmkvist |  0 |  0 |  0 |  0 |  2 |
+| Sam Bystedt Wennberg |  0 |  0 |  0 |  0 |  1 |
+
+### Hammarby - AIK
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Maxwell Mayorga Gonzalez | 12 |  1 |  1 |  7 |  2 |
+| Markus Bautista | 11 |  3 |  1 |  2 |  4 |
+| Nils Malmkvist |  9 |  2 |  1 |  2 |  3 |
+| Viktor Juth |  7 |  3 |  0 |  1 |  1 |
+| Sigge Korphammar |  6 |  2 |  0 |  2 |  1 |
+| Hugo Östmark |  5 |  2 |  0 |  1 |  0 |
+| Elvis Larsson |  4 |  2 |  0 |  0 |  1 |
+| Sebastian Pacheco Castellon |  4 |  2 |  0 |  0 |  2 |
+| Bohdan Piskun |  2 |  1 |  0 |  0 |  0 |
+| Sam Bystedt Wennberg |  2 |  1 |  0 |  0 |  0 |
+| Valentino Krstic |  0 |  0 |  0 |  0 |  1 |
 

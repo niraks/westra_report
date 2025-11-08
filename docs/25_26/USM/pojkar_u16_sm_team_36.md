@@ -1,86 +1,83 @@
-# Statistics for Eskilstuna Basket
+# Statistics for Nässjö Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eskilstuna Basket | 3 | 55.67 | 17.00 | 3.67 | 10.67 | 15.33 |
+| Nässjö Basket | 4 | 44.75 | 12.50 | 5.25 | 4.00 | 11.25 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Mattias Yaqoob | 3 | 13.00 | 4.00 | 1.00 | 2.00 | 1.33 |
-| Tomas Jamil | 3 | 11.33 | 4.33 | 0.00 | 2.67 | 1.33 |
-| Siméon Eriksson | 3 | 6.67 | 0.67 | 1.33 | 1.33 | 0.67 |
-| Adrian Henriksson | 3 | 6.33 | 1.33 | 0.00 | 3.67 | 0.67 |
-| Feras Al Masri | 3 | 6.33 | 2.00 | 0.67 | 0.33 | 2.67 |
-| Simon Wardi | 3 | 4.33 | 1.67 | 0.33 | 0.00 | 3.33 |
-| Olver Khourani | 3 | 3.33 | 1.00 | 0.33 | 0.33 | 1.67 |
-| Vincent Mputu | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 2.33 |
-| Eric Nyquist | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.50 |
-| Yodahe Tassew | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.00 |
-| Max Söderkvist | 3 | 0.33 | 0.00 | 0.00 | 0.33 | 1.00 |
-| Måns Mathiasen | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Sakarias Plattonen | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Ayub Mohamed | 3 | 15.33 | 1.67 | 4.00 | 0.00 | 2.33 |
+| Muscab Maxamud | 3 | 12.00 | 5.00 | 0.00 | 2.00 | 2.67 |
+| Jamal Jamal | 3 | 11.33 | 3.33 | 1.00 | 1.67 | 1.33 |
+| Danilo Damjanovic | 3 | 9.00 | 1.67 | 1.67 | 0.67 | 2.00 |
+| Isak Rofors | 3 | 7.00 | 3.00 | 0.00 | 1.00 | 1.67 |
+| Nikola Sinani | 3 | 1.67 | 0.33 | 0.33 | 0.00 | 0.67 |
+| Abdulahi Yasser | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 1.67 |
+| Edvin Ericsson | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 0.33 |
+| Harman Ali | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.33 |
+| Guuled Ismail Abdi | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 
 ## Games
 
-### Östersund Basket Ungdom HU16 - Eskilstuna Basket
+### Högsbo Basket - Nässjö Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Tomas Jamil | 13 |  5 |  0 |  3 |  2 |
-| Mattias Yaqoob |  9 |  3 |  1 |  0 |  2 |
-| Adrian Henriksson |  9 |  2 |  0 |  5 |  0 |
-| Siméon Eriksson |  5 |  1 |  1 |  0 |  1 |
-| Vincent Mputu |  4 |  2 |  0 |  0 |  2 |
-| Olver Khourani |  3 |  1 |  0 |  1 |  0 |
-| Simon Wardi |  2 |  1 |  0 |  0 |  4 |
-| Max Söderkvist |  1 |  0 |  0 |  1 |  1 |
-| Måns Mathiasen |  0 |  0 |  0 |  0 |  0 |
-| Yodahe Tassew |  0 |  0 |  0 |  0 |  0 |
-| Sakarias Plattonen |  0 |  0 |  0 |  0 |  0 |
-| Feras Al Masri |  0 |  0 |  0 |  0 |  2 |
 
-### AIK - Eskilstuna Basket
+### Alviks Basketbollklubb - Nässjö Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Tomas Jamil | 19 |  8 |  0 |  3 |  1 |
-| Feras Al Masri | 12 |  4 |  1 |  1 |  1 |
-| Mattias Yaqoob |  9 |  2 |  1 |  2 |  0 |
-| Olver Khourani |  7 |  2 |  1 |  0 |  4 |
-| Siméon Eriksson |  7 |  1 |  1 |  2 |  0 |
-| Yodahe Tassew |  2 |  1 |  0 |  0 |  0 |
-| Simon Wardi |  2 |  1 |  0 |  0 |  1 |
-| Adrian Henriksson |  2 |  0 |  0 |  2 |  2 |
-| Måns Mathiasen |  0 |  0 |  0 |  0 |  0 |
-| Max Söderkvist |  0 |  0 |  0 |  0 |  2 |
-| Vincent Mputu |  0 |  0 |  0 |  0 |  3 |
-| Eric Nyquist |  0 |  0 |  0 |  0 |  0 |
+| Jamal Jamal | 17 |  6 |  1 |  2 |  0 |
+| Ayub Mohamed | 12 |  0 |  4 |  0 |  1 |
+| Muscab Maxamud | 10 |  5 |  0 |  0 |  0 |
+| Isak Rofors |  6 |  2 |  0 |  2 |  4 |
+| Edvin Ericsson |  4 |  2 |  0 |  0 |  1 |
+| Danilo Damjanovic |  3 |  0 |  1 |  0 |  1 |
+| Abdulahi Yasser |  2 |  1 |  0 |  0 |  0 |
+| Nikola Sinani |  0 |  0 |  0 |  0 |  0 |
+| Harman Ali |  0 |  0 |  0 |  0 |  2 |
+| Guuled Ismail Abdi |  0 |  0 |  0 |  0 |  2 |
 
-### Eskilstuna Basket - Hammarby
+### Nässjö Basket - Lidingö Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Mattias Yaqoob | 21 |  7 |  1 |  4 |  2 |
-| Simon Wardi |  9 |  3 |  1 |  0 |  5 |
-| Siméon Eriksson |  8 |  0 |  2 |  2 |  1 |
-| Adrian Henriksson |  8 |  2 |  0 |  4 |  0 |
-| Feras Al Masri |  7 |  2 |  1 |  0 |  5 |
-| Vincent Mputu |  4 |  2 |  0 |  0 |  2 |
-| Tomas Jamil |  2 |  0 |  0 |  2 |  1 |
-| Eric Nyquist |  2 |  1 |  0 |  0 |  1 |
-| Olver Khourani |  0 |  0 |  0 |  0 |  1 |
-| Måns Mathiasen |  0 |  0 |  0 |  0 |  0 |
-| Yodahe Tassew |  0 |  0 |  0 |  0 |  0 |
-| Sakarias Plattonen |  0 |  0 |  0 |  0 |  0 |
-| Max Söderkvist |  0 |  0 |  0 |  0 |  0 |
+| Danilo Damjanovic | 19 |  3 |  4 |  1 |  3 |
+| Muscab Maxamud | 18 |  8 |  0 |  2 |  3 |
+| Jamal Jamal | 11 |  3 |  1 |  2 |  0 |
+| Ayub Mohamed | 10 |  2 |  2 |  0 |  2 |
+| Isak Rofors |  4 |  2 |  0 |  0 |  1 |
+| Abdulahi Yasser |  2 |  1 |  0 |  0 |  3 |
+| Nikola Sinani |  2 |  1 |  0 |  0 |  0 |
+| Harman Ali |  0 |  0 |  0 |  0 |  2 |
+| Guuled Ismail Abdi |  0 |  0 |  0 |  0 |  0 |
+| Edvin Ericsson |  0 |  0 |  0 |  0 |  0 |
+
+### Danderyd Basket - Nässjö Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Ayub Mohamed | 24 |  3 |  6 |  0 |  4 |
+| Isak Rofors | 11 |  5 |  0 |  1 |  0 |
+| Muscab Maxamud |  8 |  2 |  0 |  4 |  5 |
+| Jamal Jamal |  6 |  1 |  1 |  1 |  4 |
+| Danilo Damjanovic |  5 |  2 |  0 |  1 |  2 |
+| Nikola Sinani |  3 |  0 |  1 |  0 |  2 |
+| Harman Ali |  2 |  1 |  0 |  0 |  0 |
+| Guuled Ismail Abdi |  0 |  0 |  0 |  0 |  1 |
+| Abdulahi Yasser |  0 |  0 |  0 |  0 |  2 |
+| Edvin Ericsson |  0 |  0 |  0 |  0 |  0 |
 

@@ -1,80 +1,83 @@
-# Statistics for Skuru Idrottsklubb
+# Statistics for Helsingborg
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Skuru Idrottsklubb | 3 | 79.00 | 21.00 | 6.67 | 17.00 | 18.67 |
+| Helsingborg | 4 | 78.50 | 26.25 | 6.50 | 6.50 | 11.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eli Aggesjö | 3 | 33.67 | 7.67 | 2.67 | 10.33 | 1.33 |
-| Carl Allberg | 3 | 11.33 | 1.67 | 1.67 | 3.00 | 1.33 |
-| Vidar Hellner | 3 | 10.00 | 4.67 | 0.00 | 0.67 | 3.00 |
-| Edvin Liljeqvist | 3 | 8.33 | 2.33 | 1.00 | 0.67 | 3.67 |
-| Julian Maker | 3 | 6.67 | 1.67 | 1.00 | 0.33 | 0.33 |
-| Fadi Sheikh Sidi | 3 | 3.67 | 0.67 | 0.33 | 1.33 | 1.67 |
-| Lo Roos | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 1.00 |
-| Sven Linderholm | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 3.00 |
-| Max Arnerius | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.33 |
-| Jack Wannfors | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 1.67 |
-| Hampus Hoff | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
+| Adrian Döme | 3 | 35.33 | 10.33 | 2.67 | 6.67 | 1.00 |
+| Hamza Ibrahim | 3 | 16.67 | 2.67 | 3.33 | 1.33 | 2.33 |
+| Noah Grahn Gustafsson | 3 | 16.67 | 8.33 | 0.00 | 0.00 | 3.00 |
+| Sebastian Frank-Gamez | 3 | 9.33 | 4.67 | 0.00 | 0.00 | 2.00 |
+| Alfred Jämtfalk | 3 | 9.00 | 4.00 | 0.33 | 0.00 | 2.33 |
+| Vytas Gaudutis | 3 | 8.33 | 1.67 | 1.67 | 0.00 | 1.67 |
+| Milo Bjurling | 3 | 6.00 | 2.00 | 0.67 | 0.00 | 1.67 |
+| William Nilsson | 3 | 1.67 | 0.67 | 0.00 | 0.33 | 0.33 |
+| Stefan Bizic | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 0.33 |
+| Charlie Forsberg-Varga | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Skuru Idrottsklubb - Duvbo
+### Motala Basket - Helsingborg
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Eli Aggesjö | 51 | 16 |  1 | 16 |  1 |
-| Carl Allberg | 13 |  3 |  1 |  4 |  3 |
-| Julian Maker | 12 |  3 |  2 |  0 |  0 |
-| Edvin Liljeqvist | 12 |  2 |  2 |  2 |  4 |
-| Vidar Hellner | 12 |  6 |  0 |  0 |  3 |
-| Fadi Sheikh Sidi |  4 |  1 |  0 |  2 |  4 |
-| Lo Roos |  2 |  1 |  0 |  0 |  0 |
-| Jack Wannfors |  0 |  0 |  0 |  0 |  4 |
-| Max Arnerius |  0 |  0 |  0 |  0 |  0 |
-| Hampus Hoff |  0 |  0 |  0 |  0 |  0 |
-| Sven Linderholm |  0 |  0 |  0 |  0 |  3 |
 
-### Hammarö Basketklubb P10 - Skuru Idrottsklubb
+### Kvarnby Basket - Helsingborg
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Eli Aggesjö | 26 |  5 |  4 |  4 |  1 |
-| Carl Allberg | 11 |  2 |  2 |  1 |  1 |
-| Vidar Hellner |  9 |  4 |  0 |  1 |  3 |
-| Julian Maker |  8 |  2 |  1 |  1 |  0 |
-| Edvin Liljeqvist |  6 |  3 |  0 |  0 |  2 |
-| Fadi Sheikh Sidi |  3 |  0 |  1 |  0 |  0 |
-| Sven Linderholm |  2 |  1 |  0 |  0 |  3 |
-| Lo Roos |  2 |  1 |  0 |  0 |  2 |
-| Jack Wannfors |  0 |  0 |  0 |  0 |  0 |
-| Max Arnerius |  0 |  0 |  0 |  0 |  0 |
-| Hampus Hoff |  0 |  0 |  0 |  0 |  0 |
+| Adrian Döme | 37 | 10 |  4 |  5 |  0 |
+| Noah Grahn Gustafsson | 24 | 12 |  0 |  0 |  2 |
+| Hamza Ibrahim | 16 |  3 |  3 |  1 |  3 |
+| Sebastian Frank-Gamez | 14 |  7 |  0 |  0 |  0 |
+| Milo Bjurling | 10 |  2 |  2 |  0 |  1 |
+| Vytas Gaudutis |  9 |  3 |  1 |  0 |  4 |
+| Alfred Jämtfalk |  7 |  2 |  1 |  0 |  2 |
+| William Nilsson |  5 |  2 |  0 |  1 |  0 |
+| Stefan Bizic |  3 |  1 |  0 |  1 |  1 |
+| Charlie Forsberg-Varga |  0 |  0 |  0 |  0 |  0 |
 
-### Skuru Idrottsklubb - Viby Basket
+### LIDBAS/Borås - Helsingborg
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Eli Aggesjö | 24 |  2 |  3 | 11 |  2 |
-| Carl Allberg | 10 |  0 |  2 |  4 |  0 |
-| Vidar Hellner |  9 |  4 |  0 |  1 |  3 |
-| Edvin Liljeqvist |  7 |  2 |  1 |  0 |  5 |
-| Lo Roos |  6 |  2 |  0 |  2 |  1 |
-| Fadi Sheikh Sidi |  4 |  1 |  0 |  2 |  1 |
-| Max Arnerius |  2 |  1 |  0 |  0 |  4 |
-| Sven Linderholm |  2 |  1 |  0 |  0 |  3 |
-| Jack Wannfors |  0 |  0 |  0 |  0 |  1 |
-| Julian Maker |  0 |  0 |  0 |  0 |  1 |
-| Hampus Hoff |  0 |  0 |  0 |  0 |  1 |
+| Hamza Ibrahim | 27 |  4 |  6 |  1 |  2 |
+| Adrian Döme | 24 |  6 |  3 |  3 |  3 |
+| Alfred Jämtfalk | 14 |  7 |  0 |  0 |  0 |
+| Noah Grahn Gustafsson | 10 |  5 |  0 |  0 |  3 |
+| Sebastian Frank-Gamez |  4 |  2 |  0 |  0 |  4 |
+| Vytas Gaudutis |  2 |  1 |  0 |  0 |  0 |
+| Milo Bjurling |  2 |  1 |  0 |  0 |  0 |
+| Charlie Forsberg-Varga |  0 |  0 |  0 |  0 |  0 |
+| Stefan Bizic |  0 |  0 |  0 |  0 |  0 |
+| William Nilsson |  0 |  0 |  0 |  0 |  0 |
+
+### Helsingborg - Bankeryds Basketklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Adrian Döme | 45 | 15 |  1 | 12 |  0 |
+| Noah Grahn Gustafsson | 16 |  8 |  0 |  0 |  4 |
+| Vytas Gaudutis | 14 |  1 |  4 |  0 |  1 |
+| Sebastian Frank-Gamez | 10 |  5 |  0 |  0 |  2 |
+| Hamza Ibrahim |  7 |  1 |  1 |  2 |  2 |
+| Milo Bjurling |  6 |  3 |  0 |  0 |  4 |
+| Alfred Jämtfalk |  6 |  3 |  0 |  0 |  5 |
+| Charlie Forsberg-Varga |  2 |  1 |  0 |  0 |  0 |
+| Stefan Bizic |  0 |  0 |  0 |  0 |  0 |
+| William Nilsson |  0 |  0 |  0 |  0 |  1 |
 

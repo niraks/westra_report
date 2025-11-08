@@ -1,56 +1,94 @@
-# Statistics for KFUM Basketbollklubb Skellefteå
+# Statistics for Motala Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| KFUM Basketbollklubb Skellefteå | 2 | 51.50 | 19.00 | 1.50 | 9.00 | 18.50 |
+| Motala Basket | 5 | 38.80 | 12.80 | 2.40 | 6.00 | 11.80 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Rance Manu | 2 | 24.50 | 10.00 | 0.00 | 4.50 | 2.50 |
-| Demir Hajdarpasic | 2 | 10.00 | 2.50 | 1.00 | 2.00 | 4.00 |
-| Wilmer Sandberg | 2 | 6.00 | 3.00 | 0.00 | 0.00 | 1.50 |
-| Gleb Voronchikhin | 2 | 4.00 | 0.50 | 0.50 | 1.50 | 2.00 |
-| Gottfrid Sandberg | 2 | 3.00 | 1.00 | 0.00 | 1.00 | 1.00 |
-| Felix Forslund | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 2.00 |
-| Salomon Habtamu Woldegiorgis | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 2.50 |
-| Daniel Paez Rodríguez | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 3.00 |
-| James Eriksson Scott | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Elias Cederqvist | 3 | 14.00 | 4.33 | 0.67 | 3.33 | 1.67 |
+| Elliot Paunonen | 3 | 12.00 | 3.33 | 1.33 | 1.33 | 2.67 |
+| Mio Ragnar | 3 | 11.33 | 3.00 | 1.00 | 2.33 | 2.67 |
+| Henrik Strömberg | 3 | 10.67 | 3.67 | 0.67 | 1.33 | 1.67 |
+| Jason Östlihn | 3 | 6.33 | 3.00 | 0.00 | 0.33 | 2.67 |
+| Oskar Ljungstedt | 3 | 4.00 | 1.33 | 0.00 | 1.33 | 1.33 |
+| Gabriel Babikian | 3 | 2.33 | 0.67 | 0.33 | 0.00 | 3.33 |
+| Niklas Varblane | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 1.00 |
+| Mgrdich Krikorian | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 1.67 |
+| Isaac Nagy | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 1.00 |
+| Viggo Freeman | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### KFUM Basketbollklubb Skellefteå - LÅ Academy
+### Motala Basket - Helsingborg
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Rance Manu | 19 |  8 |  0 |  3 |  3 |
-| Demir Hajdarpasic | 17 |  4 |  2 |  3 |  3 |
-| Gottfrid Sandberg |  4 |  1 |  0 |  2 |  1 |
-| Wilmer Sandberg |  4 |  2 |  0 |  0 |  1 |
-| Gleb Voronchikhin |  3 |  0 |  1 |  0 |  2 |
-| Salomon Habtamu Woldegiorgis |  2 |  1 |  0 |  0 |  3 |
-| Felix Forslund |  2 |  1 |  0 |  0 |  2 |
-| James Eriksson Scott |  0 |  0 |  0 |  0 |  0 |
-| Daniel Paez Rodríguez |  0 |  0 |  0 |  0 |  4 |
 
-### KFUM Sundsvall Basket - KFUM Basketbollklubb Skellefteå
+### Motala Basket - Kalmar Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Rance Manu | 30 | 12 |  0 |  6 |  2 |
-| Wilmer Sandberg |  8 |  4 |  0 |  0 |  2 |
-| Gleb Voronchikhin |  5 |  1 |  0 |  3 |  2 |
-| Demir Hajdarpasic |  3 |  1 |  0 |  1 |  5 |
-| Gottfrid Sandberg |  2 |  1 |  0 |  0 |  1 |
-| Felix Forslund |  2 |  1 |  0 |  0 |  2 |
-| Daniel Paez Rodríguez |  2 |  1 |  0 |  0 |  2 |
-| Salomon Habtamu Woldegiorgis |  0 |  0 |  0 |  0 |  2 |
-| James Eriksson Scott |  0 |  0 |  0 |  0 |  0 |
+
+### Motala Basket - Älmhult Beasts BC P16
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Henrik Strömberg | 13 |  6 |  0 |  1 |  2 |
+| Elias Cederqvist | 10 |  5 |  0 |  0 |  1 |
+| Mio Ragnar | 10 |  4 |  0 |  2 |  1 |
+| Jason Östlihn |  6 |  3 |  0 |  0 |  3 |
+| Oskar Ljungstedt |  5 |  2 |  0 |  1 |  0 |
+| Mgrdich Krikorian |  4 |  2 |  0 |  0 |  2 |
+| Elliot Paunonen |  3 |  0 |  1 |  0 |  0 |
+| Isaac Nagy |  2 |  1 |  0 |  0 |  3 |
+| Viggo Freeman |  0 |  0 |  0 |  0 |  0 |
+| Niklas Varblane |  0 |  0 |  0 |  0 |  0 |
+| Gabriel Babikian |  0 |  0 |  0 |  0 |  4 |
+
+### Motala Basket - Trollhättans Basketbollklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Elias Cederqvist | 18 |  4 |  1 |  7 |  3 |
+| Elliot Paunonen | 17 |  6 |  1 |  2 |  5 |
+| Mio Ragnar | 13 |  3 |  2 |  1 |  5 |
+| Henrik Strömberg | 10 |  2 |  2 |  0 |  2 |
+| Jason Östlihn |  9 |  4 |  0 |  1 |  4 |
+| Oskar Ljungstedt |  5 |  2 |  0 |  1 |  2 |
+| Gabriel Babikian |  4 |  2 |  0 |  0 |  4 |
+| Niklas Varblane |  2 |  1 |  0 |  0 |  0 |
+| Viggo Freeman |  0 |  0 |  0 |  0 |  0 |
+| Mgrdich Krikorian |  0 |  0 |  0 |  0 |  0 |
+| Isaac Nagy |  0 |  0 |  0 |  0 |  0 |
+
+### Lobas - Motala Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Elliot Paunonen | 16 |  4 |  2 |  2 |  3 |
+| Elias Cederqvist | 14 |  4 |  1 |  3 |  1 |
+| Mio Ragnar | 11 |  2 |  1 |  4 |  2 |
+| Henrik Strömberg |  9 |  3 |  0 |  3 |  1 |
+| Jason Östlihn |  4 |  2 |  0 |  0 |  1 |
+| Gabriel Babikian |  3 |  0 |  1 |  0 |  2 |
+| Oskar Ljungstedt |  2 |  0 |  0 |  2 |  2 |
+| Niklas Varblane |  2 |  1 |  0 |  0 |  3 |
+| Isaac Nagy |  2 |  1 |  0 |  0 |  0 |
+| Viggo Freeman |  0 |  0 |  0 |  0 |  0 |
+| Mgrdich Krikorian |  0 |  0 |  0 |  0 |  3 |
 

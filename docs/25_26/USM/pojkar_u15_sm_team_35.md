@@ -1,80 +1,66 @@
-# Statistics for Lobas Röd
+# Statistics for Östersund Basket Ungdom HU15
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lobas Röd | 3 | 47.67 | 16.00 | 3.33 | 5.67 | 16.33 |
+| Östersund Basket Ungdom HU15 | 3 | 41.00 | 9.67 | 6.67 | 1.67 | 10.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| August Öberg | 3 | 11.33 | 3.67 | 1.00 | 1.00 | 1.33 |
-| Nils Damsby | 3 | 7.67 | 2.33 | 0.33 | 2.00 | 1.67 |
-| Oscar Iorizzo | 3 | 5.67 | 2.33 | 0.33 | 0.00 | 2.00 |
-| Jack Salomonsson | 3 | 5.67 | 2.67 | 0.00 | 0.33 | 3.67 |
-| Axel Österlindh | 3 | 5.33 | 1.00 | 1.00 | 0.33 | 1.00 |
-| Liam Jönsson | 3 | 3.67 | 1.67 | 0.00 | 0.33 | 1.33 |
-| Sam Broadbent | 3 | 3.67 | 1.00 | 0.33 | 0.67 | 1.00 |
-| Noa Fridolf | 3 | 2.67 | 1.00 | 0.00 | 0.67 | 1.00 |
-| Malte Meigard Magnell | 3 | 1.33 | 0.00 | 0.33 | 0.33 | 1.67 |
-| Tintin Hall | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.33 |
-| Benedikt Sverrisson | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
+| Algot Gyllebring | 2 | 17.00 | 0.50 | 5.00 | 1.00 | 2.00 |
+| Leon Jansson Myrå | 2 | 14.50 | 4.00 | 2.00 | 0.50 | 0.50 |
+| Jafet Weldu | 2 | 12.50 | 4.00 | 1.50 | 0.00 | 3.00 |
+| Nojus Okleiteris | 2 | 5.00 | 1.00 | 1.00 | 0.00 | 2.00 |
+| Aksel Hildahl | 2 | 4.00 | 2.00 | 0.00 | 0.00 | 0.50 |
+| Edwin Molander | 2 | 3.50 | 1.00 | 0.50 | 0.00 | 0.50 |
+| Dexter Viggesjöö | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 1.50 |
+| Elis Palmqvist | 2 | 2.00 | 0.50 | 0.00 | 1.00 | 3.00 |
+| Oscar Burns | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| August Ekerlid | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
 
 ## Games
 
-### Aros Basketbollklubb - Lobas Röd
+### Östersund Basket Ungdom HU15 - AIK
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| August Öberg | 10 |  5 |  0 |  0 |  1 |
-| Jack Salomonsson |  8 |  4 |  0 |  0 |  2 |
-| Oscar Iorizzo |  6 |  3 |  0 |  0 |  1 |
-| Axel Österlindh |  6 |  1 |  1 |  1 |  1 |
-| Nils Damsby |  5 |  2 |  0 |  1 |  3 |
-| Liam Jönsson |  5 |  2 |  0 |  1 |  3 |
-| Malte Meigard Magnell |  3 |  0 |  1 |  0 |  2 |
-| Noa Fridolf |  2 |  1 |  0 |  0 |  1 |
-| Tintin Hall |  0 |  0 |  0 |  0 |  0 |
-| Sam Broadbent |  0 |  0 |  0 |  0 |  0 |
-| Benedikt Sverrisson |  0 |  0 |  0 |  0 |  0 |
 
-### Lobas Röd - Kvarnby Basket
+### Östersund Basket Ungdom HU15 - Södertälje Basketbollklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Nils Damsby | 10 |  4 |  0 |  2 |  0 |
-| Axel Österlindh |  8 |  1 |  2 |  0 |  0 |
-| August Öberg |  7 |  2 |  0 |  3 |  3 |
-| Oscar Iorizzo |  6 |  3 |  0 |  0 |  1 |
-| Liam Jönsson |  6 |  3 |  0 |  0 |  0 |
-| Sam Broadbent |  5 |  1 |  1 |  0 |  2 |
-| Jack Salomonsson |  3 |  1 |  0 |  1 |  4 |
-| Tintin Hall |  2 |  1 |  0 |  0 |  2 |
-| Noa Fridolf |  2 |  1 |  0 |  0 |  2 |
-| Malte Meigard Magnell |  0 |  0 |  0 |  0 |  1 |
-| Benedikt Sverrisson |  0 |  0 |  0 |  0 |  1 |
+| Jafet Weldu | 14 |  7 |  0 |  0 |  3 |
+| Leon Jansson Myrå |  9 |  3 |  1 |  0 |  0 |
+| Nojus Okleiteris |  7 |  2 |  1 |  0 |  1 |
+| Algot Gyllebring |  5 |  1 |  1 |  0 |  1 |
+| Aksel Hildahl |  4 |  2 |  0 |  0 |  0 |
+| Dexter Viggesjöö |  4 |  2 |  0 |  0 |  2 |
+| Elis Palmqvist |  3 |  1 |  0 |  1 |  2 |
+| Edwin Molander |  2 |  1 |  0 |  0 |  0 |
+| Oscar Burns |  0 |  0 |  0 |  0 |  0 |
+| August Ekerlid |  0 |  0 |  0 |  0 |  3 |
 
-### Lobas Röd - Ale Basket
+### KFUM Huddinge Basketklubb - Östersund Basket Ungdom HU15
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| August Öberg | 17 |  4 |  3 |  0 |  0 |
-| Nils Damsby |  8 |  1 |  1 |  3 |  2 |
-| Jack Salomonsson |  6 |  3 |  0 |  0 |  5 |
-| Sam Broadbent |  6 |  2 |  0 |  2 |  1 |
-| Oscar Iorizzo |  5 |  1 |  1 |  0 |  4 |
-| Noa Fridolf |  4 |  1 |  0 |  2 |  0 |
-| Axel Österlindh |  2 |  1 |  0 |  0 |  2 |
-| Malte Meigard Magnell |  1 |  0 |  0 |  1 |  2 |
-| Tintin Hall |  0 |  0 |  0 |  0 |  2 |
-| Liam Jönsson |  0 |  0 |  0 |  0 |  1 |
-| Benedikt Sverrisson |  0 |  0 |  0 |  0 |  0 |
+| Algot Gyllebring | 29 |  0 |  9 |  2 |  3 |
+| Leon Jansson Myrå | 20 |  5 |  3 |  1 |  1 |
+| Jafet Weldu | 11 |  1 |  3 |  0 |  3 |
+| Edwin Molander |  5 |  1 |  1 |  0 |  1 |
+| Aksel Hildahl |  4 |  2 |  0 |  0 |  1 |
+| Nojus Okleiteris |  3 |  0 |  1 |  0 |  3 |
+| Dexter Viggesjöö |  2 |  1 |  0 |  0 |  1 |
+| Elis Palmqvist |  1 |  0 |  0 |  1 |  4 |
+| Oscar Burns |  0 |  0 |  0 |  0 |  0 |
+| August Ekerlid |  0 |  0 |  0 |  0 |  1 |
 

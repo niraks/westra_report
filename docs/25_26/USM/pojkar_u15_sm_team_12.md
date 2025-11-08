@@ -1,84 +1,91 @@
-# Statistics for Skuru Idrottsklubb
+# Statistics for Malbas Svart
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Skuru Idrottsklubb | 3 | 87.00 | 33.00 | 3.00 | 12.00 | 16.00 |
+| Malbas Svart | 4 | 80.00 | 32.75 | 2.25 | 7.75 | 15.25 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Hugo Moberg Straume | 3 | 15.67 | 5.33 | 0.33 | 4.00 | 0.00 |
-| Olle Losin Österberg | 3 | 14.67 | 5.67 | 0.67 | 1.33 | 3.33 |
-| Liam Kleve | 3 | 12.33 | 5.00 | 0.33 | 1.33 | 2.00 |
-| Loa Tjärnberg | 3 | 11.33 | 4.67 | 0.33 | 1.00 | 1.00 |
-| Albert Holgersson | 3 | 7.00 | 2.33 | 0.33 | 1.33 | 1.33 |
-| Elvis Söderström | 3 | 5.33 | 2.67 | 0.00 | 0.00 | 0.00 |
-| Elliot Lilliehöök | 3 | 4.67 | 1.00 | 0.33 | 1.67 | 2.00 |
-| Olle Ramstedt | 3 | 4.00 | 1.33 | 0.33 | 0.33 | 2.33 |
-| Simon Laupa | 3 | 3.67 | 1.33 | 0.33 | 0.00 | 1.33 |
-| Rafal Gil | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 0.00 |
-| Neo Nguyen Sandell | 3 | 3.00 | 1.33 | 0.00 | 0.33 | 0.67 |
-| Filip Wahlkvist Sepa | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 2.00 |
+| Dax Metoyer | 3 | 31.00 | 13.33 | 0.00 | 4.33 | 3.33 |
+| Dez Martha | 3 | 25.00 | 11.00 | 0.33 | 2.00 | 3.00 |
+| David Askari Louyeh | 3 | 14.33 | 5.33 | 0.67 | 1.67 | 2.33 |
+| Lowe Kjellqvist Forsén | 3 | 6.33 | 2.67 | 0.33 | 0.00 | 1.67 |
+| Adam Gihan | 3 | 6.00 | 2.00 | 0.67 | 0.00 | 0.33 |
+| Mercx Metoyer | 3 | 5.00 | 1.67 | 0.33 | 0.67 | 1.00 |
+| Jens Lindberg Torkelsson | 3 | 5.00 | 2.00 | 0.00 | 1.00 | 1.67 |
+| Alfred Eborn | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 0.67 |
+| Monir Rashid | 3 | 3.00 | 1.00 | 0.33 | 0.00 | 2.33 |
+| Kristian Damevski | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 1.00 |
+| Arkis Moussa | 3 | 2.33 | 0.67 | 0.33 | 0.00 | 0.67 |
+| Rohan Abraham | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 2.33 |
 
 ## Games
 
-### Skuru Idrottsklubb - Norrköpings Basketförening
+### Älmhult Beasts BC P15 - Malbas Svart
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Hugo Moberg Straume | 17 |  4 |  1 |  6 |  0 |
-| Olle Losin Österberg | 13 |  5 |  1 |  0 |  3 |
-| Albert Holgersson | 12 |  3 |  1 |  3 |  1 |
-| Liam Kleve | 11 |  5 |  0 |  1 |  2 |
-| Loa Tjärnberg |  8 |  4 |  0 |  0 |  2 |
-| Elliot Lilliehöök |  6 |  1 |  0 |  4 |  1 |
-| Filip Wahlkvist Sepa |  6 |  3 |  0 |  0 |  2 |
-| Elvis Söderström |  4 |  2 |  0 |  0 |  0 |
-| Rafal Gil |  2 |  1 |  0 |  0 |  0 |
-| Simon Laupa |  2 |  1 |  0 |  0 |  0 |
-| Neo Nguyen Sandell |  2 |  1 |  0 |  0 |  0 |
-| Olle Ramstedt |  0 |  0 |  0 |  0 |  2 |
 
-### Täby Basket - Skuru Idrottsklubb
+### Malbas Svart - KFUM Örebro Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Loa Tjärnberg | 22 |  8 |  1 |  3 |  1 |
-| Liam Kleve | 15 |  7 |  0 |  1 |  3 |
-| Hugo Moberg Straume | 14 |  6 |  0 |  2 |  0 |
-| Olle Losin Österberg | 12 |  6 |  0 |  0 |  3 |
-| Olle Ramstedt | 11 |  4 |  1 |  0 |  3 |
-| Simon Laupa |  9 |  3 |  1 |  0 |  0 |
-| Albert Holgersson |  6 |  3 |  0 |  0 |  2 |
-| Elvis Söderström |  6 |  3 |  0 |  0 |  0 |
-| Rafal Gil |  4 |  2 |  0 |  0 |  0 |
-| Neo Nguyen Sandell |  3 |  1 |  0 |  1 |  0 |
-| Elliot Lilliehöök |  2 |  1 |  0 |  0 |  2 |
-| Filip Wahlkvist Sepa |  0 |  0 |  0 |  0 |  2 |
+| Dez Martha | 27 | 11 |  1 |  2 |  2 |
+| Dax Metoyer | 25 |  8 |  0 |  9 |  3 |
+| David Askari Louyeh |  8 |  2 |  1 |  1 |  2 |
+| Mercx Metoyer |  6 |  1 |  1 |  1 |  1 |
+| Jens Lindberg Torkelsson |  6 |  2 |  0 |  2 |  1 |
+| Alfred Eborn |  6 |  3 |  0 |  0 |  1 |
+| Kristian Damevski |  2 |  1 |  0 |  0 |  0 |
+| Adam Gihan |  2 |  1 |  0 |  0 |  0 |
+| Arkis Moussa |  0 |  0 |  0 |  0 |  0 |
+| Lowe Kjellqvist Forsén |  0 |  0 |  0 |  0 |  1 |
+| Monir Rashid |  0 |  0 |  0 |  0 |  2 |
+| Rohan Abraham |  0 |  0 |  0 |  0 |  3 |
 
-### Skuru Idrottsklubb - Kungsholmen
+### S:t Helena BK - Malbas Svart
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Olle Losin Österberg | 19 |  6 |  1 |  4 |  4 |
-| Hugo Moberg Straume | 16 |  6 |  0 |  4 |  0 |
-| Liam Kleve | 11 |  3 |  1 |  2 |  1 |
-| Elvis Söderström |  6 |  3 |  0 |  0 |  0 |
-| Elliot Lilliehöök |  6 |  1 |  1 |  1 |  3 |
-| Rafal Gil |  4 |  1 |  0 |  2 |  0 |
-| Neo Nguyen Sandell |  4 |  2 |  0 |  0 |  2 |
-| Loa Tjärnberg |  4 |  2 |  0 |  0 |  0 |
-| Albert Holgersson |  3 |  1 |  0 |  1 |  1 |
-| Olle Ramstedt |  1 |  0 |  0 |  1 |  2 |
-| Simon Laupa |  0 |  0 |  0 |  0 |  4 |
-| Filip Wahlkvist Sepa |  0 |  0 |  0 |  0 |  2 |
+| Dax Metoyer | 40 | 18 |  0 |  4 |  3 |
+| Dez Martha | 23 | 10 |  0 |  3 |  4 |
+| David Askari Louyeh | 19 |  8 |  0 |  3 |  2 |
+| Adam Gihan |  8 |  4 |  0 |  0 |  1 |
+| Mercx Metoyer |  7 |  3 |  0 |  1 |  1 |
+| Arkis Moussa |  7 |  2 |  1 |  0 |  1 |
+| Rohan Abraham |  7 |  3 |  0 |  1 |  4 |
+| Alfred Eborn |  6 |  3 |  0 |  0 |  1 |
+| Monir Rashid |  6 |  3 |  0 |  0 |  1 |
+| Kristian Damevski |  5 |  2 |  0 |  1 |  2 |
+| Jens Lindberg Torkelsson |  4 |  2 |  0 |  0 |  4 |
+| Lowe Kjellqvist Forsén |  0 |  0 |  0 |  0 |  0 |
+
+### Malbas Svart - Lerums Basket Förening
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Dax Metoyer | 28 | 14 |  0 |  0 |  4 |
+| Dez Martha | 25 | 12 |  0 |  1 |  3 |
+| Lowe Kjellqvist Forsén | 19 |  8 |  1 |  0 |  4 |
+| David Askari Louyeh | 16 |  6 |  1 |  1 |  3 |
+| Adam Gihan |  8 |  1 |  2 |  0 |  0 |
+| Jens Lindberg Torkelsson |  5 |  2 |  0 |  1 |  0 |
+| Monir Rashid |  3 |  0 |  1 |  0 |  4 |
+| Mercx Metoyer |  2 |  1 |  0 |  0 |  1 |
+| Alfred Eborn |  0 |  0 |  0 |  0 |  0 |
+| Kristian Damevski |  0 |  0 |  0 |  0 |  1 |
+| Arkis Moussa |  0 |  0 |  0 |  0 |  1 |
+| Rohan Abraham |  0 |  0 |  0 |  0 |  0 |
 

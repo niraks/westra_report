@@ -1,72 +1,51 @@
-# Statistics for Aros Basketbollklubb
+# Statistics for Fryshuset Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Aros Basketbollklubb | 3 | 59.67 | 20.00 | 5.00 | 4.67 | 13.67 |
+| Fryshuset Basket | 2 | 46.00 | 14.50 | 4.00 | 5.00 | 11.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Darlington Adeyefa | 3 | 19.67 | 9.00 | 0.00 | 1.67 | 2.00 |
-| Alfred Lindgren | 3 | 10.33 | 1.67 | 1.67 | 2.00 | 2.33 |
-| Marc Aroyan | 3 | 8.00 | 3.67 | 0.00 | 0.67 | 1.00 |
-| Narek Atayan | 3 | 7.67 | 0.33 | 2.33 | 0.00 | 0.33 |
-| Charlie Mendoza Wehbi | 3 | 5.00 | 1.00 | 1.00 | 0.00 | 0.33 |
-| Christian Pretorius | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 2.00 |
-| Guri Dautaj | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 3.33 |
-| Imuentiyan Diego Imuetinyan | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 1.00 |
-| Adam Lindberg | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 1.33 |
+| Rasmus Veller | 1 | 25.00 | 11.00 | 0.00 | 3.00 | 1.00 |
+| Johannes Eriata Jansson | 1 | 14.00 | 4.00 | 1.00 | 3.00 | 4.00 |
+| Sean Agbozeke Efe | 1 | 13.00 | 4.00 | 1.00 | 2.00 | 1.00 |
+| Enzo Ilunga | 1 | 11.00 | 4.00 | 1.00 | 0.00 | 4.00 |
+| Novak Nikolic | 1 | 9.00 | 0.00 | 3.00 | 0.00 | 1.00 |
+| Edison Vlad | 1 | 6.00 | 0.00 | 2.00 | 0.00 | 2.00 |
+| Sandor Jacobsson | 1 | 6.00 | 2.00 | 0.00 | 2.00 | 1.00 |
+| Isak Simic Rihtnesberg | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 3.00 |
+| Elton Kempe | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 4.00 |
+| Sebastian Thomas | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Alim Jemal | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
 
 ## Games
 
-### Aros Basketbollklubb - Lobas Röd
+### Västerås Basketboll Förening - Fryshuset Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Darlington Adeyefa | 25 | 12 |  0 |  1 |  0 |
-| Marc Aroyan | 17 |  8 |  0 |  1 |  2 |
-| Alfred Lindgren | 13 |  2 |  2 |  3 |  4 |
-| Narek Atayan |  9 |  0 |  3 |  0 |  1 |
-| Charlie Mendoza Wehbi |  8 |  1 |  2 |  0 |  1 |
-| Christian Pretorius |  6 |  3 |  0 |  0 |  1 |
-| Guri Dautaj |  4 |  2 |  0 |  0 |  1 |
-| Adam Lindberg |  0 |  0 |  0 |  0 |  1 |
-| Imuentiyan Diego Imuetinyan |  0 |  0 |  0 |  0 |  1 |
+| Rasmus Veller | 25 | 11 |  0 |  3 |  1 |
+| Johannes Eriata Jansson | 14 |  4 |  1 |  3 |  4 |
+| Sean Agbozeke Efe | 13 |  4 |  1 |  2 |  1 |
+| Enzo Ilunga | 11 |  4 |  1 |  0 |  4 |
+| Novak Nikolic |  9 |  0 |  3 |  0 |  1 |
+| Edison Vlad |  6 |  0 |  2 |  0 |  2 |
+| Sandor Jacobsson |  6 |  2 |  0 |  2 |  1 |
+| Isak Simic Rihtnesberg |  6 |  3 |  0 |  0 |  3 |
+| Elton Kempe |  2 |  1 |  0 |  0 |  4 |
+| Sebastian Thomas |  0 |  0 |  0 |  0 |  0 |
+| Alim Jemal |  0 |  0 |  0 |  0 |  2 |
 
-### Ale Basket - Aros Basketbollklubb
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Darlington Adeyefa | 21 | 10 |  0 |  1 |  3 |
-| Narek Atayan | 14 |  1 |  4 |  0 |  0 |
-| Alfred Lindgren | 10 |  3 |  1 |  1 |  1 |
-| Marc Aroyan |  5 |  2 |  0 |  1 |  1 |
-| Christian Pretorius |  4 |  2 |  0 |  0 |  2 |
-| Guri Dautaj |  4 |  2 |  0 |  0 |  4 |
-| Charlie Mendoza Wehbi |  2 |  1 |  0 |  0 |  0 |
-| Imuentiyan Diego Imuetinyan |  2 |  1 |  0 |  0 |  0 |
-| Adam Lindberg |  0 |  0 |  0 |  0 |  0 |
-
-### Kvarnby Basket - Aros Basketbollklubb
+### Fryshuset Basket - KFUM Central Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Darlington Adeyefa | 13 |  5 |  0 |  3 |  3 |
-| Alfred Lindgren |  8 |  0 |  2 |  2 |  2 |
-| Charlie Mendoza Wehbi |  5 |  1 |  1 |  0 |  0 |
-| Guri Dautaj |  4 |  2 |  0 |  0 |  5 |
-| Christian Pretorius |  2 |  1 |  0 |  0 |  3 |
-| Marc Aroyan |  2 |  1 |  0 |  0 |  0 |
-| Imuentiyan Diego Imuetinyan |  1 |  0 |  0 |  1 |  2 |
-| Narek Atayan |  0 |  0 |  0 |  0 |  0 |
-| Adam Lindberg |  0 |  0 |  0 |  0 |  3 |
 

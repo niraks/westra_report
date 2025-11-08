@@ -23,20 +23,19 @@
 
 ## Games
 
-### Kungsbacka Basket Blå - Trollhättans Basketbollklubb
+### Ale Basket - Trollhättans Basketbollklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Oliver Reit | 36 |  7 |  6 |  4 |  1 |
-| Ilon Åhman | 27 |  9 |  1 |  6 |  3 |
-| Joseph Jonsson | 18 |  8 |  0 |  2 |  3 |
-| Sabi Memedovski |  3 |  0 |  1 |  0 |  2 |
-| Hugo Gidlund |  0 |  0 |  0 |  0 |  0 |
-| Leo Larsson Flensner |  0 |  0 |  0 |  0 |  0 |
-| Alexandru Dena |  0 |  0 |  0 |  0 |  2 |
-| Figo Lindqvist |  0 |  0 |  0 |  0 |  0 |
+| Ilon Åhman | 36 | 13 |  0 | 10 |  0 |
+| Oliver Reit | 11 |  5 |  0 |  1 |  4 |
+| Alexandru Dena |  4 |  1 |  0 |  2 |  3 |
+| Sabi Memedovski |  4 |  1 |  0 |  2 |  4 |
+| Figo Lindqvist |  1 |  0 |  0 |  1 |  0 |
+| Leo Larsson Flensner |  0 |  0 |  0 |  0 |  3 |
+| Hugo Gidlund |  0 |  0 |  0 |  0 |  2 |
 | Bassam Alolabi |  0 |  0 |  0 |  0 |  0 |
 
 ### Trollhättans Basketbollklubb - Eastside Falcons
@@ -55,18 +54,19 @@ Players (sorted by points)
 | Alexandru Dena |  0 |  0 |  0 |  0 |  2 |
 | Bassam Alolabi |  0 |  0 |  0 |  0 |  0 |
 
-### Ale Basket - Trollhättans Basketbollklubb
+### Kungsbacka Basket Blå - Trollhättans Basketbollklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Ilon Åhman | 36 | 13 |  0 | 10 |  0 |
-| Oliver Reit | 11 |  5 |  0 |  1 |  4 |
-| Alexandru Dena |  4 |  1 |  0 |  2 |  3 |
-| Sabi Memedovski |  4 |  1 |  0 |  2 |  4 |
-| Figo Lindqvist |  1 |  0 |  0 |  1 |  0 |
-| Leo Larsson Flensner |  0 |  0 |  0 |  0 |  3 |
-| Hugo Gidlund |  0 |  0 |  0 |  0 |  2 |
+| Oliver Reit | 36 |  7 |  6 |  4 |  1 |
+| Ilon Åhman | 27 |  9 |  1 |  6 |  3 |
+| Joseph Jonsson | 18 |  8 |  0 |  2 |  3 |
+| Sabi Memedovski |  3 |  0 |  1 |  0 |  2 |
+| Hugo Gidlund |  0 |  0 |  0 |  0 |  0 |
+| Leo Larsson Flensner |  0 |  0 |  0 |  0 |  0 |
+| Alexandru Dena |  0 |  0 |  0 |  0 |  2 |
+| Figo Lindqvist |  0 |  0 |  0 |  0 |  0 |
 | Bassam Alolabi |  0 |  0 |  0 |  0 |  0 |
 

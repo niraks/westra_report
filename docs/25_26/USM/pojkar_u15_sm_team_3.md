@@ -23,22 +23,22 @@
 
 ## Games
 
-### KFUM Örebro Basket - S:t Helena BK
+### Malbas Svart - KFUM Örebro Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Adrian Pleick | 28 | 13 |  0 |  2 |  2 |
-| Ludvig Fagerberg | 21 |  9 |  1 |  0 |  3 |
-| Wilmer Axelsson | 15 |  6 |  1 |  0 |  5 |
-| Adrian Hasani | 12 |  4 |  1 |  1 |  2 |
-| Denni Jusufbegovic | 12 |  6 |  0 |  0 |  2 |
-| Ture Blomgren | 11 |  4 |  1 |  0 |  3 |
-| Harry Selimbasic |  9 |  4 |  0 |  1 |  1 |
-| Zeke Viborg |  6 |  3 |  0 |  0 |  2 |
-| Ilias Rudenko |  4 |  2 |  0 |  0 |  0 |
-| Hugo Engberg |  0 |  0 |  0 |  0 |  1 |
+| Adrian Pleick | 33 | 12 |  3 |  0 |  0 |
+| Ture Blomgren | 16 |  7 |  0 |  2 |  4 |
+| Harry Selimbasic | 14 |  5 |  0 |  4 |  1 |
+| Ludvig Fagerberg | 13 |  6 |  0 |  1 |  5 |
+| Adrian Hasani | 12 |  5 |  0 |  2 |  1 |
+| Denni Jusufbegovic |  8 |  4 |  0 |  0 |  4 |
+| Ilias Rudenko |  2 |  1 |  0 |  0 |  2 |
+| Wilmer Axelsson |  2 |  1 |  0 |  0 |  5 |
+| Hugo Engberg |  2 |  1 |  0 |  0 |  1 |
+| Zeke Viborg |  2 |  1 |  0 |  0 |  0 |
 
 ### Lerums Basket Förening - KFUM Örebro Basket
 
@@ -57,20 +57,20 @@ Players (sorted by points)
 | Wilmer Axelsson |  5 |  1 |  1 |  0 |  5 |
 | Ture Blomgren |  3 |  0 |  1 |  0 |  2 |
 
-### Malbas Svart - KFUM Örebro Basket
+### KFUM Örebro Basket - S:t Helena BK
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Adrian Pleick | 33 | 12 |  3 |  0 |  0 |
-| Ture Blomgren | 16 |  7 |  0 |  2 |  4 |
-| Harry Selimbasic | 14 |  5 |  0 |  4 |  1 |
-| Ludvig Fagerberg | 13 |  6 |  0 |  1 |  5 |
-| Adrian Hasani | 12 |  5 |  0 |  2 |  1 |
-| Denni Jusufbegovic |  8 |  4 |  0 |  0 |  4 |
-| Ilias Rudenko |  2 |  1 |  0 |  0 |  2 |
-| Wilmer Axelsson |  2 |  1 |  0 |  0 |  5 |
-| Hugo Engberg |  2 |  1 |  0 |  0 |  1 |
-| Zeke Viborg |  2 |  1 |  0 |  0 |  0 |
+| Adrian Pleick | 28 | 13 |  0 |  2 |  2 |
+| Ludvig Fagerberg | 21 |  9 |  1 |  0 |  3 |
+| Wilmer Axelsson | 15 |  6 |  1 |  0 |  5 |
+| Adrian Hasani | 12 |  4 |  1 |  1 |  2 |
+| Denni Jusufbegovic | 12 |  6 |  0 |  0 |  2 |
+| Ture Blomgren | 11 |  4 |  1 |  0 |  3 |
+| Harry Selimbasic |  9 |  4 |  0 |  1 |  1 |
+| Zeke Viborg |  6 |  3 |  0 |  0 |  2 |
+| Ilias Rudenko |  4 |  2 |  0 |  0 |  0 |
+| Hugo Engberg |  0 |  0 |  0 |  0 |  1 |
 

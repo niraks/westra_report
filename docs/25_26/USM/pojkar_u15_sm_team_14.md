@@ -1,61 +1,91 @@
-# Statistics for Eastside Falcons
+# Statistics for Alviks Basketbollklubb
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eastside Falcons | 2 | 85.50 | 30.50 | 4.50 | 11.00 | 23.50 |
+| Alviks Basketbollklubb | 4 | 77.25 | 24.25 | 7.25 | 7.00 | 14.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Vincent Uzieblo | 2 | 22.50 | 8.50 | 0.00 | 5.50 | 3.50 |
-| Nireas Solidakis | 2 | 13.50 | 3.50 | 2.00 | 0.50 | 1.50 |
-| Vigan Raci | 2 | 11.00 | 4.50 | 0.50 | 0.50 | 2.50 |
-| Albin Helmfridsson | 2 | 9.00 | 2.50 | 1.00 | 1.00 | 0.50 |
-| Noah Ringheim | 2 | 8.00 | 3.50 | 0.00 | 1.00 | 3.50 |
-| Christian Gonzal | 2 | 8.00 | 3.50 | 0.00 | 1.00 | 3.50 |
-| Evangelos Kochliaridis | 2 | 6.00 | 1.50 | 1.00 | 0.00 | 2.00 |
-| Vidar Ekström | 2 | 4.50 | 1.50 | 0.00 | 1.50 | 3.50 |
-| Otis Foon | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 0.50 |
-| Theodor Markey | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 2.50 |
-| Hjalmar Spångberg | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Leo Nordstrand | 3 | 21.33 | 5.67 | 2.67 | 2.00 | 1.33 |
+| Fallou Ottosson Diop | 3 | 13.33 | 5.33 | 0.67 | 0.67 | 1.67 |
+| Ivar Fredman | 3 | 13.33 | 2.00 | 2.67 | 1.33 | 2.00 |
+| Ivar Skoglund | 3 | 11.33 | 4.00 | 0.67 | 1.33 | 3.67 |
+| Benjamin Rastman Chaima | 3 | 9.67 | 2.67 | 1.33 | 0.33 | 2.67 |
+| Samuel Edsman | 3 | 7.00 | 2.33 | 0.67 | 0.33 | 1.67 |
+| Jacob Prytz | 3 | 7.00 | 3.00 | 0.33 | 0.00 | 1.67 |
+| Winston Kumlin Lagerbäck | 3 | 6.67 | 2.67 | 0.00 | 1.33 | 0.33 |
+| Oliver Borthen Dahlberg | 2 | 6.50 | 3.00 | 0.00 | 0.50 | 2.00 |
+| Levi Eklöf | 1 | 6.00 | 1.00 | 0.00 | 4.00 | 1.00 |
+| Olle Wilén Harrysson | 2 | 5.50 | 2.00 | 0.50 | 0.00 | 1.50 |
+| Hector Jägre | 1 | 5.00 | 2.00 | 0.00 | 1.00 | 1.00 |
+| Albin Nolborg | 2 | 2.50 | 0.50 | 0.50 | 0.00 | 1.50 |
+| John-Francis Persson Blix | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.50 |
 
 ## Games
 
-### Hammarö Basketklubb - Eastside Falcons
+### Alviks Basketbollklubb - KFUM Blackebergs Idrottsklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Vigan Raci | 20 |  8 |  1 |  1 |  3 |
-| Christian Gonzal | 16 |  7 |  0 |  2 |  3 |
-| Vincent Uzieblo | 15 |  7 |  0 |  1 |  4 |
-| Albin Helmfridsson | 12 |  5 |  0 |  2 |  0 |
-| Evangelos Kochliaridis | 10 |  2 |  2 |  0 |  2 |
-| Nireas Solidakis |  9 |  1 |  2 |  1 |  1 |
-| Otis Foon |  6 |  3 |  0 |  0 |  1 |
-| Noah Ringheim |  5 |  2 |  0 |  1 |  2 |
-| Vidar Ekström |  4 |  1 |  0 |  2 |  4 |
-| Theodor Markey |  0 |  0 |  0 |  0 |  3 |
-| Hjalmar Spångberg |  0 |  0 |  0 |  0 |  0 |
 
-### Eastside Falcons - IK Eos Lund
+### Alviks Basketbollklubb - Stockholm Nordväst
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Vincent Uzieblo | 30 | 10 |  0 | 10 |  3 |
-| Nireas Solidakis | 18 |  6 |  2 |  0 |  2 |
-| Noah Ringheim | 11 |  5 |  0 |  1 |  5 |
-| Albin Helmfridsson |  6 |  0 |  2 |  0 |  1 |
-| Vidar Ekström |  5 |  2 |  0 |  1 |  3 |
-| Vigan Raci |  2 |  1 |  0 |  0 |  2 |
-| Evangelos Kochliaridis |  2 |  1 |  0 |  0 |  2 |
-| Otis Foon |  0 |  0 |  0 |  0 |  0 |
-| Theodor Markey |  0 |  0 |  0 |  0 |  2 |
-| Christian Gonzal |  0 |  0 |  0 |  0 |  4 |
+| Leo Nordstrand | 23 |  4 |  5 |  0 |  1 |
+| Ivar Fredman | 17 |  2 |  4 |  1 |  2 |
+| Fallou Ottosson Diop | 16 |  6 |  1 |  1 |  3 |
+| Oliver Borthen Dahlberg | 11 |  5 |  0 |  1 |  2 |
+| Ivar Skoglund |  9 |  2 |  1 |  2 |  2 |
+| Benjamin Rastman Chaima |  6 |  1 |  1 |  1 |  2 |
+| Winston Kumlin Lagerbäck |  6 |  3 |  0 |  0 |  0 |
+| Samuel Edsman |  4 |  2 |  0 |  0 |  3 |
+| Albin Nolborg |  2 |  1 |  0 |  0 |  0 |
+| John-Francis Persson Blix |  0 |  0 |  0 |  0 |  1 |
+| Jacob Prytz |  0 |  0 |  0 |  0 |  0 |
+
+### Alviks Basketbollklubb - Sunderby Sportklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Leo Nordstrand | 27 | 10 |  2 |  1 |  1 |
+| Fallou Ottosson Diop | 19 |  9 |  0 |  1 |  2 |
+| Benjamin Rastman Chaima | 17 |  7 |  1 |  0 |  4 |
+| Ivar Skoglund | 14 |  7 |  0 |  0 |  4 |
+| Samuel Edsman | 13 |  3 |  2 |  1 |  0 |
+| Jacob Prytz | 10 |  5 |  0 |  0 |  2 |
+| Winston Kumlin Lagerbäck |  8 |  3 |  0 |  2 |  1 |
+| Ivar Fredman |  7 |  2 |  1 |  0 |  1 |
+| Olle Wilén Harrysson |  6 |  3 |  0 |  0 |  3 |
+| Levi Eklöf |  6 |  1 |  0 |  4 |  1 |
+| Oliver Borthen Dahlberg |  2 |  1 |  0 |  0 |  2 |
+| John-Francis Persson Blix |  0 |  0 |  0 |  0 |  0 |
+
+### Lidingö Basket - Alviks Basketbollklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Ivar Fredman | 16 |  2 |  3 |  3 |  3 |
+| Leo Nordstrand | 14 |  3 |  1 |  5 |  2 |
+| Ivar Skoglund | 11 |  3 |  1 |  2 |  5 |
+| Jacob Prytz | 11 |  4 |  1 |  0 |  3 |
+| Benjamin Rastman Chaima |  6 |  0 |  2 |  0 |  2 |
+| Winston Kumlin Lagerbäck |  6 |  2 |  0 |  2 |  0 |
+| Fallou Ottosson Diop |  5 |  1 |  1 |  0 |  0 |
+| Olle Wilén Harrysson |  5 |  1 |  1 |  0 |  0 |
+| Hector Jägre |  5 |  2 |  0 |  1 |  1 |
+| Samuel Edsman |  4 |  2 |  0 |  0 |  2 |
+| Albin Nolborg |  3 |  0 |  1 |  0 |  3 |
 

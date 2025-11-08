@@ -25,23 +25,21 @@
 
 ## Games
 
-### Eastside Falcons - Ale Basket
+### Högsbo Basket P11 röd - Eastside Falcons
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Vigan Raci | 22 | 11 |  0 |  0 |  2 |
-| Christian Gonzal | 17 |  7 |  0 |  3 |  2 |
-| Hjalmar Spångberg | 11 |  5 |  0 |  1 |  4 |
-| Vincent Uzieblo |  8 |  4 |  0 |  0 |  1 |
-| Otis Foon |  7 |  2 |  1 |  0 |  1 |
-| Evangelos Kochliaridis |  7 |  1 |  1 |  2 |  0 |
-| Vidar Ekström |  4 |  0 |  0 |  4 |  2 |
-| Albin Helmfridsson |  2 |  1 |  0 |  0 |  0 |
-| Theodor Markey |  1 |  0 |  0 |  1 |  2 |
-| Nireas Solidakis |  0 |  0 |  0 |  0 |  0 |
-| Noah Ringheim |  0 |  0 |  0 |  0 |  0 |
+| Vigan Raci | 11 |  5 |  0 |  1 |  3 |
+| Vidar Ekström | 11 |  2 |  2 |  1 |  3 |
+| Otis Foon |  6 |  0 |  2 |  0 |  1 |
+| Christian Gonzal |  6 |  3 |  0 |  0 |  3 |
+| Albin Helmfridsson |  5 |  2 |  0 |  1 |  2 |
+| Nikolas Frestad |  5 |  2 |  0 |  1 |  1 |
+| Vincent Uzieblo |  5 |  1 |  0 |  3 |  1 |
+| Evangelos Kochliaridis |  4 |  2 |  0 |  0 |  1 |
+| Theodor Markey |  0 |  0 |  0 |  0 |  1 |
 
 ### Trollhättans Basketbollklubb - Eastside Falcons
 
@@ -60,19 +58,21 @@ Players (sorted by points)
 | Otis Foon |  0 |  0 |  0 |  0 |  0 |
 | Theodor Markey |  0 |  0 |  0 |  0 |  3 |
 
-### Högsbo Basket P11 röd - Eastside Falcons
+### Eastside Falcons - Ale Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Vigan Raci | 11 |  5 |  0 |  1 |  3 |
-| Vidar Ekström | 11 |  2 |  2 |  1 |  3 |
-| Otis Foon |  6 |  0 |  2 |  0 |  1 |
-| Christian Gonzal |  6 |  3 |  0 |  0 |  3 |
-| Albin Helmfridsson |  5 |  2 |  0 |  1 |  2 |
-| Nikolas Frestad |  5 |  2 |  0 |  1 |  1 |
-| Vincent Uzieblo |  5 |  1 |  0 |  3 |  1 |
-| Evangelos Kochliaridis |  4 |  2 |  0 |  0 |  1 |
-| Theodor Markey |  0 |  0 |  0 |  0 |  1 |
+| Vigan Raci | 22 | 11 |  0 |  0 |  2 |
+| Christian Gonzal | 17 |  7 |  0 |  3 |  2 |
+| Hjalmar Spångberg | 11 |  5 |  0 |  1 |  4 |
+| Vincent Uzieblo |  8 |  4 |  0 |  0 |  1 |
+| Otis Foon |  7 |  2 |  1 |  0 |  1 |
+| Evangelos Kochliaridis |  7 |  1 |  1 |  2 |  0 |
+| Vidar Ekström |  4 |  0 |  0 |  4 |  2 |
+| Albin Helmfridsson |  2 |  1 |  0 |  0 |  0 |
+| Theodor Markey |  1 |  0 |  0 |  1 |  2 |
+| Nireas Solidakis |  0 |  0 |  0 |  0 |  0 |
+| Noah Ringheim |  0 |  0 |  0 |  0 |  0 |
 

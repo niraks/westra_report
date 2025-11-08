@@ -1,68 +1,67 @@
-# Statistics for KFUM Huddinge Basketklubb
+# Statistics for Uppsala Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| KFUM Huddinge Basketklubb | 2 | 83.50 | 35.50 | 1.00 | 9.50 | 14.50 |
+| Uppsala Basket | 2 | 76.50 | 32.00 | 1.00 | 9.50 | 19.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Oscar Näsholm | 2 | 20.50 | 9.00 | 0.00 | 2.50 | 1.00 |
-| Algot Turesson | 2 | 19.50 | 8.00 | 0.00 | 3.50 | 2.50 |
-| William Nysmed | 2 | 10.50 | 5.00 | 0.00 | 0.50 | 1.50 |
-| Harald Dahllöf | 2 | 9.50 | 4.50 | 0.00 | 0.50 | 2.00 |
-| Alexander Näsholm | 2 | 9.00 | 3.00 | 0.50 | 1.50 | 1.00 |
-| Oscar Waxin | 2 | 6.00 | 3.00 | 0.00 | 0.00 | 0.50 |
-| Ilias Kalemos | 1 | 3.00 | 0.00 | 1.00 | 0.00 | 1.00 |
-| Joel Furukrona | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 1.00 |
-| Elliot Lång | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
-| Laith Haj Dergham | 2 | 1.50 | 0.50 | 0.00 | 0.50 | 1.50 |
-| Assar Lindqvist Dohrner | 2 | 1.50 | 0.50 | 0.00 | 0.50 | 2.50 |
-| Yamil Baqeri | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Paolo Santana Olsson | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Felix Lingvall | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
-| Josef Saheb Hassoun | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Felix Parmklev | 2 | 25.50 | 11.00 | 0.00 | 3.50 | 2.00 |
+| Spyridon Pouliasis | 2 | 11.50 | 4.50 | 0.50 | 1.00 | 4.00 |
+| Ludvig Sjöberg | 2 | 7.00 | 3.50 | 0.00 | 0.00 | 2.00 |
+| Ozzy Lee Petersson Årman | 2 | 6.00 | 3.00 | 0.00 | 0.00 | 1.00 |
+| Emil Dahl | 2 | 5.00 | 2.50 | 0.00 | 0.00 | 1.50 |
+| Theo Egemalm | 2 | 4.50 | 2.00 | 0.00 | 0.50 | 1.00 |
+| Jonathan Berglind | 1 | 4.00 | 1.00 | 0.00 | 2.00 | 0.00 |
+| Hugo Wiborg | 1 | 4.00 | 1.00 | 0.00 | 2.00 | 0.00 |
+| Kristaps Vaivads | 2 | 3.50 | 1.50 | 0.00 | 0.50 | 0.50 |
+| Dexter Rosén | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 0.00 |
+| Kiril Light | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 2.50 |
+| Sam Bujimu | 2 | 2.50 | 0.00 | 0.50 | 1.00 | 1.50 |
+| Vincent Hafstad | 1 | 2.00 | 0.00 | 0.00 | 2.00 | 3.00 |
+| Elon Almlöf | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 4.00 |
 
 ## Games
 
-### KFUM Huddinge Basketklubb - Östersund Basket Ungdom HU15
+### KFUM Blackebergs Idrottsklubb - Uppsala Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Algot Turesson | 23 | 11 |  0 |  1 |  1 |
-| William Nysmed | 17 |  8 |  0 |  1 |  0 |
-| Alexander Näsholm | 10 |  4 |  0 |  2 |  2 |
-| Oscar Waxin | 10 |  5 |  0 |  0 |  0 |
-| Harald Dahllöf |  9 |  4 |  0 |  1 |  2 |
-| Joel Furukrona |  4 |  2 |  0 |  0 |  1 |
-| Laith Haj Dergham |  3 |  1 |  0 |  1 |  2 |
-| Ilias Kalemos |  3 |  0 |  1 |  0 |  1 |
-| Oscar Näsholm |  3 |  1 |  0 |  1 |  0 |
-| Assar Lindqvist Dohrner |  3 |  1 |  0 |  1 |  3 |
-| Elliot Lång |  2 |  1 |  0 |  0 |  0 |
-| Yamil Baqeri |  0 |  0 |  0 |  0 |  0 |
+| Felix Parmklev | 27 | 11 |  0 |  5 |  1 |
+| Spyridon Pouliasis | 12 |  5 |  0 |  2 |  5 |
+| Ludvig Sjöberg |  6 |  3 |  0 |  0 |  2 |
+| Ozzy Lee Petersson Årman |  6 |  3 |  0 |  0 |  1 |
+| Sam Bujimu |  5 |  0 |  1 |  2 |  3 |
+| Jonathan Berglind |  4 |  1 |  0 |  2 |  0 |
+| Theo Egemalm |  3 |  1 |  0 |  1 |  2 |
+| Kristaps Vaivads |  2 |  1 |  0 |  0 |  0 |
+| Vincent Hafstad |  2 |  0 |  0 |  2 |  3 |
+| Emil Dahl |  2 |  1 |  0 |  0 |  1 |
+| Kiril Light |  2 |  1 |  0 |  0 |  3 |
+| Dexter Rosén |  0 |  0 |  0 |  0 |  0 |
 
-### Södertälje Basketbollklubb - KFUM Huddinge Basketklubb
+### Uppsala Basket - Basketklubben Gladan
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Oscar Näsholm | 38 | 17 |  0 |  4 |  2 |
-| Algot Turesson | 16 |  5 |  0 |  6 |  4 |
-| Harald Dahllöf | 10 |  5 |  0 |  0 |  2 |
-| Alexander Näsholm |  8 |  2 |  1 |  1 |  0 |
-| William Nysmed |  4 |  2 |  0 |  0 |  3 |
-| Oscar Waxin |  2 |  1 |  0 |  0 |  1 |
-| Joel Furukrona |  2 |  1 |  0 |  0 |  1 |
-| Paolo Santana Olsson |  0 |  0 |  0 |  0 |  0 |
-| Felix Lingvall |  0 |  0 |  0 |  0 |  1 |
-| Laith Haj Dergham |  0 |  0 |  0 |  0 |  1 |
-| Josef Saheb Hassoun |  0 |  0 |  0 |  0 |  0 |
-| Assar Lindqvist Dohrner |  0 |  0 |  0 |  0 |  2 |
+| Felix Parmklev | 24 | 11 |  0 |  2 |  3 |
+| Spyridon Pouliasis | 11 |  4 |  1 |  0 |  3 |
+| Ludvig Sjöberg |  8 |  4 |  0 |  0 |  2 |
+| Emil Dahl |  8 |  4 |  0 |  0 |  2 |
+| Dexter Rosén |  6 |  3 |  0 |  0 |  0 |
+| Theo Egemalm |  6 |  3 |  0 |  0 |  0 |
+| Ozzy Lee Petersson Årman |  6 |  3 |  0 |  0 |  1 |
+| Kristaps Vaivads |  5 |  2 |  0 |  1 |  1 |
+| Hugo Wiborg |  4 |  1 |  0 |  2 |  0 |
+| Kiril Light |  4 |  2 |  0 |  0 |  2 |
+| Elon Almlöf |  0 |  0 |  0 |  0 |  4 |
+| Sam Bujimu |  0 |  0 |  0 |  0 |  0 |
 

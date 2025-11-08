@@ -1,83 +1,64 @@
-# Statistics for Alviks Basketbollklubb
+# Statistics for Älmhult Beasts BC P16
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Alviks Basketbollklubb | 3 | 80.33 | 25.67 | 5.00 | 14.00 | 11.00 |
+| Älmhult Beasts BC P16 | 3 | 79.00 | 30.33 | 2.67 | 10.33 | 12.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| David Holmin | 3 | 18.00 | 6.67 | 1.00 | 1.67 | 1.67 |
-| Caesar Cederlund | 3 | 18.00 | 7.67 | 0.00 | 2.67 | 1.67 |
-| Léo Söderström Andrieux | 3 | 15.00 | 4.00 | 1.33 | 3.00 | 0.00 |
-| Toby Byrne | 3 | 8.00 | 2.00 | 1.00 | 1.00 | 0.33 |
-| Ted Wendelstig | 3 | 6.67 | 1.67 | 0.67 | 1.33 | 0.00 |
-| Carl Longueville | 3 | 4.33 | 1.67 | 0.00 | 1.00 | 0.33 |
-| Frank Hallbäck | 3 | 3.67 | 1.33 | 0.33 | 0.00 | 1.33 |
-| Leo Lindefors | 3 | 2.67 | 0.00 | 0.67 | 0.67 | 1.00 |
-| Carl Attner | 3 | 1.33 | 0.33 | 0.00 | 0.67 | 0.67 |
-| Nils Palmlöf | 3 | 1.33 | 0.33 | 0.00 | 0.67 | 3.67 |
-| Aron Rödiger | 3 | 1.33 | 0.00 | 0.00 | 1.33 | 0.33 |
-| Myron Larsson | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Ture Ljunggren | 3 | 25.67 | 9.00 | 2.00 | 1.67 | 2.33 |
+| Joachim Kaluza | 3 | 16.00 | 5.33 | 0.33 | 4.33 | 2.00 |
+| Vilhelm Ruter | 3 | 14.67 | 6.67 | 0.00 | 1.33 | 2.67 |
+| Rudolf Kaluza | 3 | 13.33 | 5.67 | 0.00 | 2.00 | 2.67 |
+| Yuan Harvey Luna De Torres | 3 | 4.33 | 1.33 | 0.33 | 0.67 | 1.67 |
+| Alessandro Iannuzzi | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 1.00 |
+| Mykhailo Oholiar | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 0.33 |
 
 ## Games
 
-### Lidingö Basket - Alviks Basketbollklubb
+### Motala Basket - Älmhult Beasts BC P16
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| David Holmin | 23 |  8 |  2 |  1 |  2 |
-| Caesar Cederlund | 19 |  8 |  0 |  3 |  1 |
-| Léo Söderström Andrieux | 12 |  1 |  2 |  4 |  0 |
-| Ted Wendelstig | 11 |  2 |  1 |  4 |  0 |
-| Carl Longueville |  8 |  3 |  0 |  2 |  1 |
-| Toby Byrne |  6 |  1 |  1 |  1 |  1 |
-| Leo Lindefors |  5 |  0 |  1 |  2 |  1 |
-| Aron Rödiger |  4 |  0 |  0 |  4 |  0 |
-| Frank Hallbäck |  2 |  1 |  0 |  0 |  1 |
-| Carl Attner |  2 |  1 |  0 |  0 |  2 |
-| Nils Palmlöf |  2 |  1 |  0 |  0 |  5 |
-| Myron Larsson |  0 |  0 |  0 |  0 |  0 |
+| Ture Ljunggren | 30 |  9 |  4 |  0 |  1 |
+| Joachim Kaluza | 18 |  6 |  1 |  3 |  3 |
+| Vilhelm Ruter | 14 |  7 |  0 |  0 |  0 |
+| Alessandro Iannuzzi | 10 |  5 |  0 |  0 |  0 |
+| Yuan Harvey Luna De Torres |  7 |  2 |  1 |  0 |  2 |
+| Rudolf Kaluza |  6 |  2 |  0 |  2 |  3 |
+| Mykhailo Oholiar |  0 |  0 |  0 |  0 |  0 |
 
-### Alviks Basketbollklubb - Danderyd Basket
+### Lobas - Älmhult Beasts BC P16
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Caesar Cederlund | 22 | 10 |  0 |  2 |  3 |
-| Léo Söderström Andrieux | 14 |  4 |  1 |  3 |  0 |
-| David Holmin | 13 |  6 |  0 |  1 |  3 |
-| Toby Byrne |  8 |  0 |  2 |  2 |  0 |
-| Frank Hallbäck |  6 |  3 |  0 |  0 |  2 |
-| Leo Lindefors |  3 |  0 |  1 |  0 |  1 |
-| Ted Wendelstig |  3 |  0 |  1 |  0 |  0 |
-| Carl Longueville |  1 |  0 |  0 |  1 |  0 |
-| Carl Attner |  0 |  0 |  0 |  0 |  0 |
-| Myron Larsson |  0 |  0 |  0 |  0 |  0 |
-| Nils Palmlöf |  0 |  0 |  0 |  0 |  3 |
-| Aron Rödiger |  0 |  0 |  0 |  0 |  1 |
+| Ture Ljunggren | 25 | 11 |  1 |  0 |  3 |
+| Rudolf Kaluza | 18 |  8 |  0 |  2 |  4 |
+| Joachim Kaluza | 14 |  6 |  0 |  2 |  1 |
+| Vilhelm Ruter | 12 |  5 |  0 |  2 |  4 |
+| Alessandro Iannuzzi |  2 |  1 |  0 |  0 |  0 |
+| Yuan Harvey Luna De Torres |  2 |  1 |  0 |  0 |  3 |
+| Mykhailo Oholiar |  2 |  1 |  0 |  0 |  0 |
 
-### Alviks Basketbollklubb - Nässjö Basket
+### Älmhult Beasts BC P16 - Trollhättans Basketbollklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Léo Söderström Andrieux | 19 |  7 |  1 |  2 |  0 |
-| David Holmin | 18 |  6 |  1 |  3 |  0 |
-| Caesar Cederlund | 13 |  5 |  0 |  3 |  1 |
-| Toby Byrne | 10 |  5 |  0 |  0 |  0 |
-| Ted Wendelstig |  6 |  3 |  0 |  0 |  0 |
-| Carl Longueville |  4 |  2 |  0 |  0 |  0 |
-| Frank Hallbäck |  3 |  0 |  1 |  0 |  1 |
-| Carl Attner |  2 |  0 |  0 |  2 |  0 |
-| Nils Palmlöf |  2 |  0 |  0 |  2 |  3 |
-| Leo Lindefors |  0 |  0 |  0 |  0 |  1 |
-| Aron Rödiger |  0 |  0 |  0 |  0 |  0 |
+| Ture Ljunggren | 22 |  7 |  1 |  5 |  3 |
+| Vilhelm Ruter | 18 |  8 |  0 |  2 |  4 |
+| Joachim Kaluza | 16 |  4 |  0 |  8 |  2 |
+| Rudolf Kaluza | 16 |  7 |  0 |  2 |  1 |
+| Yuan Harvey Luna De Torres |  4 |  1 |  0 |  2 |  0 |
+| Mykhailo Oholiar |  1 |  0 |  0 |  1 |  1 |
+| Alessandro Iannuzzi |  0 |  0 |  0 |  0 |  3 |
 

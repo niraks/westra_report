@@ -1,80 +1,84 @@
-# Statistics for Kvarnby Basket
+# Statistics for Malbas Vit
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kvarnby Basket | 3 | 56.00 | 20.00 | 2.67 | 8.00 | 11.67 |
+| Malbas Vit | 4 | 44.75 | 15.75 | 2.75 | 5.00 | 13.25 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Vincent Tistrand | 3 | 16.33 | 5.00 | 1.33 | 2.33 | 1.33 |
-| Axel Hasewinkel | 3 | 13.33 | 5.00 | 0.67 | 1.33 | 0.67 |
-| Oliver Rosenlund | 3 | 9.33 | 4.67 | 0.00 | 0.00 | 0.67 |
-| Liam Berge | 3 | 5.67 | 1.67 | 0.00 | 2.33 | 2.00 |
-| Liam Lundin | 3 | 3.33 | 1.00 | 0.33 | 0.33 | 1.33 |
-| Sid Klevgård | 3 | 2.00 | 0.67 | 0.00 | 0.67 | 2.33 |
-| Henry Haag Lundin | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 0.67 |
-| Kevin Mello Ny | 3 | 1.67 | 0.67 | 0.00 | 0.33 | 0.67 |
-| Måns Bindgård | 3 | 1.33 | 0.33 | 0.00 | 0.67 | 0.33 |
-| Linus Tangberg | 3 | 1.00 | 0.00 | 0.33 | 0.00 | 1.00 |
-| Fabian Sjöberg | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.67 |
+| Karlo Goreta | 3 | 15.67 | 5.67 | 1.00 | 1.33 | 1.33 |
+| Erlis Shala | 3 | 11.67 | 5.33 | 0.33 | 0.00 | 1.67 |
+| Denton Bankhead | 3 | 11.00 | 3.00 | 1.33 | 1.00 | 3.67 |
+| Filip Mattsson Warnerbring | 2 | 5.50 | 1.50 | 0.00 | 2.50 | 1.50 |
+| Oscar Lundqvist | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 2.33 |
+| Olle Hogebrandt Thalin | 3 | 4.00 | 1.33 | 0.00 | 1.33 | 1.33 |
+| Benjamin Strindberg | 3 | 3.33 | 1.00 | 0.33 | 0.33 | 2.33 |
+| James Michael Gere | 3 | 3.00 | 0.67 | 0.33 | 0.67 | 2.00 |
+| Leon Lundfald | 3 | 2.67 | 0.67 | 0.33 | 0.33 | 0.67 |
+| Samir Ftouni | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.33 |
+| August Thuröe | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Kvarnby Basket - LIDBAS/Borås
+### IK Eos Lund - Malbas Vit
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Vincent Tistrand | 20 |  5 |  3 |  1 |  2 |
-| Liam Berge |  8 |  2 |  0 |  4 |  1 |
-| Oliver Rosenlund |  8 |  4 |  0 |  0 |  0 |
-| Axel Hasewinkel |  6 |  1 |  1 |  1 |  0 |
-| Linus Tangberg |  3 |  0 |  1 |  0 |  1 |
-| Måns Bindgård |  2 |  0 |  0 |  2 |  1 |
-| Sid Klevgård |  2 |  1 |  0 |  0 |  3 |
-| Liam Lundin |  0 |  0 |  0 |  0 |  1 |
-| Henry Haag Lundin |  0 |  0 |  0 |  0 |  0 |
-| Kevin Mello Ny |  0 |  0 |  0 |  0 |  0 |
-| Fabian Sjöberg |  0 |  0 |  0 |  0 |  1 |
 
-### Kvarnby Basket - Bankeryds Basketklubb
+### Högsbo Basket - Malbas Vit
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Vincent Tistrand | 19 |  7 |  1 |  2 |  1 |
-| Axel Hasewinkel | 18 |  8 |  0 |  2 |  2 |
-| Oliver Rosenlund | 12 |  6 |  0 |  0 |  1 |
-| Liam Lundin |  9 |  3 |  1 |  0 |  2 |
-| Liam Berge |  7 |  3 |  0 |  1 |  3 |
-| Kevin Mello Ny |  5 |  2 |  0 |  1 |  1 |
-| Sid Klevgård |  4 |  1 |  0 |  2 |  2 |
-| Måns Bindgård |  2 |  1 |  0 |  0 |  0 |
-| Henry Haag Lundin |  2 |  1 |  0 |  0 |  1 |
-| Linus Tangberg |  0 |  0 |  0 |  0 |  0 |
-| Fabian Sjöberg |  0 |  0 |  0 |  0 |  0 |
+| Karlo Goreta | 18 |  5 |  2 |  2 |  2 |
+| Denton Bankhead | 18 |  5 |  2 |  2 |  4 |
+| Erlis Shala | 10 |  5 |  0 |  0 |  2 |
+| Benjamin Strindberg |  4 |  2 |  0 |  0 |  2 |
+| Leon Lundfald |  3 |  0 |  1 |  0 |  0 |
+| Oscar Lundqvist |  2 |  1 |  0 |  0 |  5 |
+| James Michael Gere |  2 |  1 |  0 |  0 |  2 |
+| Olle Hogebrandt Thalin |  2 |  1 |  0 |  0 |  2 |
+| Samir Ftouni |  0 |  0 |  0 |  0 |  2 |
 
-### Kvarnby Basket - Helsingborg
+### Malbas Vit - Lerums Basket Förening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Axel Hasewinkel | 16 |  6 |  1 |  1 |  0 |
-| Vincent Tistrand | 10 |  3 |  0 |  4 |  1 |
-| Oliver Rosenlund |  8 |  4 |  0 |  0 |  1 |
-| Henry Haag Lundin |  4 |  2 |  0 |  0 |  1 |
-| Liam Berge |  2 |  0 |  0 |  2 |  2 |
-| Liam Lundin |  1 |  0 |  0 |  1 |  1 |
-| Måns Bindgård |  0 |  0 |  0 |  0 |  0 |
-| Sid Klevgård |  0 |  0 |  0 |  0 |  2 |
-| Linus Tangberg |  0 |  0 |  0 |  0 |  2 |
-| Kevin Mello Ny |  0 |  0 |  0 |  0 |  1 |
-| Fabian Sjöberg |  0 |  0 |  0 |  0 |  1 |
+| Karlo Goreta | 17 |  6 |  1 |  2 |  2 |
+| Erlis Shala | 10 |  5 |  0 |  0 |  3 |
+| Olle Hogebrandt Thalin |  8 |  2 |  0 |  4 |  1 |
+| Denton Bankhead |  7 |  2 |  1 |  0 |  3 |
+| Filip Mattsson Warnerbring |  4 |  1 |  0 |  2 |  1 |
+| Leon Lundfald |  4 |  2 |  0 |  0 |  2 |
+| James Michael Gere |  4 |  1 |  0 |  2 |  3 |
+| Oscar Lundqvist |  2 |  1 |  0 |  0 |  0 |
+| Benjamin Strindberg |  2 |  1 |  0 |  0 |  2 |
+| August Thuröe |  0 |  0 |  0 |  0 |  0 |
+| Samir Ftouni |  0 |  0 |  0 |  0 |  0 |
+
+### Växjö Ravens - Malbas Vit
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Erlis Shala | 15 |  6 |  1 |  0 |  0 |
+| Karlo Goreta | 12 |  6 |  0 |  0 |  0 |
+| Denton Bankhead |  8 |  2 |  1 |  1 |  4 |
+| Oscar Lundqvist |  8 |  4 |  0 |  0 |  2 |
+| Filip Mattsson Warnerbring |  7 |  2 |  0 |  3 |  2 |
+| Benjamin Strindberg |  4 |  0 |  1 |  1 |  3 |
+| James Michael Gere |  3 |  0 |  1 |  0 |  1 |
+| Samir Ftouni |  2 |  1 |  0 |  0 |  2 |
+| Olle Hogebrandt Thalin |  2 |  1 |  0 |  0 |  1 |
+| Leon Lundfald |  1 |  0 |  0 |  1 |  0 |
 

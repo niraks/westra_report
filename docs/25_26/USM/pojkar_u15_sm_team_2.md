@@ -17,16 +17,33 @@
 | Nasrulahi Adedoyin | 2 | 11.50 | 5.00 | 0.00 | 1.50 | 2.00 |
 | Oliver Larsson | 2 | 8.50 | 1.50 | 1.00 | 2.50 | 3.00 |
 | André Cortinovis | 1 | 7.00 | 3.00 | 0.00 | 1.00 | 0.00 |
-| Omar Barre | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 1.00 |
-| Jeremy Lundstein | 2 | 6.00 | 3.00 | 0.00 | 0.00 | 1.00 |
 | Santino Halef | 1 | 6.00 | 1.00 | 1.00 | 1.00 | 1.00 |
+| Jeremy Lundstein | 2 | 6.00 | 3.00 | 0.00 | 0.00 | 1.00 |
+| Omar Barre | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 1.00 |
 | Julian Sundberg | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 2.00 |
-| Kevin Bravén Lundström | 1 | 3.00 | 0.00 | 1.00 | 0.00 | 0.00 |
 | Pedro Rodrigues Pereira | 1 | 3.00 | 1.00 | 0.00 | 1.00 | 1.00 |
+| Kevin Bravén Lundström | 1 | 3.00 | 0.00 | 1.00 | 0.00 | 0.00 |
 | Noel Larsson | 2 | 2.50 | 0.00 | 0.50 | 1.00 | 0.50 |
 | Antonio Rendulic | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
 
 ## Games
+
+### Södertälje Basketbollklubb - KFUM Huddinge Basketklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Alexander Massamba Johansson | 47 |  9 |  6 | 11 |  3 |
+| Andy Kasarji | 24 |  4 |  5 |  1 |  2 |
+| Nikola Lazic | 14 |  5 |  1 |  1 |  2 |
+| Nasrulahi Adedoyin | 10 |  4 |  0 |  2 |  4 |
+| Oliver Larsson |  8 |  1 |  1 |  3 |  4 |
+| Santino Halef |  6 |  1 |  1 |  1 |  1 |
+| Jeremy Lundstein |  6 |  3 |  0 |  0 |  2 |
+| Noel Larsson |  4 |  0 |  1 |  1 |  1 |
+| Pedro Rodrigues Pereira |  3 |  1 |  0 |  1 |  1 |
+| Antonio Rendulic |  0 |  0 |  0 |  0 |  2 |
 
 ### Östersund Basket Ungdom HU15 - Södertälje Basketbollklubb
 
@@ -45,21 +62,4 @@ Players (sorted by points)
 | Julian Sundberg |  4 |  2 |  0 |  0 |  2 |
 | Kevin Bravén Lundström |  3 |  0 |  1 |  0 |  0 |
 | Noel Larsson |  1 |  0 |  0 |  1 |  0 |
-
-### Södertälje Basketbollklubb - KFUM Huddinge Basketklubb
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Alexander Massamba Johansson | 47 |  9 |  6 | 11 |  3 |
-| Andy Kasarji | 24 |  4 |  5 |  1 |  2 |
-| Nikola Lazic | 14 |  5 |  1 |  1 |  2 |
-| Nasrulahi Adedoyin | 10 |  4 |  0 |  2 |  4 |
-| Oliver Larsson |  8 |  1 |  1 |  3 |  4 |
-| Santino Halef |  6 |  1 |  1 |  1 |  1 |
-| Jeremy Lundstein |  6 |  3 |  0 |  0 |  2 |
-| Noel Larsson |  4 |  0 |  1 |  1 |  1 |
-| Pedro Rodrigues Pereira |  3 |  1 |  0 |  1 |  1 |
-| Antonio Rendulic |  0 |  0 |  0 |  0 |  2 |
 

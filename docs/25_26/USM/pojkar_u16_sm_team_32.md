@@ -1,72 +1,71 @@
-# Statistics for Duvbo
+# Statistics for Uppsala Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Duvbo | 3 | 60.00 | 22.00 | 1.33 | 12.00 | 19.00 |
+| Uppsala Basket | 3 | 46.67 | 14.67 | 3.00 | 8.33 | 16.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Hristijan Beldjigerovski | 3 | 10.67 | 4.00 | 0.33 | 1.67 | 3.67 |
-| August Hermansson | 3 | 10.00 | 4.00 | 0.00 | 2.00 | 2.00 |
-| David Guerrero | 3 | 8.00 | 2.00 | 0.33 | 3.00 | 3.33 |
-| Liban Ismail | 3 | 8.00 | 3.33 | 0.00 | 1.33 | 1.67 |
-| Arman Heleg | 3 | 7.00 | 3.00 | 0.33 | 0.00 | 3.33 |
-| Vilmer Sundberg | 3 | 5.33 | 1.33 | 0.00 | 2.67 | 1.33 |
-| Leo Norrbo Erström | 3 | 5.33 | 1.67 | 0.33 | 1.00 | 2.33 |
-| Angelo Nounou | 3 | 3.00 | 1.33 | 0.00 | 0.33 | 0.67 |
-| Malte Ahlin | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 0.67 |
+| Holger Karlsson | 2 | 18.50 | 8.00 | 0.50 | 1.00 | 1.00 |
+| Eliel Lonsa Kanda | 2 | 15.00 | 3.00 | 1.00 | 6.00 | 1.00 |
+| Lukas Enochsson Stjernström | 2 | 10.00 | 1.50 | 2.00 | 1.00 | 4.00 |
+| Nils Gulliksson | 2 | 9.00 | 3.50 | 0.00 | 2.00 | 5.00 |
+| Nuftaliem Ghebremichael | 2 | 5.00 | 2.00 | 0.00 | 1.00 | 1.00 |
+| Orion Yohannes Morén | 2 | 5.00 | 1.00 | 1.00 | 0.00 | 2.50 |
+| Aymane Jebrane | 2 | 3.50 | 1.00 | 0.00 | 1.50 | 4.00 |
+| Douglas Unberg | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 1.50 |
+| Ed Bovin | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 3.50 |
+| Isidor Saykali | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.50 |
+| Elias Mohisenpour | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Frank Ahlstrand | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Duvbo - Hammarö Basketklubb P10
+### Eastside Aviators - Uppsala Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Hristijan Beldjigerovski | 10 |  5 |  0 |  0 |  2 |
-| August Hermansson | 10 |  3 |  0 |  4 |  3 |
-| Vilmer Sundberg |  9 |  2 |  0 |  5 |  0 |
-| David Guerrero |  9 |  2 |  0 |  5 |  4 |
-| Angelo Nounou |  5 |  2 |  0 |  1 |  0 |
-| Liban Ismail |  4 |  2 |  0 |  0 |  3 |
-| Leo Norrbo Erström |  4 |  2 |  0 |  0 |  2 |
-| Malte Ahlin |  4 |  2 |  0 |  0 |  2 |
-| Arman Heleg |  4 |  2 |  0 |  0 |  2 |
 
-### Skuru Idrottsklubb - Duvbo
+### KFUM Örebro Basket - Uppsala Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Liban Ismail | 16 |  6 |  0 |  4 |  2 |
-| August Hermansson | 16 |  7 |  0 |  2 |  2 |
-| Hristijan Beldjigerovski | 15 |  5 |  0 |  5 |  4 |
-| Leo Norrbo Erström |  9 |  2 |  1 |  2 |  4 |
-| Arman Heleg |  8 |  4 |  0 |  0 |  5 |
-| David Guerrero |  7 |  1 |  1 |  2 |  4 |
-| Angelo Nounou |  4 |  2 |  0 |  0 |  2 |
-| Malte Ahlin |  2 |  1 |  0 |  0 |  0 |
-| Vilmer Sundberg |  0 |  0 |  0 |  0 |  0 |
+| Holger Karlsson | 23 |  9 |  1 |  2 |  0 |
+| Eliel Lonsa Kanda | 13 |  3 |  1 |  4 |  2 |
+| Nils Gulliksson | 11 |  5 |  0 |  1 |  5 |
+| Douglas Unberg |  6 |  3 |  0 |  0 |  3 |
+| Orion Yohannes Morén |  5 |  1 |  1 |  0 |  3 |
+| Lukas Enochsson Stjernström |  4 |  0 |  1 |  1 |  4 |
+| Aymane Jebrane |  3 |  1 |  0 |  1 |  3 |
+| Isidor Saykali |  0 |  0 |  0 |  0 |  0 |
+| Elias Mohisenpour |  0 |  0 |  0 |  0 |  0 |
+| Ed Bovin |  0 |  0 |  0 |  0 |  2 |
+| Frank Ahlstrand |  0 |  0 |  0 |  0 |  0 |
+| Nuftaliem Ghebremichael |  0 |  0 |  0 |  0 |  0 |
 
-### Viby Basket - Duvbo
+### Uppsala Basket - KFUM Huddinge Basketklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Arman Heleg |  9 |  3 |  1 |  0 |  3 |
-| David Guerrero |  8 |  3 |  0 |  2 |  2 |
-| Vilmer Sundberg |  7 |  2 |  0 |  3 |  4 |
-| Hristijan Beldjigerovski |  7 |  2 |  1 |  0 |  5 |
-| Liban Ismail |  4 |  2 |  0 |  0 |  0 |
-| August Hermansson |  4 |  2 |  0 |  0 |  1 |
-| Leo Norrbo Erström |  3 |  1 |  0 |  1 |  1 |
-| Malte Ahlin |  2 |  1 |  0 |  0 |  0 |
-| Angelo Nounou |  0 |  0 |  0 |  0 |  0 |
+| Eliel Lonsa Kanda | 17 |  3 |  1 |  8 |  0 |
+| Lukas Enochsson Stjernström | 16 |  3 |  3 |  1 |  4 |
+| Holger Karlsson | 14 |  7 |  0 |  0 |  2 |
+| Nuftaliem Ghebremichael | 10 |  4 |  0 |  2 |  2 |
+| Nils Gulliksson |  7 |  2 |  0 |  3 |  5 |
+| Orion Yohannes Morén |  5 |  1 |  1 |  0 |  2 |
+| Aymane Jebrane |  4 |  1 |  0 |  2 |  5 |
+| Ed Bovin |  2 |  1 |  0 |  0 |  5 |
+| Isidor Saykali |  0 |  0 |  0 |  0 |  1 |
+| Douglas Unberg |  0 |  0 |  0 |  0 |  0 |
+| Frank Ahlstrand |  0 |  0 |  0 |  0 |  0 |
 

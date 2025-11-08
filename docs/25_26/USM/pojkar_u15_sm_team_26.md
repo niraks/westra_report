@@ -1,75 +1,85 @@
-# Statistics for Arvika Basket
+# Statistics for AIK
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Arvika Basket | 3 | 66.00 | 17.33 | 7.33 | 9.33 | 12.67 |
+| AIK | 4 | 49.50 | 15.50 | 3.75 | 7.25 | 15.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Matti Westman | 3 | 32.33 | 6.33 | 5.00 | 4.67 | 3.33 |
-| Charlie Olsson | 3 | 16.33 | 5.67 | 1.33 | 1.00 | 2.00 |
-| Edvin Johansson | 2 | 11.50 | 4.00 | 0.00 | 3.50 | 2.50 |
-| Love Skogh | 3 | 4.33 | 1.67 | 0.00 | 1.00 | 2.00 |
-| Esse Gunnarsson | 3 | 2.00 | 0.00 | 0.67 | 0.00 | 1.67 |
-| Viktor Bialesta Vilhelm | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 0.00 |
-| Astor Frödin | 3 | 1.00 | 0.00 | 0.33 | 0.00 | 0.00 |
-| Ayman Tangushaka | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 1.00 |
-| Anton Chytraeus | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
-| Frigg-alexander Storm Seterdal | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.67 |
+| Nicholas Abboud | 3 | 19.00 | 5.00 | 2.00 | 3.00 | 2.67 |
+| Eray Türkoglu | 3 | 15.67 | 6.33 | 0.33 | 2.00 | 3.67 |
+| Samuel Deumaga Tchangou | 3 | 10.33 | 3.33 | 1.00 | 0.67 | 2.33 |
+| Ivar Idhammar | 3 | 7.33 | 2.00 | 0.67 | 1.33 | 2.33 |
+| Angelo Silva Karbouj | 1 | 6.00 | 0.00 | 2.00 | 0.00 | 1.00 |
+| Brandon Cayir | 3 | 4.67 | 1.33 | 0.33 | 1.00 | 2.00 |
+| Frank Soumahoro Kamyab | 3 | 3.00 | 1.00 | 0.00 | 1.00 | 1.33 |
+| Andreas Mattsson | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 0.67 |
+| Michael Grigoriadis | 3 | 0.67 | 0.00 | 0.00 | 0.67 | 1.67 |
+| Bentley Martin | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 2.33 |
+| Elliot Baillet | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.67 |
 
 ## Games
 
-### Arvika Basket - Köping Stars Basketförening
+### Östersund Basket Ungdom HU15 - AIK
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Matti Westman | 25 |  5 |  5 |  0 |  4 |
-| Charlie Olsson | 24 |  8 |  2 |  2 |  1 |
-| Edvin Johansson | 12 |  4 |  0 |  4 |  3 |
-| Love Skogh |  6 |  3 |  0 |  0 |  3 |
-| Viktor Bialesta Vilhelm |  2 |  1 |  0 |  0 |  0 |
-| Anton Chytraeus |  0 |  0 |  0 |  0 |  0 |
-| Astor Frödin |  0 |  0 |  0 |  0 |  0 |
-| Esse Gunnarsson |  0 |  0 |  0 |  0 |  0 |
-| Ayman Tangushaka |  0 |  0 |  0 |  0 |  2 |
-| Frigg-alexander Storm Seterdal |  0 |  0 |  0 |  0 |  1 |
 
-### Wetterbygden Stars - Arvika Basket
+### AIK - Hammarby
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Matti Westman | 38 |  8 |  5 |  7 |  3 |
-| Charlie Olsson | 14 |  5 |  1 |  1 |  3 |
-| Edvin Johansson | 11 |  4 |  0 |  3 |  2 |
-| Esse Gunnarsson |  3 |  0 |  1 |  0 |  3 |
-| Love Skogh |  3 |  1 |  0 |  1 |  0 |
-| Viktor Bialesta Vilhelm |  2 |  1 |  0 |  0 |  0 |
-| Ayman Tangushaka |  1 |  0 |  0 |  1 |  1 |
-| Anton Chytraeus |  0 |  0 |  0 |  0 |  1 |
-| Astor Frödin |  0 |  0 |  0 |  0 |  0 |
-| Frigg-alexander Storm Seterdal |  0 |  0 |  0 |  0 |  1 |
+| Eray Türkoglu |  9 |  4 |  0 |  1 |  4 |
+| Ivar Idhammar |  8 |  4 |  0 |  0 |  1 |
+| Nicholas Abboud |  8 |  2 |  1 |  1 |  1 |
+| Samuel Deumaga Tchangou |  7 |  2 |  1 |  0 |  2 |
+| Angelo Silva Karbouj |  6 |  0 |  2 |  0 |  1 |
+| Frank Soumahoro Kamyab |  4 |  2 |  0 |  0 |  1 |
+| Andreas Mattsson |  4 |  2 |  0 |  0 |  1 |
+| Brandon Cayir |  3 |  1 |  0 |  1 |  1 |
+| Bentley Martin |  2 |  1 |  0 |  0 |  2 |
+| Elliot Baillet |  2 |  1 |  0 |  0 |  1 |
+| Michael Grigoriadis |  0 |  0 |  0 |  0 |  1 |
 
-### Arvika Basket - Kungsbacka Basket
+### WestCoast Basketförening - AIK
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Matti Westman | 34 |  6 |  5 |  7 |  3 |
-| Charlie Olsson | 11 |  4 |  1 |  0 |  2 |
-| Love Skogh |  4 |  1 |  0 |  2 |  3 |
-| Astor Frödin |  3 |  0 |  1 |  0 |  0 |
-| Esse Gunnarsson |  3 |  0 |  1 |  0 |  2 |
-| Ayman Tangushaka |  2 |  1 |  0 |  0 |  0 |
-| Anton Chytraeus |  0 |  0 |  0 |  0 |  0 |
-| Frigg-alexander Storm Seterdal |  0 |  0 |  0 |  0 |  0 |
-| Viktor Bialesta Vilhelm |  0 |  0 |  0 |  0 |  0 |
+| Nicholas Abboud | 19 |  5 |  2 |  3 |  4 |
+| Eray Türkoglu | 14 |  6 |  0 |  2 |  3 |
+| Samuel Deumaga Tchangou | 10 |  4 |  0 |  2 |  0 |
+| Brandon Cayir |  9 |  2 |  1 |  2 |  2 |
+| Ivar Idhammar |  7 |  0 |  2 |  1 |  3 |
+| Frank Soumahoro Kamyab |  2 |  1 |  0 |  0 |  2 |
+| Michael Grigoriadis |  2 |  0 |  0 |  2 |  0 |
+| Andreas Mattsson |  0 |  0 |  0 |  0 |  0 |
+| Bentley Martin |  0 |  0 |  0 |  0 |  2 |
+| Elliot Baillet |  0 |  0 |  0 |  0 |  0 |
+
+### Oskarshamns Basketbollklubb - AIK
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Nicholas Abboud | 30 |  8 |  3 |  5 |  3 |
+| Eray Türkoglu | 24 |  9 |  1 |  3 |  4 |
+| Samuel Deumaga Tchangou | 14 |  4 |  2 |  0 |  5 |
+| Ivar Idhammar |  7 |  2 |  0 |  3 |  3 |
+| Frank Soumahoro Kamyab |  3 |  0 |  0 |  3 |  1 |
+| Andreas Mattsson |  2 |  1 |  0 |  0 |  1 |
+| Brandon Cayir |  2 |  1 |  0 |  0 |  3 |
+| Michael Grigoriadis |  0 |  0 |  0 |  0 |  4 |
+| Bentley Martin |  0 |  0 |  0 |  0 |  3 |
+| Elliot Baillet |  0 |  0 |  0 |  0 |  1 |
 

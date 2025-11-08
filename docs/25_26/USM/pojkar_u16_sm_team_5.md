@@ -1,66 +1,84 @@
-# Statistics for LÅ Academy
+# Statistics for Viby Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| LÅ Academy | 2 | 97.00 | 32.50 | 5.50 | 15.50 | 14.50 |
+| Viby Basket | 3 | 92.00 | 33.67 | 4.00 | 12.67 | 20.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Axel Curry | 2 | 22.50 | 6.50 | 1.50 | 5.00 | 2.00 |
-| Vincent Wandel | 2 | 19.00 | 6.50 | 1.50 | 1.50 | 0.00 |
-| Jaden Hedberg | 2 | 9.00 | 3.00 | 0.00 | 3.00 | 1.00 |
-| Frans Gåhlin | 2 | 8.50 | 3.00 | 0.50 | 1.00 | 2.00 |
-| Camilo Torres Gustafsson | 2 | 7.00 | 2.00 | 0.50 | 1.50 | 1.50 |
-| Rasmus Kristoffersson | 2 | 6.50 | 2.00 | 0.50 | 1.00 | 1.00 |
-| Seth Ebenfeldt | 2 | 5.50 | 2.00 | 0.50 | 0.00 | 2.00 |
-| Maximilian Alman | 2 | 5.00 | 1.50 | 0.00 | 2.00 | 1.50 |
-| Elias Hansson Markstedt | 2 | 5.00 | 2.50 | 0.00 | 0.00 | 1.00 |
-| Chessy Ssekawojwa | 1 | 5.00 | 1.00 | 1.00 | 0.00 | 3.00 |
-| Eddie Karlsson | 2 | 3.50 | 1.50 | 0.00 | 0.50 | 0.50 |
-| Felix Sjöberg | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 0.00 |
-| Lewis Lax | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Benjamin Hrnjica | 3 | 16.33 | 6.33 | 0.67 | 1.67 | 3.00 |
+| Treasure Nosakhare Zimao Dodo | 3 | 13.33 | 5.00 | 0.00 | 3.33 | 3.00 |
+| Samuel Hahne | 3 | 12.67 | 4.33 | 0.67 | 2.00 | 2.33 |
+| Max Palm | 3 | 10.67 | 4.00 | 0.67 | 0.67 | 0.33 |
+| Luca Anderson | 3 | 9.33 | 3.67 | 0.33 | 1.00 | 3.00 |
+| Axel Braun | 3 | 9.00 | 3.67 | 0.00 | 1.67 | 1.00 |
+| Linus Olsson | 3 | 5.33 | 1.67 | 0.00 | 2.00 | 2.33 |
+| Simon Zdravkovic | 3 | 4.33 | 1.67 | 0.33 | 0.00 | 1.00 |
+| Nasri Nouh | 3 | 4.33 | 1.67 | 0.33 | 0.00 | 1.00 |
+| Viktor Jalmelid | 3 | 4.00 | 1.33 | 0.33 | 0.33 | 1.00 |
+| Shavi Maksud | 3 | 1.67 | 0.33 | 0.33 | 0.00 | 0.67 |
+| Bilal Aden | 3 | 1.00 | 0.00 | 0.33 | 0.00 | 1.33 |
 
 ## Games
 
-### KFUM Basketbollklubb Skellefteå - LÅ Academy
+### Skuru Idrottsklubb - Viby Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Axel Curry | 26 |  8 |  1 |  7 |  2 |
-| Vincent Wandel | 17 |  6 |  1 |  2 |  0 |
-| Camilo Torres Gustafsson | 10 |  3 |  1 |  1 |  2 |
-| Rasmus Kristoffersson |  9 |  2 |  1 |  2 |  0 |
-| Jaden Hedberg |  8 |  2 |  0 |  4 |  1 |
-| Seth Ebenfeldt |  7 |  2 |  1 |  0 |  3 |
-| Elias Hansson Markstedt |  6 |  3 |  0 |  0 |  1 |
-| Eddie Karlsson |  5 |  2 |  0 |  1 |  1 |
-| Maximilian Alman |  5 |  1 |  0 |  3 |  1 |
-| Felix Sjöberg |  4 |  2 |  0 |  0 |  0 |
-| Frans Gåhlin |  4 |  2 |  0 |  0 |  3 |
-| Lewis Lax |  0 |  0 |  0 |  0 |  1 |
+| Benjamin Hrnjica | 19 |  7 |  1 |  2 |  4 |
+| Max Palm | 14 |  6 |  0 |  2 |  1 |
+| Treasure Nosakhare Zimao Dodo | 14 |  4 |  0 |  6 |  3 |
+| Samuel Hahne | 14 |  5 |  0 |  4 |  3 |
+| Luca Anderson | 13 |  6 |  0 |  1 |  2 |
+| Axel Braun |  9 |  4 |  0 |  1 |  0 |
+| Viktor Jalmelid |  5 |  1 |  1 |  0 |  2 |
+| Linus Olsson |  4 |  1 |  0 |  2 |  2 |
+| Nasri Nouh |  3 |  0 |  1 |  0 |  1 |
+| Simon Zdravkovic |  2 |  1 |  0 |  0 |  0 |
+| Shavi Maksud |  0 |  0 |  0 |  0 |  1 |
+| Bilal Aden |  0 |  0 |  0 |  0 |  1 |
 
-### LÅ Academy - KFUM Sundsvall Basket
+### Viby Basket - Duvbo
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Vincent Wandel | 21 |  7 |  2 |  1 |  0 |
-| Axel Curry | 19 |  5 |  2 |  3 |  2 |
-| Frans Gåhlin | 13 |  4 |  1 |  2 |  1 |
-| Jaden Hedberg | 10 |  4 |  0 |  2 |  1 |
-| Chessy Ssekawojwa |  5 |  1 |  1 |  0 |  3 |
-| Maximilian Alman |  5 |  2 |  0 |  1 |  2 |
-| Seth Ebenfeldt |  4 |  2 |  0 |  0 |  1 |
-| Rasmus Kristoffersson |  4 |  2 |  0 |  0 |  2 |
-| Camilo Torres Gustafsson |  4 |  1 |  0 |  2 |  1 |
-| Elias Hansson Markstedt |  4 |  2 |  0 |  0 |  1 |
-| Eddie Karlsson |  2 |  1 |  0 |  0 |  0 |
-| Felix Sjöberg |  2 |  1 |  0 |  0 |  0 |
+| Treasure Nosakhare Zimao Dodo | 17 |  7 |  0 |  3 |  2 |
+| Benjamin Hrnjica | 14 |  6 |  0 |  2 |  1 |
+| Axel Braun | 11 |  4 |  0 |  3 |  2 |
+| Nasri Nouh | 10 |  5 |  0 |  0 |  2 |
+| Samuel Hahne | 10 |  5 |  0 |  0 |  0 |
+| Max Palm |  9 |  3 |  1 |  0 |  0 |
+| Simon Zdravkovic |  8 |  4 |  0 |  0 |  1 |
+| Linus Olsson |  7 |  3 |  0 |  1 |  1 |
+| Luca Anderson |  7 |  2 |  1 |  0 |  5 |
+| Shavi Maksud |  3 |  0 |  1 |  0 |  0 |
+| Viktor Jalmelid |  1 |  0 |  0 |  1 |  0 |
+| Bilal Aden |  0 |  0 |  0 |  0 |  1 |
+
+### Hammarö Basketklubb P10 - Viby Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Benjamin Hrnjica | 16 |  6 |  1 |  1 |  4 |
+| Samuel Hahne | 14 |  3 |  2 |  2 |  4 |
+| Max Palm |  9 |  3 |  1 |  0 |  0 |
+| Treasure Nosakhare Zimao Dodo |  9 |  4 |  0 |  1 |  4 |
+| Luca Anderson |  8 |  3 |  0 |  2 |  2 |
+| Axel Braun |  7 |  3 |  0 |  1 |  1 |
+| Viktor Jalmelid |  6 |  3 |  0 |  0 |  1 |
+| Linus Olsson |  5 |  1 |  0 |  3 |  4 |
+| Simon Zdravkovic |  3 |  0 |  1 |  0 |  2 |
+| Bilal Aden |  3 |  0 |  1 |  0 |  2 |
+| Shavi Maksud |  2 |  1 |  0 |  0 |  1 |
+| Nasri Nouh |  0 |  0 |  0 |  0 |  0 |
 

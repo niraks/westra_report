@@ -1,86 +1,66 @@
-# Statistics for Norrköpings Basketförening
+# Statistics for Lerums Basket Förening
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Norrköpings Basketförening | 3 | 86.00 | 31.00 | 5.00 | 9.00 | 18.33 |
+| Lerums Basket Förening | 3 | 79.33 | 29.33 | 2.67 | 12.67 | 15.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Max Lundberg | 3 | 21.33 | 7.67 | 1.33 | 2.00 | 1.33 |
-| Edvin Lundh | 3 | 13.67 | 4.00 | 1.67 | 0.67 | 2.00 |
-| Eliab Lawgaw | 2 | 10.00 | 1.50 | 1.50 | 2.50 | 0.50 |
-| Leon Kojhasarle | 3 | 9.67 | 4.67 | 0.00 | 0.33 | 1.33 |
-| Aksel Barkhagen | 3 | 8.67 | 4.33 | 0.00 | 0.00 | 3.00 |
-| Benjamin Sabanagic | 3 | 8.67 | 3.00 | 0.33 | 1.67 | 4.00 |
-| Elis Kern | 2 | 5.50 | 2.00 | 0.50 | 0.00 | 1.50 |
-| Harald Eldh | 2 | 5.50 | 2.00 | 0.00 | 1.50 | 2.50 |
-| Jordan Mengüc Lindquist | 3 | 4.00 | 1.33 | 0.33 | 0.33 | 1.67 |
-| Neo Elmberg | 2 | 4.00 | 1.50 | 0.00 | 1.00 | 1.50 |
-| Cesar Karathanasis | 3 | 1.67 | 0.67 | 0.00 | 0.33 | 0.33 |
-| Abraham Demir | 3 | 1.67 | 0.67 | 0.00 | 0.33 | 0.67 |
-| Leon Skarin | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Sebastian Saina Low | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Filip Lundberg | 3 | 22.67 | 10.00 | 0.33 | 1.67 | 2.00 |
+| Valter Larsson | 3 | 22.33 | 7.67 | 0.33 | 6.00 | 4.00 |
+| Jakov Markovic | 3 | 17.33 | 7.00 | 0.33 | 2.33 | 2.00 |
+| Nikolas Magnusson Giannourakis | 1 | 11.00 | 2.00 | 1.00 | 4.00 | 2.00 |
+| Daniel Ecker | 3 | 7.67 | 2.00 | 1.00 | 0.67 | 2.67 |
+| Alvin Bolteus | 3 | 3.67 | 1.00 | 0.33 | 0.67 | 0.67 |
+| Charis Tyrovouzis | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 1.67 |
+| Charlie Mattsson Meijer | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.33 |
 
 ## Games
 
-### Skuru Idrottsklubb - Norrköpings Basketförening
+### Lerums Basket Förening - S:t Helena BK
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Leon Kojhasarle | 16 |  8 |  0 |  0 |  0 |
-| Max Lundberg | 15 |  6 |  1 |  0 |  2 |
-| Edvin Lundh | 14 |  4 |  2 |  0 |  3 |
-| Eliab Lawgaw |  9 |  1 |  1 |  4 |  0 |
-| Benjamin Sabanagic |  8 |  3 |  0 |  2 |  5 |
-| Jordan Mengüc Lindquist |  4 |  2 |  0 |  0 |  2 |
-| Aksel Barkhagen |  2 |  1 |  0 |  0 |  4 |
-| Elis Kern |  2 |  1 |  0 |  0 |  1 |
-| Cesar Karathanasis |  0 |  0 |  0 |  0 |  1 |
-| Leon Skarin |  0 |  0 |  0 |  0 |  0 |
-| Sebastian Saina Low |  0 |  0 |  0 |  0 |  0 |
-| Abraham Demir |  0 |  0 |  0 |  0 |  1 |
+| Filip Lundberg | 22 | 11 |  0 |  0 |  2 |
+| Valter Larsson | 20 |  9 |  0 |  2 |  5 |
+| Jakov Markovic | 16 |  8 |  0 |  0 |  3 |
+| Daniel Ecker | 14 |  2 |  3 |  1 |  0 |
+| Nikolas Magnusson Giannourakis | 11 |  2 |  1 |  4 |  2 |
+| Alvin Bolteus |  3 |  0 |  1 |  0 |  2 |
+| Charis Tyrovouzis |  2 |  1 |  0 |  0 |  2 |
+| Charlie Mattsson Meijer |  0 |  0 |  0 |  0 |  0 |
 
-### Norrköpings Basketförening - Kungsholmen
+### Lerums Basket Förening - KFUM Örebro Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Max Lundberg | 24 |  7 |  2 |  4 |  1 |
-| Aksel Barkhagen | 16 |  8 |  0 |  0 |  4 |
-| Edvin Lundh | 12 |  4 |  1 |  1 |  2 |
-| Eliab Lawgaw | 11 |  2 |  2 |  1 |  1 |
-| Benjamin Sabanagic |  8 |  1 |  1 |  3 |  5 |
-| Harald Eldh |  6 |  2 |  0 |  2 |  2 |
-| Abraham Demir |  3 |  1 |  0 |  1 |  1 |
-| Cesar Karathanasis |  2 |  1 |  0 |  0 |  0 |
-| Neo Elmberg |  1 |  0 |  0 |  1 |  0 |
-| Jordan Mengüc Lindquist |  1 |  0 |  0 |  1 |  2 |
-| Leon Kojhasarle |  0 |  0 |  0 |  0 |  1 |
-| Leon Skarin |  0 |  0 |  0 |  0 |  0 |
+| Valter Larsson | 22 |  3 |  1 | 13 |  3 |
+| Filip Lundberg | 20 |  8 |  1 |  1 |  2 |
+| Jakov Markovic | 14 |  5 |  1 |  1 |  2 |
+| Alvin Bolteus |  5 |  2 |  0 |  1 |  0 |
+| Daniel Ecker |  4 |  2 |  0 |  0 |  5 |
+| Charis Tyrovouzis |  2 |  1 |  0 |  0 |  3 |
+| Charlie Mattsson Meijer |  0 |  0 |  0 |  0 |  1 |
 
-### Norrköpings Basketförening - Täby Basket
+### Malbas Svart - Lerums Basket Förening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Max Lundberg | 25 | 10 |  1 |  2 |  1 |
-| Edvin Lundh | 15 |  4 |  2 |  1 |  1 |
-| Leon Kojhasarle | 13 |  6 |  0 |  1 |  3 |
-| Benjamin Sabanagic | 10 |  5 |  0 |  0 |  2 |
-| Elis Kern |  9 |  3 |  1 |  0 |  2 |
-| Aksel Barkhagen |  8 |  4 |  0 |  0 |  1 |
-| Neo Elmberg |  7 |  3 |  0 |  1 |  3 |
-| Jordan Mengüc Lindquist |  7 |  2 |  1 |  0 |  1 |
-| Harald Eldh |  5 |  2 |  0 |  1 |  3 |
-| Cesar Karathanasis |  3 |  1 |  0 |  1 |  0 |
-| Abraham Demir |  2 |  1 |  0 |  0 |  0 |
-| Sebastian Saina Low |  0 |  0 |  0 |  0 |  0 |
+| Filip Lundberg | 26 | 11 |  0 |  4 |  2 |
+| Valter Larsson | 25 | 11 |  0 |  3 |  4 |
+| Jakov Markovic | 22 |  8 |  0 |  6 |  1 |
+| Daniel Ecker |  5 |  2 |  0 |  1 |  3 |
+| Alvin Bolteus |  3 |  1 |  0 |  1 |  0 |
+| Charlie Mattsson Meijer |  2 |  1 |  0 |  0 |  3 |
+| Charis Tyrovouzis |  0 |  0 |  0 |  0 |  0 |
 

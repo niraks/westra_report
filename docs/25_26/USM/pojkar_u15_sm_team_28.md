@@ -1,59 +1,68 @@
-# Statistics for Östersund Basket Ungdom HU15
+# Statistics for KFUM Blackebergs Idrottsklubb
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Östersund Basket Ungdom HU15 | 2 | 61.50 | 14.50 | 10.00 | 2.50 | 15.00 |
+| KFUM Blackebergs Idrottsklubb | 3 | 48.33 | 16.00 | 2.67 | 8.33 | 15.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Algot Gyllebring | 2 | 17.00 | 0.50 | 5.00 | 1.00 | 2.00 |
-| Leon Jansson Myrå | 2 | 14.50 | 4.00 | 2.00 | 0.50 | 0.50 |
-| Jafet Weldu | 2 | 12.50 | 4.00 | 1.50 | 0.00 | 3.00 |
-| Nojus Okleiteris | 2 | 5.00 | 1.00 | 1.00 | 0.00 | 2.00 |
-| Aksel Hildahl | 2 | 4.00 | 2.00 | 0.00 | 0.00 | 0.50 |
-| Edwin Molander | 2 | 3.50 | 1.00 | 0.50 | 0.00 | 0.50 |
-| Dexter Viggesjöö | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 1.50 |
-| Elis Palmqvist | 2 | 2.00 | 0.50 | 0.00 | 1.00 | 3.00 |
-| Oscar Burns | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| August Ekerlid | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
+| Viktor Strandin | 1 | 19.00 | 5.00 | 2.00 | 3.00 | 4.00 |
+| Simon Carlén | 2 | 17.00 | 5.50 | 1.50 | 1.50 | 4.50 |
+| Sufyan Mohamed Ali | 2 | 16.00 | 6.00 | 0.00 | 4.00 | 2.50 |
+| Vidar Sjösvärd | 2 | 13.50 | 6.00 | 0.00 | 1.50 | 2.00 |
+| Zaccarias Roman | 2 | 5.50 | 1.00 | 0.50 | 2.00 | 4.50 |
+| Neo Negret | 2 | 4.50 | 2.00 | 0.00 | 0.50 | 1.50 |
+| Alfred Kartano | 2 | 4.00 | 1.00 | 0.50 | 0.50 | 2.50 |
+| Hector Garcia | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 0.50 |
+| Tyler Iguchi | 2 | 1.00 | 0.00 | 0.00 | 1.00 | 1.50 |
+| Noel Imets | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
+| Keelan Hearne Leander | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### KFUM Huddinge Basketklubb - Östersund Basket Ungdom HU15
+### Alviks Basketbollklubb - KFUM Blackebergs Idrottsklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Algot Gyllebring | 29 |  0 |  9 |  2 |  3 |
-| Leon Jansson Myrå | 20 |  5 |  3 |  1 |  1 |
-| Jafet Weldu | 11 |  1 |  3 |  0 |  3 |
-| Edwin Molander |  5 |  1 |  1 |  0 |  1 |
-| Aksel Hildahl |  4 |  2 |  0 |  0 |  1 |
-| Nojus Okleiteris |  3 |  0 |  1 |  0 |  3 |
-| Dexter Viggesjöö |  2 |  1 |  0 |  0 |  1 |
-| Elis Palmqvist |  1 |  0 |  0 |  1 |  4 |
-| Oscar Burns |  0 |  0 |  0 |  0 |  0 |
-| August Ekerlid |  0 |  0 |  0 |  0 |  1 |
 
-### Östersund Basket Ungdom HU15 - Södertälje Basketbollklubb
+### KFUM Blackebergs Idrottsklubb - Uppsala Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Jafet Weldu | 14 |  7 |  0 |  0 |  3 |
-| Leon Jansson Myrå |  9 |  3 |  1 |  0 |  0 |
-| Nojus Okleiteris |  7 |  2 |  1 |  0 |  1 |
-| Algot Gyllebring |  5 |  1 |  1 |  0 |  1 |
-| Aksel Hildahl |  4 |  2 |  0 |  0 |  0 |
-| Dexter Viggesjöö |  4 |  2 |  0 |  0 |  2 |
-| Elis Palmqvist |  3 |  1 |  0 |  1 |  2 |
-| Edwin Molander |  2 |  1 |  0 |  0 |  0 |
-| Oscar Burns |  0 |  0 |  0 |  0 |  0 |
-| August Ekerlid |  0 |  0 |  0 |  0 |  3 |
+| Sufyan Mohamed Ali | 24 |  9 |  0 |  6 |  3 |
+| Vidar Sjösvärd | 16 |  7 |  0 |  2 |  2 |
+| Simon Carlén | 13 |  4 |  1 |  2 |  4 |
+| Zaccarias Roman | 11 |  2 |  1 |  4 |  5 |
+| Neo Negret |  9 |  4 |  0 |  1 |  2 |
+| Hector Garcia |  3 |  0 |  1 |  0 |  0 |
+| Alfred Kartano |  1 |  0 |  0 |  1 |  5 |
+| Tyler Iguchi |  1 |  0 |  0 |  1 |  0 |
+| Noel Imets |  0 |  0 |  0 |  0 |  0 |
+| Keelan Hearne Leander |  0 |  0 |  0 |  0 |  0 |
+
+### Basketklubben Gladan - KFUM Blackebergs Idrottsklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Simon Carlén | 21 |  7 |  2 |  1 |  5 |
+| Viktor Strandin | 19 |  5 |  2 |  3 |  4 |
+| Vidar Sjösvärd | 11 |  5 |  0 |  1 |  2 |
+| Sufyan Mohamed Ali |  8 |  3 |  0 |  2 |  2 |
+| Alfred Kartano |  7 |  2 |  1 |  0 |  0 |
+| Tyler Iguchi |  1 |  0 |  0 |  1 |  3 |
+| Noel Imets |  0 |  0 |  0 |  0 |  4 |
+| Keelan Hearne Leander |  0 |  0 |  0 |  0 |  0 |
+| Neo Negret |  0 |  0 |  0 |  0 |  1 |
+| Hector Garcia |  0 |  0 |  0 |  0 |  1 |
+| Zaccarias Roman |  0 |  0 |  0 |  0 |  4 |
 
