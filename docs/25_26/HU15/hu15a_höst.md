@@ -39,8 +39,8 @@
 | 6 | [Charlie Lindblom](hu15a_höst_team_1.md) | 7.50 |
 | 7 | [Eric Svensson](hu15a_höst_team_3.md) | 6.67 |
 | 8 | [Fabian Hjärtinge](hu15a_höst_team_1.md) | 6.50 |
-| 9 | [Vigan Raci](hu15a_höst_team_5.md) | 6.33 |
 | 9 | [Oliver Reit](hu15a_höst_team_4.md) | 6.33 |
+| 9 | [Vigan Raci](hu15a_höst_team_5.md) | 6.33 |
 
 ### 3P made per game
 
@@ -53,9 +53,9 @@
 | 5 | [Eric Svensson](hu15a_höst_team_3.md) | 1.00 |
 | 5 | [Malcom Truija Wellington](hu15a_höst_team_3.md) | 1.00 |
 | 5 | [Wassem Al Hafez](hu15a_höst_team_3.md) | 1.00 |
+| 5 | [Felix Rezler](hu15a_höst_team_2.md) | 1.00 |
 | 5 | [Otis Foon](hu15a_höst_team_5.md) | 1.00 |
 | 5 | [Nireas Solidakis](hu15a_höst_team_5.md) | 1.00 |
-| 5 | [Felix Rezler](hu15a_höst_team_2.md) | 1.00 |
 
 ### Free throws made per game
 
@@ -70,6 +70,6 @@
 | 7 | [Eric Svensson](hu15a_höst_team_3.md) | 2.00 |
 | 7 | [Joseph Jonsson](hu15a_höst_team_4.md) | 2.00 |
 | 9 | [Emil Järvinen](hu15a_höst_team_1.md) | 1.75 |
-| 10 | [Vidar Ekström](hu15a_höst_team_5.md) | 1.67 |
 | 10 | [Liam Dahlén](hu15a_höst_team_2.md) | 1.67 |
+| 10 | [Vidar Ekström](hu15a_höst_team_5.md) | 1.67 |
 

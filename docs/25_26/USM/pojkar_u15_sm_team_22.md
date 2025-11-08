@@ -1,68 +1,66 @@
-# Statistics for Eastside Falcons
+# Statistics for Lerums Basket Förening
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eastside Falcons | 3 | 57.00 | 20.33 | 3.00 | 7.33 | 15.67 |
+| Lerums Basket Förening | 3 | 79.33 | 29.33 | 2.67 | 12.67 | 15.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Vincent Uzieblo | 2 | 22.50 | 8.50 | 0.00 | 5.50 | 3.50 |
-| Nireas Solidakis | 2 | 13.50 | 3.50 | 2.00 | 0.50 | 1.50 |
-| Vigan Raci | 2 | 11.00 | 4.50 | 0.50 | 0.50 | 2.50 |
-| Albin Helmfridsson | 2 | 9.00 | 2.50 | 1.00 | 1.00 | 0.50 |
-| Noah Ringheim | 2 | 8.00 | 3.50 | 0.00 | 1.00 | 3.50 |
-| Christian Gonzal | 2 | 8.00 | 3.50 | 0.00 | 1.00 | 3.50 |
-| Evangelos Kochliaridis | 2 | 6.00 | 1.50 | 1.00 | 0.00 | 2.00 |
-| Vidar Ekström | 2 | 4.50 | 1.50 | 0.00 | 1.50 | 3.50 |
-| Otis Foon | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 0.50 |
-| Theodor Markey | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 2.50 |
-| Hjalmar Spångberg | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Filip Lundberg | 3 | 22.67 | 10.00 | 0.33 | 1.67 | 2.00 |
+| Valter Larsson | 3 | 22.33 | 7.67 | 0.33 | 6.00 | 4.00 |
+| Jakov Markovic | 3 | 17.33 | 7.00 | 0.33 | 2.33 | 2.00 |
+| Nikolas Magnusson Giannourakis | 1 | 11.00 | 2.00 | 1.00 | 4.00 | 2.00 |
+| Daniel Ecker | 3 | 7.67 | 2.00 | 1.00 | 0.67 | 2.67 |
+| Alvin Bolteus | 3 | 3.67 | 1.00 | 0.33 | 0.67 | 0.67 |
+| Charis Tyrovouzis | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 1.67 |
+| Charlie Mattsson Meijer | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.33 |
 
 ## Games
 
-### Eastside Falcons - Täby Basket
+### Lerums Basket Förening - S:t Helena BK
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
+| Filip Lundberg | 22 | 11 |  0 |  0 |  2 |
+| Valter Larsson | 20 |  9 |  0 |  2 |  5 |
+| Jakov Markovic | 16 |  8 |  0 |  0 |  3 |
+| Daniel Ecker | 14 |  2 |  3 |  1 |  0 |
+| Nikolas Magnusson Giannourakis | 11 |  2 |  1 |  4 |  2 |
+| Alvin Bolteus |  3 |  0 |  1 |  0 |  2 |
+| Charis Tyrovouzis |  2 |  1 |  0 |  0 |  2 |
+| Charlie Mattsson Meijer |  0 |  0 |  0 |  0 |  0 |
 
-### Eastside Falcons - IK Eos Lund
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Vincent Uzieblo | 30 | 10 |  0 | 10 |  3 |
-| Nireas Solidakis | 18 |  6 |  2 |  0 |  2 |
-| Noah Ringheim | 11 |  5 |  0 |  1 |  5 |
-| Albin Helmfridsson |  6 |  0 |  2 |  0 |  1 |
-| Vidar Ekström |  5 |  2 |  0 |  1 |  3 |
-| Vigan Raci |  2 |  1 |  0 |  0 |  2 |
-| Evangelos Kochliaridis |  2 |  1 |  0 |  0 |  2 |
-| Otis Foon |  0 |  0 |  0 |  0 |  0 |
-| Theodor Markey |  0 |  0 |  0 |  0 |  2 |
-| Christian Gonzal |  0 |  0 |  0 |  0 |  4 |
-
-### Hammarö Basketklubb - Eastside Falcons
+### Lerums Basket Förening - KFUM Örebro Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Vigan Raci | 20 |  8 |  1 |  1 |  3 |
-| Christian Gonzal | 16 |  7 |  0 |  2 |  3 |
-| Vincent Uzieblo | 15 |  7 |  0 |  1 |  4 |
-| Albin Helmfridsson | 12 |  5 |  0 |  2 |  0 |
-| Evangelos Kochliaridis | 10 |  2 |  2 |  0 |  2 |
-| Nireas Solidakis |  9 |  1 |  2 |  1 |  1 |
-| Otis Foon |  6 |  3 |  0 |  0 |  1 |
-| Noah Ringheim |  5 |  2 |  0 |  1 |  2 |
-| Vidar Ekström |  4 |  1 |  0 |  2 |  4 |
-| Theodor Markey |  0 |  0 |  0 |  0 |  3 |
-| Hjalmar Spångberg |  0 |  0 |  0 |  0 |  0 |
+| Valter Larsson | 22 |  3 |  1 | 13 |  3 |
+| Filip Lundberg | 20 |  8 |  1 |  1 |  2 |
+| Jakov Markovic | 14 |  5 |  1 |  1 |  2 |
+| Alvin Bolteus |  5 |  2 |  0 |  1 |  0 |
+| Daniel Ecker |  4 |  2 |  0 |  0 |  5 |
+| Charis Tyrovouzis |  2 |  1 |  0 |  0 |  3 |
+| Charlie Mattsson Meijer |  0 |  0 |  0 |  0 |  1 |
+
+### Malbas Svart - Lerums Basket Förening
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Filip Lundberg | 26 | 11 |  0 |  4 |  2 |
+| Valter Larsson | 25 | 11 |  0 |  3 |  4 |
+| Jakov Markovic | 22 |  8 |  0 |  6 |  1 |
+| Daniel Ecker |  5 |  2 |  0 |  1 |  3 |
+| Alvin Bolteus |  3 |  1 |  0 |  1 |  0 |
+| Charlie Mattsson Meijer |  2 |  1 |  0 |  0 |  3 |
+| Charis Tyrovouzis |  0 |  0 |  0 |  0 |  0 |
 

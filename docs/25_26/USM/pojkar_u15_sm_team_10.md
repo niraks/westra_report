@@ -4,22 +4,37 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| KFUM Kalmar Basket | 1 | 84.00 | 25.00 | 6.00 | 16.00 | 18.00 |
+| KFUM Kalmar Basket | 2 | 94.00 | 30.00 | 6.50 | 14.50 | 19.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Love Holmgren | 1 | 22.00 | 6.00 | 1.00 | 7.00 | 4.00 |
-| Dani Drazic | 1 | 19.00 | 2.00 | 3.00 | 6.00 | 1.00 |
-| Alfons Throfast | 1 | 19.00 | 9.00 | 0.00 | 1.00 | 4.00 |
-| Ergen Atac | 1 | 10.00 | 2.00 | 2.00 | 0.00 | 2.00 |
-| Gunnar Ericson | 1 | 6.00 | 2.00 | 0.00 | 2.00 | 3.00 |
-| Otto Throfast | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 1.00 |
-| Leo Runnqvist | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 2.00 |
-| Charlie Rainford | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Alfons Throfast | 2 | 28.00 | 12.00 | 0.50 | 2.50 | 3.00 |
+| Love Holmgren | 2 | 21.50 | 6.50 | 1.00 | 5.50 | 4.50 |
+| Dani Drazic | 2 | 15.50 | 2.50 | 2.50 | 3.00 | 3.00 |
+| Ergen Atac | 2 | 15.00 | 2.50 | 2.50 | 2.50 | 2.50 |
+| Gunnar Ericson | 2 | 6.00 | 2.50 | 0.00 | 1.00 | 2.00 |
+| Leo Runnqvist | 2 | 5.00 | 2.50 | 0.00 | 0.00 | 1.50 |
+| Otto Throfast | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 2.00 |
+| Charlie Rainford | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.50 |
 
 ## Games
+
+### KFUM Kalmar Basket - Västerås Basketboll Förening
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Alfons Throfast | 37 | 15 |  1 |  4 |  2 |
+| Love Holmgren | 21 |  7 |  1 |  4 |  5 |
+| Ergen Atac | 20 |  3 |  3 |  5 |  3 |
+| Dani Drazic | 12 |  3 |  2 |  0 |  5 |
+| Gunnar Ericson |  6 |  3 |  0 |  0 |  1 |
+| Leo Runnqvist |  6 |  3 |  0 |  0 |  1 |
+| Otto Throfast |  2 |  1 |  0 |  0 |  3 |
+| Charlie Rainford |  0 |  0 |  0 |  0 |  0 |
 
 ### KFUM Central Basket - KFUM Kalmar Basket
 

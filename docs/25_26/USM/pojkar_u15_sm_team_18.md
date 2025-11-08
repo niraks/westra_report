@@ -1,84 +1,64 @@
-# Statistics for Köping Stars Basketförening
+# Statistics for Fryshuset Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Köping Stars Basketförening | 3 | 68.33 | 24.00 | 4.00 | 8.33 | 10.00 |
+| Fryshuset Basket | 2 | 83.00 | 26.00 | 6.50 | 11.50 | 20.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ture Almqvist | 3 | 22.00 | 7.33 | 1.33 | 3.33 | 2.67 |
-| Oliwer Rudin | 3 | 14.00 | 4.67 | 1.33 | 0.67 | 1.33 |
-| Adam Attalla Hassan Hegazy | 3 | 11.33 | 4.00 | 0.33 | 2.33 | 2.33 |
-| Kevin Nålberg | 3 | 10.00 | 4.67 | 0.00 | 0.67 | 1.00 |
-| Wilmer Rudin | 3 | 6.67 | 1.33 | 1.00 | 1.00 | 0.67 |
-| Sune Tiger-ring | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 0.00 |
-| Emil Henic | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 0.00 |
-| Vilmer Pennerborn | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 1.00 |
-| Herman Bishop | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.00 |
-| Charlie Sundling | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
-| Loke Rosander | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Melwin Svensson | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.67 |
+| Rasmus Veller | 2 | 22.50 | 8.50 | 1.00 | 2.50 | 1.00 |
+| Sean Agbozeke Efe | 2 | 16.50 | 5.00 | 1.50 | 2.00 | 1.50 |
+| Johannes Eriata Jansson | 2 | 13.00 | 4.00 | 0.50 | 3.50 | 3.50 |
+| Enzo Ilunga | 2 | 7.50 | 2.50 | 0.50 | 1.00 | 3.00 |
+| Isak Simic Rihtnesberg | 2 | 6.00 | 3.00 | 0.00 | 0.00 | 3.50 |
+| Edison Vlad | 2 | 5.50 | 0.50 | 1.50 | 0.00 | 1.00 |
+| Sandor Jacobsson | 2 | 5.00 | 1.50 | 0.00 | 2.00 | 2.50 |
+| Novak Nikolic | 2 | 4.50 | 0.00 | 1.50 | 0.00 | 1.00 |
+| Elton Kempe | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 2.00 |
+| Timur Lalic | 1 | 1.00 | 0.00 | 0.00 | 1.00 | 1.00 |
+| Sebastian Thomas | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Alim Jemal | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
+| Lowe Berg Byström | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Köping Stars Basketförening - Wetterbygden Stars
+### Västerås Basketboll Förening - Fryshuset Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Ture Almqvist | 24 |  9 |  0 |  6 |  3 |
-| Oliwer Rudin | 16 |  6 |  1 |  1 |  2 |
-| Adam Attalla Hassan Hegazy | 13 |  4 |  0 |  5 |  4 |
-| Kevin Nålberg | 13 |  6 |  0 |  1 |  2 |
-| Wilmer Rudin |  6 |  3 |  0 |  0 |  0 |
-| Sune Tiger-ring |  2 |  1 |  0 |  0 |  0 |
-| Emil Henic |  2 |  1 |  0 |  0 |  0 |
-| Charlie Sundling |  0 |  0 |  0 |  0 |  0 |
-| Vilmer Pennerborn |  0 |  0 |  0 |  0 |  3 |
-| Herman Bishop |  0 |  0 |  0 |  0 |  0 |
-| Loke Rosander |  0 |  0 |  0 |  0 |  0 |
-| Melwin Svensson |  0 |  0 |  0 |  0 |  2 |
+| Rasmus Veller | 25 | 11 |  0 |  3 |  1 |
+| Johannes Eriata Jansson | 14 |  4 |  1 |  3 |  4 |
+| Sean Agbozeke Efe | 13 |  4 |  1 |  2 |  1 |
+| Enzo Ilunga | 11 |  4 |  1 |  0 |  4 |
+| Novak Nikolic |  9 |  0 |  3 |  0 |  1 |
+| Edison Vlad |  6 |  0 |  2 |  0 |  2 |
+| Sandor Jacobsson |  6 |  2 |  0 |  2 |  1 |
+| Isak Simic Rihtnesberg |  6 |  3 |  0 |  0 |  3 |
+| Elton Kempe |  2 |  1 |  0 |  0 |  4 |
+| Sebastian Thomas |  0 |  0 |  0 |  0 |  0 |
+| Alim Jemal |  0 |  0 |  0 |  0 |  2 |
 
-### Kungsbacka Basket - Köping Stars Basketförening
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Ture Almqvist | 18 |  6 |  2 |  0 |  2 |
-| Oliwer Rudin | 15 |  4 |  2 |  1 |  0 |
-| Adam Attalla Hassan Hegazy |  9 |  4 |  0 |  1 |  2 |
-| Kevin Nålberg |  8 |  4 |  0 |  0 |  0 |
-| Wilmer Rudin |  7 |  0 |  2 |  1 |  0 |
-| Vilmer Pennerborn |  2 |  1 |  0 |  0 |  0 |
-| Herman Bishop |  2 |  1 |  0 |  0 |  0 |
-| Sune Tiger-ring |  2 |  1 |  0 |  0 |  0 |
-| Emil Henic |  2 |  1 |  0 |  0 |  0 |
-| Charlie Sundling |  0 |  0 |  0 |  0 |  0 |
-| Loke Rosander |  0 |  0 |  0 |  0 |  0 |
-| Melwin Svensson |  0 |  0 |  0 |  0 |  0 |
-
-### Arvika Basket - Köping Stars Basketförening
+### Fryshuset Basket - KFUM Central Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Ture Almqvist | 24 |  7 |  2 |  4 |  3 |
-| Adam Attalla Hassan Hegazy | 12 |  4 |  1 |  1 |  1 |
-| Oliwer Rudin | 11 |  4 |  1 |  0 |  2 |
-| Kevin Nålberg |  9 |  4 |  0 |  1 |  1 |
-| Wilmer Rudin |  7 |  1 |  1 |  2 |  2 |
-| Vilmer Pennerborn |  1 |  0 |  0 |  1 |  0 |
-| Charlie Sundling |  0 |  0 |  0 |  0 |  1 |
-| Herman Bishop |  0 |  0 |  0 |  0 |  0 |
-| Loke Rosander |  0 |  0 |  0 |  0 |  0 |
-| Melwin Svensson |  0 |  0 |  0 |  0 |  0 |
-| Sune Tiger-ring |  0 |  0 |  0 |  0 |  0 |
-| Emil Henic |  0 |  0 |  0 |  0 |  0 |
+| Rasmus Veller | 20 |  6 |  2 |  2 |  1 |
+| Sean Agbozeke Efe | 20 |  6 |  2 |  2 |  2 |
+| Johannes Eriata Jansson | 12 |  4 |  0 |  4 |  3 |
+| Isak Simic Rihtnesberg |  6 |  3 |  0 |  0 |  4 |
+| Edison Vlad |  5 |  1 |  1 |  0 |  0 |
+| Sandor Jacobsson |  4 |  1 |  0 |  2 |  4 |
+| Enzo Ilunga |  4 |  1 |  0 |  2 |  2 |
+| Elton Kempe |  2 |  1 |  0 |  0 |  0 |
+| Timur Lalic |  1 |  0 |  0 |  1 |  1 |
+| Novak Nikolic |  0 |  0 |  0 |  0 |  1 |
+| Lowe Berg Byström |  0 |  0 |  0 |  0 |  0 |
 

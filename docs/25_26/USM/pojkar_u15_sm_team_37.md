@@ -1,63 +1,62 @@
-# Statistics for Älmhult Beasts BC P15
+# Statistics for KFUM Central Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Älmhult Beasts BC P15 | 3 | 34.33 | 12.00 | 2.33 | 3.33 | 8.67 |
+| KFUM Central Basket | 2 | 63.50 | 21.00 | 3.00 | 12.50 | 16.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ahmad Atili | 2 | 14.00 | 4.50 | 1.00 | 2.00 | 3.50 |
-| Adam Brat | 2 | 12.00 | 4.00 | 1.00 | 1.00 | 2.00 |
-| Dorde Dukic | 2 | 11.50 | 4.00 | 1.00 | 0.50 | 0.50 |
-| Vid Vasiljevic | 2 | 6.50 | 2.50 | 0.00 | 1.50 | 2.00 |
-| Vladimir Stancu | 2 | 4.50 | 1.50 | 0.50 | 0.00 | 2.00 |
-| Otto Sjövall | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 0.50 |
-| Emilé Tong Blom | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.00 |
-| Algot Söderbom Gylling | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Sam Clement-Kokkonen | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.50 |
+| Filipp Drobatc | 2 | 16.50 | 4.00 | 2.00 | 2.50 | 3.00 |
+| Algot Svanström | 2 | 14.50 | 3.50 | 0.50 | 6.00 | 3.00 |
+| Raphaél Fried-Germyn | 2 | 8.50 | 4.00 | 0.00 | 0.50 | 3.00 |
+| Dino Hadziresic | 2 | 7.00 | 2.50 | 0.50 | 0.50 | 2.50 |
+| Adam Hurst | 2 | 6.00 | 1.50 | 0.00 | 3.00 | 0.50 |
+| Mario Nguyen Eliacik | 2 | 5.00 | 2.50 | 0.00 | 0.00 | 2.50 |
+| Dante Pawlo | 2 | 5.00 | 2.50 | 0.00 | 0.00 | 1.50 |
+| Vilmer Nyman | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.00 |
+| Nils Fälth | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Erik Hörmark | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.50 |
+| Love Hemviken | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Älmhult Beasts BC P15 - Malbas Svart
+### KFUM Central Basket - KFUM Kalmar Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
+| Algot Svanström | 16 |  5 |  0 |  6 |  3 |
+| Filipp Drobatc |  8 |  3 |  0 |  2 |  2 |
+| Adam Hurst |  6 |  2 |  0 |  2 |  1 |
+| Mario Nguyen Eliacik |  4 |  2 |  0 |  0 |  1 |
+| Raphaél Fried-Germyn |  4 |  2 |  0 |  0 |  3 |
+| Dante Pawlo |  4 |  2 |  0 |  0 |  1 |
+| Dino Hadziresic |  4 |  2 |  0 |  0 |  2 |
+| Vilmer Nyman |  2 |  1 |  0 |  0 |  0 |
+| Nils Fälth |  0 |  0 |  0 |  0 |  0 |
+| Erik Hörmark |  0 |  0 |  0 |  0 |  1 |
+| Love Hemviken |  0 |  0 |  0 |  0 |  0 |
 
-### Högsbo Basket - Älmhult Beasts BC P15
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Dorde Dukic | 14 |  5 |  1 |  1 |  1 |
-| Vid Vasiljevic | 13 |  5 |  0 |  3 |  1 |
-| Ahmad Atili |  9 |  3 |  1 |  0 |  3 |
-| Adam Brat |  9 |  1 |  2 |  1 |  1 |
-| Otto Sjövall |  4 |  2 |  0 |  0 |  1 |
-| Emilé Tong Blom |  0 |  0 |  0 |  0 |  1 |
-| Vladimir Stancu |  0 |  0 |  0 |  0 |  4 |
-| Algot Söderbom Gylling |  0 |  0 |  0 |  0 |  0 |
-| Sam Clement-Kokkonen |  0 |  0 |  0 |  0 |  1 |
-
-### BK50 - Älmhult Beasts BC P15
+### Fryshuset Basket - KFUM Central Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Ahmad Atili | 19 |  6 |  1 |  4 |  4 |
-| Adam Brat | 15 |  7 |  0 |  1 |  3 |
-| Dorde Dukic |  9 |  3 |  1 |  0 |  0 |
-| Vladimir Stancu |  9 |  3 |  1 |  0 |  0 |
-| Emilé Tong Blom |  2 |  1 |  0 |  0 |  1 |
-| Vid Vasiljevic |  0 |  0 |  0 |  0 |  3 |
-| Otto Sjövall |  0 |  0 |  0 |  0 |  0 |
-| Algot Söderbom Gylling |  0 |  0 |  0 |  0 |  0 |
-| Sam Clement-Kokkonen |  0 |  0 |  0 |  0 |  2 |
+| Filipp Drobatc | 25 |  5 |  4 |  3 |  4 |
+| Algot Svanström | 13 |  2 |  1 |  6 |  3 |
+| Raphaél Fried-Germyn | 13 |  6 |  0 |  1 |  3 |
+| Dino Hadziresic | 10 |  3 |  1 |  1 |  3 |
+| Mario Nguyen Eliacik |  6 |  3 |  0 |  0 |  4 |
+| Adam Hurst |  6 |  1 |  0 |  4 |  0 |
+| Dante Pawlo |  6 |  3 |  0 |  0 |  2 |
+| Vilmer Nyman |  0 |  0 |  0 |  0 |  0 |
+| Nils Fälth |  0 |  0 |  0 |  0 |  0 |
+| Erik Hörmark |  0 |  0 |  0 |  0 |  0 |
+| Love Hemviken |  0 |  0 |  0 |  0 |  0 |
 

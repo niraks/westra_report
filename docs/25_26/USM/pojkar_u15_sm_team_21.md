@@ -1,68 +1,69 @@
-# Statistics for Wetterbygden Stars
+# Statistics for Kungsbacka Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Wetterbygden Stars | 4 | 57.00 | 18.75 | 3.75 | 8.25 | 11.75 |
+| Kungsbacka Basket | 3 | 82.00 | 31.00 | 5.00 | 5.00 | 14.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Olivers Stankevics | 3 | 31.00 | 11.33 | 1.33 | 4.33 | 2.67 |
-| George Cajam | 3 | 17.00 | 5.67 | 1.67 | 0.67 | 4.00 |
-| Rasmus Flodin | 3 | 6.67 | 2.00 | 0.33 | 1.67 | 0.67 |
-| Khassuld Ganzorig | 3 | 5.33 | 1.00 | 0.67 | 1.33 | 2.67 |
-| Andrew Kai | 3 | 4.67 | 1.33 | 0.67 | 0.00 | 1.00 |
-| Pavle Stojanovic | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 0.67 |
-| Arslan Besirovic | 3 | 4.00 | 1.00 | 0.00 | 2.00 | 2.33 |
-| Alvar Grudemo | 3 | 2.67 | 0.33 | 0.33 | 1.00 | 0.33 |
-| Noah Staaf | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.33 |
-| Resul Topalli | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Eric Svensson | 3 | 26.00 | 9.00 | 2.67 | 0.00 | 1.33 |
+| Filip Berndtsson | 3 | 23.67 | 10.33 | 0.00 | 3.00 | 2.00 |
+| Nils Martinsson | 3 | 7.00 | 3.00 | 0.33 | 0.00 | 1.67 |
+| Melker Näsström | 2 | 5.50 | 1.00 | 1.00 | 0.50 | 2.00 |
+| Wassem Al Hafez | 2 | 5.50 | 2.00 | 0.50 | 0.00 | 0.50 |
+| Algot Bui-Ljungqvist | 3 | 4.33 | 1.67 | 0.33 | 0.00 | 1.33 |
+| Kristijonas Alminas | 3 | 3.67 | 1.33 | 0.33 | 0.00 | 0.33 |
+| Dylan Lian | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 1.00 |
+| Evan Fredriksson | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 0.33 |
+| Eddy Kristofersson | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 1.50 |
+| Amadeus Angelbäck | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 0.00 |
+| Oskar Armini Lönberg | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 3.00 |
+| Elton Westlund | 2 | 0.50 | 0.00 | 0.00 | 0.50 | 1.00 |
+| Rasmus Almgren | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.50 |
 
 ## Games
 
-### Gota Basket - Wetterbygden Stars
+### Arvika Basket - Kungsbacka Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
+| Filip Berndtsson | 22 | 10 |  0 |  2 |  2 |
+| Eric Svensson | 21 |  3 |  5 |  0 |  3 |
+| Nils Martinsson | 11 |  4 |  1 |  0 |  3 |
+| Evan Fredriksson |  6 |  2 |  0 |  2 |  0 |
+| Kristijonas Alminas |  5 |  1 |  1 |  0 |  0 |
+| Amadeus Angelbäck |  3 |  0 |  1 |  0 |  0 |
+| Dylan Lian |  2 |  1 |  0 |  0 |  3 |
+| Eddy Kristofersson |  2 |  1 |  0 |  0 |  1 |
+| Algot Bui-Ljungqvist |  2 |  1 |  0 |  0 |  0 |
+| Elton Westlund |  0 |  0 |  0 |  0 |  1 |
+| Melker Näsström |  0 |  0 |  0 |  0 |  1 |
+| Oskar Armini Lönberg |  0 |  0 |  0 |  0 |  2 |
 
-### Köping Stars Basketförening - Wetterbygden Stars
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Olivers Stankevics | 23 | 11 |  0 |  1 |  4 |
-| George Cajam | 16 |  6 |  1 |  1 |  4 |
-| Khassuld Ganzorig | 10 |  2 |  1 |  3 |  4 |
-| Rasmus Flodin |  9 |  3 |  1 |  0 |  1 |
-| Andrew Kai |  4 |  2 |  0 |  0 |  2 |
-| Arslan Besirovic |  4 |  1 |  0 |  2 |  4 |
-| Alvar Grudemo |  3 |  0 |  1 |  0 |  0 |
-| Pavle Stojanovic |  2 |  1 |  0 |  0 |  1 |
-| Resul Topalli |  0 |  0 |  0 |  0 |  0 |
-| Noah Staaf |  0 |  0 |  0 |  0 |  1 |
-
-### Wetterbygden Stars - Arvika Basket
+### Kungsbacka Basket - Köping Stars Basketförening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Olivers Stankevics | 39 | 16 |  2 |  1 |  3 |
-| George Cajam | 17 |  4 |  3 |  0 |  4 |
-| Andrew Kai | 10 |  2 |  2 |  0 |  0 |
-| Rasmus Flodin |  8 |  3 |  0 |  2 |  0 |
-| Alvar Grudemo |  5 |  1 |  0 |  3 |  1 |
-| Arslan Besirovic |  5 |  2 |  0 |  1 |  1 |
-| Pavle Stojanovic |  2 |  1 |  0 |  0 |  1 |
-| Khassuld Ganzorig |  0 |  0 |  0 |  0 |  4 |
-| Resul Topalli |  0 |  0 |  0 |  0 |  0 |
-| Noah Staaf |  0 |  0 |  0 |  0 |  1 |
+| Filip Berndtsson | 25 | 12 |  0 |  1 |  3 |
+| Eric Svensson | 22 | 11 |  0 |  0 |  0 |
+| Melker Näsström | 11 |  2 |  2 |  1 |  3 |
+| Algot Bui-Ljungqvist |  7 |  2 |  1 |  0 |  1 |
+| Dylan Lian |  6 |  2 |  0 |  2 |  0 |
+| Nils Martinsson |  6 |  3 |  0 |  0 |  1 |
+| Kristijonas Alminas |  4 |  2 |  0 |  0 |  0 |
+| Wassem Al Hafez |  4 |  2 |  0 |  0 |  0 |
+| Evan Fredriksson |  2 |  1 |  0 |  0 |  1 |
+| Amadeus Angelbäck |  0 |  0 |  0 |  0 |  0 |
+| Oskar Armini Lönberg |  0 |  0 |  0 |  0 |  2 |
+| Rasmus Almgren |  0 |  0 |  0 |  0 |  0 |
 
 ### Kungsbacka Basket - Wetterbygden Stars
 
@@ -70,14 +71,16 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Olivers Stankevics | 31 |  7 |  2 | 11 |  1 |
-| George Cajam | 18 |  7 |  1 |  1 |  4 |
-| Pavle Stojanovic |  8 |  4 |  0 |  0 |  0 |
-| Khassuld Ganzorig |  6 |  1 |  1 |  1 |  0 |
-| Rasmus Flodin |  3 |  0 |  0 |  3 |  1 |
-| Arslan Besirovic |  3 |  0 |  0 |  3 |  2 |
-| Noah Staaf |  2 |  1 |  0 |  0 |  2 |
-| Andrew Kai |  0 |  0 |  0 |  0 |  1 |
-| Resul Topalli |  0 |  0 |  0 |  0 |  0 |
-| Alvar Grudemo |  0 |  0 |  0 |  0 |  0 |
+| Eric Svensson | 35 | 13 |  3 |  0 |  1 |
+| Filip Berndtsson | 24 |  9 |  0 |  6 |  1 |
+| Wassem Al Hafez |  7 |  2 |  1 |  0 |  1 |
+| Nils Martinsson |  4 |  2 |  0 |  0 |  1 |
+| Algot Bui-Ljungqvist |  4 |  2 |  0 |  0 |  3 |
+| Dylan Lian |  2 |  1 |  0 |  0 |  0 |
+| Eddy Kristofersson |  2 |  1 |  0 |  0 |  2 |
+| Evan Fredriksson |  2 |  1 |  0 |  0 |  0 |
+| Kristijonas Alminas |  2 |  1 |  0 |  0 |  1 |
+| Oskar Armini Lönberg |  2 |  1 |  0 |  0 |  5 |
+| Elton Westlund |  1 |  0 |  0 |  1 |  1 |
+| Rasmus Almgren |  0 |  0 |  0 |  0 |  1 |
 

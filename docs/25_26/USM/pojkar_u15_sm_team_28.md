@@ -1,68 +1,66 @@
-# Statistics for KFUM Blackebergs Idrottsklubb
+# Statistics for Västerås Basketboll Förening
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| KFUM Blackebergs Idrottsklubb | 3 | 48.33 | 16.00 | 2.67 | 8.33 | 15.67 |
+| Västerås Basketboll Förening | 2 | 71.50 | 25.00 | 2.00 | 15.50 | 14.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Viktor Strandin | 1 | 19.00 | 5.00 | 2.00 | 3.00 | 4.00 |
-| Simon Carlén | 2 | 17.00 | 5.50 | 1.50 | 1.50 | 4.50 |
-| Sufyan Mohamed Ali | 2 | 16.00 | 6.00 | 0.00 | 4.00 | 2.50 |
-| Vidar Sjösvärd | 2 | 13.50 | 6.00 | 0.00 | 1.50 | 2.00 |
-| Zaccarias Roman | 2 | 5.50 | 1.00 | 0.50 | 2.00 | 4.50 |
-| Neo Negret | 2 | 4.50 | 2.00 | 0.00 | 0.50 | 1.50 |
-| Alfred Kartano | 2 | 4.00 | 1.00 | 0.50 | 0.50 | 2.50 |
-| Hector Garcia | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 0.50 |
-| Tyler Iguchi | 2 | 1.00 | 0.00 | 0.00 | 1.00 | 1.50 |
-| Noel Imets | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
-| Keelan Hearne Leander | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Alfred Frost | 2 | 15.50 | 4.50 | 1.00 | 3.50 | 2.00 |
+| Loui Wilson | 2 | 14.50 | 4.00 | 0.50 | 5.00 | 2.00 |
+| Rio Solomon | 2 | 9.50 | 4.00 | 0.00 | 1.50 | 1.50 |
+| Adam Östlund | 2 | 8.50 | 4.00 | 0.00 | 0.50 | 1.00 |
+| Yann Samuel Baranyizigiye | 2 | 7.50 | 2.50 | 0.50 | 1.00 | 1.00 |
+| Vincent Lejon | 2 | 7.50 | 2.00 | 0.00 | 3.50 | 2.50 |
+| Caleb Nkurikiye | 2 | 2.50 | 1.00 | 0.00 | 0.50 | 0.00 |
+| Elton Gardell | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
+| Gustav Manbo | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 3.00 |
+| Léon Eklund | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
+| Edvin Svraka | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.00 |
+| Elliott Sendow | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Luke Wilson | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Alviks Basketbollklubb - KFUM Blackebergs Idrottsklubb
+### KFUM Kalmar Basket - Västerås Basketboll Förening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
+| Loui Wilson | 21 |  5 |  1 |  8 |  2 |
+| Rio Solomon | 12 |  5 |  0 |  2 |  0 |
+| Adam Östlund |  9 |  4 |  0 |  1 |  2 |
+| Yann Samuel Baranyizigiye |  8 |  3 |  0 |  2 |  1 |
+| Alfred Frost |  7 |  2 |  0 |  3 |  1 |
+| Léon Eklund |  4 |  2 |  0 |  0 |  2 |
+| Elton Gardell |  2 |  1 |  0 |  0 |  0 |
+| Edvin Svraka |  2 |  1 |  0 |  0 |  0 |
+| Vincent Lejon |  2 |  1 |  0 |  0 |  1 |
+| Elliott Sendow |  0 |  0 |  0 |  0 |  0 |
+| Caleb Nkurikiye |  0 |  0 |  0 |  0 |  0 |
+| Gustav Manbo |  0 |  0 |  0 |  0 |  2 |
 
-### KFUM Blackebergs Idrottsklubb - Uppsala Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Sufyan Mohamed Ali | 24 |  9 |  0 |  6 |  3 |
-| Vidar Sjösvärd | 16 |  7 |  0 |  2 |  2 |
-| Simon Carlén | 13 |  4 |  1 |  2 |  4 |
-| Zaccarias Roman | 11 |  2 |  1 |  4 |  5 |
-| Neo Negret |  9 |  4 |  0 |  1 |  2 |
-| Hector Garcia |  3 |  0 |  1 |  0 |  0 |
-| Alfred Kartano |  1 |  0 |  0 |  1 |  5 |
-| Tyler Iguchi |  1 |  0 |  0 |  1 |  0 |
-| Noel Imets |  0 |  0 |  0 |  0 |  0 |
-| Keelan Hearne Leander |  0 |  0 |  0 |  0 |  0 |
-
-### Basketklubben Gladan - KFUM Blackebergs Idrottsklubb
+### Västerås Basketboll Förening - Fryshuset Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Simon Carlén | 21 |  7 |  2 |  1 |  5 |
-| Viktor Strandin | 19 |  5 |  2 |  3 |  4 |
-| Vidar Sjösvärd | 11 |  5 |  0 |  1 |  2 |
-| Sufyan Mohamed Ali |  8 |  3 |  0 |  2 |  2 |
-| Alfred Kartano |  7 |  2 |  1 |  0 |  0 |
-| Tyler Iguchi |  1 |  0 |  0 |  1 |  3 |
-| Noel Imets |  0 |  0 |  0 |  0 |  4 |
-| Keelan Hearne Leander |  0 |  0 |  0 |  0 |  0 |
-| Neo Negret |  0 |  0 |  0 |  0 |  1 |
-| Hector Garcia |  0 |  0 |  0 |  0 |  1 |
-| Zaccarias Roman |  0 |  0 |  0 |  0 |  4 |
+| Alfred Frost | 24 |  7 |  2 |  4 |  3 |
+| Vincent Lejon | 13 |  3 |  0 |  7 |  4 |
+| Loui Wilson |  8 |  3 |  0 |  2 |  2 |
+| Adam Östlund |  8 |  4 |  0 |  0 |  0 |
+| Rio Solomon |  7 |  3 |  0 |  1 |  3 |
+| Yann Samuel Baranyizigiye |  7 |  2 |  1 |  0 |  1 |
+| Caleb Nkurikiye |  5 |  2 |  0 |  1 |  0 |
+| Gustav Manbo |  4 |  2 |  0 |  0 |  4 |
+| Luke Wilson |  0 |  0 |  0 |  0 |  0 |
+| Elliott Sendow |  0 |  0 |  0 |  0 |  0 |
+| Léon Eklund |  0 |  0 |  0 |  0 |  0 |
+| Edvin Svraka |  0 |  0 |  0 |  0 |  0 |
 

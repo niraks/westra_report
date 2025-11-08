@@ -1,91 +1,62 @@
-# Statistics for Högsbo Basket
+# Statistics for KFUM Basketbollklubb Skellefteå
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Högsbo Basket | 4 | 56.00 | 19.50 | 3.50 | 6.50 | 8.50 |
+| KFUM Basketbollklubb Skellefteå | 2 | 60.50 | 19.50 | 5.00 | 6.50 | 21.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kelvin Hansson Sjöö | 3 | 16.67 | 3.67 | 2.00 | 3.33 | 1.33 |
-| Alexander Tinnerholm | 3 | 10.67 | 4.33 | 0.00 | 2.00 | 2.67 |
-| Suheb Ahmed Ahmed | 3 | 10.33 | 3.00 | 0.67 | 2.33 | 0.67 |
-| Douglas Helm | 3 | 8.33 | 4.00 | 0.00 | 0.33 | 2.00 |
-| Jonatan Birath | 3 | 7.33 | 3.00 | 0.33 | 0.33 | 0.33 |
-| Nikola Arsic | 3 | 6.00 | 2.00 | 0.67 | 0.00 | 1.00 |
-| Shalom Kabusu Alona Luyeye | 3 | 4.67 | 1.67 | 0.33 | 0.33 | 0.67 |
-| Precious Bwene | 3 | 3.33 | 0.67 | 0.67 | 0.00 | 0.33 |
-| Wille Lundgren | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 1.33 |
-| Joel Zamora | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 0.67 |
-| Julian Friis | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 0.33 |
-| Deen Kadribasic | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 0.00 |
+| Rance Manu | 2 | 19.50 | 7.50 | 0.50 | 3.00 | 2.00 |
+| Wilmer Sandberg | 2 | 11.50 | 4.50 | 0.50 | 1.00 | 2.50 |
+| Demir Hajdarpasic | 2 | 10.00 | 3.50 | 1.00 | 0.00 | 4.50 |
+| Andreas Sakenas | 2 | 5.50 | 0.50 | 1.50 | 0.00 | 0.50 |
+| Gleb Voronchikhin | 2 | 4.00 | 0.50 | 1.00 | 0.00 | 2.50 |
+| Felix Forslund | 2 | 4.00 | 1.00 | 0.50 | 0.50 | 3.00 |
+| Gottfrid Sandberg | 2 | 3.50 | 1.00 | 0.00 | 1.50 | 1.00 |
+| Salomon Habtamu Woldegiorgis | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 2.50 |
+| Daniel Paez Rodríguez | 2 | 0.50 | 0.00 | 0.00 | 0.50 | 3.00 |
+| Lowe Nilsson Frank | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| James Eriksson Scott | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Högsbo Basket - Nässjö Basket
+### KFUM Basketbollklubb Skellefteå - Lidingö Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
+| Demir Hajdarpasic | 16 |  5 |  2 |  0 |  4 |
+| Rance Manu | 15 |  6 |  0 |  3 |  2 |
+| Wilmer Sandberg | 11 |  4 |  1 |  0 |  4 |
+| Salomon Habtamu Woldegiorgis |  4 |  2 |  0 |  0 |  1 |
+| Gleb Voronchikhin |  3 |  0 |  1 |  0 |  2 |
+| Felix Forslund |  3 |  0 |  1 |  0 |  2 |
+| Gottfrid Sandberg |  0 |  0 |  0 |  0 |  0 |
+| Andreas Sakenas |  0 |  0 |  0 |  0 |  0 |
+| Lowe Nilsson Frank |  0 |  0 |  0 |  0 |  0 |
+| James Eriksson Scott |  0 |  0 |  0 |  0 |  0 |
+| Daniel Paez Rodríguez |  0 |  0 |  0 |  0 |  1 |
 
-### Växjö Ravens - Högsbo Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Suheb Ahmed Ahmed | 12 |  4 |  0 |  4 |  1 |
-| Alexander Tinnerholm | 12 |  6 |  0 |  0 |  4 |
-| Kelvin Hansson Sjöö | 11 |  4 |  0 |  3 |  2 |
-| Jonatan Birath |  7 |  2 |  1 |  0 |  0 |
-| Douglas Helm |  6 |  3 |  0 |  0 |  1 |
-| Shalom Kabusu Alona Luyeye |  5 |  1 |  1 |  0 |  0 |
-| Precious Bwene |  5 |  1 |  1 |  0 |  0 |
-| Wille Lundgren |  0 |  0 |  0 |  0 |  0 |
-| Julian Friis |  0 |  0 |  0 |  0 |  1 |
-| Deen Kadribasic |  0 |  0 |  0 |  0 |  0 |
-| Nikola Arsic |  0 |  0 |  0 |  0 |  0 |
-| Joel Zamora |  0 |  0 |  0 |  0 |  1 |
-
-### Lerums Basket Förening - Högsbo Basket
+### Duvbo - KFUM Basketbollklubb Skellefteå
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Jonatan Birath | 15 |  7 |  0 |  1 |  1 |
-| Alexander Tinnerholm | 15 |  6 |  0 |  3 |  2 |
-| Suheb Ahmed Ahmed | 13 |  5 |  0 |  3 |  1 |
-| Nikola Arsic | 13 |  5 |  1 |  0 |  1 |
-| Kelvin Hansson Sjöö | 10 |  3 |  0 |  4 |  1 |
-| Douglas Helm |  7 |  3 |  0 |  1 |  2 |
-| Wille Lundgren |  6 |  3 |  0 |  0 |  2 |
-| Julian Friis |  4 |  2 |  0 |  0 |  0 |
-| Deen Kadribasic |  4 |  2 |  0 |  0 |  0 |
-| Joel Zamora |  4 |  2 |  0 |  0 |  0 |
-| Shalom Kabusu Alona Luyeye |  2 |  1 |  0 |  0 |  1 |
-| Precious Bwene |  0 |  0 |  0 |  0 |  0 |
-
-### Högsbo Basket - Malbas Vit
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Kelvin Hansson Sjöö | 29 |  4 |  6 |  3 |  1 |
-| Douglas Helm | 12 |  6 |  0 |  0 |  3 |
-| Shalom Kabusu Alona Luyeye |  7 |  3 |  0 |  1 |  1 |
-| Suheb Ahmed Ahmed |  6 |  0 |  2 |  0 |  0 |
-| Alexander Tinnerholm |  5 |  1 |  0 |  3 |  2 |
-| Precious Bwene |  5 |  1 |  1 |  0 |  1 |
-| Nikola Arsic |  5 |  1 |  1 |  0 |  2 |
-| Wille Lundgren |  2 |  1 |  0 |  0 |  2 |
-| Joel Zamora |  2 |  1 |  0 |  0 |  1 |
-| Julian Friis |  0 |  0 |  0 |  0 |  0 |
-| Jonatan Birath |  0 |  0 |  0 |  0 |  0 |
-| Deen Kadribasic |  0 |  0 |  0 |  0 |  0 |
+| Rance Manu | 24 |  9 |  1 |  3 |  2 |
+| Wilmer Sandberg | 12 |  5 |  0 |  2 |  1 |
+| Andreas Sakenas | 11 |  1 |  3 |  0 |  1 |
+| Gottfrid Sandberg |  7 |  2 |  0 |  3 |  2 |
+| Gleb Voronchikhin |  5 |  1 |  1 |  0 |  3 |
+| Felix Forslund |  5 |  2 |  0 |  1 |  4 |
+| Demir Hajdarpasic |  4 |  2 |  0 |  0 |  5 |
+| Daniel Paez Rodríguez |  1 |  0 |  0 |  1 |  5 |
+| Salomon Habtamu Woldegiorgis |  0 |  0 |  0 |  0 |  4 |
+| Lowe Nilsson Frank |  0 |  0 |  0 |  0 |  0 |
+| James Eriksson Scott |  0 |  0 |  0 |  0 |  0 |
 

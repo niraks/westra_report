@@ -1,91 +1,72 @@
-# Statistics for IK Eos Lund
+# Statistics for Kvarnby Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| IK Eos Lund | 4 | 54.75 | 16.25 | 3.75 | 11.00 | 19.00 |
+| Kvarnby Basket | 3 | 47.33 | 14.33 | 4.67 | 4.67 | 8.33 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Karl Wilén | 3 | 17.67 | 4.33 | 2.00 | 3.00 | 3.00 |
-| Kasra Ghaffari | 3 | 16.67 | 4.00 | 1.67 | 3.67 | 3.67 |
-| Sam Johansson | 3 | 11.00 | 4.33 | 0.67 | 0.33 | 1.67 |
-| Leonidas Kjällkvist | 3 | 7.33 | 2.67 | 0.00 | 2.00 | 2.67 |
-| Theodor Karabelas Diabaté | 3 | 5.33 | 2.00 | 0.00 | 1.33 | 2.00 |
-| Oskar Zhong | 3 | 5.33 | 1.33 | 0.67 | 0.67 | 2.33 |
-| Alan Curic | 3 | 3.00 | 1.00 | 0.00 | 1.00 | 2.67 |
-| Leo Arogani | 3 | 2.33 | 0.67 | 0.00 | 1.00 | 2.00 |
-| Elias Ahlberg | 3 | 2.00 | 0.33 | 0.00 | 1.33 | 0.67 |
-| Eskil Thapper | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 2.33 |
-| Oliver Viana Einarsson | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 2.00 |
-| Leo Halvardsson | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
+| Oliver Rosenlund | 3 | 13.67 | 4.67 | 1.00 | 1.33 | 1.00 |
+| Axel Hasewinkel | 3 | 13.00 | 5.67 | 0.33 | 0.67 | 1.00 |
+| Vincent Tistrand | 3 | 7.67 | 2.00 | 0.67 | 1.67 | 2.67 |
+| Liam Lundin | 3 | 5.00 | 0.67 | 1.00 | 0.67 | 0.33 |
+| Måns Bindgård | 3 | 3.67 | 0.33 | 1.00 | 0.00 | 1.33 |
+| Henry Haag Lundin | 3 | 3.00 | 0.33 | 0.67 | 0.33 | 0.67 |
+| Sid Klevgård | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.00 |
+| Fabian Sjöberg | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.00 |
+| Linus Tangberg | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
 
 ## Games
 
-### IK Eos Lund - Malbas Vit
+### Hammarby - Kvarnby Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
+| Oliver Rosenlund | 24 |  9 |  2 |  0 |  1 |
+| Måns Bindgård |  8 |  1 |  2 |  0 |  2 |
+| Axel Hasewinkel |  7 |  2 |  1 |  0 |  2 |
+| Vincent Tistrand |  5 |  2 |  0 |  1 |  1 |
+| Liam Lundin |  3 |  0 |  1 |  0 |  0 |
+| Henry Haag Lundin |  3 |  0 |  1 |  0 |  0 |
+| Sid Klevgård |  0 |  0 |  0 |  0 |  2 |
+| Linus Tangberg |  0 |  0 |  0 |  0 |  0 |
+| Fabian Sjöberg |  0 |  0 |  0 |  0 |  0 |
 
-### IK Eos Lund - Pirates Basketboll
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Karl Wilén | 20 |  8 |  1 |  1 |  4 |
-| Sam Johansson | 14 |  4 |  2 |  0 |  3 |
-| Kasra Ghaffari |  9 |  3 |  0 |  3 |  5 |
-| Leonidas Kjällkvist |  9 |  2 |  0 |  5 |  3 |
-| Oskar Zhong |  7 |  1 |  1 |  2 |  3 |
-| Alan Curic |  5 |  2 |  0 |  1 |  3 |
-| Theodor Karabelas Diabaté |  4 |  1 |  0 |  2 |  1 |
-| Elias Ahlberg |  3 |  1 |  0 |  1 |  2 |
-| Eskil Thapper |  2 |  1 |  0 |  0 |  1 |
-| Oliver Viana Einarsson |  1 |  0 |  0 |  1 |  4 |
-| Leo Halvardsson |  0 |  0 |  0 |  0 |  1 |
-| Leo Arogani |  0 |  0 |  0 |  0 |  1 |
-
-### Kalmar Basket - IK Eos Lund
+### KFUM Örebro Basket - Kvarnby Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Kasra Ghaffari | 24 |  5 |  4 |  2 |  3 |
-| Karl Wilén | 18 |  3 |  4 |  0 |  3 |
-| Sam Johansson | 14 |  7 |  0 |  0 |  2 |
-| Theodor Karabelas Diabaté |  4 |  2 |  0 |  0 |  2 |
-| Leonidas Kjällkvist |  4 |  2 |  0 |  0 |  3 |
-| Leo Arogani |  4 |  2 |  0 |  0 |  2 |
-| Alan Curic |  3 |  1 |  0 |  1 |  1 |
-| Oskar Zhong |  2 |  1 |  0 |  0 |  2 |
-| Elias Ahlberg |  1 |  0 |  0 |  1 |  0 |
-| Leo Halvardsson |  0 |  0 |  0 |  0 |  0 |
-| Oliver Viana Einarsson |  0 |  0 |  0 |  0 |  0 |
-| Eskil Thapper |  0 |  0 |  0 |  0 |  2 |
+| Vincent Tistrand | 11 |  4 |  1 |  0 |  2 |
+| Axel Hasewinkel |  8 |  4 |  0 |  0 |  1 |
+| Oliver Rosenlund |  6 |  0 |  1 |  3 |  0 |
+| Liam Lundin |  5 |  1 |  1 |  0 |  0 |
+| Henry Haag Lundin |  3 |  0 |  1 |  0 |  1 |
+| Sid Klevgård |  2 |  1 |  0 |  0 |  1 |
+| Måns Bindgård |  0 |  0 |  0 |  0 |  0 |
+| Linus Tangberg |  0 |  0 |  0 |  0 |  0 |
+| Fabian Sjöberg |  0 |  0 |  0 |  0 |  0 |
 
-### Trelleborg Pirates U16 - IK Eos Lund
+### Kvarnby Basket - Gota Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Kasra Ghaffari | 17 |  4 |  1 |  6 |  3 |
-| Karl Wilén | 15 |  2 |  1 |  8 |  2 |
-| Leonidas Kjällkvist |  9 |  4 |  0 |  1 |  2 |
-| Theodor Karabelas Diabaté |  8 |  3 |  0 |  2 |  3 |
-| Oskar Zhong |  7 |  2 |  1 |  0 |  2 |
-| Sam Johansson |  5 |  2 |  0 |  1 |  0 |
-| Leo Arogani |  3 |  0 |  0 |  3 |  3 |
-| Elias Ahlberg |  2 |  0 |  0 |  2 |  0 |
-| Oliver Viana Einarsson |  2 |  1 |  0 |  0 |  2 |
-| Eskil Thapper |  2 |  1 |  0 |  0 |  4 |
-| Alan Curic |  1 |  0 |  0 |  1 |  4 |
-| Leo Halvardsson |  0 |  0 |  0 |  0 |  0 |
+| Axel Hasewinkel | 24 | 11 |  0 |  2 |  0 |
+| Oliver Rosenlund | 11 |  5 |  0 |  1 |  2 |
+| Vincent Tistrand |  7 |  0 |  1 |  4 |  5 |
+| Liam Lundin |  7 |  1 |  1 |  2 |  1 |
+| Måns Bindgård |  3 |  0 |  1 |  0 |  2 |
+| Henry Haag Lundin |  3 |  1 |  0 |  1 |  1 |
+| Fabian Sjöberg |  2 |  1 |  0 |  0 |  0 |
+| Sid Klevgård |  0 |  0 |  0 |  0 |  0 |
+| Linus Tangberg |  0 |  0 |  0 |  0 |  1 |
 

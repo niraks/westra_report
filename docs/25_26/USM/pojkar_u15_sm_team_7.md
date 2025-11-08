@@ -1,64 +1,82 @@
-# Statistics for Ale Basket
+# Statistics for Kvarnby Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ale Basket | 3 | 91.67 | 32.00 | 6.67 | 7.67 | 16.33 |
+| Kvarnby Basket | 4 | 100.50 | 39.75 | 3.75 | 9.75 | 14.25 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Charlie Lindblom | 3 | 24.67 | 8.00 | 2.00 | 2.67 | 2.33 |
-| Robin Hysén | 3 | 14.67 | 7.00 | 0.00 | 0.67 | 1.00 |
-| Bakir Hasanovic | 3 | 11.67 | 5.67 | 0.00 | 0.33 | 2.33 |
-| Edvin Harbas | 3 | 9.67 | 3.33 | 1.00 | 0.00 | 4.00 |
-| Oscar Jansson | 3 | 9.67 | 1.67 | 1.67 | 1.33 | 0.33 |
-| Emil Järvinen | 3 | 9.33 | 2.00 | 1.33 | 1.33 | 2.33 |
-| Jack Kilany | 3 | 3.67 | 1.67 | 0.00 | 0.33 | 0.67 |
-| Alvin Nylén | 3 | 3.00 | 1.00 | 0.33 | 0.00 | 0.67 |
-| David Franco Weihe | 3 | 2.33 | 0.33 | 0.33 | 0.67 | 1.67 |
-| Noah Nilsson | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 0.67 |
-| Anton Hjärn | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.33 |
+| Viggo Fältjäger | 4 | 19.25 | 8.75 | 0.25 | 1.00 | 1.25 |
+| Alexander Blomgren | 4 | 19.00 | 7.25 | 1.00 | 1.50 | 2.75 |
+| Sam Limberg | 4 | 14.50 | 5.00 | 0.75 | 2.25 | 2.75 |
+| Theodor Nankler | 4 | 10.75 | 4.25 | 0.25 | 1.50 | 2.00 |
+| Noel Dalgärde | 4 | 8.50 | 2.50 | 0.75 | 1.25 | 0.25 |
+| Elvin Östenson Grimfeldt | 4 | 8.25 | 3.25 | 0.25 | 1.00 | 0.25 |
+| Liam Kim Börjesson | 4 | 6.75 | 3.25 | 0.00 | 0.25 | 0.75 |
+| Leo Hashemi | 3 | 5.67 | 2.33 | 0.33 | 0.00 | 1.00 |
+| Michael Mei | 3 | 4.33 | 1.67 | 0.33 | 0.00 | 2.33 |
+| Gustav Setterberg | 4 | 2.75 | 1.25 | 0.00 | 0.25 | 0.75 |
+| Sebastian Nilsson | 2 | 2.50 | 1.00 | 0.00 | 0.50 | 0.00 |
+| Aravind Sreenivas | 4 | 2.00 | 0.75 | 0.00 | 0.50 | 1.00 |
 
 ## Games
 
-### Lobas Röd - Ale Basket
+### Kvarnby Basket - Hammarö Basketklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Charlie Lindblom | 26 |  8 |  2 |  4 |  2 |
-| Robin Hysén | 20 |  9 |  0 |  2 |  1 |
-| Bakir Hasanovic | 18 |  9 |  0 |  0 |  3 |
-| Edvin Harbas | 15 |  6 |  1 |  0 |  3 |
-| Oscar Jansson | 12 |  2 |  2 |  2 |  1 |
-| Emil Järvinen |  7 |  2 |  1 |  0 |  2 |
-| Jack Kilany |  5 |  2 |  0 |  1 |  1 |
-| Noah Nilsson |  5 |  2 |  0 |  1 |  1 |
-| Alvin Nylén |  4 |  2 |  0 |  0 |  2 |
-| David Franco Weihe |  1 |  0 |  0 |  1 |  1 |
-| Anton Hjärn |  0 |  0 |  0 |  0 |  1 |
+| Alexander Blomgren | 27 | 13 |  0 |  1 |  3 |
+| Viggo Fältjäger | 25 | 11 |  0 |  3 |  2 |
+| Sam Limberg | 16 |  3 |  3 |  1 |  0 |
+| Elvin Östenson Grimfeldt | 15 |  6 |  1 |  0 |  0 |
+| Liam Kim Börjesson | 11 |  5 |  0 |  1 |  3 |
+| Noel Dalgärde | 10 |  2 |  2 |  0 |  0 |
+| Theodor Nankler | 10 |  3 |  1 |  1 |  2 |
+| Sebastian Nilsson |  5 |  2 |  0 |  1 |  0 |
+| Aravind Sreenivas |  2 |  1 |  0 |  0 |  1 |
+| Gustav Setterberg |  0 |  0 |  0 |  0 |  1 |
 
-### Ale Basket - Aros Basketbollklubb
+### Kvarnby Basket - Aros Basketbollklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Charlie Lindblom | 25 |  8 |  2 |  3 |  2 |
-| Oscar Jansson | 17 |  3 |  3 |  2 |  0 |
-| Robin Hysén | 16 |  8 |  0 |  0 |  0 |
-| Bakir Hasanovic |  7 |  3 |  0 |  1 |  3 |
-| Edvin Harbas |  5 |  1 |  1 |  0 |  4 |
-| Alvin Nylén |  3 |  0 |  1 |  0 |  0 |
-| David Franco Weihe |  3 |  0 |  1 |  0 |  4 |
-| Anton Hjärn |  2 |  1 |  0 |  0 |  0 |
-| Jack Kilany |  2 |  1 |  0 |  0 |  0 |
-| Emil Järvinen |  2 |  1 |  0 |  0 |  3 |
-| Noah Nilsson |  0 |  0 |  0 |  0 |  1 |
+| Alexander Blomgren | 18 |  9 |  0 |  0 |  1 |
+| Sam Limberg | 18 |  7 |  0 |  4 |  4 |
+| Noel Dalgärde | 12 |  4 |  0 |  4 |  1 |
+| Elvin Östenson Grimfeldt | 10 |  5 |  0 |  0 |  0 |
+| Liam Kim Börjesson |  8 |  4 |  0 |  0 |  0 |
+| Leo Hashemi |  8 |  4 |  0 |  0 |  1 |
+| Viggo Fältjäger |  7 |  3 |  0 |  1 |  2 |
+| Gustav Setterberg |  4 |  2 |  0 |  0 |  1 |
+| Michael Mei |  2 |  1 |  0 |  0 |  2 |
+| Aravind Sreenivas |  2 |  1 |  0 |  0 |  1 |
+| Theodor Nankler |  0 |  0 |  0 |  0 |  2 |
+
+### Lobas Röd - Kvarnby Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Viggo Fältjäger | 26 | 13 |  0 |  0 |  0 |
+| Alexander Blomgren | 18 |  4 |  3 |  1 |  4 |
+| Sam Limberg | 13 |  5 |  0 |  3 |  5 |
+| Noel Dalgärde | 12 |  4 |  1 |  1 |  0 |
+| Theodor Nankler | 12 |  6 |  0 |  0 |  0 |
+| Leo Hashemi |  9 |  3 |  1 |  0 |  2 |
+| Liam Kim Börjesson |  8 |  4 |  0 |  0 |  0 |
+| Michael Mei |  7 |  2 |  1 |  0 |  2 |
+| Gustav Setterberg |  5 |  2 |  0 |  1 |  1 |
+| Aravind Sreenivas |  4 |  1 |  0 |  2 |  2 |
+| Elvin Östenson Grimfeldt |  3 |  1 |  0 |  1 |  1 |
 
 ### Kvarnby Basket - Ale Basket
 
@@ -66,15 +84,16 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Charlie Lindblom | 23 |  8 |  2 |  1 |  3 |
-| Emil Järvinen | 19 |  3 |  3 |  4 |  2 |
-| Bakir Hasanovic | 10 |  5 |  0 |  0 |  1 |
-| Edvin Harbas |  9 |  3 |  1 |  0 |  5 |
-| Robin Hysén |  8 |  4 |  0 |  0 |  2 |
-| Jack Kilany |  4 |  2 |  0 |  0 |  1 |
-| David Franco Weihe |  3 |  1 |  0 |  1 |  0 |
-| Alvin Nylén |  2 |  1 |  0 |  0 |  0 |
-| Noah Nilsson |  2 |  1 |  0 |  0 |  0 |
-| Anton Hjärn |  0 |  0 |  0 |  0 |  0 |
-| Oscar Jansson |  0 |  0 |  0 |  0 |  0 |
+| Theodor Nankler | 21 |  8 |  0 |  5 |  4 |
+| Viggo Fältjäger | 19 |  8 |  1 |  0 |  1 |
+| Alexander Blomgren | 13 |  3 |  1 |  4 |  3 |
+| Sam Limberg | 11 |  5 |  0 |  1 |  2 |
+| Elvin Östenson Grimfeldt |  5 |  1 |  0 |  3 |  0 |
+| Michael Mei |  4 |  2 |  0 |  0 |  3 |
+| Gustav Setterberg |  2 |  1 |  0 |  0 |  0 |
+| Noel Dalgärde |  0 |  0 |  0 |  0 |  0 |
+| Liam Kim Börjesson |  0 |  0 |  0 |  0 |  0 |
+| Aravind Sreenivas |  0 |  0 |  0 |  0 |  0 |
+| Leo Hashemi |  0 |  0 |  0 |  0 |  0 |
+| Sebastian Nilsson |  0 |  0 |  0 |  0 |  0 |
 

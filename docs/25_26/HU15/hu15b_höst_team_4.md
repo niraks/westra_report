@@ -1,29 +1,32 @@
-# Statistics for Basketklubben Marbo
+# Statistics for Kvarnby Basket Gul
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Basketklubben Marbo | 5 | 56.20 | 21.20 | 2.20 | 7.20 | 10.40 |
+| Kvarnby Basket Gul | 5 | 66.00 | 25.20 | 2.20 | 9.00 | 11.60 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Mattis Gemzell | 3 | 23.67 | 9.33 | 0.33 | 4.00 | 2.33 |
-| Benjamin Mårtensson | 1 | 19.00 | 7.00 | 1.00 | 2.00 | 1.00 |
-| Ludvig Skarin | 4 | 15.75 | 5.25 | 1.00 | 2.25 | 2.00 |
-| Rony Aljojo | 2 | 11.50 | 5.50 | 0.00 | 0.50 | 2.00 |
-| Harry Askerdal | 3 | 9.67 | 3.00 | 0.67 | 1.67 | 0.67 |
-| Sigge Gemzell | 3 | 5.33 | 2.00 | 0.33 | 0.33 | 1.33 |
-| Oscar Linder | 2 | 5.00 | 2.50 | 0.00 | 0.00 | 2.00 |
-| Anton Marknäs | 4 | 3.25 | 1.25 | 0.00 | 0.75 | 1.00 |
-| Herman Haji | 3 | 3.00 | 0.67 | 0.33 | 0.67 | 1.33 |
-| Hannes Nilsson | 4 | 2.75 | 1.25 | 0.00 | 0.25 | 0.50 |
-| Anders Andersson | 2 | 2.50 | 0.50 | 0.50 | 0.00 | 1.50 |
-| Odai Ismaeil | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 2.33 |
-| Elias Blidö | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
-| Oskar Backström | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Gustav Setterberg | 2 | 21.50 | 9.00 | 0.50 | 2.00 | 2.50 |
+| Liam Kim Börjesson | 2 | 13.00 | 5.50 | 0.00 | 2.00 | 1.00 |
+| Noel Dalgärde | 1 | 12.00 | 5.00 | 0.00 | 2.00 | 0.00 |
+| Sixten Offerle | 5 | 10.00 | 3.40 | 0.60 | 1.40 | 0.60 |
+| Aravind Sreenivas | 1 | 10.00 | 5.00 | 0.00 | 0.00 | 1.00 |
+| Kasper Hallberg | 5 | 9.80 | 4.40 | 0.00 | 1.00 | 1.00 |
+| Leo Hashemi | 2 | 8.50 | 3.50 | 0.00 | 1.50 | 2.00 |
+| Michael Mei | 1 | 8.00 | 4.00 | 0.00 | 0.00 | 1.00 |
+| Leon Doormann | 4 | 5.50 | 2.00 | 0.50 | 0.00 | 1.00 |
+| Lucas Mouravidze | 4 | 4.75 | 1.75 | 0.25 | 0.50 | 1.50 |
+| Amir Vakili | 3 | 4.67 | 1.67 | 0.00 | 1.33 | 3.00 |
+| Eliott Bordes | 4 | 4.25 | 1.75 | 0.00 | 0.75 | 2.50 |
+| Ville Ek | 4 | 4.25 | 0.75 | 0.25 | 2.00 | 0.00 |
+| Filip Förstberg | 2 | 3.00 | 0.00 | 1.00 | 0.00 | 0.50 |
+| Andrija Savic | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 0.33 |
+| Einar Fors | 4 | 2.25 | 0.75 | 0.00 | 0.75 | 0.75 |
+| Hannes Kanebratt | 3 | 1.00 | 0.00 | 0.33 | 0.00 | 1.00 |
 
 ## Games
 
@@ -33,71 +36,82 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
+| Lucas Mouravidze | 14 |  5 |  1 |  1 |  3 |
+| Leo Hashemi | 14 |  6 |  0 |  2 |  3 |
+| Kasper Hallberg | 11 |  5 |  0 |  1 |  1 |
+| Sixten Offerle | 11 |  5 |  0 |  1 |  1 |
+| Amir Vakili | 10 |  4 |  0 |  2 |  4 |
+| Michael Mei |  8 |  4 |  0 |  0 |  1 |
+| Eliott Bordes |  7 |  3 |  0 |  1 |  3 |
+| Leon Doormann |  5 |  1 |  1 |  0 |  0 |
+| Hannes Kanebratt |  0 |  0 |  0 |  0 |  1 |
+| Einar Fors |  0 |  0 |  0 |  0 |  0 |
 
-### Basketklubben Marbo - Bosna IF Göteborg
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Mattis Gemzell | 25 | 12 |  0 |  1 |  2 |
-| Ludvig Skarin | 21 |  7 |  2 |  1 |  2 |
-| Harry Askerdal | 14 |  6 |  0 |  2 |  0 |
-| Herman Haji |  7 |  1 |  1 |  2 |  2 |
-| Odai Ismaeil |  6 |  3 |  0 |  0 |  4 |
-| Sigge Gemzell |  6 |  1 |  1 |  1 |  2 |
-| Elias Blidö |  4 |  2 |  0 |  0 |  0 |
-| Hannes Nilsson |  3 |  1 |  0 |  1 |  1 |
-| Anton Marknäs |  2 |  1 |  0 |  0 |  0 |
-| Oskar Backström |  0 |  0 |  0 |  0 |  0 |
-
-### Gota Basket Blå - Basketklubben Marbo
+### Varbergs Basket - Kvarnby Basket Gul
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Mattis Gemzell | 25 |  9 |  1 |  4 |  2 |
-| Ludvig Skarin | 19 |  5 |  2 |  3 |  3 |
-| Rony Aljojo | 17 |  8 |  0 |  1 |  2 |
-| Hannes Nilsson |  6 |  3 |  0 |  0 |  1 |
-| Anders Andersson |  5 |  1 |  1 |  0 |  2 |
-| Elias Blidö |  2 |  1 |  0 |  0 |  0 |
-| Odai Ismaeil |  0 |  0 |  0 |  0 |  1 |
-| Herman Haji |  0 |  0 |  0 |  0 |  0 |
-| Anton Marknäs |  0 |  0 |  0 |  0 |  0 |
+| Liam Kim Börjesson | 20 |  8 |  0 |  4 |  1 |
+| Noel Dalgärde | 12 |  5 |  0 |  2 |  0 |
+| Kasper Hallberg |  8 |  3 |  0 |  2 |  3 |
+| Sixten Offerle |  8 |  1 |  2 |  0 |  0 |
+| Ville Ek |  7 |  1 |  1 |  2 |  0 |
+| Einar Fors |  4 |  2 |  0 |  0 |  1 |
+| Lucas Mouravidze |  3 |  1 |  0 |  1 |  0 |
+| Eliott Bordes |  1 |  0 |  0 |  1 |  0 |
 
-### Basketklubben Marbo - Varbergs Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Benjamin Mårtensson | 19 |  7 |  1 |  2 |  1 |
-| Ludvig Skarin | 13 |  5 |  0 |  3 |  0 |
-| Anton Marknäs |  9 |  3 |  0 |  3 |  2 |
-| Sigge Gemzell |  8 |  4 |  0 |  0 |  1 |
-| Rony Aljojo |  6 |  3 |  0 |  0 |  2 |
-| Harry Askerdal |  4 |  0 |  1 |  1 |  0 |
-| Hannes Nilsson |  2 |  1 |  0 |  0 |  0 |
-| Oscar Linder |  2 |  1 |  0 |  0 |  2 |
-| Elias Blidö |  0 |  0 |  0 |  0 |  0 |
-| Oskar Backström |  0 |  0 |  0 |  0 |  2 |
-
-### S:t Helena BK - Vit - Basketklubben Marbo
+### Kvarnby Basket Gul - Bosna IF Göteborg
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Mattis Gemzell | 21 |  7 |  0 |  7 |  3 |
-| Harry Askerdal | 11 |  3 |  1 |  2 |  2 |
-| Ludvig Skarin | 10 |  4 |  0 |  2 |  3 |
-| Oscar Linder |  8 |  4 |  0 |  0 |  2 |
-| Sigge Gemzell |  2 |  1 |  0 |  0 |  1 |
-| Anton Marknäs |  2 |  1 |  0 |  0 |  2 |
-| Herman Haji |  2 |  1 |  0 |  0 |  2 |
-| Odai Ismaeil |  0 |  0 |  0 |  0 |  2 |
-| Anders Andersson |  0 |  0 |  0 |  0 |  1 |
-| Hannes Nilsson |  0 |  0 |  0 |  0 |  0 |
+| Gustav Setterberg | 16 |  7 |  0 |  2 |  3 |
+| Aravind Sreenivas | 10 |  5 |  0 |  0 |  1 |
+| Sixten Offerle | 10 |  4 |  0 |  2 |  0 |
+| Liam Kim Börjesson |  6 |  3 |  0 |  0 |  1 |
+| Kasper Hallberg |  4 |  2 |  0 |  0 |  0 |
+| Leon Doormann |  4 |  2 |  0 |  0 |  2 |
+| Amir Vakili |  3 |  1 |  0 |  1 |  1 |
+| Ville Ek |  3 |  1 |  0 |  1 |  0 |
+| Filip Förstberg |  3 |  0 |  1 |  0 |  0 |
+| Einar Fors |  1 |  0 |  0 |  1 |  1 |
+| Lucas Mouravidze |  0 |  0 |  0 |  0 |  1 |
+| Andrija Savic |  0 |  0 |  0 |  0 |  0 |
+
+### Kvarnby Basket Gul - S:t Helena BK - Vit
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Gustav Setterberg | 27 | 11 |  1 |  2 |  2 |
+| Sixten Offerle | 14 |  5 |  1 |  1 |  0 |
+| Kasper Hallberg |  8 |  3 |  0 |  2 |  0 |
+| Andrija Savic |  6 |  3 |  0 |  0 |  0 |
+| Leon Doormann |  6 |  3 |  0 |  0 |  0 |
+| Eliott Bordes |  4 |  2 |  0 |  0 |  3 |
+| Ville Ek |  4 |  1 |  0 |  2 |  0 |
+| Einar Fors |  4 |  1 |  0 |  2 |  1 |
+| Leo Hashemi |  3 |  1 |  0 |  1 |  1 |
+| Lucas Mouravidze |  2 |  1 |  0 |  0 |  2 |
+| Amir Vakili |  1 |  0 |  0 |  1 |  4 |
+| Hannes Kanebratt |  0 |  0 |  0 |  0 |  0 |
+
+### Gota Basket Blå - Kvarnby Basket Gul
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Kasper Hallberg | 18 |  9 |  0 |  0 |  1 |
+| Sixten Offerle |  7 |  2 |  0 |  3 |  2 |
+| Leon Doormann |  7 |  2 |  1 |  0 |  2 |
+| Eliott Bordes |  5 |  2 |  0 |  1 |  4 |
+| Filip Förstberg |  3 |  0 |  1 |  0 |  1 |
+| Hannes Kanebratt |  3 |  0 |  1 |  0 |  2 |
+| Ville Ek |  3 |  0 |  0 |  3 |  0 |
+| Andrija Savic |  2 |  1 |  0 |  0 |  1 |
 

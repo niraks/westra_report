@@ -1,78 +1,103 @@
-# Statistics for Bosna IF Göteborg
+# Statistics for S:t Helena BK - Vit
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Bosna IF Göteborg | 4 | 52.25 | 20.75 | 1.50 | 6.25 | 15.00 |
+| S:t Helena BK - Vit | 4 | 56.75 | 22.25 | 1.75 | 7.00 | 14.25 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Edin Pejmanovic | 4 | 20.25 | 9.00 | 0.00 | 2.25 | 3.75 |
-| Adis Hrustanovic | 3 | 18.33 | 8.00 | 0.33 | 1.33 | 4.33 |
-| Melvin Zekic | 4 | 8.75 | 2.50 | 0.50 | 2.25 | 3.50 |
-| Sergej Pusonjic | 3 | 6.00 | 2.00 | 0.67 | 0.00 | 3.00 |
-| Elvin Dzaferagic | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 0.33 |
-| Angelo Aljimi | 3 | 1.67 | 0.00 | 0.33 | 0.67 | 1.00 |
-| Viktor Mihajlovic | 4 | 1.50 | 0.75 | 0.00 | 0.00 | 1.25 |
-| Saleh Adjeoud | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.00 |
+| Henning Lundberg | 3 | 13.67 | 4.67 | 1.00 | 1.33 | 3.33 |
+| Theo Kolicic | 4 | 12.25 | 5.75 | 0.00 | 0.75 | 1.75 |
+| Johan Montin | 3 | 10.67 | 5.00 | 0.00 | 0.67 | 3.00 |
+| Lion Ingvall | 3 | 9.33 | 2.33 | 1.00 | 1.67 | 3.33 |
+| Albert Edvinsson | 2 | 6.50 | 3.00 | 0.00 | 0.50 | 0.50 |
+| Gustav Sahlberg | 3 | 5.67 | 2.00 | 0.00 | 1.67 | 2.33 |
+| Donatas Auryla | 3 | 5.00 | 2.00 | 0.00 | 1.00 | 0.33 |
+| Mailo Ajax | 3 | 3.33 | 1.67 | 0.00 | 0.00 | 0.00 |
+| Arthur Eriksson | 2 | 2.50 | 1.00 | 0.00 | 0.50 | 0.50 |
+| Arvid Hogström | 1 | 2.00 | 0.00 | 0.00 | 2.00 | 0.00 |
+| Luka Lukic | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
+| Muhammed Zuna | 3 | 1.67 | 0.33 | 0.33 | 0.00 | 1.33 |
+| William Landenmark | 3 | 1.67 | 0.67 | 0.00 | 0.33 | 0.33 |
+| Amar Kocevic | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.50 |
+| Vincent Ageton | 2 | 0.50 | 0.00 | 0.00 | 0.50 | 0.50 |
+| Gustaf Brandshage | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Victor Santana | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Linus Samuelsson Andersson | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 
 ## Games
 
-### Basketklubben Marbo - Bosna IF Göteborg
+### S:t Helena BK - Vit - Gota Basket Blå
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Edin Pejmanovic | 27 | 13 |  0 |  1 |  3 |
-| Melvin Zekic | 21 |  7 |  0 |  7 |  4 |
-| Viktor Mihajlovic |  4 |  2 |  0 |  0 |  3 |
-| Saleh Adjeoud |  2 |  1 |  0 |  0 |  0 |
-| Elvin Dzaferagic |  2 |  1 |  0 |  0 |  0 |
+| Henning Lundberg | 12 |  3 |  2 |  0 |  4 |
+| Gustav Sahlberg | 10 |  3 |  0 |  4 |  4 |
+| Johan Montin | 10 |  5 |  0 |  0 |  2 |
+| Theo Kolicic |  9 |  4 |  0 |  1 |  0 |
+| Muhammed Zuna |  5 |  1 |  1 |  0 |  0 |
+| William Landenmark |  4 |  2 |  0 |  0 |  0 |
+| Arvid Hogström |  2 |  0 |  0 |  2 |  0 |
+| Donatas Auryla |  1 |  0 |  0 |  1 |  0 |
+| Gustaf Brandshage |  0 |  0 |  0 |  0 |  1 |
 
-### Kvarnby Basket Gul - Bosna IF Göteborg
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Adis Hrustanovic | 17 |  8 |  0 |  1 |  4 |
-| Edin Pejmanovic | 13 |  6 |  0 |  1 |  4 |
-| Sergej Pusonjic | 11 |  4 |  1 |  0 |  4 |
-| Angelo Aljimi |  4 |  0 |  1 |  1 |  1 |
-| Melvin Zekic |  2 |  1 |  0 |  0 |  4 |
-| Saleh Adjeoud |  0 |  0 |  0 |  0 |  0 |
-| Viktor Mihajlovic |  0 |  0 |  0 |  0 |  0 |
-
-### Bosna IF Göteborg - Gota Basket Blå
+### Varbergs Basket - S:t Helena BK - Vit
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Edin Pejmanovic | 29 | 12 |  0 |  5 |  3 |
-| Adis Hrustanovic | 24 |  9 |  1 |  3 |  4 |
-| Melvin Zekic |  5 |  2 |  0 |  1 |  4 |
-| Elvin Dzaferagic |  3 |  1 |  0 |  1 |  0 |
-| Sergej Pusonjic |  2 |  1 |  0 |  0 |  3 |
-| Angelo Aljimi |  0 |  0 |  0 |  0 |  1 |
-| Saleh Adjeoud |  0 |  0 |  0 |  0 |  0 |
-| Viktor Mihajlovic |  0 |  0 |  0 |  0 |  0 |
+| Lion Ingvall | 13 |  3 |  2 |  1 |  3 |
+| Theo Kolicic | 12 |  6 |  0 |  0 |  2 |
+| Donatas Auryla |  8 |  3 |  0 |  2 |  0 |
+| Johan Montin |  6 |  3 |  0 |  0 |  2 |
+| Gustav Sahlberg |  5 |  2 |  0 |  1 |  0 |
+| Albert Edvinsson |  4 |  2 |  0 |  0 |  0 |
+| Mailo Ajax |  4 |  2 |  0 |  0 |  0 |
+| Arthur Eriksson |  2 |  1 |  0 |  0 |  1 |
+| Luka Lukic |  2 |  1 |  0 |  0 |  0 |
+| William Landenmark |  0 |  0 |  0 |  0 |  1 |
 
-### Varbergs Basket - Bosna IF Göteborg
+### Kvarnby Basket Gul - S:t Helena BK - Vit
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Adis Hrustanovic | 14 |  7 |  0 |  0 |  5 |
-| Edin Pejmanovic | 12 |  5 |  0 |  2 |  5 |
-| Melvin Zekic |  7 |  0 |  2 |  1 |  2 |
-| Sergej Pusonjic |  5 |  1 |  1 |  0 |  2 |
-| Elvin Dzaferagic |  2 |  1 |  0 |  0 |  1 |
-| Viktor Mihajlovic |  2 |  1 |  0 |  0 |  2 |
-| Angelo Aljimi |  1 |  0 |  0 |  1 |  1 |
+| Henning Lundberg | 17 |  7 |  0 |  3 |  2 |
+| Theo Kolicic | 13 |  6 |  0 |  1 |  3 |
+| Albert Edvinsson |  9 |  4 |  0 |  1 |  1 |
+| Mailo Ajax |  6 |  3 |  0 |  0 |  0 |
+| Lion Ingvall |  6 |  3 |  0 |  0 |  4 |
+| Amar Kocevic |  2 |  1 |  0 |  0 |  1 |
+| Gustav Sahlberg |  2 |  1 |  0 |  0 |  3 |
+| Vincent Ageton |  1 |  0 |  0 |  1 |  0 |
+| William Landenmark |  1 |  0 |  0 |  1 |  0 |
+| Victor Santana |  0 |  0 |  0 |  0 |  1 |
+| Muhammed Zuna |  0 |  0 |  0 |  0 |  2 |
+| Linus Samuelsson Andersson |  0 |  0 |  0 |  0 |  1 |
+
+### S:t Helena BK - Vit - Basketklubben Marbo
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Johan Montin | 16 |  7 |  0 |  2 |  5 |
+| Theo Kolicic | 15 |  7 |  0 |  1 |  2 |
+| Henning Lundberg | 12 |  4 |  1 |  1 |  4 |
+| Lion Ingvall |  9 |  1 |  1 |  4 |  3 |
+| Donatas Auryla |  6 |  3 |  0 |  0 |  1 |
+| Arthur Eriksson |  3 |  1 |  0 |  1 |  0 |
+| Vincent Ageton |  0 |  0 |  0 |  0 |  1 |
+| Victor Santana |  0 |  0 |  0 |  0 |  1 |
+| Muhammed Zuna |  0 |  0 |  0 |  0 |  2 |
+| Amar Kocevic |  0 |  0 |  0 |  0 |  0 |
+| Mailo Ajax |  0 |  0 |  0 |  0 |  0 |
 

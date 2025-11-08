@@ -1,95 +1,65 @@
-# Statistics for Lobas
+# Statistics for AIK
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lobas | 4 | 84.25 | 28.50 | 6.00 | 9.25 | 17.25 |
+| AIK | 2 | 82.00 | 28.00 | 6.00 | 8.00 | 14.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Anton Dellgård | 4 | 20.25 | 4.75 | 2.75 | 2.50 | 1.00 |
-| Adin Korjenic | 4 | 10.75 | 5.25 | 0.00 | 0.25 | 2.00 |
-| Jack Prestreshi | 4 | 9.25 | 4.25 | 0.25 | 0.00 | 1.00 |
-| Filip Ljungberg Langéen | 4 | 8.50 | 2.75 | 0.75 | 0.75 | 1.75 |
-| Oliver Persson | 4 | 8.25 | 3.50 | 0.25 | 0.50 | 1.50 |
-| Ebbot Ek | 4 | 7.50 | 1.75 | 0.50 | 2.50 | 0.75 |
-| Albin Böklin | 4 | 6.00 | 1.50 | 0.75 | 0.75 | 0.50 |
-| William Vallneus | 4 | 5.75 | 1.50 | 0.75 | 0.50 | 3.50 |
-| Viktor Stenmo | 4 | 5.25 | 2.00 | 0.00 | 1.25 | 1.75 |
-| Matheo Mauritzon Taylor | 4 | 2.75 | 1.25 | 0.00 | 0.25 | 3.25 |
-| Ebbe Gustafsson | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Darian Kalkali Tawfeek | 2 | 20.50 | 8.50 | 0.00 | 3.50 | 1.00 |
+| Tristan Danielsson Claret | 2 | 17.50 | 4.00 | 2.50 | 2.00 | 3.00 |
+| Nils Samuelsson | 2 | 13.00 | 6.50 | 0.00 | 0.00 | 2.50 |
+| Samuel Halvarsson De Oliveira | 2 | 11.50 | 1.50 | 2.50 | 1.00 | 1.50 |
+| Carl Lind | 2 | 5.00 | 2.50 | 0.00 | 0.00 | 2.50 |
+| Marcus Falk | 2 | 4.00 | 1.00 | 0.50 | 0.50 | 0.00 |
+| Dante Dehaddo | 2 | 3.50 | 1.50 | 0.00 | 0.50 | 1.00 |
+| Benjamin Banoub | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 0.00 |
+| Jonatan Jarde | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 0.00 |
+| Adam Emara | 2 | 1.50 | 0.50 | 0.00 | 0.50 | 0.50 |
+| Axel Åhman Siljemark | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.00 |
+| Tyson Bah Hichens-Bergström | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
 
 ## Games
 
-### Alviks Basketbollklubb - Lobas
+### Hammarö Basketklubb P10 - AIK
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Filip Ljungberg Langéen | 18 |  6 |  1 |  3 |  4 |
-| Oliver Persson | 13 |  5 |  1 |  0 |  0 |
-| William Vallneus | 12 |  2 |  2 |  2 |  2 |
-| Anton Dellgård | 11 |  4 |  1 |  0 |  0 |
-| Jack Prestreshi |  9 |  3 |  1 |  0 |  1 |
-| Viktor Stenmo |  6 |  3 |  0 |  0 |  1 |
-| Adin Korjenic |  6 |  3 |  0 |  0 |  2 |
-| Ebbot Ek |  4 |  1 |  0 |  2 |  0 |
-| Matheo Mauritzon Taylor |  2 |  1 |  0 |  0 |  4 |
-| Ebbe Gustafsson |  0 |  0 |  0 |  0 |  1 |
-| Albin Böklin |  0 |  0 |  0 |  0 |  0 |
+| Darian Kalkali Tawfeek | 23 | 10 |  0 |  3 |  1 |
+| Tristan Danielsson Claret | 18 |  4 |  3 |  1 |  3 |
+| Samuel Halvarsson De Oliveira | 14 |  1 |  4 |  0 |  3 |
+| Nils Samuelsson |  8 |  4 |  0 |  0 |  2 |
+| Marcus Falk |  5 |  1 |  1 |  0 |  0 |
+| Dante Dehaddo |  2 |  1 |  0 |  0 |  0 |
+| Benjamin Banoub |  2 |  1 |  0 |  0 |  0 |
+| Axel Åhman Siljemark |  0 |  0 |  0 |  0 |  0 |
+| Jonatan Jarde |  0 |  0 |  0 |  0 |  0 |
+| Adam Emara |  0 |  0 |  0 |  0 |  1 |
+| Carl Lind |  0 |  0 |  0 |  0 |  3 |
+| Tyson Bah Hichens-Bergström |  0 |  0 |  0 |  0 |  0 |
 
-### Lobas - Trollhättans Basketbollklubb
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Anton Dellgård | 20 |  4 |  3 |  3 |  1 |
-| Oliver Persson | 10 |  4 |  0 |  2 |  3 |
-| Adin Korjenic | 10 |  5 |  0 |  0 |  4 |
-| Viktor Stenmo |  9 |  3 |  0 |  3 |  2 |
-| Albin Böklin |  8 |  1 |  1 |  3 |  1 |
-| Jack Prestreshi |  6 |  3 |  0 |  0 |  2 |
-| Ebbot Ek |  5 |  0 |  1 |  2 |  0 |
-| Filip Ljungberg Langéen |  5 |  1 |  1 |  0 |  2 |
-| William Vallneus |  3 |  0 |  1 |  0 |  4 |
-| Matheo Mauritzon Taylor |  1 |  0 |  0 |  1 |  3 |
-
-### Lobas - Älmhult Beasts BC P16
+### AIK - Vallentuna Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Anton Dellgård | 20 |  2 |  4 |  4 |  1 |
-| Adin Korjenic |  8 |  4 |  0 |  0 |  2 |
-| Ebbot Ek |  7 |  1 |  0 |  5 |  1 |
-| William Vallneus |  6 |  3 |  0 |  0 |  3 |
-| Jack Prestreshi |  6 |  3 |  0 |  0 |  1 |
-| Oliver Persson |  4 |  2 |  0 |  0 |  2 |
-| Viktor Stenmo |  2 |  0 |  0 |  2 |  1 |
-| Filip Ljungberg Langéen |  2 |  1 |  0 |  0 |  0 |
-| Albin Böklin |  2 |  1 |  0 |  0 |  0 |
-| Matheo Mauritzon Taylor |  0 |  0 |  0 |  0 |  4 |
-
-### Lobas - Motala Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Anton Dellgård | 30 |  9 |  3 |  3 |  2 |
-| Adin Korjenic | 19 |  9 |  0 |  1 |  0 |
-| Jack Prestreshi | 16 |  8 |  0 |  0 |  0 |
-| Ebbot Ek | 14 |  5 |  1 |  1 |  2 |
-| Albin Böklin | 14 |  4 |  2 |  0 |  1 |
-| Filip Ljungberg Langéen |  9 |  3 |  1 |  0 |  1 |
-| Matheo Mauritzon Taylor |  8 |  4 |  0 |  0 |  2 |
-| Oliver Persson |  6 |  3 |  0 |  0 |  1 |
-| Viktor Stenmo |  4 |  2 |  0 |  0 |  3 |
-| William Vallneus |  2 |  1 |  0 |  0 |  5 |
+| Darian Kalkali Tawfeek | 18 |  7 |  0 |  4 |  1 |
+| Nils Samuelsson | 18 |  9 |  0 |  0 |  3 |
+| Tristan Danielsson Claret | 17 |  4 |  2 |  3 |  3 |
+| Carl Lind | 10 |  5 |  0 |  0 |  2 |
+| Samuel Halvarsson De Oliveira |  9 |  2 |  1 |  2 |  0 |
+| Dante Dehaddo |  5 |  2 |  0 |  1 |  2 |
+| Benjamin Banoub |  4 |  2 |  0 |  0 |  0 |
+| Jonatan Jarde |  3 |  0 |  1 |  0 |  0 |
+| Marcus Falk |  3 |  1 |  0 |  1 |  0 |
+| Adam Emara |  3 |  1 |  0 |  1 |  0 |
+| Axel Åhman Siljemark |  2 |  1 |  0 |  0 |  0 |
+| Tyson Bah Hichens-Bergström |  0 |  0 |  0 |  0 |  4 |
 

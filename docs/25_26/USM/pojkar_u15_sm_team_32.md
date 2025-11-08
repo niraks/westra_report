@@ -1,87 +1,75 @@
-# Statistics for Täby Basket
+# Statistics for Älmhult Beasts BC P15
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Täby Basket | 4 | 43.25 | 15.75 | 1.75 | 6.50 | 14.00 |
+| Älmhult Beasts BC P15 | 3 | 66.33 | 12.00 | 2.33 | 3.33 | 15.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Daniel Matloub | 3 | 16.67 | 4.67 | 1.33 | 3.33 | 2.67 |
-| David Psilander | 3 | 10.33 | 5.00 | 0.00 | 0.33 | 4.00 |
-| Oskar Adamheit | 3 | 9.33 | 3.67 | 0.00 | 2.00 | 3.00 |
-| Oscar Fehn | 3 | 7.67 | 2.00 | 0.67 | 1.67 | 1.33 |
-| William Cajander | 3 | 5.00 | 2.00 | 0.33 | 0.00 | 1.67 |
-| James Belaew | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 0.67 |
-| Melker Hann | 3 | 1.67 | 0.67 | 0.00 | 0.33 | 0.67 |
-| Felix Bonin | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 0.67 |
-| Henry Mikagård | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 1.00 |
-| Rafael Pennisi | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.00 |
-| Elias Köhler | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 2.00 |
+| Joachim Kaluza | 1 | 33.00 | 0.00 | 0.00 | 0.00 | 3.00 |
+| Adam Brat | 3 | 13.67 | 2.67 | 0.67 | 0.67 | 2.33 |
+| Vid Vasiljevic | 3 | 13.00 | 1.67 | 0.00 | 1.00 | 2.67 |
+| Ahmad Atili | 3 | 11.33 | 3.00 | 0.67 | 1.33 | 3.33 |
+| Mahir Lepic | 1 | 10.00 | 0.00 | 0.00 | 0.00 | 2.00 |
+| Dorde Dukic | 3 | 7.67 | 2.67 | 0.67 | 0.33 | 0.33 |
+| Vladimir Stancu | 3 | 3.67 | 1.00 | 0.33 | 0.00 | 1.67 |
+| Otto Sjövall | 3 | 2.00 | 0.67 | 0.00 | 0.00 | 1.33 |
+| Emilé Tong Blom | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.67 |
+| Algot Söderbom Gylling | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Sam Clement-Kokkonen | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.50 |
 
 ## Games
 
-### Eastside Falcons - Täby Basket
+### Älmhult Beasts BC P15 - Malbas Svart
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
+| Joachim Kaluza | 33 |  0 |  0 |  0 |  3 |
+| Vid Vasiljevic | 26 |  0 |  0 |  0 |  4 |
+| Adam Brat | 17 |  0 |  0 |  0 |  3 |
+| Mahir Lepic | 10 |  0 |  0 |  0 |  2 |
+| Ahmad Atili |  6 |  0 |  0 |  0 |  3 |
+| Otto Sjövall |  2 |  0 |  0 |  0 |  3 |
+| Vladimir Stancu |  2 |  0 |  0 |  0 |  1 |
+| Emilé Tong Blom |  0 |  0 |  0 |  0 |  0 |
+| Dorde Dukic |  0 |  0 |  0 |  0 |  0 |
+| Algot Söderbom Gylling |  0 |  0 |  0 |  0 |  0 |
 
-### Norrköpings Basketförening - Täby Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Oskar Adamheit | 18 |  7 |  0 |  4 |  5 |
-| Daniel Matloub | 15 |  5 |  1 |  2 |  4 |
-| Oscar Fehn |  9 |  3 |  1 |  0 |  2 |
-| David Psilander |  7 |  3 |  0 |  1 |  4 |
-| James Belaew |  4 |  1 |  0 |  2 |  1 |
-| William Cajander |  2 |  1 |  0 |  0 |  2 |
-| Rafael Pennisi |  2 |  1 |  0 |  0 |  0 |
-| Felix Bonin |  2 |  1 |  0 |  0 |  0 |
-| Melker Hann |  2 |  1 |  0 |  0 |  2 |
-| Henry Mikagård |  0 |  0 |  0 |  0 |  1 |
-| Elias Köhler |  0 |  0 |  0 |  0 |  0 |
-
-### Täby Basket - Skuru Idrottsklubb
+### Högsbo Basket - Älmhult Beasts BC P15
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Daniel Matloub | 19 |  7 |  1 |  2 |  2 |
-| David Psilander | 10 |  5 |  0 |  0 |  4 |
-| William Cajander |  6 |  3 |  0 |  0 |  0 |
-| James Belaew |  4 |  2 |  0 |  0 |  0 |
-| Oskar Adamheit |  4 |  1 |  0 |  2 |  2 |
-| Oscar Fehn |  4 |  1 |  0 |  2 |  0 |
-| Henry Mikagård |  2 |  1 |  0 |  0 |  0 |
-| Elias Köhler |  2 |  1 |  0 |  0 |  5 |
-| Melker Hann |  1 |  0 |  0 |  1 |  0 |
-| Rafael Pennisi |  0 |  0 |  0 |  0 |  3 |
-| Felix Bonin |  0 |  0 |  0 |  0 |  0 |
+| Dorde Dukic | 14 |  5 |  1 |  1 |  1 |
+| Vid Vasiljevic | 13 |  5 |  0 |  3 |  1 |
+| Ahmad Atili |  9 |  3 |  1 |  0 |  3 |
+| Adam Brat |  9 |  1 |  2 |  1 |  1 |
+| Otto Sjövall |  4 |  2 |  0 |  0 |  1 |
+| Emilé Tong Blom |  0 |  0 |  0 |  0 |  1 |
+| Vladimir Stancu |  0 |  0 |  0 |  0 |  4 |
+| Algot Söderbom Gylling |  0 |  0 |  0 |  0 |  0 |
+| Sam Clement-Kokkonen |  0 |  0 |  0 |  0 |  1 |
 
-### Kungsholmen - Täby Basket
+### BK50 - Älmhult Beasts BC P15
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Daniel Matloub | 16 |  2 |  2 |  6 |  2 |
-| David Psilander | 14 |  7 |  0 |  0 |  4 |
-| Oscar Fehn | 10 |  2 |  1 |  3 |  2 |
-| William Cajander |  7 |  2 |  1 |  0 |  3 |
-| Oskar Adamheit |  6 |  3 |  0 |  0 |  2 |
-| James Belaew |  2 |  1 |  0 |  0 |  1 |
-| Felix Bonin |  2 |  1 |  0 |  0 |  2 |
-| Melker Hann |  2 |  1 |  0 |  0 |  0 |
-| Henry Mikagård |  1 |  0 |  0 |  1 |  2 |
-| Rafael Pennisi |  0 |  0 |  0 |  0 |  0 |
-| Elias Köhler |  0 |  0 |  0 |  0 |  1 |
+| Ahmad Atili | 19 |  6 |  1 |  4 |  4 |
+| Adam Brat | 15 |  7 |  0 |  1 |  3 |
+| Dorde Dukic |  9 |  3 |  1 |  0 |  0 |
+| Vladimir Stancu |  9 |  3 |  1 |  0 |  0 |
+| Emilé Tong Blom |  2 |  1 |  0 |  0 |  1 |
+| Vid Vasiljevic |  0 |  0 |  0 |  0 |  3 |
+| Otto Sjövall |  0 |  0 |  0 |  0 |  0 |
+| Algot Söderbom Gylling |  0 |  0 |  0 |  0 |  0 |
+| Sam Clement-Kokkonen |  0 |  0 |  0 |  0 |  2 |
 

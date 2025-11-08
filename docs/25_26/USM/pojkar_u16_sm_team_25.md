@@ -1,90 +1,42 @@
-# Statistics for Lidingö Basket
+# Statistics for Motala Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lidingö Basket | 4 | 57.00 | 16.75 | 4.75 | 9.25 | 11.25 |
+| Motala Basket | 1 | 61.00 | 0.00 | 0.00 | 0.00 | 18.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Melker Halldin Lindskog | 3 | 19.33 | 5.00 | 1.33 | 5.33 | 3.67 |
-| Benisse Diop | 3 | 17.67 | 5.00 | 1.67 | 2.67 | 2.67 |
-| Edvin Pettersson | 3 | 10.33 | 3.67 | 1.00 | 0.00 | 3.00 |
-| Iasonas Politis | 3 | 8.67 | 1.67 | 0.67 | 3.33 | 2.00 |
-| Axel Öman | 3 | 7.00 | 3.00 | 0.33 | 0.00 | 0.33 |
-| Vilhelm Ekelund | 3 | 5.33 | 1.00 | 1.00 | 0.33 | 1.33 |
-| Liam Tyvik | 3 | 3.33 | 1.00 | 0.33 | 0.33 | 1.00 |
-| Ata Guner | 3 | 3.00 | 1.33 | 0.00 | 0.33 | 0.33 |
-| Douglas Brändström | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.33 |
-| Måns Paulsen | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.33 |
-| Melker Kjerfve | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Leon Lagercrantz Fentie | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Elias Cederqvist | 1 | 18.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Henrik Strömberg | 1 | 9.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Elliot Paunonen | 1 | 8.00 | 0.00 | 0.00 | 0.00 | 3.00 |
+| Jason Östlihn | 1 | 7.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Viggo Freeman | 1 | 7.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Gabriel Babikian | 1 | 6.00 | 0.00 | 0.00 | 0.00 | 4.00 |
+| Mio Ragnar | 1 | 5.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Niklas Varblane | 1 | 1.00 | 0.00 | 0.00 | 0.00 | 3.00 |
+| Oskar Ljungstedt | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Mgrdich Krikorian | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 5.00 |
 
 ## Games
 
-### Lidingö Basket - Åkersberga
+### Motala Basket - Helsingborg
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-
-### Lidingö Basket - Danderyd Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Benisse Diop | 18 |  7 |  1 |  1 |  1 |
-| Edvin Pettersson | 15 |  6 |  1 |  0 |  1 |
-| Melker Halldin Lindskog | 15 |  3 |  1 |  6 |  4 |
-| Iasonas Politis |  9 |  1 |  1 |  4 |  1 |
-| Liam Tyvik |  6 |  1 |  1 |  1 |  0 |
-| Ata Guner |  5 |  2 |  0 |  1 |  1 |
-| Axel Öman |  4 |  2 |  0 |  0 |  0 |
-| Melker Kjerfve |  0 |  0 |  0 |  0 |  0 |
-| Douglas Brändström |  0 |  0 |  0 |  0 |  1 |
-| Måns Paulsen |  0 |  0 |  0 |  0 |  0 |
-| Vilhelm Ekelund |  0 |  0 |  0 |  0 |  0 |
-| Leon Lagercrantz Fentie |  0 |  0 |  0 |  0 |  0 |
-
-### Nässjö Basket - Lidingö Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Melker Halldin Lindskog | 22 |  7 |  2 |  2 |  2 |
-| Benisse Diop | 17 |  4 |  1 |  6 |  3 |
-| Axel Öman | 15 |  6 |  1 |  0 |  1 |
-| Iasonas Politis |  8 |  3 |  0 |  2 |  2 |
-| Edvin Pettersson |  7 |  2 |  1 |  0 |  3 |
-| Vilhelm Ekelund |  6 |  1 |  1 |  1 |  0 |
-| Ata Guner |  4 |  2 |  0 |  0 |  0 |
-| Douglas Brändström |  0 |  0 |  0 |  0 |  0 |
-| Liam Tyvik |  0 |  0 |  0 |  0 |  1 |
-| Måns Paulsen |  0 |  0 |  0 |  0 |  0 |
-| Leon Lagercrantz Fentie |  0 |  0 |  0 |  0 |  0 |
-
-### Lidingö Basket - Alviks Basketbollklubb
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Melker Halldin Lindskog | 21 |  5 |  1 |  8 |  5 |
-| Benisse Diop | 18 |  4 |  3 |  1 |  4 |
-| Vilhelm Ekelund | 10 |  2 |  2 |  0 |  4 |
-| Edvin Pettersson |  9 |  3 |  1 |  0 |  5 |
-| Iasonas Politis |  9 |  1 |  1 |  4 |  3 |
-| Liam Tyvik |  4 |  2 |  0 |  0 |  2 |
-| Axel Öman |  2 |  1 |  0 |  0 |  0 |
-| Douglas Brändström |  2 |  1 |  0 |  0 |  0 |
-| Måns Paulsen |  2 |  1 |  0 |  0 |  1 |
-| Melker Kjerfve |  0 |  0 |  0 |  0 |  0 |
-| Ata Guner |  0 |  0 |  0 |  0 |  0 |
-| Leon Lagercrantz Fentie |  0 |  0 |  0 |  0 |  0 |
+| Elias Cederqvist | 18 |  0 |  0 |  0 |  0 |
+| Henrik Strömberg |  9 |  0 |  0 |  0 |  1 |
+| Elliot Paunonen |  8 |  0 |  0 |  0 |  3 |
+| Jason Östlihn |  7 |  0 |  0 |  0 |  1 |
+| Viggo Freeman |  7 |  0 |  0 |  0 |  0 |
+| Gabriel Babikian |  6 |  0 |  0 |  0 |  4 |
+| Mio Ragnar |  5 |  0 |  0 |  0 |  1 |
+| Niklas Varblane |  1 |  0 |  0 |  0 |  3 |
+| Oskar Ljungstedt |  0 |  0 |  0 |  0 |  0 |
+| Mgrdich Krikorian |  0 |  0 |  0 |  0 |  5 |
 
