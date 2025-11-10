@@ -1,46 +1,76 @@
-# Statistics for Bankeryds Basketklubb
+# Statistics for Västerås Basketboll Förening
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Bankeryds Basketklubb | 1 | 73.00 | 23.00 | 2.00 | 21.00 | 18.00 |
+| Västerås Basketboll Förening | 3 | 66.00 | 20.33 | 4.67 | 11.33 | 15.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Bob Berggren | 1 | 38.00 | 10.00 | 1.00 | 15.00 | 4.00 |
-| Oscar Carendi | 1 | 14.00 | 5.00 | 0.00 | 4.00 | 2.00 |
-| Mats Garrido Fällene | 1 | 6.00 | 1.00 | 1.00 | 1.00 | 4.00 |
-| Didrik Horndahl | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 2.00 |
-| Vincent Ivåker | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 0.00 |
-| Erik Rapi | 1 | 3.00 | 1.00 | 0.00 | 1.00 | 2.00 |
-| Vilmer Isaksson | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 4.00 |
-| William Storm | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Matt Rzepa | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Idriz Mohamed Abdi | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Jona To Baben | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Elvin Haugan | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Theo Dag | 3 | 13.00 | 4.33 | 1.00 | 1.33 | 3.33 |
+| Dante Alexander Granlund | 3 | 10.00 | 3.67 | 0.33 | 1.67 | 0.00 |
+| Lucas Lejon | 3 | 9.00 | 2.33 | 0.67 | 2.33 | 4.00 |
+| Dante Häggkvist Sandell | 3 | 8.33 | 2.67 | 0.67 | 1.00 | 2.00 |
+| Amar Bajramovic | 3 | 6.00 | 1.33 | 0.33 | 2.33 | 1.33 |
+| Albin Alexander Granlund | 3 | 5.67 | 1.67 | 0.67 | 0.33 | 0.33 |
+| Erik Dontoni | 3 | 3.67 | 1.33 | 0.33 | 0.00 | 1.00 |
+| Kevin Shahab Maskovic | 3 | 3.67 | 0.67 | 0.33 | 1.33 | 1.00 |
+| Baraq Al-bayati | 3 | 3.67 | 1.33 | 0.00 | 1.00 | 1.67 |
+| Alfred Thorell | 3 | 3.00 | 1.00 | 0.33 | 0.00 | 0.33 |
 
 ## Games
 
-### Bankeryds Basketklubb - Pirates Basketboll
+### Kungsholmen - Västerås Basketboll Förening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Bob Berggren | 38 | 10 |  1 | 15 |  4 |
-| Oscar Carendi | 14 |  5 |  0 |  4 |  2 |
-| Mats Garrido Fällene |  6 |  1 |  1 |  1 |  4 |
-| Didrik Horndahl |  6 |  3 |  0 |  0 |  2 |
-| Vincent Ivåker |  4 |  2 |  0 |  0 |  0 |
-| Erik Rapi |  3 |  1 |  0 |  1 |  2 |
-| Vilmer Isaksson |  2 |  1 |  0 |  0 |  4 |
-| William Storm |  0 |  0 |  0 |  0 |  0 |
-| Matt Rzepa |  0 |  0 |  0 |  0 |  0 |
-| Idriz Mohamed Abdi |  0 |  0 |  0 |  0 |  0 |
-| Jona To Baben |  0 |  0 |  0 |  0 |  0 |
-| Elvin Haugan |  0 |  0 |  0 |  0 |  0 |
+| Theo Dag | 14 |  6 |  0 |  2 |  4 |
+| Dante Alexander Granlund | 13 |  3 |  1 |  4 |  0 |
+| Dante Häggkvist Sandell | 11 |  4 |  1 |  0 |  1 |
+| Albin Alexander Granlund |  7 |  2 |  1 |  0 |  1 |
+| Kevin Shahab Maskovic |  5 |  2 |  0 |  1 |  2 |
+| Amar Bajramovic |  5 |  1 |  0 |  3 |  1 |
+| Lucas Lejon |  5 |  1 |  1 |  0 |  5 |
+| Baraq Al-bayati |  3 |  1 |  0 |  1 |  1 |
+| Erik Dontoni |  0 |  0 |  0 |  0 |  0 |
+| Alfred Thorell |  0 |  0 |  0 |  0 |  0 |
+
+### Västerås Basketboll Förening - Malbas Svart
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Lucas Lejon | 13 |  4 |  0 |  5 |  3 |
+| Theo Dag | 12 |  5 |  0 |  2 |  2 |
+| Alfred Thorell |  9 |  3 |  1 |  0 |  0 |
+| Baraq Al-bayati |  7 |  3 |  0 |  1 |  2 |
+| Dante Alexander Granlund |  6 |  3 |  0 |  0 |  0 |
+| Dante Häggkvist Sandell |  5 |  2 |  0 |  1 |  3 |
+| Erik Dontoni |  4 |  2 |  0 |  0 |  1 |
+| Amar Bajramovic |  2 |  1 |  0 |  0 |  3 |
+| Albin Alexander Granlund |  0 |  0 |  0 |  0 |  0 |
+| Kevin Shahab Maskovic |  0 |  0 |  0 |  0 |  0 |
+
+### Västerås Basketboll Förening - Fryshuset Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Theo Dag | 13 |  2 |  3 |  0 |  4 |
+| Amar Bajramovic | 11 |  2 |  1 |  4 |  0 |
+| Dante Alexander Granlund | 11 |  5 |  0 |  1 |  0 |
+| Albin Alexander Granlund | 10 |  3 |  1 |  1 |  0 |
+| Dante Häggkvist Sandell |  9 |  2 |  1 |  2 |  2 |
+| Lucas Lejon |  9 |  2 |  1 |  2 |  4 |
+| Erik Dontoni |  7 |  2 |  1 |  0 |  2 |
+| Kevin Shahab Maskovic |  6 |  0 |  1 |  3 |  1 |
+| Baraq Al-bayati |  1 |  0 |  0 |  1 |  2 |
+| Alfred Thorell |  0 |  0 |  0 |  0 |  1 |
 

@@ -1,76 +1,76 @@
-# Statistics for KFUM Örebro Basket
+# Statistics for Kvarnby Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| KFUM Örebro Basket | 3 | 106.67 | 43.33 | 4.00 | 8.00 | 22.33 |
+| Kvarnby Basket | 3 | 97.00 | 33.33 | 7.00 | 9.33 | 12.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Adrian Pleick | 3 | 28.00 | 11.00 | 1.00 | 3.00 | 0.67 |
-| Ludvig Fagerberg | 3 | 17.67 | 8.00 | 0.33 | 0.67 | 4.00 |
-| Adrian Hasani | 3 | 11.67 | 3.67 | 1.00 | 1.33 | 1.67 |
-| Harry Selimbasic | 3 | 10.33 | 4.33 | 0.00 | 1.67 | 1.33 |
-| Ture Blomgren | 3 | 10.00 | 3.67 | 0.67 | 0.67 | 3.00 |
-| Denni Jusufbegovic | 3 | 8.67 | 4.33 | 0.00 | 0.00 | 3.00 |
-| Wilmer Axelsson | 3 | 7.33 | 2.67 | 0.67 | 0.00 | 5.00 |
-| Ilias Rudenko | 3 | 5.67 | 2.00 | 0.33 | 0.67 | 1.67 |
-| Zeke Viborg | 3 | 4.67 | 2.33 | 0.00 | 0.00 | 1.33 |
-| Hugo Engberg | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 0.67 |
+| Viggo Fältjäger | 3 | 21.00 | 9.00 | 0.33 | 2.00 | 1.00 |
+| Alexander Blomgren | 3 | 19.33 | 7.67 | 0.67 | 2.00 | 2.67 |
+| Theodor Nankler | 3 | 15.00 | 4.33 | 1.33 | 2.33 | 1.00 |
+| Sam Limberg | 3 | 11.33 | 3.00 | 1.67 | 0.33 | 2.67 |
+| Elvin Östenson Grimfeldt | 3 | 8.33 | 3.33 | 0.33 | 0.67 | 0.33 |
+| Sebastian Nilsson | 3 | 6.33 | 1.33 | 1.00 | 0.67 | 0.33 |
+| Noel Dalgärde | 3 | 6.00 | 1.00 | 1.33 | 0.00 | 0.33 |
+| Liam Kim Börjesson | 3 | 5.00 | 2.33 | 0.00 | 0.33 | 1.33 |
+| Gustav Setterberg | 3 | 2.67 | 0.33 | 0.33 | 1.00 | 2.33 |
+| Aravind Sreenivas | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 0.67 |
 
 ## Games
 
-### Malbas Svart - KFUM Örebro Basket
+### Arvika Basket - Kvarnby Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Adrian Pleick | 33 | 12 |  3 |  0 |  0 |
-| Ture Blomgren | 16 |  7 |  0 |  2 |  4 |
-| Harry Selimbasic | 14 |  5 |  0 |  4 |  1 |
-| Ludvig Fagerberg | 13 |  6 |  0 |  1 |  5 |
-| Adrian Hasani | 12 |  5 |  0 |  2 |  1 |
-| Denni Jusufbegovic |  8 |  4 |  0 |  0 |  4 |
-| Ilias Rudenko |  2 |  1 |  0 |  0 |  2 |
-| Wilmer Axelsson |  2 |  1 |  0 |  0 |  5 |
-| Hugo Engberg |  2 |  1 |  0 |  0 |  1 |
-| Zeke Viborg |  2 |  1 |  0 |  0 |  0 |
+| Alexander Blomgren | 16 |  5 |  2 |  0 |  3 |
+| Theodor Nankler | 16 |  5 |  2 |  0 |  1 |
+| Viggo Fältjäger | 13 |  4 |  1 |  2 |  0 |
+| Sam Limberg | 12 |  3 |  2 |  0 |  4 |
+| Gustav Setterberg |  8 |  1 |  1 |  3 |  4 |
+| Sebastian Nilsson |  8 |  2 |  1 |  1 |  1 |
+| Elvin Östenson Grimfeldt |  6 |  3 |  0 |  0 |  0 |
+| Aravind Sreenivas |  4 |  2 |  0 |  0 |  1 |
+| Noel Dalgärde |  3 |  0 |  1 |  0 |  0 |
+| Liam Kim Börjesson |  2 |  1 |  0 |  0 |  1 |
 
-### Lerums Basket Förening - KFUM Örebro Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Adrian Pleick | 23 |  8 |  0 |  7 |  0 |
-| Ludvig Fagerberg | 19 |  9 |  0 |  1 |  4 |
-| Ilias Rudenko | 11 |  3 |  1 |  2 |  3 |
-| Adrian Hasani | 11 |  2 |  2 |  1 |  2 |
-| Harry Selimbasic |  8 |  4 |  0 |  0 |  2 |
-| Hugo Engberg |  6 |  3 |  0 |  0 |  0 |
-| Zeke Viborg |  6 |  3 |  0 |  0 |  2 |
-| Denni Jusufbegovic |  6 |  3 |  0 |  0 |  3 |
-| Wilmer Axelsson |  5 |  1 |  1 |  0 |  5 |
-| Ture Blomgren |  3 |  0 |  1 |  0 |  2 |
-
-### KFUM Örebro Basket - S:t Helena BK
+### KFUM Huddinge Basketklubb - Kvarnby Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Adrian Pleick | 28 | 13 |  0 |  2 |  2 |
-| Ludvig Fagerberg | 21 |  9 |  1 |  0 |  3 |
-| Wilmer Axelsson | 15 |  6 |  1 |  0 |  5 |
-| Adrian Hasani | 12 |  4 |  1 |  1 |  2 |
-| Denni Jusufbegovic | 12 |  6 |  0 |  0 |  2 |
-| Ture Blomgren | 11 |  4 |  1 |  0 |  3 |
-| Harry Selimbasic |  9 |  4 |  0 |  1 |  1 |
-| Zeke Viborg |  6 |  3 |  0 |  0 |  2 |
-| Ilias Rudenko |  4 |  2 |  0 |  0 |  0 |
-| Hugo Engberg |  0 |  0 |  0 |  0 |  1 |
+| Viggo Fältjäger | 25 | 12 |  0 |  1 |  1 |
+| Theodor Nankler | 19 |  5 |  1 |  6 |  0 |
+| Alexander Blomgren | 15 |  5 |  0 |  5 |  2 |
+| Sebastian Nilsson |  6 |  0 |  2 |  0 |  0 |
+| Sam Limberg |  6 |  3 |  0 |  0 |  4 |
+| Noel Dalgärde |  5 |  1 |  1 |  0 |  1 |
+| Elvin Östenson Grimfeldt |  4 |  1 |  0 |  2 |  1 |
+| Liam Kim Börjesson |  2 |  1 |  0 |  0 |  0 |
+| Aravind Sreenivas |  0 |  0 |  0 |  0 |  0 |
+| Gustav Setterberg |  0 |  0 |  0 |  0 |  2 |
+
+### Kvarnby Basket - Hammarö Basketklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Alexander Blomgren | 27 | 13 |  0 |  1 |  3 |
+| Viggo Fältjäger | 25 | 11 |  0 |  3 |  2 |
+| Sam Limberg | 16 |  3 |  3 |  1 |  0 |
+| Elvin Östenson Grimfeldt | 15 |  6 |  1 |  0 |  0 |
+| Liam Kim Börjesson | 11 |  5 |  0 |  1 |  3 |
+| Noel Dalgärde | 10 |  2 |  2 |  0 |  0 |
+| Theodor Nankler | 10 |  3 |  1 |  1 |  2 |
+| Sebastian Nilsson |  5 |  2 |  0 |  1 |  0 |
+| Aravind Sreenivas |  2 |  1 |  0 |  0 |  1 |
+| Gustav Setterberg |  0 |  0 |  0 |  0 |  1 |
 

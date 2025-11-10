@@ -1,42 +1,62 @@
-# Statistics for Nässjö Basket
+# Statistics for Trollhättans Basketbollklubb
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Nässjö Basket | 1 | 67.00 | 11.00 | 14.00 | 3.00 | 28.00 |
+| Trollhättans Basketbollklubb | 2 | 61.50 | 21.00 | 4.00 | 7.50 | 13.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Muscab Maxamud | 1 | 15.00 | 3.00 | 3.00 | 0.00 | 4.00 |
-| Harman Ali | 1 | 14.00 | 1.00 | 4.00 | 0.00 | 3.00 |
-| Danilo Damjanovic | 1 | 14.00 | 1.00 | 4.00 | 0.00 | 5.00 |
-| Jamal Jamal | 1 | 12.00 | 5.00 | 0.00 | 2.00 | 4.00 |
-| Guuled Ismail Abdi | 1 | 6.00 | 0.00 | 2.00 | 0.00 | 1.00 |
-| Ayub Mohamed | 1 | 3.00 | 0.00 | 1.00 | 0.00 | 3.00 |
-| Isak Rofors | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 3.00 |
-| Nikola Sinani | 1 | 1.00 | 0.00 | 0.00 | 1.00 | 4.00 |
-| Abdulahi Yasser | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
-| Edvin Ericsson | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Oliver Reit | 2 | 17.00 | 3.00 | 3.50 | 0.50 | 1.00 |
+| Ilon Åhman | 2 | 9.50 | 4.00 | 0.00 | 1.50 | 2.00 |
+| Gustav Karlsson Glasell | 2 | 9.00 | 4.50 | 0.00 | 0.00 | 2.00 |
+| Albin Zenkic | 2 | 7.00 | 3.50 | 0.00 | 0.00 | 2.50 |
+| Joseph Jonsson | 2 | 6.00 | 2.00 | 0.00 | 2.00 | 1.00 |
+| William Alvekvist | 2 | 5.50 | 2.50 | 0.00 | 0.50 | 2.00 |
+| Viktor Johansson | 2 | 3.00 | 1.00 | 0.00 | 1.00 | 0.50 |
+| Jalil Mohammed | 2 | 3.00 | 0.50 | 0.00 | 2.00 | 1.50 |
+| Elias Wigenius | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 0.00 |
+| Jack Främling | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Alexandru Dena | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 
 ## Games
 
-### Högsbo Basket - Nässjö Basket
+### Trollhättans Basketbollklubb - AIK
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Muscab Maxamud | 15 |  3 |  3 |  0 |  4 |
-| Harman Ali | 14 |  1 |  4 |  0 |  3 |
-| Danilo Damjanovic | 14 |  1 |  4 |  0 |  5 |
-| Jamal Jamal | 12 |  5 |  0 |  2 |  4 |
-| Guuled Ismail Abdi |  6 |  0 |  2 |  0 |  1 |
-| Ayub Mohamed |  3 |  0 |  1 |  0 |  3 |
-| Isak Rofors |  2 |  1 |  0 |  0 |  3 |
-| Nikola Sinani |  1 |  0 |  0 |  1 |  4 |
-| Abdulahi Yasser |  0 |  0 |  0 |  0 |  1 |
-| Edvin Ericsson |  0 |  0 |  0 |  0 |  0 |
+| Albin Zenkic | 10 |  5 |  0 |  0 |  4 |
+| Gustav Karlsson Glasell | 10 |  5 |  0 |  0 |  3 |
+| Oliver Reit |  9 |  0 |  3 |  0 |  2 |
+| Viktor Johansson |  6 |  2 |  0 |  2 |  0 |
+| William Alvekvist |  6 |  3 |  0 |  0 |  1 |
+| Ilon Åhman |  4 |  1 |  0 |  2 |  2 |
+| Jalil Mohammed |  4 |  1 |  0 |  2 |  2 |
+| Elias Wigenius |  3 |  0 |  1 |  0 |  0 |
+| Joseph Jonsson |  1 |  0 |  0 |  1 |  1 |
+| Jack Främling |  0 |  0 |  0 |  0 |  0 |
+| Alexandru Dena |  0 |  0 |  0 |  0 |  2 |
+
+### Vallentuna Basket - Trollhättans Basketbollklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Oliver Reit | 25 |  6 |  4 |  1 |  0 |
+| Ilon Åhman | 15 |  7 |  0 |  1 |  2 |
+| Joseph Jonsson | 11 |  4 |  0 |  3 |  1 |
+| Gustav Karlsson Glasell |  8 |  4 |  0 |  0 |  1 |
+| William Alvekvist |  5 |  2 |  0 |  1 |  3 |
+| Albin Zenkic |  4 |  2 |  0 |  0 |  1 |
+| Jalil Mohammed |  2 |  0 |  0 |  2 |  1 |
+| Elias Wigenius |  0 |  0 |  0 |  0 |  0 |
+| Jack Främling |  0 |  0 |  0 |  0 |  0 |
+| Alexandru Dena |  0 |  0 |  0 |  0 |  0 |
+| Viktor Johansson |  0 |  0 |  0 |  0 |  1 |
 

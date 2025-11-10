@@ -1,42 +1,69 @@
-# Statistics for Malbas Svart
+# Statistics for Gota Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Malbas Svart | 1 | 43.00 | 12.00 | 2.00 | 13.00 | 22.00 |
+| Gota Basket | 3 | 38.33 | 13.67 | 2.00 | 5.00 | 14.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Folke Turesson | 1 | 10.00 | 2.00 | 1.00 | 3.00 | 2.00 |
-| Alexander Nilsson Ponnert | 1 | 8.00 | 3.00 | 0.00 | 2.00 | 2.00 |
-| Mads Hammerfald | 1 | 7.00 | 2.00 | 0.00 | 3.00 | 3.00 |
-| John Hallin | 1 | 7.00 | 2.00 | 0.00 | 3.00 | 3.00 |
-| Oscar Lund | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 1.00 |
-| Isac Persson | 1 | 4.00 | 1.00 | 0.00 | 2.00 | 4.00 |
-| Julian Billing | 1 | 3.00 | 0.00 | 1.00 | 0.00 | 4.00 |
-| Ivan Sandelin Ståhl | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
-| Ebbot Lilliebladh | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
-| Felix Ånmo | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Edvin Witermark | 2 | 10.00 | 5.00 | 0.00 | 0.00 | 3.50 |
+| Neo Geismar | 2 | 10.00 | 1.50 | 1.50 | 2.50 | 3.00 |
+| Olle Ugglesjö | 2 | 8.00 | 4.00 | 0.00 | 0.00 | 1.50 |
+| Axel Gustafsson | 2 | 7.00 | 1.50 | 0.50 | 2.50 | 4.50 |
+| Hugo Mjögeman | 2 | 4.50 | 1.50 | 0.50 | 0.00 | 1.50 |
+| Aro Kader | 2 | 4.00 | 1.50 | 0.00 | 1.00 | 1.50 |
+| Hektor Ribberström | 2 | 4.00 | 2.00 | 0.00 | 0.00 | 1.50 |
+| Noel Makanjuola | 2 | 4.00 | 2.00 | 0.00 | 0.00 | 0.50 |
+| Daivik Twinkle | 2 | 2.50 | 0.00 | 0.50 | 1.00 | 2.50 |
+| Vidar Broberg | 2 | 2.50 | 1.00 | 0.00 | 0.50 | 0.00 |
+| Albin Ibrahimi | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.00 |
 
 ## Games
 
-### Malbas Svart - Kungsholmen
+### KFUM Örebro Basket - Gota Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Folke Turesson | 10 |  2 |  1 |  3 |  2 |
-| Alexander Nilsson Ponnert |  8 |  3 |  0 |  2 |  2 |
-| Mads Hammerfald |  7 |  2 |  0 |  3 |  3 |
-| John Hallin |  7 |  2 |  0 |  3 |  3 |
-| Oscar Lund |  4 |  2 |  0 |  0 |  1 |
-| Isac Persson |  4 |  1 |  0 |  2 |  4 |
-| Julian Billing |  3 |  0 |  1 |  0 |  4 |
-| Ivan Sandelin Ståhl |  0 |  0 |  0 |  0 |  1 |
-| Ebbot Lilliebladh |  0 |  0 |  0 |  0 |  1 |
-| Felix Ånmo |  0 |  0 |  0 |  0 |  1 |
+| Edvin Witermark | 10 |  5 |  0 |  0 |  4 |
+| Neo Geismar | 10 |  3 |  1 |  1 |  4 |
+| Aro Kader |  8 |  3 |  0 |  2 |  2 |
+| Vidar Broberg |  5 |  2 |  0 |  1 |  0 |
+| Hugo Mjögeman |  4 |  2 |  0 |  0 |  0 |
+| Olle Ugglesjö |  4 |  2 |  0 |  0 |  2 |
+| Hektor Ribberström |  2 |  1 |  0 |  0 |  2 |
+| Daivik Twinkle |  2 |  0 |  0 |  2 |  0 |
+| Noel Makanjuola |  2 |  1 |  0 |  0 |  1 |
+| Albin Ibrahimi |  0 |  0 |  0 |  0 |  0 |
+| Axel Gustafsson |  0 |  0 |  0 |  0 |  5 |
+
+### Gota Basket - Hammarby
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Axel Gustafsson | 14 |  3 |  1 |  5 |  4 |
+| Olle Ugglesjö | 12 |  6 |  0 |  0 |  1 |
+| Edvin Witermark | 10 |  5 |  0 |  0 |  3 |
+| Neo Geismar | 10 |  0 |  2 |  4 |  2 |
+| Hektor Ribberström |  6 |  3 |  0 |  0 |  1 |
+| Noel Makanjuola |  6 |  3 |  0 |  0 |  0 |
+| Hugo Mjögeman |  5 |  1 |  1 |  0 |  3 |
+| Daivik Twinkle |  3 |  0 |  1 |  0 |  5 |
+| Albin Ibrahimi |  2 |  1 |  0 |  0 |  2 |
+| Aro Kader |  0 |  0 |  0 |  0 |  1 |
+| Vidar Broberg |  0 |  0 |  0 |  0 |  0 |
+
+### Gota Basket - KFUM Sundsvall Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
 

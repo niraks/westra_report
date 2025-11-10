@@ -4,50 +4,39 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| [Hammarby](pojkar_u15_sm_team_1.md) | 3 | 130.33 | 56.33 | 3.00 | 8.67 | 15.00 |
-| [Södertälje Basketbollklubb](pojkar_u15_sm_team_2.md) | 2 | 109.00 | 34.50 | 9.00 | 13.00 | 14.50 |
-| [KFUM Örebro Basket](pojkar_u15_sm_team_3.md) | 3 | 106.67 | 43.33 | 4.00 | 8.00 | 22.33 |
-| [IK Eos Lund](pojkar_u15_sm_team_4.md) | 2 | 102.00 | 27.50 | 10.50 | 15.50 | 17.50 |
-| [Stockholm Nordväst](pojkar_u15_sm_team_5.md) | 3 | 101.67 | 34.00 | 8.67 | 7.67 | 14.67 |
-| [Malbas Svart](pojkar_u15_sm_team_6.md) | 4 | 101.50 | 32.75 | 2.25 | 7.75 | 19.75 |
-| [Kvarnby Basket](pojkar_u15_sm_team_7.md) | 4 | 100.50 | 39.75 | 3.75 | 9.75 | 14.25 |
-| [Trelleborg Pirates U15](pojkar_u15_sm_team_8.md) | 2 | 98.50 | 14.50 | 2.00 | 9.50 | 20.50 |
-| [Alviks Basketbollklubb](pojkar_u15_sm_team_9.md) | 4 | 94.25 | 28.75 | 8.75 | 10.50 | 18.75 |
-| [KFUM Kalmar Basket](pojkar_u15_sm_team_10.md) | 2 | 94.00 | 30.00 | 6.50 | 14.50 | 19.00 |
-| [Högsbo Basket](pojkar_u15_sm_team_11.md) | 2 | 93.50 | 42.00 | 1.50 | 5.00 | 12.00 |
-| [Ale Basket](pojkar_u15_sm_team_12.md) | 3 | 91.67 | 32.00 | 6.67 | 7.67 | 16.33 |
-| [Oskarshamns Basketbollklubb](pojkar_u15_sm_team_13.md) | 5 | 88.00 | 23.20 | 8.20 | 17.00 | 13.80 |
-| [Gota Basket](pojkar_u15_sm_team_14.md) | 1 | 88.00 | 37.00 | 2.00 | 8.00 | 17.00 |
-| [Skuru Idrottsklubb](pojkar_u15_sm_team_15.md) | 3 | 87.00 | 33.00 | 3.00 | 12.00 | 16.00 |
-| [Norrköpings Basketförening](pojkar_u15_sm_team_16.md) | 3 | 86.00 | 31.00 | 5.00 | 9.00 | 18.33 |
-| [Eastside Falcons](pojkar_u15_sm_team_17.md) | 3 | 85.33 | 31.00 | 5.00 | 8.33 | 20.33 |
-| [Fryshuset Basket](pojkar_u15_sm_team_18.md) | 2 | 83.00 | 26.00 | 6.50 | 11.50 | 20.50 |
-| [KFUM Huddinge Basketklubb](pojkar_u15_sm_team_19.md) | 4 | 83.00 | 33.50 | 2.25 | 9.25 | 16.75 |
-| [Basketklubben Gladan](pojkar_u15_sm_team_20.md) | 3 | 82.67 | 30.33 | 3.33 | 12.00 | 13.67 |
-| [Kungsbacka Basket](pojkar_u15_sm_team_21.md) | 3 | 82.00 | 31.00 | 5.00 | 5.00 | 14.67 |
-| [Lerums Basket Förening](pojkar_u15_sm_team_22.md) | 3 | 79.33 | 29.33 | 2.67 | 12.67 | 15.00 |
-| [Kungsholmen](pojkar_u15_sm_team_23.md) | 5 | 79.00 | 27.20 | 5.60 | 7.80 | 19.80 |
-| [Borås Basket](pojkar_u15_sm_team_24.md) | 1 | 79.00 | 31.00 | 4.00 | 5.00 | 21.00 |
-| [Wetterbygden Stars](pojkar_u15_sm_team_25.md) | 4 | 77.25 | 27.50 | 4.00 | 10.25 | 16.00 |
-| [Uppsala Basket](pojkar_u15_sm_team_26.md) | 2 | 76.50 | 32.00 | 1.00 | 9.50 | 19.50 |
-| [AIK](pojkar_u15_sm_team_27.md) | 4 | 72.25 | 23.75 | 4.75 | 10.50 | 20.25 |
-| [Västerås Basketboll Förening](pojkar_u15_sm_team_28.md) | 2 | 71.50 | 25.00 | 2.00 | 15.50 | 14.00 |
-| [Lidingö Basket](pojkar_u15_sm_team_29.md) | 5 | 70.40 | 26.40 | 2.00 | 11.60 | 16.60 |
-| [KFUM Blackebergs Idrottsklubb](pojkar_u15_sm_team_30.md) | 3 | 69.67 | 21.00 | 4.67 | 13.67 | 23.33 |
-| [Köping Stars Basketförening](pojkar_u15_sm_team_31.md) | 3 | 68.33 | 24.00 | 4.00 | 8.33 | 10.00 |
-| [Älmhult Beasts BC P15](pojkar_u15_sm_team_32.md) | 3 | 66.33 | 12.00 | 2.33 | 3.33 | 15.00 |
-| [Arvika Basket](pojkar_u15_sm_team_33.md) | 4 | 65.25 | 17.50 | 6.50 | 10.75 | 12.50 |
-| [BK50](pojkar_u15_sm_team_34.md) | 3 | 65.00 | 25.33 | 3.33 | 4.33 | 12.33 |
-| [Hammarö Basketklubb](pojkar_u15_sm_team_35.md) | 4 | 64.75 | 23.75 | 2.50 | 9.75 | 14.25 |
-| [Lobas Vit](pojkar_u15_sm_team_36.md) | 1 | 64.00 | 0.00 | 0.00 | 0.00 | 34.00 |
-| [KFUM Central Basket](pojkar_u15_sm_team_37.md) | 2 | 63.50 | 21.00 | 3.00 | 12.50 | 16.50 |
-| [Aros Basketbollklubb](pojkar_u15_sm_team_38.md) | 4 | 63.00 | 23.25 | 4.00 | 4.50 | 13.00 |
-| [Östersund Basket Ungdom HU15](pojkar_u15_sm_team_39.md) | 3 | 60.00 | 15.00 | 7.67 | 7.00 | 13.67 |
-| [Täby Basket](pojkar_u15_sm_team_40.md) | 4 | 53.75 | 19.25 | 2.25 | 8.50 | 15.50 |
-| [S:t Helena BK](pojkar_u15_sm_team_41.md) | 4 | 48.25 | 17.25 | 1.50 | 9.25 | 12.75 |
-| [WestCoast Basketförening](pojkar_u15_sm_team_42.md) | 3 | 48.00 | 20.00 | 1.33 | 4.00 | 19.00 |
-| [Sunderby Sportklubb](pojkar_u15_sm_team_43.md) | 4 | 44.75 | 13.00 | 4.50 | 5.25 | 11.50 |
-| [Lobas Röd](pojkar_u15_sm_team_44.md) | 4 | 43.00 | 13.75 | 3.50 | 5.00 | 17.00 |
+| [Malbas Svart](pojkar_u15_sm_team_1.md) | 3 | 112.00 | 0.00 | 0.00 | 0.00 | 21.00 |
+| [Kungsholmen](pojkar_u15_sm_team_2.md) | 3 | 100.00 | 37.67 | 6.67 | 4.67 | 20.00 |
+| [Kvarnby Basket](pojkar_u15_sm_team_3.md) | 3 | 97.00 | 33.33 | 7.00 | 9.33 | 12.67 |
+| [Trelleborg Pirates U15](pojkar_u15_sm_team_4.md) | 3 | 96.00 | 20.33 | 2.00 | 13.33 | 17.67 |
+| [Basketklubben Gladan](pojkar_u15_sm_team_5.md) | 3 | 92.00 | 35.00 | 4.67 | 8.00 | 16.67 |
+| [KFUM Kalmar Basket](pojkar_u15_sm_team_6.md) | 3 | 91.67 | 27.67 | 7.33 | 14.33 | 18.67 |
+| [Oskarshamns Basketbollklubb](pojkar_u15_sm_team_7.md) | 4 | 90.00 | 27.75 | 7.50 | 11.25 | 11.50 |
+| [Älmhult Beasts BC P15](pojkar_u15_sm_team_8.md) | 3 | 85.67 | 19.33 | 2.67 | 7.00 | 15.00 |
+| [Lidingö Basket](pojkar_u15_sm_team_9.md) | 3 | 85.33 | 32.00 | 3.67 | 10.33 | 21.00 |
+| [Borås Basket](pojkar_u15_sm_team_10.md) | 3 | 83.67 | 19.67 | 1.67 | 7.67 | 21.33 |
+| [Gota Basket](pojkar_u15_sm_team_11.md) | 3 | 83.00 | 29.33 | 4.00 | 12.33 | 15.33 |
+| [Fryshuset Basket](pojkar_u15_sm_team_12.md) | 3 | 82.67 | 27.33 | 5.33 | 12.00 | 21.33 |
+| [AIK](pojkar_u15_sm_team_13.md) | 3 | 82.00 | 27.67 | 5.33 | 10.67 | 17.67 |
+| [Wetterbygden Stars](pojkar_u15_sm_team_14.md) | 3 | 82.00 | 32.00 | 2.33 | 11.00 | 16.33 |
+| [Eastside Falcons](pojkar_u15_sm_team_15.md) | 3 | 81.00 | 28.00 | 5.00 | 10.00 | 18.00 |
+| [Alviks Basketbollklubb](pojkar_u15_sm_team_16.md) | 3 | 80.67 | 23.33 | 7.67 | 11.00 | 15.00 |
+| [Norrköpings Basketförening](pojkar_u15_sm_team_17.md) | 3 | 77.00 | 17.67 | 4.00 | 4.33 | 20.00 |
+| [KFUM Central Basket](pojkar_u15_sm_team_18.md) | 3 | 74.00 | 25.00 | 4.33 | 11.00 | 15.67 |
+| [S:t Helena BK](pojkar_u15_sm_team_19.md) | 4 | 72.25 | 26.75 | 3.50 | 8.25 | 15.75 |
+| [KFUM Blackebergs Idrottsklubb](pojkar_u15_sm_team_20.md) | 3 | 70.33 | 19.67 | 6.33 | 12.00 | 20.00 |
+| [Hammarö Basketklubb](pojkar_u15_sm_team_21.md) | 2 | 67.50 | 20.50 | 5.50 | 10.00 | 15.50 |
+| [BK50](pojkar_u15_sm_team_22.md) | 3 | 66.33 | 22.67 | 3.33 | 11.00 | 16.33 |
+| [Aros Basketbollklubb](pojkar_u15_sm_team_23.md) | 4 | 66.00 | 22.75 | 3.50 | 10.00 | 14.00 |
+| [Västerås Basketboll Förening](pojkar_u15_sm_team_24.md) | 3 | 66.00 | 23.00 | 2.67 | 12.00 | 14.00 |
+| [Arvika Basket](pojkar_u15_sm_team_25.md) | 3 | 62.67 | 17.67 | 5.33 | 11.33 | 14.00 |
+| [Täby Basket](pojkar_u15_sm_team_26.md) | 3 | 61.00 | 23.00 | 2.33 | 8.00 | 13.00 |
+| [Sunderby Sportklubb](pojkar_u15_sm_team_27.md) | 3 | 59.67 | 21.00 | 3.00 | 8.67 | 14.67 |
+| [KFUM Huddinge Basketklubb](pojkar_u15_sm_team_28.md) | 2 | 59.00 | 22.00 | 3.00 | 6.00 | 17.50 |
+| [Östersund Basket Ungdom HU15](pojkar_u15_sm_team_29.md) | 3 | 57.67 | 20.33 | 2.33 | 10.00 | 16.67 |
+| [Viby Basket](pojkar_u15_sm_team_30.md) | 3 | 52.33 | 9.67 | 0.33 | 3.33 | 16.67 |
+| [Lobas Vit](pojkar_u15_sm_team_31.md) | 3 | 48.33 | 7.33 | 2.33 | 5.33 | 19.00 |
+| [WestCoast Basketförening](pojkar_u15_sm_team_32.md) | 3 | 41.67 | 9.33 | 1.33 | 7.00 | 21.00 |
+| [Lobas Röd](pojkar_u15_sm_team_33.md) | 3 | 41.67 | 14.00 | 3.00 | 4.67 | 17.67 |
 
 ## Season leaders
 
@@ -55,72 +44,61 @@
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | [Albin Ibricic Karlsson](pojkar_u15_sm_team_13.md) | 53.00 |
-| 2 | [Alexander Massamba Johansson](pojkar_u15_sm_team_2.md) | 47.00 |
-| 3 | [Matti Westman](pojkar_u15_sm_team_33.md) | 33.25 |
-| 4 | [Joachim Kaluza](pojkar_u15_sm_team_32.md) | 33.00 |
-| 5 | [Olivers Stankevics](pojkar_u15_sm_team_25.md) | 32.50 |
-| 6 | [Simon Sandahl](pojkar_u15_sm_team_29.md) | 30.00 |
-| 7 | [Valter Larsson](pojkar_u15_sm_team_14.md) | 29.00 |
-| 8 | [Adrian Pleick](pojkar_u15_sm_team_3.md) | 28.00 |
-| 8 | [Alfons Throfast](pojkar_u15_sm_team_10.md) | 28.00 |
-| 8 | [Dax Metoyer](pojkar_u15_sm_team_6.md) | 28.00 |
+| 1 | [Albin Ibricic Karlsson](pojkar_u15_sm_team_7.md) | 56.25 |
+| 2 | [Matti Westman](pojkar_u15_sm_team_25.md) | 34.33 |
+| 3 | [Nicholas Abboud](pojkar_u15_sm_team_13.md) | 34.00 |
+| 4 | [Mirza Vegar](pojkar_u15_sm_team_21.md) | 31.50 |
+| 5 | [Dax Metoyer](pojkar_u15_sm_team_1.md) | 29.67 |
+| 6 | [Alfons Throfast](pojkar_u15_sm_team_6.md) | 27.67 |
+| 7 | [Olivers Stankevics](pojkar_u15_sm_team_14.md) | 27.33 |
+| 8 | [Daniel Matloub](pojkar_u15_sm_team_26.md) | 27.00 |
+| 8 | [Luka Caktas](pojkar_u15_sm_team_10.md) | 27.00 |
+| 10 | [Axel Braun](pojkar_u15_sm_team_30.md) | 26.50 |
 
 ### 2P made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | [Filip Lundberg](pojkar_u15_sm_team_14.md) | 13.00 |
-| 2 | [Olivers Stankevics](pojkar_u15_sm_team_25.md) | 12.00 |
-| 2 | [Alfons Throfast](pojkar_u15_sm_team_10.md) | 12.00 |
-| 2 | [Simon Sandahl](pojkar_u15_sm_team_29.md) | 12.00 |
-| 5 | [Sinisa Nikolic](pojkar_u15_sm_team_1.md) | 11.33 |
-| 6 | [Albin Ibricic Karlsson](pojkar_u15_sm_team_13.md) | 11.00 |
-| 6 | [Adrian Pleick](pojkar_u15_sm_team_3.md) | 11.00 |
-| 6 | [Felix Parmklev](pojkar_u15_sm_team_26.md) | 11.00 |
-| 9 | [Kaan Üzel](pojkar_u15_sm_team_1.md) | 10.67 |
-| 10 | [Filip Berndtsson](pojkar_u15_sm_team_21.md) | 10.33 |
+| 1 | [Albin Ibricic Karlsson](pojkar_u15_sm_team_7.md) | 16.50 |
+| 2 | [Alfons Throfast](pojkar_u15_sm_team_6.md) | 10.67 |
+| 3 | [Jeremiah Famurewa](pojkar_u15_sm_team_5.md) | 10.33 |
+| 3 | [Daniel Matloub](pojkar_u15_sm_team_26.md) | 10.33 |
+| 3 | [Olivers Stankevics](pojkar_u15_sm_team_14.md) | 10.33 |
+| 6 | [Henning Roghe](pojkar_u15_sm_team_9.md) | 9.67 |
+| 7 | [Darlington Adeyefa](pojkar_u15_sm_team_23.md) | 9.50 |
+| 8 | [Nicholas Abboud](pojkar_u15_sm_team_13.md) | 9.33 |
+| 9 | [Viggo Fältjäger](pojkar_u15_sm_team_3.md) | 9.00 |
+| 9 | [Matti Westman](pojkar_u15_sm_team_25.md) | 9.00 |
+| 9 | [Mirza Vegar](pojkar_u15_sm_team_21.md) | 9.00 |
 
 ### 3P made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | [Alexander Massamba Johansson](pojkar_u15_sm_team_2.md) | 6.00 |
-| 2 | [Albin Ibricic Karlsson](pojkar_u15_sm_team_13.md) | 5.60 |
-| 3 | [Matti Westman](pojkar_u15_sm_team_33.md) | 4.25 |
-| 4 | [Algot Gyllebring](pojkar_u15_sm_team_39.md) | 3.33 |
-| 5 | [Ivar Fredman](pojkar_u15_sm_team_9.md) | 3.25 |
-| 6 | [Andy Kasarji](pojkar_u15_sm_team_2.md) | 3.00 |
-| 7 | [Eric Svensson](pojkar_u15_sm_team_21.md) | 2.67 |
-| 8 | [Ergen Atac](pojkar_u15_sm_team_10.md) | 2.50 |
-| 8 | [Dani Drazic](pojkar_u15_sm_team_10.md) | 2.50 |
-| 10 | [Evren Weissbach](pojkar_u15_sm_team_4.md) | 2.00 |
-| 10 | [Filip Miskovic](pojkar_u15_sm_team_4.md) | 2.00 |
-| 10 | [Mohammad Sobh](pojkar_u15_sm_team_4.md) | 2.00 |
-| 10 | [Ture Hedin](pojkar_u15_sm_team_39.md) | 2.00 |
-| 10 | [Leon Jansson Myrå](pojkar_u15_sm_team_39.md) | 2.00 |
-| 10 | [Nicholas Abboud](pojkar_u15_sm_team_27.md) | 2.00 |
-| 10 | [Terry Zuo Hu](pojkar_u15_sm_team_27.md) | 2.00 |
-| 10 | [Filipp Drobatc](pojkar_u15_sm_team_37.md) | 2.00 |
-| 10 | [Leo Nordstrand](pojkar_u15_sm_team_9.md) | 2.00 |
-| 10 | [Sabir Mohamed](pojkar_u15_sm_team_5.md) | 2.00 |
-| 10 | [Viktor Strandin](pojkar_u15_sm_team_30.md) | 2.00 |
-| 10 | [Frank Lindin](pojkar_u15_sm_team_24.md) | 2.00 |
-| 10 | [Harry Almgren](pojkar_u15_sm_team_24.md) | 2.00 |
-| 10 | [Charlie Lindblom](pojkar_u15_sm_team_12.md) | 2.00 |
+| 1 | [Albin Ibricic Karlsson](pojkar_u15_sm_team_7.md) | 4.25 |
+| 2 | [Ivar Fredman](pojkar_u15_sm_team_16.md) | 4.00 |
+| 3 | [Matti Westman](pojkar_u15_sm_team_25.md) | 3.33 |
+| 3 | [Nicholas Abboud](pojkar_u15_sm_team_13.md) | 3.33 |
+| 5 | [Narek Atayan](pojkar_u15_sm_team_23.md) | 2.75 |
+| 6 | [Dani Drazic](pojkar_u15_sm_team_6.md) | 2.67 |
+| 7 | [Henry Lundkvist Martinsson](pojkar_u15_sm_team_21.md) | 2.50 |
+| 7 | [Mirza Vegar](pojkar_u15_sm_team_21.md) | 2.50 |
+| 9 | [Mustafa Muminovic](pojkar_u15_sm_team_2.md) | 2.33 |
+| 9 | [Olle Woxö](pojkar_u15_sm_team_7.md) | 2.33 |
 
 ### Free throws made per game
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | [Albin Ibricic Karlsson](pojkar_u15_sm_team_13.md) | 14.20 |
-| 2 | [Alexander Massamba Johansson](pojkar_u15_sm_team_2.md) | 11.00 |
-| 3 | [Valter Larsson](pojkar_u15_sm_team_14.md) | 6.00 |
-| 3 | [Algot Svanström](pojkar_u15_sm_team_37.md) | 6.00 |
-| 3 | [Valter Larsson](pojkar_u15_sm_team_22.md) | 6.00 |
-| 3 | [Matti Westman](pojkar_u15_sm_team_33.md) | 6.00 |
-| 3 | [Simon Sandahl](pojkar_u15_sm_team_29.md) | 6.00 |
-| 8 | [Love Holmgren](pojkar_u15_sm_team_10.md) | 5.50 |
-| 9 | [Loui Wilson](pojkar_u15_sm_team_28.md) | 5.00 |
-| 10 | [Olivers Stankevics](pojkar_u15_sm_team_25.md) | 4.75 |
+| 1 | [Albin Ibricic Karlsson](pojkar_u15_sm_team_7.md) | 9.75 |
+| 2 | [Valter Larsson](pojkar_u15_sm_team_11.md) | 8.00 |
+| 3 | [Matti Westman](pojkar_u15_sm_team_25.md) | 6.33 |
+| 4 | [Mirza Vegar](pojkar_u15_sm_team_21.md) | 6.00 |
+| 4 | [Love Holmgren](pojkar_u15_sm_team_6.md) | 6.00 |
+| 6 | [Olivers Stankevics](pojkar_u15_sm_team_14.md) | 5.67 |
+| 7 | [Nicholas Abboud](pojkar_u15_sm_team_13.md) | 5.33 |
+| 8 | [Viktor Strandin](pojkar_u15_sm_team_20.md) | 5.00 |
+| 9 | [Benjamin Puscas](pojkar_u15_sm_team_22.md) | 4.67 |
+| 10 | [Daniel Matloub](pojkar_u15_sm_team_26.md) | 4.33 |
+| 10 | [Algot Svanström](pojkar_u15_sm_team_18.md) | 4.33 |
 

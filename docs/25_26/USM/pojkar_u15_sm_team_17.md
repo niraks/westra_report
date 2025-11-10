@@ -1,78 +1,76 @@
-# Statistics for Eastside Falcons
+# Statistics for Norrköpings Basketförening
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eastside Falcons | 3 | 85.33 | 31.00 | 5.00 | 8.33 | 20.33 |
+| Norrköpings Basketförening | 3 | 77.00 | 17.67 | 4.00 | 4.33 | 20.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Vincent Uzieblo | 3 | 17.67 | 7.00 | 0.00 | 3.67 | 2.67 |
-| Nireas Solidakis | 3 | 12.00 | 3.33 | 1.67 | 0.33 | 1.33 |
-| Vigan Raci | 3 | 11.00 | 4.33 | 0.67 | 0.33 | 3.00 |
-| Noah Ringheim | 3 | 9.67 | 4.00 | 0.33 | 0.67 | 2.33 |
-| Evangelos Kochliaridis | 3 | 9.00 | 3.00 | 1.00 | 0.00 | 2.00 |
-| Christian Gonzal | 3 | 9.00 | 3.67 | 0.00 | 1.67 | 2.33 |
-| Albin Helmfridsson | 3 | 7.00 | 1.67 | 1.00 | 0.67 | 1.00 |
-| Vidar Ekström | 3 | 5.67 | 2.33 | 0.00 | 1.00 | 3.00 |
-| Otis Foon | 3 | 3.00 | 1.00 | 0.33 | 0.00 | 0.67 |
-| Theodor Markey | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 2.00 |
-| Hjalmar Spångberg | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Edvin Lundh | 3 | 22.67 | 7.00 | 1.00 | 0.33 | 1.67 |
+| Cesar Karathanasis | 3 | 11.33 | 1.33 | 1.00 | 0.67 | 1.67 |
+| Aksel Barkhagen | 3 | 10.33 | 3.33 | 0.00 | 0.33 | 2.33 |
+| Eliab Lawgaw | 3 | 8.00 | 1.00 | 0.33 | 1.33 | 2.33 |
+| Leon Kojhasarle | 3 | 7.33 | 1.33 | 0.33 | 1.00 | 2.67 |
+| Leon Skarin | 3 | 5.67 | 1.00 | 0.67 | 0.67 | 2.67 |
+| Elis Kern | 3 | 5.00 | 0.67 | 0.67 | 0.00 | 0.00 |
+| Abraham Demir | 3 | 3.33 | 1.00 | 0.00 | 0.00 | 1.00 |
+| Harald Eldh | 3 | 2.67 | 0.67 | 0.00 | 0.00 | 2.00 |
+| Jordan Mengüc Lindquist | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 3.67 |
 
 ## Games
 
-### Eastside Falcons - Täby Basket
+### Malbas Svart - Norrköpings Basketförening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Evangelos Kochliaridis | 15 |  6 |  1 |  0 |  2 |
-| Noah Ringheim | 13 |  5 |  1 |  0 |  0 |
-| Vigan Raci | 11 |  4 |  1 |  0 |  4 |
-| Christian Gonzal | 11 |  4 |  0 |  3 |  0 |
-| Nireas Solidakis |  9 |  3 |  1 |  0 |  1 |
-| Vincent Uzieblo |  8 |  4 |  0 |  0 |  1 |
-| Vidar Ekström |  8 |  4 |  0 |  0 |  2 |
-| Theodor Markey |  4 |  2 |  0 |  0 |  1 |
-| Otis Foon |  3 |  0 |  1 |  0 |  1 |
-| Albin Helmfridsson |  3 |  0 |  1 |  0 |  2 |
+| Edvin Lundh | 16 |  0 |  0 |  0 |  0 |
+| Cesar Karathanasis | 15 |  0 |  0 |  0 |  2 |
+| Eliab Lawgaw | 11 |  0 |  0 |  0 |  4 |
+| Aksel Barkhagen | 10 |  0 |  0 |  0 |  3 |
+| Leon Kojhasarle |  8 |  0 |  0 |  0 |  2 |
+| Elis Kern |  5 |  0 |  0 |  0 |  0 |
+| Harald Eldh |  4 |  0 |  0 |  0 |  1 |
+| Abraham Demir |  4 |  0 |  0 |  0 |  0 |
+| Leon Skarin |  3 |  0 |  0 |  0 |  4 |
+| Jordan Mengüc Lindquist |  0 |  0 |  0 |  0 |  4 |
 
-### Eastside Falcons - IK Eos Lund
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Vincent Uzieblo | 30 | 10 |  0 | 10 |  3 |
-| Nireas Solidakis | 18 |  6 |  2 |  0 |  2 |
-| Noah Ringheim | 11 |  5 |  0 |  1 |  5 |
-| Albin Helmfridsson |  6 |  0 |  2 |  0 |  1 |
-| Vidar Ekström |  5 |  2 |  0 |  1 |  3 |
-| Vigan Raci |  2 |  1 |  0 |  0 |  2 |
-| Evangelos Kochliaridis |  2 |  1 |  0 |  0 |  2 |
-| Otis Foon |  0 |  0 |  0 |  0 |  0 |
-| Theodor Markey |  0 |  0 |  0 |  0 |  2 |
-| Christian Gonzal |  0 |  0 |  0 |  0 |  4 |
-
-### Hammarö Basketklubb - Eastside Falcons
+### Älmhult Beasts BC P15 - Norrköpings Basketförening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Vigan Raci | 20 |  8 |  1 |  1 |  3 |
-| Christian Gonzal | 16 |  7 |  0 |  2 |  3 |
-| Vincent Uzieblo | 15 |  7 |  0 |  1 |  4 |
-| Albin Helmfridsson | 12 |  5 |  0 |  2 |  0 |
-| Evangelos Kochliaridis | 10 |  2 |  2 |  0 |  2 |
-| Nireas Solidakis |  9 |  1 |  2 |  1 |  1 |
-| Otis Foon |  6 |  3 |  0 |  0 |  1 |
-| Noah Ringheim |  5 |  2 |  0 |  1 |  2 |
-| Vidar Ekström |  4 |  1 |  0 |  2 |  4 |
-| Theodor Markey |  0 |  0 |  0 |  0 |  3 |
-| Hjalmar Spångberg |  0 |  0 |  0 |  0 |  0 |
+| Edvin Lundh | 22 |  8 |  2 |  0 |  4 |
+| Aksel Barkhagen | 15 |  7 |  0 |  1 |  1 |
+| Cesar Karathanasis |  8 |  2 |  1 |  1 |  1 |
+| Eliab Lawgaw |  8 |  2 |  0 |  4 |  0 |
+| Leon Skarin |  7 |  1 |  1 |  2 |  1 |
+| Elis Kern |  3 |  0 |  1 |  0 |  0 |
+| Abraham Demir |  2 |  1 |  0 |  0 |  1 |
+| Harald Eldh |  0 |  0 |  0 |  0 |  3 |
+| Leon Kojhasarle |  0 |  0 |  0 |  0 |  4 |
+| Jordan Mengüc Lindquist |  0 |  0 |  0 |  0 |  2 |
+
+### Norrköpings Basketförening - WestCoast Basketförening
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Edvin Lundh | 30 | 13 |  1 |  1 |  1 |
+| Leon Kojhasarle | 14 |  4 |  1 |  3 |  2 |
+| Cesar Karathanasis | 11 |  2 |  2 |  1 |  2 |
+| Leon Skarin |  7 |  2 |  1 |  0 |  3 |
+| Elis Kern |  7 |  2 |  1 |  0 |  0 |
+| Aksel Barkhagen |  6 |  3 |  0 |  0 |  3 |
+| Eliab Lawgaw |  5 |  1 |  1 |  0 |  3 |
+| Harald Eldh |  4 |  2 |  0 |  0 |  2 |
+| Abraham Demir |  4 |  2 |  0 |  0 |  2 |
+| Jordan Mengüc Lindquist |  2 |  1 |  0 |  0 |  5 |
 

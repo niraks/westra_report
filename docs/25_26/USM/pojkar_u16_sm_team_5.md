@@ -1,46 +1,74 @@
-# Statistics for Alviks Basketbollklubb
+# Statistics for Åkersberga
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Alviks Basketbollklubb | 1 | 88.00 | 33.00 | 3.00 | 13.00 | 10.00 |
+| Åkersberga | 3 | 94.67 | 26.33 | 7.67 | 19.00 | 21.33 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Caesar Cederlund | 1 | 26.00 | 10.00 | 1.00 | 3.00 | 1.00 |
-| David Holmin | 1 | 18.00 | 7.00 | 0.00 | 4.00 | 1.00 |
-| Léo Söderström Andrieux | 1 | 13.00 | 6.00 | 0.00 | 1.00 | 0.00 |
-| Ted Wendelstig | 1 | 13.00 | 6.00 | 0.00 | 1.00 | 2.00 |
-| Nils Palmlöf | 1 | 7.00 | 2.00 | 0.00 | 3.00 | 2.00 |
-| Leo Lindefors | 1 | 5.00 | 1.00 | 1.00 | 0.00 | 0.00 |
-| Toby Byrne | 1 | 4.00 | 0.00 | 1.00 | 1.00 | 0.00 |
-| Frank Hallbäck | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
-| Carl Attner | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
-| Carl Longueville | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
-| Myron Larsson | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
-| Aron Rödiger | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Felix Maier | 3 | 16.00 | 3.33 | 1.67 | 4.33 | 3.67 |
+| Hugo Renlund | 3 | 14.33 | 4.67 | 1.00 | 2.00 | 2.67 |
+| Dominykas Cepele | 3 | 14.00 | 4.00 | 1.33 | 2.00 | 2.33 |
+| Sixten Lindgren | 3 | 14.00 | 3.33 | 0.67 | 5.33 | 3.67 |
+| Ture Lindvall | 3 | 12.00 | 4.33 | 0.33 | 2.33 | 2.00 |
+| Einar Kero | 3 | 9.33 | 3.67 | 0.00 | 2.00 | 2.33 |
+| Bolor Munkh-Erdene | 3 | 8.67 | 2.67 | 1.00 | 0.33 | 1.00 |
+| Viggo Lundqvist | 3 | 5.00 | 0.33 | 1.33 | 0.33 | 0.67 |
+| Henrik Östlind | 3 | 1.33 | 0.00 | 0.33 | 0.33 | 3.00 |
+| Melker Feldt | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Alviks Basketbollklubb - Lobas
+### KFUM Basketbollklubb Skellefteå - Åkersberga
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Caesar Cederlund | 26 | 10 |  1 |  3 |  1 |
-| David Holmin | 18 |  7 |  0 |  4 |  1 |
-| Léo Söderström Andrieux | 13 |  6 |  0 |  1 |  0 |
-| Ted Wendelstig | 13 |  6 |  0 |  1 |  2 |
-| Nils Palmlöf |  7 |  2 |  0 |  3 |  2 |
-| Leo Lindefors |  5 |  1 |  1 |  0 |  0 |
-| Toby Byrne |  4 |  0 |  1 |  1 |  0 |
-| Frank Hallbäck |  2 |  1 |  0 |  0 |  1 |
-| Carl Attner |  0 |  0 |  0 |  0 |  1 |
-| Carl Longueville |  0 |  0 |  0 |  0 |  1 |
-| Myron Larsson |  0 |  0 |  0 |  0 |  1 |
-| Aron Rödiger |  0 |  0 |  0 |  0 |  0 |
+| Sixten Lindgren | 22 |  5 |  2 |  6 |  4 |
+| Hugo Renlund | 18 |  6 |  2 |  0 |  2 |
+| Dominykas Cepele | 16 |  6 |  1 |  1 |  2 |
+| Felix Maier | 15 |  3 |  2 |  3 |  4 |
+| Viggo Lundqvist | 11 |  1 |  3 |  0 |  1 |
+| Ture Lindvall | 11 |  2 |  1 |  4 |  2 |
+| Einar Kero | 10 |  3 |  0 |  4 |  2 |
+| Henrik Östlind |  1 |  0 |  0 |  1 |  3 |
+| Bolor Munkh-Erdene |  0 |  0 |  0 |  0 |  0 |
+
+### Åkersberga - Duvbo
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Dominykas Cepele | 24 |  5 |  3 |  5 |  2 |
+| Ture Lindvall | 18 |  8 |  0 |  2 |  3 |
+| Hugo Renlund | 18 |  5 |  1 |  5 |  2 |
+| Felix Maier | 16 |  5 |  0 |  6 |  4 |
+| Sixten Lindgren | 13 |  4 |  0 |  5 |  2 |
+| Bolor Munkh-Erdene | 12 |  4 |  1 |  1 |  2 |
+| Einar Kero |  9 |  4 |  0 |  1 |  4 |
+| Viggo Lundqvist |  3 |  0 |  1 |  0 |  1 |
+| Henrik Östlind |  0 |  0 |  0 |  0 |  2 |
+
+### Lidingö Basket - Åkersberga
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Felix Maier | 17 |  2 |  3 |  4 |  3 |
+| Bolor Munkh-Erdene | 14 |  4 |  2 |  0 |  1 |
+| Einar Kero |  9 |  4 |  0 |  1 |  1 |
+| Sixten Lindgren |  7 |  1 |  0 |  5 |  5 |
+| Ture Lindvall |  7 |  3 |  0 |  1 |  1 |
+| Hugo Renlund |  7 |  3 |  0 |  1 |  4 |
+| Henrik Östlind |  3 |  0 |  1 |  0 |  4 |
+| Dominykas Cepele |  2 |  1 |  0 |  0 |  3 |
+| Viggo Lundqvist |  1 |  0 |  0 |  1 |  0 |
+| Melker Feldt |  0 |  0 |  0 |  0 |  0 |
 

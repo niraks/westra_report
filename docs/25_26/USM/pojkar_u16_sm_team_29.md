@@ -1,72 +1,71 @@
-# Statistics for Kvarnby Basket
+# Statistics for Duvbo
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kvarnby Basket | 3 | 47.33 | 14.33 | 4.67 | 4.67 | 8.33 |
+| Duvbo | 3 | 54.33 | 18.33 | 2.00 | 11.67 | 24.33 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Oliver Rosenlund | 3 | 13.67 | 4.67 | 1.00 | 1.33 | 1.00 |
-| Axel Hasewinkel | 3 | 13.00 | 5.67 | 0.33 | 0.67 | 1.00 |
-| Vincent Tistrand | 3 | 7.67 | 2.00 | 0.67 | 1.67 | 2.67 |
-| Liam Lundin | 3 | 5.00 | 0.67 | 1.00 | 0.67 | 0.33 |
-| Måns Bindgård | 3 | 3.67 | 0.33 | 1.00 | 0.00 | 1.33 |
-| Henry Haag Lundin | 3 | 3.00 | 0.33 | 0.67 | 0.33 | 0.67 |
-| Sid Klevgård | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.00 |
-| Fabian Sjöberg | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.00 |
-| Linus Tangberg | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
+| Leo Norrbo Erström | 3 | 13.67 | 4.00 | 0.33 | 4.67 | 3.33 |
+| Vilmer Sundberg | 3 | 13.00 | 3.67 | 0.67 | 3.67 | 2.00 |
+| Hristijan Beldjigerovski | 3 | 8.67 | 3.67 | 0.33 | 0.33 | 2.67 |
+| Liban Ismail | 3 | 5.00 | 2.00 | 0.00 | 1.00 | 3.33 |
+| Arman Heleg | 3 | 5.00 | 2.00 | 0.33 | 0.00 | 3.00 |
+| David Guerrero | 3 | 4.00 | 1.00 | 0.33 | 1.00 | 4.33 |
+| Eu Jet Liau | 3 | 3.67 | 1.67 | 0.00 | 0.33 | 3.00 |
+| August Hermansson | 2 | 2.00 | 0.50 | 0.00 | 1.00 | 0.00 |
+| Malte Ahlin | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 2.67 |
 
 ## Games
 
-### Hammarby - Kvarnby Basket
+### Duvbo - Lidingö Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Oliver Rosenlund | 24 |  9 |  2 |  0 |  1 |
-| Måns Bindgård |  8 |  1 |  2 |  0 |  2 |
-| Axel Hasewinkel |  7 |  2 |  1 |  0 |  2 |
-| Vincent Tistrand |  5 |  2 |  0 |  1 |  1 |
-| Liam Lundin |  3 |  0 |  1 |  0 |  0 |
-| Henry Haag Lundin |  3 |  0 |  1 |  0 |  0 |
-| Sid Klevgård |  0 |  0 |  0 |  0 |  2 |
-| Linus Tangberg |  0 |  0 |  0 |  0 |  0 |
-| Fabian Sjöberg |  0 |  0 |  0 |  0 |  0 |
+| Vilmer Sundberg | 14 |  4 |  1 |  3 |  1 |
+| Leo Norrbo Erström | 14 |  3 |  1 |  5 |  4 |
+| David Guerrero |  6 |  1 |  1 |  1 |  5 |
+| Hristijan Beldjigerovski |  6 |  3 |  0 |  0 |  1 |
+| Eu Jet Liau |  5 |  2 |  0 |  1 |  3 |
+| Arman Heleg |  4 |  2 |  0 |  0 |  1 |
+| Liban Ismail |  1 |  0 |  0 |  1 |  5 |
+| Malte Ahlin |  0 |  0 |  0 |  0 |  1 |
 
-### KFUM Örebro Basket - Kvarnby Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Vincent Tistrand | 11 |  4 |  1 |  0 |  2 |
-| Axel Hasewinkel |  8 |  4 |  0 |  0 |  1 |
-| Oliver Rosenlund |  6 |  0 |  1 |  3 |  0 |
-| Liam Lundin |  5 |  1 |  1 |  0 |  0 |
-| Henry Haag Lundin |  3 |  0 |  1 |  0 |  1 |
-| Sid Klevgård |  2 |  1 |  0 |  0 |  1 |
-| Måns Bindgård |  0 |  0 |  0 |  0 |  0 |
-| Linus Tangberg |  0 |  0 |  0 |  0 |  0 |
-| Fabian Sjöberg |  0 |  0 |  0 |  0 |  0 |
-
-### Kvarnby Basket - Gota Basket
+### Åkersberga - Duvbo
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Axel Hasewinkel | 24 | 11 |  0 |  2 |  0 |
-| Oliver Rosenlund | 11 |  5 |  0 |  1 |  2 |
-| Vincent Tistrand |  7 |  0 |  1 |  4 |  5 |
-| Liam Lundin |  7 |  1 |  1 |  2 |  1 |
-| Måns Bindgård |  3 |  0 |  1 |  0 |  2 |
-| Henry Haag Lundin |  3 |  1 |  0 |  1 |  1 |
-| Fabian Sjöberg |  2 |  1 |  0 |  0 |  0 |
-| Sid Klevgård |  0 |  0 |  0 |  0 |  0 |
-| Linus Tangberg |  0 |  0 |  0 |  0 |  1 |
+| Leo Norrbo Erström | 16 |  6 |  0 |  4 |  2 |
+| Vilmer Sundberg | 15 |  4 |  1 |  4 |  2 |
+| Liban Ismail | 12 |  5 |  0 |  2 |  2 |
+| Hristijan Beldjigerovski |  6 |  3 |  0 |  0 |  3 |
+| Eu Jet Liau |  6 |  3 |  0 |  0 |  4 |
+| Arman Heleg |  4 |  2 |  0 |  0 |  5 |
+| David Guerrero |  1 |  0 |  0 |  1 |  4 |
+| Malte Ahlin |  0 |  0 |  0 |  0 |  5 |
+| August Hermansson |  0 |  0 |  0 |  0 |  0 |
+
+### Duvbo - KFUM Basketbollklubb Skellefteå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Hristijan Beldjigerovski | 14 |  5 |  1 |  1 |  4 |
+| Leo Norrbo Erström | 11 |  3 |  0 |  5 |  4 |
+| Vilmer Sundberg | 10 |  3 |  0 |  4 |  3 |
+| Arman Heleg |  7 |  2 |  1 |  0 |  3 |
+| David Guerrero |  5 |  2 |  0 |  1 |  4 |
+| August Hermansson |  4 |  1 |  0 |  2 |  0 |
+| Liban Ismail |  2 |  1 |  0 |  0 |  3 |
+| Malte Ahlin |  0 |  0 |  0 |  0 |  2 |
+| Eu Jet Liau |  0 |  0 |  0 |  0 |  2 |
 

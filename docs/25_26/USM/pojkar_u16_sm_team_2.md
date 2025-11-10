@@ -4,26 +4,44 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Hammarby | 2 | 116.00 | 45.00 | 6.50 | 6.50 | 13.50 |
+| Hammarby | 3 | 111.33 | 40.33 | 6.67 | 10.67 | 16.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Noel Englund Ghebreab | 2 | 27.50 | 8.00 | 3.00 | 2.50 | 1.00 |
+| Noel Englund Ghebreab | 3 | 27.00 | 7.67 | 3.33 | 1.67 | 1.33 |
 | Sigge Korphammar | 2 | 15.50 | 7.50 | 0.00 | 0.50 | 1.50 |
-| Noah Yohannes Monfelt | 2 | 11.00 | 4.00 | 1.00 | 0.00 | 1.50 |
-| Elvis Larsson | 2 | 10.50 | 5.00 | 0.00 | 0.50 | 1.50 |
-| Adam Berghand | 2 | 8.50 | 3.50 | 0.50 | 0.00 | 0.00 |
-| Markus Bautista | 2 | 8.00 | 2.50 | 1.00 | 0.00 | 0.50 |
-| Sebastian Pacheco Castellon | 2 | 8.00 | 4.00 | 0.00 | 0.00 | 1.00 |
-| Milion Kawesa Nasri | 2 | 7.00 | 3.00 | 0.00 | 1.00 | 1.50 |
-| Bohdan Piskun | 2 | 6.00 | 2.50 | 0.00 | 1.00 | 0.50 |
-| Maxwell Mayorga Gonzalez | 2 | 5.50 | 1.50 | 0.50 | 1.00 | 2.50 |
-| Hugo Östmark | 2 | 4.50 | 1.50 | 0.50 | 0.00 | 0.50 |
-| Nils Malmkvist | 2 | 4.00 | 2.00 | 0.00 | 0.00 | 1.50 |
+| Elvis Larsson | 3 | 13.00 | 5.67 | 0.00 | 1.67 | 2.67 |
+| Noah Yohannes Monfelt | 3 | 12.33 | 3.33 | 1.67 | 0.67 | 1.67 |
+| Milion Kawesa Nasri | 3 | 8.67 | 3.67 | 0.00 | 1.33 | 1.67 |
+| Sebastian Pacheco Castellon | 3 | 7.67 | 3.00 | 0.00 | 1.67 | 1.33 |
+| Markus Bautista | 3 | 7.33 | 2.33 | 0.67 | 0.67 | 1.00 |
+| Maxwell Mayorga Gonzalez | 3 | 6.33 | 2.00 | 0.33 | 1.33 | 1.67 |
+| Bohdan Piskun | 3 | 6.00 | 2.67 | 0.00 | 0.67 | 1.67 |
+| Adam Berghand | 3 | 5.67 | 2.33 | 0.33 | 0.00 | 0.00 |
+| Nils Malmkvist | 3 | 4.00 | 1.67 | 0.00 | 0.67 | 1.33 |
+| Hugo Östmark | 3 | 3.00 | 1.00 | 0.33 | 0.00 | 0.67 |
 
 ## Games
+
+### Gota Basket - Hammarby
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Noel Englund Ghebreab | 26 |  7 |  4 |  0 |  2 |
+| Elvis Larsson | 18 |  7 |  0 |  4 |  5 |
+| Noah Yohannes Monfelt | 15 |  2 |  3 |  2 |  2 |
+| Milion Kawesa Nasri | 12 |  5 |  0 |  2 |  2 |
+| Maxwell Mayorga Gonzalez |  8 |  3 |  0 |  2 |  0 |
+| Sebastian Pacheco Castellon |  7 |  1 |  0 |  5 |  2 |
+| Bohdan Piskun |  6 |  3 |  0 |  0 |  4 |
+| Markus Bautista |  6 |  2 |  0 |  2 |  2 |
+| Nils Malmkvist |  4 |  1 |  0 |  2 |  1 |
+| Adam Berghand |  0 |  0 |  0 |  0 |  0 |
+| Hugo Östmark |  0 |  0 |  0 |  0 |  1 |
 
 ### Hammarby - Kvarnby Basket
 

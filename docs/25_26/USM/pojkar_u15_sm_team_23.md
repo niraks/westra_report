@@ -1,115 +1,88 @@
-# Statistics for Kungsholmen
+# Statistics for Aros Basketbollklubb
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kungsholmen | 5 | 79.00 | 27.20 | 5.60 | 7.80 | 19.80 |
+| Aros Basketbollklubb | 4 | 66.00 | 22.75 | 3.50 | 10.00 | 14.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Hugo Mattsson Lundberg | 5 | 13.80 | 6.00 | 0.20 | 1.20 | 2.60 |
-| Mustafa Muminovic | 5 | 13.20 | 4.40 | 1.20 | 0.80 | 3.00 |
-| Carljohan Werner Sundén | 5 | 11.00 | 4.40 | 0.40 | 1.00 | 2.80 |
-| Carl Hårleman | 5 | 10.20 | 2.20 | 1.20 | 2.20 | 1.80 |
-| Carl Zachrisson | 5 | 9.80 | 2.80 | 1.00 | 1.20 | 3.00 |
-| Adrian Dennemark | 4 | 9.00 | 2.25 | 1.25 | 0.75 | 1.00 |
-| Adrian Carlsten | 5 | 7.60 | 3.20 | 0.20 | 0.60 | 1.20 |
-| Elas Kaae Kyauk | 5 | 4.00 | 1.40 | 0.40 | 0.00 | 2.00 |
-| Axel Axelsson | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 2.00 |
-| Sture Rimmfelt | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.00 |
-| Johan Sjöstedt | 5 | 0.60 | 0.20 | 0.00 | 0.20 | 0.20 |
-| Jonathan Alemdar | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
-| Simon Liljekvist | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
+| Darlington Adeyefa | 4 | 23.00 | 9.50 | 0.00 | 4.00 | 4.25 |
+| Narek Atayan | 4 | 10.75 | 1.00 | 2.75 | 0.50 | 1.50 |
+| Alfred Lindgren | 4 | 9.25 | 3.75 | 0.25 | 1.00 | 2.00 |
+| Marc Aroyan | 4 | 7.50 | 3.25 | 0.00 | 1.00 | 1.50 |
+| Christian Pretorius | 4 | 6.50 | 1.75 | 0.00 | 3.00 | 0.50 |
+| Charlie Mendoza Wehbi | 4 | 3.25 | 1.50 | 0.00 | 0.25 | 1.00 |
+| Guri Dautaj | 4 | 2.25 | 1.00 | 0.00 | 0.25 | 1.50 |
+| Messi Sliman | 4 | 2.00 | 0.25 | 0.50 | 0.00 | 0.50 |
+| Adam Lindberg | 4 | 1.50 | 0.75 | 0.00 | 0.00 | 1.25 |
 
 ## Games
 
-### Kungsholmen - S:t Helena BK
+### Kungsholmen - Aros Basketbollklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Adrian Carlsten | 20 |  9 |  0 |  2 |  2 |
-| Hugo Mattsson Lundberg | 16 |  7 |  0 |  2 |  3 |
-| Carl Zachrisson | 14 |  5 |  1 |  1 |  4 |
-| Mustafa Muminovic | 11 |  1 |  3 |  0 |  3 |
-| Adrian Dennemark | 11 |  1 |  3 |  0 |  3 |
-| Carljohan Werner Sundén | 10 |  3 |  1 |  1 |  4 |
-| Carl Hårleman |  9 |  3 |  1 |  0 |  1 |
-| Elas Kaae Kyauk |  4 |  2 |  0 |  0 |  3 |
-| Sture Rimmfelt |  2 |  1 |  0 |  0 |  2 |
-| Johan Sjöstedt |  0 |  0 |  0 |  0 |  0 |
-| Jonathan Alemdar |  0 |  0 |  0 |  0 |  1 |
+| Alfred Lindgren | 13 |  5 |  0 |  3 |  3 |
+| Darlington Adeyefa |  7 |  3 |  0 |  1 |  4 |
+| Charlie Mendoza Wehbi |  5 |  2 |  0 |  1 |  1 |
+| Christian Pretorius |  4 |  1 |  0 |  2 |  0 |
+| Marc Aroyan |  4 |  2 |  0 |  0 |  0 |
+| Narek Atayan |  3 |  0 |  1 |  0 |  0 |
+| Messi Sliman |  2 |  1 |  0 |  0 |  1 |
+| Adam Lindberg |  0 |  0 |  0 |  0 |  2 |
+| Guri Dautaj |  0 |  0 |  0 |  0 |  1 |
 
-### Lidingö Basket - Kungsholmen
+### Aros Basketbollklubb - S:t Helena BK
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Hugo Mattsson Lundberg | 27 | 11 |  1 |  2 |  4 |
-| Mustafa Muminovic | 22 |  9 |  1 |  1 |  2 |
-| Carljohan Werner Sundén | 22 | 11 |  0 |  0 |  5 |
-| Carl Hårleman | 12 |  1 |  2 |  4 |  3 |
-| Adrian Carlsten | 12 |  4 |  1 |  1 |  3 |
-| Elas Kaae Kyauk |  6 |  3 |  0 |  0 |  2 |
-| Carl Zachrisson |  4 |  2 |  0 |  0 |  3 |
-| Johan Sjöstedt |  1 |  0 |  0 |  1 |  0 |
-| Sture Rimmfelt |  0 |  0 |  0 |  0 |  0 |
-| Simon Liljekvist |  0 |  0 |  0 |  0 |  2 |
-| Jonathan Alemdar |  0 |  0 |  0 |  0 |  1 |
+| Darlington Adeyefa | 34 | 12 |  0 | 10 |  4 |
+| Narek Atayan | 22 |  1 |  6 |  2 |  4 |
+| Marc Aroyan |  6 |  3 |  0 |  0 |  3 |
+| Charlie Mendoza Wehbi |  4 |  2 |  0 |  0 |  0 |
+| Christian Pretorius |  2 |  0 |  0 |  2 |  0 |
+| Alfred Lindgren |  2 |  1 |  0 |  0 |  2 |
+| Guri Dautaj |  1 |  0 |  0 |  1 |  3 |
+| Adam Lindberg |  0 |  0 |  0 |  0 |  1 |
+| Messi Sliman |  0 |  0 |  0 |  0 |  0 |
 
-### Skuru Idrottsklubb - Kungsholmen
+### Lidingö Basket - Aros Basketbollklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Mustafa Muminovic | 10 |  2 |  2 |  0 |  2 |
-| Adrian Dennemark |  9 |  1 |  2 |  1 |  0 |
-| Carl Zachrisson |  8 |  1 |  2 |  0 |  5 |
-| Carl Hårleman |  8 |  3 |  0 |  2 |  3 |
-| Elas Kaae Kyauk |  6 |  0 |  2 |  0 |  2 |
-| Axel Axelsson |  6 |  3 |  0 |  0 |  2 |
-| Johan Sjöstedt |  2 |  1 |  0 |  0 |  1 |
-| Adrian Carlsten |  2 |  1 |  0 |  0 |  0 |
-| Hugo Mattsson Lundberg |  2 |  1 |  0 |  0 |  1 |
-| Carljohan Werner Sundén |  2 |  1 |  0 |  0 |  2 |
+| Darlington Adeyefa | 25 | 11 |  0 |  3 |  5 |
+| Narek Atayan | 18 |  3 |  4 |  0 |  2 |
+| Christian Pretorius | 12 |  3 |  0 |  6 |  2 |
+| Marc Aroyan | 10 |  3 |  0 |  4 |  2 |
+| Alfred Lindgren |  7 |  3 |  0 |  1 |  1 |
+| Messi Sliman |  6 |  0 |  2 |  0 |  1 |
+| Adam Lindberg |  2 |  1 |  0 |  0 |  0 |
+| Charlie Mendoza Wehbi |  2 |  1 |  0 |  0 |  2 |
+| Guri Dautaj |  0 |  0 |  0 |  0 |  1 |
 
-### Norrköpings Basketförening - Kungsholmen
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Hugo Mattsson Lundberg | 16 |  7 |  0 |  2 |  4 |
-| Carl Hårleman | 11 |  4 |  1 |  0 |  1 |
-| Carljohan Werner Sundén | 11 |  5 |  0 |  1 |  2 |
-| Mustafa Muminovic |  8 |  3 |  0 |  2 |  5 |
-| Adrian Dennemark |  8 |  4 |  0 |  0 |  0 |
-| Adrian Carlsten |  4 |  2 |  0 |  0 |  0 |
-| Elas Kaae Kyauk |  4 |  2 |  0 |  0 |  3 |
-| Carl Zachrisson |  3 |  1 |  0 |  1 |  1 |
-| Johan Sjöstedt |  0 |  0 |  0 |  0 |  0 |
-| Axel Axelsson |  0 |  0 |  0 |  0 |  2 |
-
-### Kungsholmen - Täby Basket
+### Aros Basketbollklubb - Oskarshamns Basketbollklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Carl Zachrisson | 20 |  5 |  2 |  4 |  2 |
-| Mustafa Muminovic | 15 |  7 |  0 |  1 |  3 |
-| Carl Hårleman | 11 |  0 |  2 |  5 |  1 |
-| Carljohan Werner Sundén | 10 |  2 |  1 |  3 |  1 |
-| Adrian Dennemark |  8 |  3 |  0 |  2 |  1 |
-| Hugo Mattsson Lundberg |  8 |  4 |  0 |  0 |  1 |
-| Johan Sjöstedt |  0 |  0 |  0 |  0 |  0 |
-| Adrian Carlsten |  0 |  0 |  0 |  0 |  1 |
-| Elas Kaae Kyauk |  0 |  0 |  0 |  0 |  0 |
-| Axel Axelsson |  0 |  0 |  0 |  0 |  2 |
+| Darlington Adeyefa | 26 | 12 |  0 |  2 |  4 |
+| Alfred Lindgren | 15 |  6 |  1 |  0 |  2 |
+| Marc Aroyan | 10 |  5 |  0 |  0 |  1 |
+| Christian Pretorius |  8 |  3 |  0 |  2 |  0 |
+| Guri Dautaj |  8 |  4 |  0 |  0 |  1 |
+| Adam Lindberg |  4 |  2 |  0 |  0 |  2 |
+| Charlie Mendoza Wehbi |  2 |  1 |  0 |  0 |  1 |
+| Narek Atayan |  0 |  0 |  0 |  0 |  0 |
+| Messi Sliman |  0 |  0 |  0 |  0 |  0 |
 

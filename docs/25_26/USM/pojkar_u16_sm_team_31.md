@@ -1,46 +1,72 @@
-# Statistics for Malbas Vit
+# Statistics for Kvarnby Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Malbas Vit | 1 | 46.00 | 13.00 | 4.00 | 8.00 | 21.00 |
+| Kvarnby Basket | 3 | 50.00 | 16.67 | 4.33 | 3.67 | 7.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Filip Mattsson Warnerbring | 1 | 10.00 | 4.00 | 0.00 | 2.00 | 2.00 |
-| Denton Bankhead | 1 | 8.00 | 2.00 | 0.00 | 4.00 | 2.00 |
-| Olle Hogebrandt Thalin | 1 | 8.00 | 2.00 | 1.00 | 1.00 | 3.00 |
-| Leon Lundfald | 1 | 6.00 | 0.00 | 2.00 | 0.00 | 1.00 |
-| James Michael Gere | 1 | 5.00 | 1.00 | 1.00 | 0.00 | 1.00 |
-| Benjamin Strindberg | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 2.00 |
-| Emilio Gajcanin | 1 | 3.00 | 1.00 | 0.00 | 1.00 | 3.00 |
-| August Thuröe | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
-| Victor Ugwueze | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Samir Ftouni | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 3.00 |
-| Erlis Shala | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
-| Sixten Johnson Wodlin | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Oliver Rosenlund | 3 | 15.67 | 5.00 | 1.33 | 1.67 | 0.33 |
+| Axel Hasewinkel | 3 | 9.67 | 4.33 | 0.33 | 0.00 | 1.00 |
+| Vincent Tistrand | 3 | 9.00 | 3.00 | 0.67 | 1.00 | 1.67 |
+| Henry Haag Lundin | 3 | 4.67 | 1.00 | 0.67 | 0.67 | 1.33 |
+| Måns Bindgård | 3 | 4.00 | 1.00 | 0.67 | 0.00 | 1.00 |
+| Liam Lundin | 3 | 4.00 | 1.00 | 0.67 | 0.00 | 0.33 |
+| Sid Klevgård | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 1.67 |
+| Linus Tangberg | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.00 |
+| Fabian Sjöberg | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
 
 ## Games
 
-### IK Eos Lund - Malbas Vit
+### Kvarnby Basket - KFUM Sundsvall Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Filip Mattsson Warnerbring | 10 |  4 |  0 |  2 |  2 |
-| Denton Bankhead |  8 |  2 |  0 |  4 |  2 |
-| Olle Hogebrandt Thalin |  8 |  2 |  1 |  1 |  3 |
-| Leon Lundfald |  6 |  0 |  2 |  0 |  1 |
-| James Michael Gere |  5 |  1 |  1 |  0 |  1 |
-| Benjamin Strindberg |  4 |  2 |  0 |  0 |  2 |
-| Emilio Gajcanin |  3 |  1 |  0 |  1 |  3 |
-| August Thuröe |  2 |  1 |  0 |  0 |  1 |
-| Victor Ugwueze |  0 |  0 |  0 |  0 |  0 |
-| Samir Ftouni |  0 |  0 |  0 |  0 |  3 |
-| Erlis Shala |  0 |  0 |  0 |  0 |  2 |
-| Sixten Johnson Wodlin |  0 |  0 |  0 |  0 |  1 |
+| Oliver Rosenlund | 17 |  6 |  1 |  2 |  0 |
+| Axel Hasewinkel | 14 |  7 |  0 |  0 |  0 |
+| Vincent Tistrand | 11 |  3 |  1 |  2 |  2 |
+| Henry Haag Lundin |  8 |  3 |  0 |  2 |  3 |
+| Sid Klevgård |  5 |  2 |  0 |  1 |  2 |
+| Måns Bindgård |  4 |  2 |  0 |  0 |  1 |
+| Liam Lundin |  4 |  2 |  0 |  0 |  1 |
+| Linus Tangberg |  2 |  1 |  0 |  0 |  0 |
+| Fabian Sjöberg |  0 |  0 |  0 |  0 |  1 |
+
+### Hammarby - Kvarnby Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Oliver Rosenlund | 24 |  9 |  2 |  0 |  1 |
+| Måns Bindgård |  8 |  1 |  2 |  0 |  2 |
+| Axel Hasewinkel |  7 |  2 |  1 |  0 |  2 |
+| Vincent Tistrand |  5 |  2 |  0 |  1 |  1 |
+| Liam Lundin |  3 |  0 |  1 |  0 |  0 |
+| Henry Haag Lundin |  3 |  0 |  1 |  0 |  0 |
+| Sid Klevgård |  0 |  0 |  0 |  0 |  2 |
+| Linus Tangberg |  0 |  0 |  0 |  0 |  0 |
+| Fabian Sjöberg |  0 |  0 |  0 |  0 |  0 |
+
+### KFUM Örebro Basket - Kvarnby Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Vincent Tistrand | 11 |  4 |  1 |  0 |  2 |
+| Axel Hasewinkel |  8 |  4 |  0 |  0 |  1 |
+| Oliver Rosenlund |  6 |  0 |  1 |  3 |  0 |
+| Liam Lundin |  5 |  1 |  1 |  0 |  0 |
+| Henry Haag Lundin |  3 |  0 |  1 |  0 |  1 |
+| Sid Klevgård |  2 |  1 |  0 |  0 |  1 |
+| Måns Bindgård |  0 |  0 |  0 |  0 |  0 |
+| Linus Tangberg |  0 |  0 |  0 |  0 |  0 |
+| Fabian Sjöberg |  0 |  0 |  0 |  0 |  0 |
 

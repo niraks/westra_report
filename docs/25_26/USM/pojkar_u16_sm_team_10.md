@@ -1,65 +1,85 @@
-# Statistics for AIK
+# Statistics for Södertälje Basketbollklubb
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| AIK | 2 | 82.00 | 28.00 | 6.00 | 8.00 | 14.00 |
+| Södertälje Basketbollklubb | 3 | 81.33 | 28.67 | 3.33 | 14.00 | 21.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Darian Kalkali Tawfeek | 2 | 20.50 | 8.50 | 0.00 | 3.50 | 1.00 |
-| Tristan Danielsson Claret | 2 | 17.50 | 4.00 | 2.50 | 2.00 | 3.00 |
-| Nils Samuelsson | 2 | 13.00 | 6.50 | 0.00 | 0.00 | 2.50 |
-| Samuel Halvarsson De Oliveira | 2 | 11.50 | 1.50 | 2.50 | 1.00 | 1.50 |
-| Carl Lind | 2 | 5.00 | 2.50 | 0.00 | 0.00 | 2.50 |
-| Marcus Falk | 2 | 4.00 | 1.00 | 0.50 | 0.50 | 0.00 |
-| Dante Dehaddo | 2 | 3.50 | 1.50 | 0.00 | 0.50 | 1.00 |
-| Benjamin Banoub | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 0.00 |
-| Jonatan Jarde | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 0.00 |
-| Adam Emara | 2 | 1.50 | 0.50 | 0.00 | 0.50 | 0.50 |
-| Axel Åhman Siljemark | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.00 |
-| Tyson Bah Hichens-Bergström | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
+| Mantas Jurgaitis | 3 | 24.67 | 6.67 | 1.67 | 6.33 | 2.67 |
+| Linus Fredriksson | 3 | 18.67 | 7.00 | 1.00 | 1.67 | 3.67 |
+| Hjalmar Gau | 3 | 15.67 | 6.67 | 0.00 | 2.33 | 2.33 |
+| Marten Emghemes | 3 | 8.33 | 2.33 | 0.00 | 3.67 | 3.33 |
+| Alexander Massamba Johansson | 3 | 5.00 | 2.00 | 0.33 | 0.00 | 1.33 |
+| Victor Berglund Tärk | 3 | 3.33 | 1.67 | 0.00 | 0.00 | 4.67 |
+| Isak Olsson | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 0.33 |
+| Leon Thelander | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
+| Anton Van Dijck | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 4.00 |
+| Lucas Poli | 3 | 1.00 | 0.00 | 0.33 | 0.00 | 0.67 |
+| Ossian Said Isacsson | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
+| Nils Berkelund | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Kasper Bergström | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Hammarö Basketklubb P10 - AIK
+### Södertälje Basketbollklubb - KFUM Blackebergs Idrottsklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Darian Kalkali Tawfeek | 23 | 10 |  0 |  3 |  1 |
-| Tristan Danielsson Claret | 18 |  4 |  3 |  1 |  3 |
-| Samuel Halvarsson De Oliveira | 14 |  1 |  4 |  0 |  3 |
-| Nils Samuelsson |  8 |  4 |  0 |  0 |  2 |
-| Marcus Falk |  5 |  1 |  1 |  0 |  0 |
-| Dante Dehaddo |  2 |  1 |  0 |  0 |  0 |
-| Benjamin Banoub |  2 |  1 |  0 |  0 |  0 |
-| Axel Åhman Siljemark |  0 |  0 |  0 |  0 |  0 |
-| Jonatan Jarde |  0 |  0 |  0 |  0 |  0 |
-| Adam Emara |  0 |  0 |  0 |  0 |  1 |
-| Carl Lind |  0 |  0 |  0 |  0 |  3 |
-| Tyson Bah Hichens-Bergström |  0 |  0 |  0 |  0 |  0 |
+| Mantas Jurgaitis | 26 |  5 |  3 |  7 |  4 |
+| Hjalmar Gau | 22 | 11 |  0 |  0 |  2 |
+| Linus Fredriksson | 16 |  5 |  1 |  3 |  4 |
+| Marten Emghemes | 11 |  3 |  0 |  5 |  4 |
+| Alexander Massamba Johansson |  7 |  2 |  1 |  0 |  1 |
+| Victor Berglund Tärk |  4 |  2 |  0 |  0 |  5 |
+| Lucas Poli |  3 |  0 |  1 |  0 |  2 |
+| Isak Olsson |  0 |  0 |  0 |  0 |  1 |
+| Leon Thelander |  0 |  0 |  0 |  0 |  0 |
+| Ossian Said Isacsson |  0 |  0 |  0 |  0 |  1 |
+| Nils Berkelund |  0 |  0 |  0 |  0 |  0 |
+| Kasper Bergström |  0 |  0 |  0 |  0 |  0 |
 
-### AIK - Vallentuna Basket
+### Södertälje Basketbollklubb - Norrköpings Basketförening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Darian Kalkali Tawfeek | 18 |  7 |  0 |  4 |  1 |
-| Nils Samuelsson | 18 |  9 |  0 |  0 |  3 |
-| Tristan Danielsson Claret | 17 |  4 |  2 |  3 |  3 |
-| Carl Lind | 10 |  5 |  0 |  0 |  2 |
-| Samuel Halvarsson De Oliveira |  9 |  2 |  1 |  2 |  0 |
-| Dante Dehaddo |  5 |  2 |  0 |  1 |  2 |
-| Benjamin Banoub |  4 |  2 |  0 |  0 |  0 |
-| Jonatan Jarde |  3 |  0 |  1 |  0 |  0 |
-| Marcus Falk |  3 |  1 |  0 |  1 |  0 |
-| Adam Emara |  3 |  1 |  0 |  1 |  0 |
-| Axel Åhman Siljemark |  2 |  1 |  0 |  0 |  0 |
-| Tyson Bah Hichens-Bergström |  0 |  0 |  0 |  0 |  4 |
+| Linus Fredriksson | 19 |  9 |  0 |  1 |  4 |
+| Mantas Jurgaitis | 16 |  5 |  1 |  3 |  3 |
+| Hjalmar Gau | 15 |  5 |  0 |  5 |  2 |
+| Marten Emghemes | 10 |  3 |  0 |  4 |  2 |
+| Victor Berglund Tärk |  4 |  2 |  0 |  0 |  4 |
+| Isak Olsson |  2 |  1 |  0 |  0 |  0 |
+| Leon Thelander |  2 |  1 |  0 |  0 |  0 |
+| Lucas Poli |  0 |  0 |  0 |  0 |  0 |
+| Alexander Massamba Johansson |  0 |  0 |  0 |  0 |  1 |
+| Ossian Said Isacsson |  0 |  0 |  0 |  0 |  0 |
+| Nils Berkelund |  0 |  0 |  0 |  0 |  0 |
+| Kasper Bergström |  0 |  0 |  0 |  0 |  0 |
+
+### Täby Basket - Södertälje Basketbollklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Mantas Jurgaitis | 32 | 10 |  1 |  9 |  1 |
+| Linus Fredriksson | 21 |  7 |  2 |  1 |  3 |
+| Hjalmar Gau | 10 |  4 |  0 |  2 |  3 |
+| Alexander Massamba Johansson |  8 |  4 |  0 |  0 |  2 |
+| Isak Olsson |  4 |  2 |  0 |  0 |  0 |
+| Leon Thelander |  4 |  2 |  0 |  0 |  3 |
+| Marten Emghemes |  4 |  1 |  0 |  2 |  4 |
+| Anton Van Dijck |  2 |  1 |  0 |  0 |  4 |
+| Victor Berglund Tärk |  2 |  1 |  0 |  0 |  5 |
+| Lucas Poli |  0 |  0 |  0 |  0 |  0 |
+| Ossian Said Isacsson |  0 |  0 |  0 |  0 |  0 |
+| Kasper Bergström |  0 |  0 |  0 |  0 |  0 |
 

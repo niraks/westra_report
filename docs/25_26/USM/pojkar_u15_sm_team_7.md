@@ -1,99 +1,97 @@
-# Statistics for Kvarnby Basket
+# Statistics for Oskarshamns Basketbollklubb
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kvarnby Basket | 4 | 100.50 | 39.75 | 3.75 | 9.75 | 14.25 |
+| Oskarshamns Basketbollklubb | 4 | 90.00 | 27.75 | 7.50 | 11.25 | 11.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Viggo Fältjäger | 4 | 19.25 | 8.75 | 0.25 | 1.00 | 1.25 |
-| Alexander Blomgren | 4 | 19.00 | 7.25 | 1.00 | 1.50 | 2.75 |
-| Sam Limberg | 4 | 14.50 | 5.00 | 0.75 | 2.25 | 2.75 |
-| Theodor Nankler | 4 | 10.75 | 4.25 | 0.25 | 1.50 | 2.00 |
-| Noel Dalgärde | 4 | 8.50 | 2.50 | 0.75 | 1.25 | 0.25 |
-| Elvin Östenson Grimfeldt | 4 | 8.25 | 3.25 | 0.25 | 1.00 | 0.25 |
-| Liam Kim Börjesson | 4 | 6.75 | 3.25 | 0.00 | 0.25 | 0.75 |
-| Leo Hashemi | 3 | 5.67 | 2.33 | 0.33 | 0.00 | 1.00 |
-| Michael Mei | 3 | 4.33 | 1.67 | 0.33 | 0.00 | 2.33 |
-| Gustav Setterberg | 4 | 2.75 | 1.25 | 0.00 | 0.25 | 0.75 |
-| Sebastian Nilsson | 2 | 2.50 | 1.00 | 0.00 | 0.50 | 0.00 |
-| Aravind Sreenivas | 4 | 2.00 | 0.75 | 0.00 | 0.50 | 1.00 |
+| Albin Ibricic Karlsson | 4 | 56.25 | 16.50 | 4.25 | 9.75 | 3.25 |
+| Aiden Kahric | 4 | 10.75 | 4.00 | 0.50 | 1.25 | 4.25 |
+| Olle Woxö | 3 | 9.00 | 1.00 | 2.33 | 0.00 | 1.00 |
+| Kevin Tang | 4 | 4.00 | 2.00 | 0.00 | 0.00 | 0.50 |
+| Alfred Jutegård | 4 | 3.00 | 0.75 | 0.50 | 0.00 | 0.25 |
+| Jason Brink | 4 | 2.75 | 0.50 | 0.50 | 0.25 | 1.50 |
+| Helmer Löfqvist | 4 | 2.50 | 1.25 | 0.00 | 0.00 | 0.00 |
+| Johannes Cao | 4 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
+| Dovydas Stankünas | 4 | 1.00 | 0.50 | 0.00 | 0.00 | 0.75 |
+| Theo Pehkonen | 4 | 0.50 | 0.25 | 0.00 | 0.00 | 0.00 |
+| Oliver Lindqvist Frisk | 4 | 0.50 | 0.25 | 0.00 | 0.00 | 0.25 |
 
 ## Games
 
-### Kvarnby Basket - Hammarö Basketklubb
+### Oskarshamns Basketbollklubb - Kungsholmen
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Alexander Blomgren | 27 | 13 |  0 |  1 |  3 |
-| Viggo Fältjäger | 25 | 11 |  0 |  3 |  2 |
-| Sam Limberg | 16 |  3 |  3 |  1 |  0 |
-| Elvin Östenson Grimfeldt | 15 |  6 |  1 |  0 |  0 |
-| Liam Kim Börjesson | 11 |  5 |  0 |  1 |  3 |
-| Noel Dalgärde | 10 |  2 |  2 |  0 |  0 |
-| Theodor Nankler | 10 |  3 |  1 |  1 |  2 |
-| Sebastian Nilsson |  5 |  2 |  0 |  1 |  0 |
-| Aravind Sreenivas |  2 |  1 |  0 |  0 |  1 |
-| Gustav Setterberg |  0 |  0 |  0 |  0 |  1 |
+| Albin Ibricic Karlsson | 44 | 11 |  4 | 10 |  3 |
+| Olle Woxö | 14 |  1 |  4 |  0 |  1 |
+| Jason Brink | 10 |  2 |  2 |  0 |  0 |
+| Kevin Tang |  6 |  3 |  0 |  0 |  1 |
+| Aiden Kahric |  5 |  1 |  1 |  0 |  4 |
+| Johannes Cao |  0 |  0 |  0 |  0 |  0 |
+| Theo Pehkonen |  0 |  0 |  0 |  0 |  0 |
+| Alfred Jutegård |  0 |  0 |  0 |  0 |  1 |
+| Helmer Löfqvist |  0 |  0 |  0 |  0 |  0 |
+| Oliver Lindqvist Frisk |  0 |  0 |  0 |  0 |  0 |
+| Dovydas Stankünas |  0 |  0 |  0 |  0 |  2 |
 
-### Kvarnby Basket - Aros Basketbollklubb
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Alexander Blomgren | 18 |  9 |  0 |  0 |  1 |
-| Sam Limberg | 18 |  7 |  0 |  4 |  4 |
-| Noel Dalgärde | 12 |  4 |  0 |  4 |  1 |
-| Elvin Östenson Grimfeldt | 10 |  5 |  0 |  0 |  0 |
-| Liam Kim Börjesson |  8 |  4 |  0 |  0 |  0 |
-| Leo Hashemi |  8 |  4 |  0 |  0 |  1 |
-| Viggo Fältjäger |  7 |  3 |  0 |  1 |  2 |
-| Gustav Setterberg |  4 |  2 |  0 |  0 |  1 |
-| Michael Mei |  2 |  1 |  0 |  0 |  2 |
-| Aravind Sreenivas |  2 |  1 |  0 |  0 |  1 |
-| Theodor Nankler |  0 |  0 |  0 |  0 |  2 |
-
-### Lobas Röd - Kvarnby Basket
+### S:t Helena BK - Oskarshamns Basketbollklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Viggo Fältjäger | 26 | 13 |  0 |  0 |  0 |
-| Alexander Blomgren | 18 |  4 |  3 |  1 |  4 |
-| Sam Limberg | 13 |  5 |  0 |  3 |  5 |
-| Noel Dalgärde | 12 |  4 |  1 |  1 |  0 |
-| Theodor Nankler | 12 |  6 |  0 |  0 |  0 |
-| Leo Hashemi |  9 |  3 |  1 |  0 |  2 |
-| Liam Kim Börjesson |  8 |  4 |  0 |  0 |  0 |
-| Michael Mei |  7 |  2 |  1 |  0 |  2 |
-| Gustav Setterberg |  5 |  2 |  0 |  1 |  1 |
-| Aravind Sreenivas |  4 |  1 |  0 |  2 |  2 |
-| Elvin Östenson Grimfeldt |  3 |  1 |  0 |  1 |  1 |
+| Albin Ibricic Karlsson | 82 | 27 |  5 | 10 |  4 |
+| Aiden Kahric | 15 |  5 |  1 |  2 |  3 |
+| Olle Woxö |  7 |  2 |  1 |  0 |  1 |
+| Kevin Tang |  6 |  3 |  0 |  0 |  1 |
+| Alfred Jutegård |  5 |  1 |  1 |  0 |  0 |
+| Helmer Löfqvist |  4 |  2 |  0 |  0 |  0 |
+| Johannes Cao |  0 |  0 |  0 |  0 |  0 |
+| Theo Pehkonen |  0 |  0 |  0 |  0 |  0 |
+| Oliver Lindqvist Frisk |  0 |  0 |  0 |  0 |  1 |
+| Dovydas Stankünas |  0 |  0 |  0 |  0 |  1 |
+| Jason Brink |  0 |  0 |  0 |  0 |  0 |
 
-### Kvarnby Basket - Ale Basket
+### Oskarshamns Basketbollklubb - Lidingö Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Theodor Nankler | 21 |  8 |  0 |  5 |  4 |
-| Viggo Fältjäger | 19 |  8 |  1 |  0 |  1 |
-| Alexander Blomgren | 13 |  3 |  1 |  4 |  3 |
-| Sam Limberg | 11 |  5 |  0 |  1 |  2 |
-| Elvin Östenson Grimfeldt |  5 |  1 |  0 |  3 |  0 |
-| Michael Mei |  4 |  2 |  0 |  0 |  3 |
-| Gustav Setterberg |  2 |  1 |  0 |  0 |  0 |
-| Noel Dalgärde |  0 |  0 |  0 |  0 |  0 |
-| Liam Kim Börjesson |  0 |  0 |  0 |  0 |  0 |
-| Aravind Sreenivas |  0 |  0 |  0 |  0 |  0 |
-| Leo Hashemi |  0 |  0 |  0 |  0 |  0 |
-| Sebastian Nilsson |  0 |  0 |  0 |  0 |  0 |
+| Albin Ibricic Karlsson | 40 |  8 |  4 | 12 |  2 |
+| Aiden Kahric | 12 |  5 |  0 |  2 |  5 |
+| Olle Woxö |  6 |  0 |  2 |  0 |  1 |
+| Johannes Cao |  4 |  2 |  0 |  0 |  0 |
+| Kevin Tang |  4 |  2 |  0 |  0 |  0 |
+| Alfred Jutegård |  4 |  2 |  0 |  0 |  0 |
+| Helmer Löfqvist |  4 |  2 |  0 |  0 |  0 |
+| Theo Pehkonen |  2 |  1 |  0 |  0 |  0 |
+| Oliver Lindqvist Frisk |  2 |  1 |  0 |  0 |  0 |
+| Dovydas Stankünas |  2 |  1 |  0 |  0 |  0 |
+| Jason Brink |  0 |  0 |  0 |  0 |  4 |
+
+### Aros Basketbollklubb - Oskarshamns Basketbollklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Albin Ibricic Karlsson | 59 | 20 |  4 |  7 |  4 |
+| Aiden Kahric | 11 |  5 |  0 |  1 |  5 |
+| Johannes Cao |  4 |  2 |  0 |  0 |  0 |
+| Alfred Jutegård |  3 |  0 |  1 |  0 |  0 |
+| Helmer Löfqvist |  2 |  1 |  0 |  0 |  0 |
+| Dovydas Stankünas |  2 |  1 |  0 |  0 |  0 |
+| Jason Brink |  1 |  0 |  0 |  1 |  2 |
+| Theo Pehkonen |  0 |  0 |  0 |  0 |  0 |
+| Kevin Tang |  0 |  0 |  0 |  0 |  0 |
+| Oliver Lindqvist Frisk |  0 |  0 |  0 |  0 |  0 |
 

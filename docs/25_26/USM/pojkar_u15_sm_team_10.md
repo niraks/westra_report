@@ -1,53 +1,80 @@
-# Statistics for KFUM Kalmar Basket
+# Statistics for Borås Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| KFUM Kalmar Basket | 2 | 94.00 | 30.00 | 6.50 | 14.50 | 19.00 |
+| Borås Basket | 3 | 83.67 | 19.67 | 1.67 | 7.67 | 21.33 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Alfons Throfast | 2 | 28.00 | 12.00 | 0.50 | 2.50 | 3.00 |
-| Love Holmgren | 2 | 21.50 | 6.50 | 1.00 | 5.50 | 4.50 |
-| Dani Drazic | 2 | 15.50 | 2.50 | 2.50 | 3.00 | 3.00 |
-| Ergen Atac | 2 | 15.00 | 2.50 | 2.50 | 2.50 | 2.50 |
-| Gunnar Ericson | 2 | 6.00 | 2.50 | 0.00 | 1.00 | 2.00 |
-| Leo Runnqvist | 2 | 5.00 | 2.50 | 0.00 | 0.00 | 1.50 |
-| Otto Throfast | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 2.00 |
-| Charlie Rainford | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.50 |
+| Luka Caktas | 3 | 27.00 | 6.67 | 0.00 | 4.00 | 4.33 |
+| Harry Almgren | 3 | 20.00 | 4.67 | 0.67 | 1.67 | 3.00 |
+| Narrt Osmani | 3 | 14.00 | 4.00 | 0.00 | 1.33 | 2.33 |
+| Vidar Björlevik | 3 | 11.33 | 2.67 | 0.33 | 0.67 | 3.67 |
+| Frank Lindin | 3 | 6.67 | 1.00 | 0.67 | 0.00 | 1.33 |
+| Love Petersson | 3 | 2.00 | 0.33 | 0.00 | 0.00 | 2.67 |
+| Colin Ciurana | 3 | 1.33 | 0.00 | 0.00 | 0.00 | 2.00 |
+| Olle Ragnar | 3 | 0.67 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Emil Westberg | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.33 |
+| Hannes Carlsson | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
+| Masiha Gharibi Falaheh | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
 
 ## Games
 
-### KFUM Kalmar Basket - Västerås Basketboll Förening
+### Lobas Vit - Borås Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Alfons Throfast | 37 | 15 |  1 |  4 |  2 |
-| Love Holmgren | 21 |  7 |  1 |  4 |  5 |
-| Ergen Atac | 20 |  3 |  3 |  5 |  3 |
-| Dani Drazic | 12 |  3 |  2 |  0 |  5 |
-| Gunnar Ericson |  6 |  3 |  0 |  0 |  1 |
-| Leo Runnqvist |  6 |  3 |  0 |  0 |  1 |
-| Otto Throfast |  2 |  1 |  0 |  0 |  3 |
-| Charlie Rainford |  0 |  0 |  0 |  0 |  0 |
+| Luka Caktas | 30 | 10 |  0 | 10 |  4 |
+| Harry Almgren | 21 |  9 |  0 |  3 |  4 |
+| Narrt Osmani | 15 |  6 |  0 |  3 |  3 |
+| Vidar Björlevik |  7 |  1 |  1 |  2 |  4 |
+| Frank Lindin |  4 |  2 |  0 |  0 |  1 |
+| Hannes Carlsson |  0 |  0 |  0 |  0 |  1 |
+| Olle Ragnar |  0 |  0 |  0 |  0 |  0 |
+| Love Petersson |  0 |  0 |  0 |  0 |  4 |
+| Masiha Gharibi Falaheh |  0 |  0 |  0 |  0 |  0 |
+| Emil Westberg |  0 |  0 |  0 |  0 |  0 |
+| Colin Ciurana |  0 |  0 |  0 |  0 |  3 |
 
-### KFUM Central Basket - KFUM Kalmar Basket
+### Borås Basket - Viby Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Love Holmgren | 22 |  6 |  1 |  7 |  4 |
-| Dani Drazic | 19 |  2 |  3 |  6 |  1 |
-| Alfons Throfast | 19 |  9 |  0 |  1 |  4 |
-| Ergen Atac | 10 |  2 |  2 |  0 |  2 |
-| Gunnar Ericson |  6 |  2 |  0 |  2 |  3 |
-| Otto Throfast |  4 |  2 |  0 |  0 |  1 |
-| Leo Runnqvist |  4 |  2 |  0 |  0 |  2 |
-| Charlie Rainford |  0 |  0 |  0 |  0 |  1 |
+| Luka Caktas | 29 |  0 |  0 |  0 |  5 |
+| Harry Almgren | 21 |  0 |  0 |  0 |  1 |
+| Narrt Osmani | 14 |  0 |  0 |  0 |  2 |
+| Vidar Björlevik | 13 |  0 |  0 |  0 |  3 |
+| Frank Lindin |  8 |  0 |  0 |  0 |  2 |
+| Love Petersson |  4 |  0 |  0 |  0 |  1 |
+| Colin Ciurana |  4 |  0 |  0 |  0 |  1 |
+| Olle Ragnar |  2 |  0 |  0 |  0 |  0 |
+| Hannes Carlsson |  0 |  0 |  0 |  0 |  0 |
+| Masiha Gharibi Falaheh |  0 |  0 |  0 |  0 |  1 |
+| Emil Westberg |  0 |  0 |  0 |  0 |  3 |
+
+### Trelleborg Pirates U15 - Borås Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Luka Caktas | 22 | 10 |  0 |  2 |  4 |
+| Harry Almgren | 18 |  5 |  2 |  2 |  4 |
+| Vidar Björlevik | 14 |  7 |  0 |  0 |  4 |
+| Narrt Osmani | 13 |  6 |  0 |  1 |  2 |
+| Frank Lindin |  8 |  1 |  2 |  0 |  1 |
+| Love Petersson |  2 |  1 |  0 |  0 |  3 |
+| Emil Westberg |  2 |  1 |  0 |  0 |  1 |
+| Hannes Carlsson |  0 |  0 |  0 |  0 |  0 |
+| Olle Ragnar |  0 |  0 |  0 |  0 |  0 |
+| Masiha Gharibi Falaheh |  0 |  0 |  0 |  0 |  0 |
+| Colin Ciurana |  0 |  0 |  0 |  0 |  2 |
 

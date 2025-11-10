@@ -1,61 +1,72 @@
-# Statistics for Lidingö Basket
+# Statistics for Eastside Aviators
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lidingö Basket | 2 | 80.00 | 27.00 | 5.50 | 9.50 | 15.50 |
+| Eastside Aviators | 3 | 76.33 | 25.33 | 5.33 | 9.67 | 13.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Benisse Diop | 2 | 30.50 | 8.50 | 3.50 | 3.00 | 3.50 |
-| Melker Halldin Lindskog | 2 | 24.00 | 8.00 | 1.50 | 3.50 | 3.50 |
-| Melker Kjerfve | 2 | 8.00 | 3.50 | 0.00 | 1.00 | 2.00 |
-| Edvin Pettersson | 2 | 7.00 | 3.50 | 0.00 | 0.00 | 1.00 |
-| Iasonas Politis | 2 | 3.50 | 1.00 | 0.00 | 1.50 | 1.50 |
-| Ata Guner | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 0.50 |
-| Vilhelm Ekelund | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 1.50 |
-| Axel Öman | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 0.00 |
-| Liam Tyvik | 2 | 1.50 | 0.50 | 0.00 | 0.50 | 1.50 |
-| Douglas Brändström | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.50 |
-| Leon Lagercrantz Fentie | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Valter Nygren | 3 | 17.33 | 7.00 | 0.33 | 2.33 | 1.67 |
+| Fred Stafnergård | 3 | 16.33 | 4.00 | 2.00 | 2.33 | 3.33 |
+| Fhenix Carlsson | 3 | 12.33 | 2.33 | 2.33 | 0.67 | 2.33 |
+| Melker Adolfsson Gran | 3 | 11.67 | 5.00 | 0.00 | 1.67 | 2.00 |
+| Ramtin Molaeibarogh | 3 | 9.33 | 3.33 | 0.00 | 2.67 | 2.00 |
+| Måns Skogsberg | 3 | 5.33 | 1.67 | 0.67 | 0.00 | 1.67 |
+| Leon Frestad | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 0.33 |
+| Benyamin Yosefi | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.33 |
+| Yuhanan Hailemichael | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### KFUM Basketbollklubb Skellefteå - Lidingö Basket
+### Eastside Aviators - Helsingborg
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Benisse Diop | 36 |  8 |  6 |  2 |  3 |
-| Melker Halldin Lindskog | 25 | 10 |  1 |  2 |  2 |
-| Melker Kjerfve | 14 |  6 |  0 |  2 |  0 |
-| Edvin Pettersson |  8 |  4 |  0 |  0 |  1 |
-| Vilhelm Ekelund |  4 |  2 |  0 |  0 |  1 |
-| Axel Öman |  3 |  0 |  1 |  0 |  0 |
-| Liam Tyvik |  3 |  1 |  0 |  1 |  1 |
-| Iasonas Politis |  3 |  1 |  0 |  1 |  0 |
-| Ata Guner |  2 |  1 |  0 |  0 |  0 |
-| Douglas Brändström |  0 |  0 |  0 |  0 |  1 |
-| Leon Lagercrantz Fentie |  0 |  0 |  0 |  0 |  0 |
+| Fred Stafnergård | 19 |  6 |  2 |  1 |  4 |
+| Valter Nygren | 17 |  7 |  0 |  3 |  2 |
+| Ramtin Molaeibarogh | 12 |  5 |  0 |  2 |  2 |
+| Melker Adolfsson Gran | 11 |  4 |  0 |  3 |  3 |
+| Fhenix Carlsson |  8 |  2 |  1 |  1 |  2 |
+| Måns Skogsberg |  6 |  0 |  2 |  0 |  2 |
+| Leon Frestad |  4 |  2 |  0 |  0 |  1 |
+| Benyamin Yosefi |  0 |  0 |  0 |  0 |  0 |
+| Yuhanan Hailemichael |  0 |  0 |  0 |  0 |  0 |
 
-### Lidingö Basket - Åkersberga
+### Motala Basket - Eastside Aviators
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Benisse Diop | 25 |  9 |  1 |  4 |  4 |
-| Melker Halldin Lindskog | 23 |  6 |  2 |  5 |  5 |
-| Edvin Pettersson |  6 |  3 |  0 |  0 |  1 |
-| Iasonas Politis |  4 |  1 |  0 |  2 |  3 |
-| Melker Kjerfve |  2 |  1 |  0 |  0 |  4 |
-| Ata Guner |  2 |  1 |  0 |  0 |  1 |
-| Axel Öman |  0 |  0 |  0 |  0 |  0 |
-| Douglas Brändström |  0 |  0 |  0 |  0 |  0 |
-| Liam Tyvik |  0 |  0 |  0 |  0 |  2 |
-| Vilhelm Ekelund |  0 |  0 |  0 |  0 |  2 |
+| Fhenix Carlsson | 17 |  4 |  3 |  0 |  3 |
+| Fred Stafnergård | 16 |  4 |  2 |  2 |  4 |
+| Ramtin Molaeibarogh | 12 |  4 |  0 |  4 |  4 |
+| Valter Nygren | 12 |  4 |  0 |  4 |  2 |
+| Måns Skogsberg |  6 |  3 |  0 |  0 |  3 |
+| Melker Adolfsson Gran |  3 |  1 |  0 |  1 |  1 |
+| Benyamin Yosefi |  2 |  1 |  0 |  0 |  1 |
+| Yuhanan Hailemichael |  2 |  1 |  0 |  0 |  0 |
+| Leon Frestad |  0 |  0 |  0 |  0 |  0 |
+
+### Kalmar Basket - Eastside Aviators
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Valter Nygren | 23 | 10 |  1 |  0 |  1 |
+| Melker Adolfsson Gran | 21 | 10 |  0 |  1 |  2 |
+| Fred Stafnergård | 14 |  2 |  2 |  4 |  2 |
+| Fhenix Carlsson | 12 |  1 |  3 |  1 |  2 |
+| Ramtin Molaeibarogh |  4 |  1 |  0 |  2 |  0 |
+| Leon Frestad |  4 |  2 |  0 |  0 |  0 |
+| Måns Skogsberg |  4 |  2 |  0 |  0 |  0 |
+| Benyamin Yosefi |  0 |  0 |  0 |  0 |  0 |
+| Yuhanan Hailemichael |  0 |  0 |  0 |  0 |  0 |
 

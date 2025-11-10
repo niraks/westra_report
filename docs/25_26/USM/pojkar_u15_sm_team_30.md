@@ -1,79 +1,72 @@
-# Statistics for KFUM Blackebergs Idrottsklubb
+# Statistics for Viby Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| KFUM Blackebergs Idrottsklubb | 3 | 69.67 | 21.00 | 4.67 | 13.67 | 23.33 |
+| Viby Basket | 3 | 52.33 | 9.67 | 0.33 | 3.33 | 16.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Viktor Strandin | 2 | 20.50 | 5.50 | 2.00 | 3.50 | 3.00 |
-| Simon Carlén | 3 | 14.33 | 4.33 | 1.00 | 2.67 | 4.00 |
-| Sufyan Mohamed Ali | 3 | 14.00 | 5.00 | 0.00 | 4.00 | 3.33 |
-| Vidar Sjösvärd | 3 | 9.67 | 4.33 | 0.00 | 1.00 | 2.00 |
-| Neo Negret | 3 | 7.00 | 2.33 | 0.33 | 1.33 | 2.33 |
-| Hector Garcia | 3 | 4.00 | 0.00 | 1.33 | 0.00 | 0.67 |
-| Zaccarias Roman | 3 | 3.67 | 0.67 | 0.33 | 1.33 | 4.33 |
-| Alfred Kartano | 3 | 2.67 | 0.67 | 0.33 | 0.33 | 2.33 |
-| Tyler Iguchi | 3 | 0.67 | 0.00 | 0.00 | 0.67 | 1.00 |
-| Noel Imets | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 1.33 |
-| Keelan Hearne Leander | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Axel Braun | 2 | 26.50 | 4.50 | 0.00 | 1.50 | 3.50 |
+| Olle Sjöholm | 2 | 24.50 | 4.50 | 0.00 | 1.00 | 2.50 |
+| Benjamin Hrnjica | 2 | 11.50 | 3.00 | 0.00 | 0.00 | 5.00 |
+| Sampello Abulhassan | 2 | 6.50 | 1.00 | 0.00 | 1.50 | 3.00 |
+| Anton Larsson | 2 | 3.50 | 0.50 | 0.50 | 1.00 | 2.50 |
+| Malik Diouf | 2 | 2.00 | 0.00 | 0.00 | 0.00 | 1.50 |
+| Alexander Thorén | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.50 |
+| Oliver Silén Ljubinovic | 2 | 1.00 | 0.00 | 0.00 | 0.00 | 0.50 |
+| Eshan Meer | 2 | 1.00 | 0.00 | 0.00 | 0.00 | 1.50 |
+| Victor Nordgren | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 3.50 |
+| Hannes Hestnes Karlsson | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Vincent Klockare | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 
 ## Games
 
-### Alviks Basketbollklubb - KFUM Blackebergs Idrottsklubb
+### Trelleborg Pirates U15 - Viby Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Viktor Strandin | 22 |  6 |  2 |  4 |  2 |
-| Neo Negret | 12 |  3 |  1 |  3 |  4 |
-| Sufyan Mohamed Ali | 10 |  3 |  0 |  4 |  5 |
-| Hector Garcia |  9 |  0 |  3 |  0 |  1 |
-| Simon Carlén |  9 |  2 |  0 |  5 |  3 |
-| Vidar Sjösvärd |  2 |  1 |  0 |  0 |  2 |
-| Noel Imets |  0 |  0 |  0 |  0 |  0 |
-| Keelan Hearne Leander |  0 |  0 |  0 |  0 |  0 |
-| Alfred Kartano |  0 |  0 |  0 |  0 |  2 |
-| Tyler Iguchi |  0 |  0 |  0 |  0 |  0 |
-| Zaccarias Roman |  0 |  0 |  0 |  0 |  4 |
+| Axel Braun | 21 |  9 |  0 |  3 |  2 |
+| Olle Sjöholm | 20 |  9 |  0 |  2 |  2 |
+| Benjamin Hrnjica | 12 |  6 |  0 |  0 |  5 |
+| Anton Larsson |  7 |  1 |  1 |  2 |  3 |
+| Sampello Abulhassan |  7 |  2 |  0 |  3 |  4 |
+| Alexander Thorén |  2 |  1 |  0 |  0 |  1 |
+| Victor Nordgren |  2 |  1 |  0 |  0 |  3 |
+| Hannes Hestnes Karlsson |  0 |  0 |  0 |  0 |  0 |
+| Oliver Silén Ljubinovic |  0 |  0 |  0 |  0 |  0 |
+| Malik Diouf |  0 |  0 |  0 |  0 |  1 |
+| Eshan Meer |  0 |  0 |  0 |  0 |  3 |
+| Vincent Klockare |  0 |  0 |  0 |  0 |  0 |
 
-### KFUM Blackebergs Idrottsklubb - Uppsala Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Sufyan Mohamed Ali | 24 |  9 |  0 |  6 |  3 |
-| Vidar Sjösvärd | 16 |  7 |  0 |  2 |  2 |
-| Simon Carlén | 13 |  4 |  1 |  2 |  4 |
-| Zaccarias Roman | 11 |  2 |  1 |  4 |  5 |
-| Neo Negret |  9 |  4 |  0 |  1 |  2 |
-| Hector Garcia |  3 |  0 |  1 |  0 |  0 |
-| Alfred Kartano |  1 |  0 |  0 |  1 |  5 |
-| Tyler Iguchi |  1 |  0 |  0 |  1 |  0 |
-| Noel Imets |  0 |  0 |  0 |  0 |  0 |
-| Keelan Hearne Leander |  0 |  0 |  0 |  0 |  0 |
-
-### Basketklubben Gladan - KFUM Blackebergs Idrottsklubb
+### Borås Basket - Viby Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Simon Carlén | 21 |  7 |  2 |  1 |  5 |
-| Viktor Strandin | 19 |  5 |  2 |  3 |  4 |
-| Vidar Sjösvärd | 11 |  5 |  0 |  1 |  2 |
-| Sufyan Mohamed Ali |  8 |  3 |  0 |  2 |  2 |
-| Alfred Kartano |  7 |  2 |  1 |  0 |  0 |
-| Tyler Iguchi |  1 |  0 |  0 |  1 |  3 |
-| Noel Imets |  0 |  0 |  0 |  0 |  4 |
-| Keelan Hearne Leander |  0 |  0 |  0 |  0 |  0 |
-| Neo Negret |  0 |  0 |  0 |  0 |  1 |
-| Hector Garcia |  0 |  0 |  0 |  0 |  1 |
-| Zaccarias Roman |  0 |  0 |  0 |  0 |  4 |
+| Axel Braun | 32 |  0 |  0 |  0 |  5 |
+| Olle Sjöholm | 29 |  0 |  0 |  0 |  3 |
+| Benjamin Hrnjica | 11 |  0 |  0 |  0 |  5 |
+| Sampello Abulhassan |  6 |  0 |  0 |  0 |  2 |
+| Malik Diouf |  4 |  0 |  0 |  0 |  2 |
+| Oliver Silén Ljubinovic |  2 |  0 |  0 |  0 |  1 |
+| Eshan Meer |  2 |  0 |  0 |  0 |  0 |
+| Hannes Hestnes Karlsson |  0 |  0 |  0 |  0 |  0 |
+| Alexander Thorén |  0 |  0 |  0 |  0 |  0 |
+| Anton Larsson |  0 |  0 |  0 |  0 |  2 |
+| Vincent Klockare |  0 |  0 |  0 |  0 |  2 |
+| Victor Nordgren |  0 |  0 |  0 |  0 |  4 |
+
+### Viby Basket - Lobas Vit
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
 

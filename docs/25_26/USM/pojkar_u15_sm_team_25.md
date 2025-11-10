@@ -1,94 +1,80 @@
-# Statistics for Wetterbygden Stars
+# Statistics for Arvika Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Wetterbygden Stars | 4 | 77.25 | 27.50 | 4.00 | 10.25 | 16.00 |
+| Arvika Basket | 3 | 62.67 | 17.67 | 5.33 | 11.33 | 14.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Olivers Stankevics | 4 | 32.50 | 12.00 | 1.25 | 4.75 | 3.00 |
-| Dinuka Rathnayaka | 1 | 17.00 | 8.00 | 0.00 | 1.00 | 2.00 |
-| George Cajam | 4 | 14.25 | 5.00 | 1.25 | 0.50 | 4.00 |
-| Rasmus Flodin | 4 | 5.75 | 1.75 | 0.25 | 1.50 | 0.50 |
-| Khassuld Ganzorig | 4 | 5.00 | 1.25 | 0.50 | 1.00 | 2.25 |
-| Pavle Stojanovic | 4 | 4.50 | 2.25 | 0.00 | 0.00 | 1.00 |
-| Arslan Besirovic | 4 | 4.50 | 1.50 | 0.00 | 1.50 | 2.50 |
-| Andrew Kai | 4 | 4.00 | 1.25 | 0.50 | 0.00 | 0.75 |
-| Alvar Grudemo | 4 | 2.00 | 0.25 | 0.25 | 0.75 | 0.25 |
-| Noah Staaf | 4 | 0.50 | 0.25 | 0.00 | 0.00 | 1.25 |
-| Resul Topalli | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Matti Westman | 3 | 34.33 | 9.00 | 3.33 | 6.33 | 2.67 |
+| Charlie Olsson | 3 | 11.33 | 3.67 | 0.33 | 3.00 | 2.33 |
+| Love Skogh | 3 | 4.00 | 1.67 | 0.00 | 0.67 | 2.33 |
+| Edvin Johansson | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 1.00 |
+| Ayman Tangushaka | 3 | 3.00 | 0.67 | 0.33 | 0.67 | 0.33 |
+| Astor Frödin | 3 | 3.00 | 0.00 | 1.00 | 0.00 | 0.33 |
+| Esse Gunnarsson | 3 | 1.67 | 0.33 | 0.33 | 0.00 | 1.00 |
+| Levi Tilderlindt | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 1.00 |
+| Viktor Bialesta Vilhelm | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.67 |
+| Anton Chytraeus | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
+| Frigg-alexander Storm Seterdal | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
 
 ## Games
 
-### Gota Basket - Wetterbygden Stars
+### Arvika Basket - Kvarnby Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Olivers Stankevics | 37 | 14 |  1 |  6 |  4 |
-| Dinuka Rathnayaka | 17 |  8 |  0 |  1 |  2 |
-| Pavle Stojanovic |  6 |  3 |  0 |  0 |  2 |
-| Arslan Besirovic |  6 |  3 |  0 |  0 |  3 |
-| George Cajam |  6 |  3 |  0 |  0 |  4 |
-| Khassuld Ganzorig |  4 |  2 |  0 |  0 |  1 |
-| Rasmus Flodin |  3 |  1 |  0 |  1 |  0 |
-| Andrew Kai |  2 |  1 |  0 |  0 |  0 |
-| Alvar Grudemo |  0 |  0 |  0 |  0 |  0 |
-| Noah Staaf |  0 |  0 |  0 |  0 |  1 |
+| Matti Westman | 26 |  8 |  2 |  4 |  2 |
+| Charlie Olsson |  7 |  2 |  0 |  3 |  1 |
+| Astor Frödin |  6 |  0 |  2 |  0 |  1 |
+| Ayman Tangushaka |  2 |  1 |  0 |  0 |  0 |
+| Love Skogh |  2 |  1 |  0 |  0 |  2 |
+| Levi Tilderlindt |  2 |  1 |  0 |  0 |  1 |
+| Esse Gunnarsson |  2 |  1 |  0 |  0 |  1 |
+| Edvin Johansson |  1 |  0 |  0 |  1 |  0 |
+| Anton Chytraeus |  0 |  0 |  0 |  0 |  0 |
+| Viktor Bialesta Vilhelm |  0 |  0 |  0 |  0 |  2 |
+| Frigg-alexander Storm Seterdal |  0 |  0 |  0 |  0 |  4 |
 
-### Köping Stars Basketförening - Wetterbygden Stars
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Olivers Stankevics | 23 | 11 |  0 |  1 |  4 |
-| George Cajam | 16 |  6 |  1 |  1 |  4 |
-| Khassuld Ganzorig | 10 |  2 |  1 |  3 |  4 |
-| Rasmus Flodin |  9 |  3 |  1 |  0 |  1 |
-| Andrew Kai |  4 |  2 |  0 |  0 |  2 |
-| Arslan Besirovic |  4 |  1 |  0 |  2 |  4 |
-| Alvar Grudemo |  3 |  0 |  1 |  0 |  0 |
-| Pavle Stojanovic |  2 |  1 |  0 |  0 |  1 |
-| Resul Topalli |  0 |  0 |  0 |  0 |  0 |
-| Noah Staaf |  0 |  0 |  0 |  0 |  1 |
-
-### Wetterbygden Stars - Arvika Basket
+### Hammarö Basketklubb - Arvika Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Olivers Stankevics | 39 | 16 |  2 |  1 |  3 |
-| George Cajam | 17 |  4 |  3 |  0 |  4 |
-| Andrew Kai | 10 |  2 |  2 |  0 |  0 |
-| Rasmus Flodin |  8 |  3 |  0 |  2 |  0 |
-| Alvar Grudemo |  5 |  1 |  0 |  3 |  1 |
-| Arslan Besirovic |  5 |  2 |  0 |  1 |  1 |
-| Pavle Stojanovic |  2 |  1 |  0 |  0 |  1 |
-| Khassuld Ganzorig |  0 |  0 |  0 |  0 |  4 |
-| Resul Topalli |  0 |  0 |  0 |  0 |  0 |
-| Noah Staaf |  0 |  0 |  0 |  0 |  1 |
+| Matti Westman | 41 |  9 |  6 |  5 |  4 |
+| Charlie Olsson | 14 |  6 |  0 |  2 |  2 |
+| Love Skogh |  8 |  3 |  0 |  2 |  1 |
+| Ayman Tangushaka |  5 |  0 |  1 |  2 |  1 |
+| Edvin Johansson |  4 |  2 |  0 |  0 |  3 |
+| Astor Frödin |  3 |  0 |  1 |  0 |  0 |
+| Levi Tilderlindt |  2 |  1 |  0 |  0 |  1 |
+| Anton Chytraeus |  0 |  0 |  0 |  0 |  1 |
+| Viktor Bialesta Vilhelm |  0 |  0 |  0 |  0 |  0 |
+| Frigg-alexander Storm Seterdal |  0 |  0 |  0 |  0 |  2 |
+| Esse Gunnarsson |  0 |  0 |  0 |  0 |  1 |
 
-### Kungsbacka Basket - Wetterbygden Stars
+### KFUM Huddinge Basketklubb - Arvika Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Olivers Stankevics | 31 |  7 |  2 | 11 |  1 |
-| George Cajam | 18 |  7 |  1 |  1 |  4 |
-| Pavle Stojanovic |  8 |  4 |  0 |  0 |  0 |
-| Khassuld Ganzorig |  6 |  1 |  1 |  1 |  0 |
-| Rasmus Flodin |  3 |  0 |  0 |  3 |  1 |
-| Arslan Besirovic |  3 |  0 |  0 |  3 |  2 |
-| Noah Staaf |  2 |  1 |  0 |  0 |  2 |
-| Andrew Kai |  0 |  0 |  0 |  0 |  1 |
-| Resul Topalli |  0 |  0 |  0 |  0 |  0 |
-| Alvar Grudemo |  0 |  0 |  0 |  0 |  0 |
+| Matti Westman | 36 | 10 |  2 | 10 |  2 |
+| Charlie Olsson | 13 |  3 |  1 |  4 |  4 |
+| Edvin Johansson |  5 |  2 |  0 |  1 |  0 |
+| Esse Gunnarsson |  3 |  0 |  1 |  0 |  1 |
+| Ayman Tangushaka |  2 |  1 |  0 |  0 |  0 |
+| Love Skogh |  2 |  1 |  0 |  0 |  4 |
+| Viktor Bialesta Vilhelm |  2 |  1 |  0 |  0 |  0 |
+| Anton Chytraeus |  0 |  0 |  0 |  0 |  0 |
+| Astor Frödin |  0 |  0 |  0 |  0 |  0 |
+| Levi Tilderlindt |  0 |  0 |  0 |  0 |  1 |
+| Frigg-alexander Storm Seterdal |  0 |  0 |  0 |  0 |  0 |
 

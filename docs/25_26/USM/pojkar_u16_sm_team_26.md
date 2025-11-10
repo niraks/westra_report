@@ -1,62 +1,69 @@
-# Statistics for KFUM Basketbollklubb Skellefteå
+# Statistics for Norrköpings Basketförening
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| KFUM Basketbollklubb Skellefteå | 2 | 60.50 | 19.50 | 5.00 | 6.50 | 21.50 |
+| Norrköpings Basketförening | 3 | 56.67 | 14.67 | 7.00 | 6.33 | 8.33 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Rance Manu | 2 | 19.50 | 7.50 | 0.50 | 3.00 | 2.00 |
-| Wilmer Sandberg | 2 | 11.50 | 4.50 | 0.50 | 1.00 | 2.50 |
-| Demir Hajdarpasic | 2 | 10.00 | 3.50 | 1.00 | 0.00 | 4.50 |
-| Andreas Sakenas | 2 | 5.50 | 0.50 | 1.50 | 0.00 | 0.50 |
-| Gleb Voronchikhin | 2 | 4.00 | 0.50 | 1.00 | 0.00 | 2.50 |
-| Felix Forslund | 2 | 4.00 | 1.00 | 0.50 | 0.50 | 3.00 |
-| Gottfrid Sandberg | 2 | 3.50 | 1.00 | 0.00 | 1.50 | 1.00 |
-| Salomon Habtamu Woldegiorgis | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 2.50 |
-| Daniel Paez Rodríguez | 2 | 0.50 | 0.00 | 0.00 | 0.50 | 3.00 |
-| Lowe Nilsson Frank | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| James Eriksson Scott | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Lucas Berggreen | 2 | 20.00 | 7.00 | 0.50 | 4.50 | 2.50 |
+| Vilgot Ljung | 2 | 16.50 | 3.00 | 2.50 | 3.00 | 1.00 |
+| Wilhelm Lind | 2 | 13.00 | 3.50 | 1.50 | 1.50 | 2.00 |
+| Alfred Klarin Törnell | 2 | 11.00 | 1.00 | 3.00 | 0.00 | 1.00 |
+| Jason Sonebrand | 2 | 8.50 | 3.50 | 0.50 | 0.00 | 0.50 |
+| Casper Stjärnskog | 2 | 7.50 | 2.00 | 1.00 | 0.50 | 2.00 |
+| Oscar Henriksson | 2 | 3.00 | 0.00 | 1.00 | 0.00 | 0.50 |
+| Emil Ingvarsson | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 1.50 |
+| Charlie Rydström | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 0.00 |
+| Tajus Varanavicius | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.50 |
+| Jesper Saarnak | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### KFUM Basketbollklubb Skellefteå - Lidingö Basket
+### Södertälje Basketbollklubb - Norrköpings Basketförening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Demir Hajdarpasic | 16 |  5 |  2 |  0 |  4 |
-| Rance Manu | 15 |  6 |  0 |  3 |  2 |
-| Wilmer Sandberg | 11 |  4 |  1 |  0 |  4 |
-| Salomon Habtamu Woldegiorgis |  4 |  2 |  0 |  0 |  1 |
-| Gleb Voronchikhin |  3 |  0 |  1 |  0 |  2 |
-| Felix Forslund |  3 |  0 |  1 |  0 |  2 |
-| Gottfrid Sandberg |  0 |  0 |  0 |  0 |  0 |
-| Andreas Sakenas |  0 |  0 |  0 |  0 |  0 |
-| Lowe Nilsson Frank |  0 |  0 |  0 |  0 |  0 |
-| James Eriksson Scott |  0 |  0 |  0 |  0 |  0 |
-| Daniel Paez Rodríguez |  0 |  0 |  0 |  0 |  1 |
+| Lucas Berggreen | 26 |  9 |  1 |  5 |  4 |
+| Vilgot Ljung | 18 |  3 |  3 |  3 |  2 |
+| Wilhelm Lind | 13 |  2 |  2 |  3 |  2 |
+| Jason Sonebrand |  8 |  4 |  0 |  0 |  0 |
+| Alfred Klarin Törnell |  5 |  1 |  1 |  0 |  2 |
+| Casper Stjärnskog |  5 |  1 |  1 |  0 |  1 |
+| Tajus Varanavicius |  2 |  1 |  0 |  0 |  2 |
+| Oscar Henriksson |  0 |  0 |  0 |  0 |  0 |
+| Charlie Rydström |  0 |  0 |  0 |  0 |  0 |
+| Jesper Saarnak |  0 |  0 |  0 |  0 |  0 |
+| Emil Ingvarsson |  0 |  0 |  0 |  0 |  3 |
 
-### Duvbo - KFUM Basketbollklubb Skellefteå
+### Norrköpings Basketförening - Täby Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Rance Manu | 24 |  9 |  1 |  3 |  2 |
-| Wilmer Sandberg | 12 |  5 |  0 |  2 |  1 |
-| Andreas Sakenas | 11 |  1 |  3 |  0 |  1 |
-| Gottfrid Sandberg |  7 |  2 |  0 |  3 |  2 |
-| Gleb Voronchikhin |  5 |  1 |  1 |  0 |  3 |
-| Felix Forslund |  5 |  2 |  0 |  1 |  4 |
-| Demir Hajdarpasic |  4 |  2 |  0 |  0 |  5 |
-| Daniel Paez Rodríguez |  1 |  0 |  0 |  1 |  5 |
-| Salomon Habtamu Woldegiorgis |  0 |  0 |  0 |  0 |  4 |
-| Lowe Nilsson Frank |  0 |  0 |  0 |  0 |  0 |
-| James Eriksson Scott |  0 |  0 |  0 |  0 |  0 |
+| Alfred Klarin Törnell | 17 |  1 |  5 |  0 |  0 |
+| Vilgot Ljung | 15 |  3 |  2 |  3 |  0 |
+| Lucas Berggreen | 14 |  5 |  0 |  4 |  1 |
+| Wilhelm Lind | 13 |  5 |  1 |  0 |  2 |
+| Casper Stjärnskog | 10 |  3 |  1 |  1 |  3 |
+| Jason Sonebrand |  9 |  3 |  1 |  0 |  1 |
+| Oscar Henriksson |  6 |  0 |  2 |  0 |  1 |
+| Emil Ingvarsson |  4 |  2 |  0 |  0 |  0 |
+| Charlie Rydström |  3 |  0 |  1 |  0 |  0 |
+| Jesper Saarnak |  2 |  1 |  0 |  0 |  0 |
+| Tajus Varanavicius |  0 |  0 |  0 |  0 |  1 |
+
+### KFUM Blackebergs Idrottsklubb - Norrköpings Basketförening
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
 

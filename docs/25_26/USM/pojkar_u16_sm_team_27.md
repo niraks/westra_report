@@ -1,26 +1,62 @@
-# Statistics for Duvbo
+# Statistics for KFUM Basketbollklubb Skellefteå
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Duvbo | 1 | 53.00 | 17.00 | 2.00 | 13.00 | 25.00 |
+| KFUM Basketbollklubb Skellefteå | 3 | 56.67 | 17.67 | 4.33 | 8.33 | 21.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Hristijan Beldjigerovski | 1 | 14.00 | 5.00 | 1.00 | 1.00 | 4.00 |
-| Leo Norrbo Erström | 1 | 11.00 | 3.00 | 0.00 | 5.00 | 4.00 |
-| Vilmer Sundberg | 1 | 10.00 | 3.00 | 0.00 | 4.00 | 3.00 |
-| Arman Heleg | 1 | 7.00 | 2.00 | 1.00 | 0.00 | 3.00 |
-| David Guerrero | 1 | 5.00 | 2.00 | 0.00 | 1.00 | 4.00 |
-| August Hermansson | 1 | 4.00 | 1.00 | 0.00 | 2.00 | 0.00 |
-| Liban Ismail | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 3.00 |
-| Malte Ahlin | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
-| Eu Jet Liau | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
+| Rance Manu | 3 | 17.33 | 6.00 | 0.33 | 4.33 | 2.67 |
+| Wilmer Sandberg | 3 | 9.67 | 3.67 | 0.33 | 1.33 | 1.67 |
+| Demir Hajdarpasic | 3 | 7.33 | 2.67 | 0.67 | 0.00 | 4.67 |
+| Felix Forslund | 3 | 6.00 | 1.67 | 0.67 | 0.67 | 2.67 |
+| Gleb Voronchikhin | 3 | 5.67 | 1.00 | 1.00 | 0.67 | 3.00 |
+| Gottfrid Sandberg | 3 | 4.67 | 1.33 | 0.33 | 1.00 | 0.67 |
+| Andreas Sakenas | 3 | 3.67 | 0.33 | 1.00 | 0.00 | 0.67 |
+| Salomon Habtamu Woldegiorgis | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 2.00 |
+| Daniel Paez Rodríguez | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 3.67 |
+| Lowe Nilsson Frank | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| James Eriksson Scott | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### KFUM Basketbollklubb Skellefteå - Åkersberga
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Rance Manu | 13 |  3 |  0 |  7 |  4 |
+| Felix Forslund | 10 |  3 |  1 |  1 |  2 |
+| Gleb Voronchikhin |  9 |  2 |  1 |  2 |  4 |
+| Gottfrid Sandberg |  7 |  2 |  1 |  0 |  0 |
+| Wilmer Sandberg |  6 |  2 |  0 |  2 |  0 |
+| Demir Hajdarpasic |  2 |  1 |  0 |  0 |  5 |
+| Daniel Paez Rodríguez |  2 |  1 |  0 |  0 |  5 |
+| Salomon Habtamu Woldegiorgis |  0 |  0 |  0 |  0 |  1 |
+| Andreas Sakenas |  0 |  0 |  0 |  0 |  1 |
+
+### KFUM Basketbollklubb Skellefteå - Lidingö Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Demir Hajdarpasic | 16 |  5 |  2 |  0 |  4 |
+| Rance Manu | 15 |  6 |  0 |  3 |  2 |
+| Wilmer Sandberg | 11 |  4 |  1 |  0 |  4 |
+| Salomon Habtamu Woldegiorgis |  4 |  2 |  0 |  0 |  1 |
+| Gleb Voronchikhin |  3 |  0 |  1 |  0 |  2 |
+| Felix Forslund |  3 |  0 |  1 |  0 |  2 |
+| Gottfrid Sandberg |  0 |  0 |  0 |  0 |  0 |
+| Andreas Sakenas |  0 |  0 |  0 |  0 |  0 |
+| Lowe Nilsson Frank |  0 |  0 |  0 |  0 |  0 |
+| James Eriksson Scott |  0 |  0 |  0 |  0 |  0 |
+| Daniel Paez Rodríguez |  0 |  0 |  0 |  0 |  1 |
 
 ### Duvbo - KFUM Basketbollklubb Skellefteå
 
@@ -28,13 +64,15 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Hristijan Beldjigerovski | 14 |  5 |  1 |  1 |  4 |
-| Leo Norrbo Erström | 11 |  3 |  0 |  5 |  4 |
-| Vilmer Sundberg | 10 |  3 |  0 |  4 |  3 |
-| Arman Heleg |  7 |  2 |  1 |  0 |  3 |
-| David Guerrero |  5 |  2 |  0 |  1 |  4 |
-| August Hermansson |  4 |  1 |  0 |  2 |  0 |
-| Liban Ismail |  2 |  1 |  0 |  0 |  3 |
-| Malte Ahlin |  0 |  0 |  0 |  0 |  2 |
-| Eu Jet Liau |  0 |  0 |  0 |  0 |  2 |
+| Rance Manu | 24 |  9 |  1 |  3 |  2 |
+| Wilmer Sandberg | 12 |  5 |  0 |  2 |  1 |
+| Andreas Sakenas | 11 |  1 |  3 |  0 |  1 |
+| Gottfrid Sandberg |  7 |  2 |  0 |  3 |  2 |
+| Gleb Voronchikhin |  5 |  1 |  1 |  0 |  3 |
+| Felix Forslund |  5 |  2 |  0 |  1 |  4 |
+| Demir Hajdarpasic |  4 |  2 |  0 |  0 |  5 |
+| Daniel Paez Rodríguez |  1 |  0 |  0 |  1 |  5 |
+| Salomon Habtamu Woldegiorgis |  0 |  0 |  0 |  0 |  4 |
+| Lowe Nilsson Frank |  0 |  0 |  0 |  0 |  0 |
+| James Eriksson Scott |  0 |  0 |  0 |  0 |  0 |
 

@@ -4,26 +4,43 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kungsbacka Basket Blå | 3 | 77.33 | 31.33 | 2.67 | 6.67 | 15.00 |
+| Kungsbacka Basket Blå | 4 | 80.50 | 31.75 | 3.50 | 6.50 | 13.75 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Filip Berndtsson | 3 | 28.67 | 12.67 | 0.00 | 3.33 | 3.00 |
-| Eric Svensson | 3 | 18.33 | 6.67 | 1.00 | 2.00 | 1.00 |
-| Malcom Truija Wellington | 1 | 10.00 | 3.00 | 1.00 | 1.00 | 0.00 |
-| Wassem Al Hafez | 2 | 9.00 | 3.00 | 1.00 | 0.00 | 1.50 |
-| Algot Bui-Ljungqvist | 2 | 6.00 | 3.00 | 0.00 | 0.00 | 2.50 |
-| Dylan Lian | 2 | 5.50 | 1.50 | 0.50 | 1.00 | 0.50 |
-| Evan Fredriksson | 3 | 4.67 | 2.33 | 0.00 | 0.00 | 0.33 |
+| Filip Berndtsson | 4 | 26.50 | 11.75 | 0.00 | 3.00 | 2.50 |
+| Eric Svensson | 4 | 20.00 | 7.00 | 1.50 | 1.50 | 1.00 |
+| Malcom Truija Wellington | 2 | 11.00 | 4.00 | 0.50 | 1.50 | 0.00 |
+| Wassem Al Hafez | 3 | 8.00 | 2.33 | 1.00 | 0.33 | 1.00 |
+| Dylan Lian | 3 | 6.33 | 2.33 | 0.33 | 0.67 | 0.67 |
+| Kristijonas Alminas | 2 | 5.00 | 1.50 | 0.50 | 0.50 | 2.00 |
+| Algot Bui-Ljungqvist | 3 | 5.00 | 2.00 | 0.33 | 0.00 | 2.00 |
+| Evan Fredriksson | 4 | 4.00 | 2.00 | 0.00 | 0.00 | 0.50 |
 | Eddy Kristofersson | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 3.67 |
+| Nils Martinsson | 2 | 3.50 | 1.50 | 0.00 | 0.50 | 0.50 |
 | Melker Näsström | 2 | 2.50 | 0.50 | 0.50 | 0.00 | 1.50 |
-| Kristijonas Alminas | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
-| Oskar Armini Lönberg | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 3.00 |
-| Nils Martinsson | 1 | 1.00 | 0.00 | 0.00 | 1.00 | 0.00 |
+| Oskar Armini Lönberg | 4 | 1.50 | 0.75 | 0.00 | 0.00 | 2.25 |
 
 ## Games
+
+### Eastside Falcons - Kungsbacka Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Eric Svensson | 25 |  8 |  3 |  0 |  1 |
+| Filip Berndtsson | 20 |  9 |  0 |  2 |  1 |
+| Malcom Truija Wellington | 12 |  5 |  0 |  2 |  0 |
+| Dylan Lian |  8 |  4 |  0 |  0 |  1 |
+| Kristijonas Alminas |  8 |  2 |  1 |  1 |  4 |
+| Wassem Al Hafez |  6 |  1 |  1 |  1 |  0 |
+| Nils Martinsson |  6 |  3 |  0 |  0 |  1 |
+| Algot Bui-Ljungqvist |  3 |  0 |  1 |  0 |  1 |
+| Evan Fredriksson |  2 |  1 |  0 |  0 |  1 |
+| Oskar Armini Lönberg |  0 |  0 |  0 |  0 |  0 |
 
 ### Kungsbacka Basket Blå - Ale Basket
 
