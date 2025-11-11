@@ -51,18 +51,18 @@
 | 3 | [Elliott Askenbäck](hu15a_höst_team_2.md) | 2.00 |
 | 4 | [Eric Svensson](hu15a_höst_team_3.md) | 1.50 |
 | 5 | [Vidar Ekström](hu15a_höst_team_5.md) | 1.25 |
-| 6 | [Nireas Solidakis](hu15a_höst_team_5.md) | 1.00 |
-| 6 | [Felix Rezler](hu15a_höst_team_2.md) | 1.00 |
 | 6 | [Wassem Al Hafez](hu15a_höst_team_3.md) | 1.00 |
+| 6 | [Felix Rezler](hu15a_höst_team_2.md) | 1.00 |
+| 6 | [Nireas Solidakis](hu15a_höst_team_5.md) | 1.00 |
 | 9 | [Otis Foon](hu15a_höst_team_5.md) | 0.75 |
-| 10 | [David Franco Weihe](hu15a_höst_team_1.md) | 0.50 |
-| 10 | [Emil Järvinen](hu15a_höst_team_1.md) | 0.50 |
-| 10 | [Albin Helmfridsson](hu15a_höst_team_5.md) | 0.50 |
-| 10 | [Evangelos Kochliaridis](hu15a_höst_team_5.md) | 0.50 |
 | 10 | [Malcom Truija Wellington](hu15a_höst_team_3.md) | 0.50 |
 | 10 | [Kristijonas Alminas](hu15a_höst_team_3.md) | 0.50 |
 | 10 | [Melker Näsström](hu15a_höst_team_3.md) | 0.50 |
+| 10 | [David Franco Weihe](hu15a_höst_team_1.md) | 0.50 |
+| 10 | [Emil Järvinen](hu15a_höst_team_1.md) | 0.50 |
 | 10 | [Ilon Åhman](hu15a_höst_team_4.md) | 0.50 |
+| 10 | [Albin Helmfridsson](hu15a_höst_team_5.md) | 0.50 |
+| 10 | [Evangelos Kochliaridis](hu15a_höst_team_5.md) | 0.50 |
 
 ### Free throws made per game
 
@@ -72,13 +72,13 @@
 | 2 | [Charlie Lindblom](hu15a_höst_team_1.md) | 6.25 |
 | 3 | [Oliver Reit](hu15a_höst_team_4.md) | 3.67 |
 | 4 | [Fabian Hjärtinge](hu15a_höst_team_1.md) | 3.50 |
-| 5 | [Noah Lansler](hu15a_höst_team_2.md) | 3.00 |
 | 5 | [Filip Berndtsson](hu15a_höst_team_3.md) | 3.00 |
+| 5 | [Noah Lansler](hu15a_höst_team_2.md) | 3.00 |
 | 7 | [Joseph Jonsson](hu15a_höst_team_4.md) | 2.00 |
 | 8 | [Emil Järvinen](hu15a_höst_team_1.md) | 1.75 |
 | 9 | [Liam Dahlén](hu15a_höst_team_2.md) | 1.67 |
-| 10 | [Vidar Ekström](hu15a_höst_team_5.md) | 1.50 |
-| 10 | [Felix Rezler](hu15a_höst_team_2.md) | 1.50 |
 | 10 | [Eric Svensson](hu15a_höst_team_3.md) | 1.50 |
 | 10 | [Malcom Truija Wellington](hu15a_höst_team_3.md) | 1.50 |
+| 10 | [Felix Rezler](hu15a_höst_team_2.md) | 1.50 |
+| 10 | [Vidar Ekström](hu15a_höst_team_5.md) | 1.50 |
 

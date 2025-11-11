@@ -1,79 +1,112 @@
-# Statistics for KFUM Central Basket
+# Statistics for Eastside Falcons
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| KFUM Central Basket | 3 | 74.00 | 25.00 | 4.33 | 11.00 | 15.67 |
+| Eastside Falcons | 5 | 82.80 | 29.00 | 4.80 | 10.40 | 20.20 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Algot Svanström | 3 | 16.00 | 4.33 | 1.00 | 4.33 | 2.00 |
-| Filipp Drobatc | 3 | 15.00 | 4.33 | 1.33 | 2.33 | 3.00 |
-| Adam Hurst | 3 | 13.00 | 3.00 | 1.67 | 2.00 | 0.33 |
-| Raphaél Fried-Germyn | 3 | 11.00 | 4.67 | 0.00 | 1.67 | 3.00 |
-| Dino Hadziresic | 3 | 6.33 | 2.33 | 0.33 | 0.67 | 2.00 |
-| Dante Pawlo | 3 | 6.00 | 3.00 | 0.00 | 0.00 | 1.00 |
-| Mario Nguyen Eliacik | 3 | 3.33 | 1.67 | 0.00 | 0.00 | 2.33 |
-| Erik Hörmark | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 1.33 |
-| Vilmer Nyman | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.00 |
-| Love Hemviken | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.33 |
-| Nils Fälth | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
+| Vincent Uzieblo | 5 | 19.00 | 7.20 | 0.00 | 4.60 | 2.60 |
+| Vigan Raci | 5 | 10.40 | 4.20 | 0.40 | 0.80 | 2.80 |
+| Christian Gonzal | 5 | 10.40 | 4.40 | 0.00 | 1.60 | 2.40 |
+| Nireas Solidakis | 5 | 9.60 | 2.40 | 1.40 | 0.60 | 1.60 |
+| Evangelos Kochliaridis | 5 | 9.20 | 2.40 | 1.40 | 0.20 | 1.80 |
+| Noah Ringheim | 5 | 8.60 | 3.00 | 0.40 | 1.40 | 2.40 |
+| Vidar Ekström | 5 | 7.20 | 2.60 | 0.40 | 0.80 | 3.40 |
+| Albin Helmfridsson | 5 | 4.20 | 1.00 | 0.60 | 0.40 | 1.20 |
+| Otis Foon | 5 | 2.20 | 0.80 | 0.20 | 0.00 | 0.40 |
+| Theodor Markey | 5 | 2.00 | 1.00 | 0.00 | 0.00 | 1.60 |
+| Hjalmar Spångberg | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Västerås Basketboll Förening - KFUM Central Basket
+### Alviks Basketbollklubb - Eastside Falcons
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Adam Hurst | 27 |  6 |  5 |  0 |  0 |
-| Algot Svanström | 19 |  6 |  2 |  1 |  0 |
-| Raphaél Fried-Germyn | 16 |  6 |  0 |  4 |  3 |
-| Filipp Drobatc | 12 |  5 |  0 |  2 |  3 |
-| Dante Pawlo |  8 |  4 |  0 |  0 |  0 |
-| Erik Hörmark |  6 |  3 |  0 |  0 |  3 |
-| Dino Hadziresic |  5 |  2 |  0 |  1 |  1 |
-| Love Hemviken |  2 |  1 |  0 |  0 |  1 |
-| Mario Nguyen Eliacik |  0 |  0 |  0 |  0 |  2 |
-| Nils Fälth |  0 |  0 |  0 |  0 |  1 |
+| Christian Gonzal | 14 |  7 |  0 |  0 | 2 |
+| Vincent Uzieblo | 13 |  5 |  0 |  3 | 1 |
+| Vigan Raci | 11 |  5 |  0 |  1 | 2 |
+| Evangelos Kochliaridis | 10 |  3 |  1 |  1 | 1 |
+| Vidar Ekström | 10 |  3 |  1 |  1 | 5 |
+| Noah Ringheim |  7 |  3 |  0 |  1 | 1 |
+| Nireas Solidakis |  5 |  1 |  1 |  0 | 1 |
+| Theodor Markey |  4 |  2 |  0 |  0 | 1 |
+| Otis Foon |  0 |  0 |  0 |  0 | 0 |
+| Albin Helmfridsson |  0 |  0 |  0 |  0 | 1 |
 
-### KFUM Central Basket - KFUM Kalmar Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Algot Svanström | 16 |  5 |  0 |  6 |  3 |
-| Filipp Drobatc |  8 |  3 |  0 |  2 |  2 |
-| Adam Hurst |  6 |  2 |  0 |  2 |  1 |
-| Mario Nguyen Eliacik |  4 |  2 |  0 |  0 |  1 |
-| Raphaél Fried-Germyn |  4 |  2 |  0 |  0 |  3 |
-| Dante Pawlo |  4 |  2 |  0 |  0 |  1 |
-| Dino Hadziresic |  4 |  2 |  0 |  0 |  2 |
-| Vilmer Nyman |  2 |  1 |  0 |  0 |  0 |
-| Nils Fälth |  0 |  0 |  0 |  0 |  0 |
-| Erik Hörmark |  0 |  0 |  0 |  0 |  1 |
-| Love Hemviken |  0 |  0 |  0 |  0 |  0 |
-
-### Fryshuset Basket - KFUM Central Basket
+### KFUM Blackebergs Idrottsklubb - Eastside Falcons
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Filipp Drobatc | 25 |  5 |  4 |  3 |  4 |
-| Algot Svanström | 13 |  2 |  1 |  6 |  3 |
-| Raphaél Fried-Germyn | 13 |  6 |  0 |  1 |  3 |
-| Dino Hadziresic | 10 |  3 |  1 |  1 |  3 |
-| Mario Nguyen Eliacik |  6 |  3 |  0 |  0 |  4 |
-| Adam Hurst |  6 |  1 |  0 |  4 |  0 |
-| Dante Pawlo |  6 |  3 |  0 |  0 |  2 |
-| Vilmer Nyman |  0 |  0 |  0 |  0 |  0 |
-| Nils Fälth |  0 |  0 |  0 |  0 |  0 |
-| Erik Hörmark |  0 |  0 |  0 |  0 |  0 |
-| Love Hemviken |  0 |  0 |  0 |  0 |  0 |
+| Vincent Uzieblo | 29 | 10 |  0 |  9 | 4 |
+| Christian Gonzal | 11 |  4 |  0 |  3 | 3 |
+| Evangelos Kochliaridis |  9 |  0 |  3 |  0 | 2 |
+| Vidar Ekström |  9 |  3 |  1 |  0 | 3 |
+| Vigan Raci |  8 |  3 |  0 |  2 | 3 |
+| Nireas Solidakis |  7 |  1 |  1 |  2 | 3 |
+| Noah Ringheim |  7 |  0 |  1 |  4 | 4 |
+| Otis Foon |  2 |  1 |  0 |  0 | 0 |
+| Theodor Markey |  2 |  1 |  0 |  0 | 1 |
+| Albin Helmfridsson |  0 |  0 |  0 |  0 | 2 |
+
+### Eastside Falcons - Täby Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Evangelos Kochliaridis | 15 |  6 |  1 |  0 | 2 |
+| Noah Ringheim | 13 |  5 |  1 |  0 | 0 |
+| Vigan Raci | 11 |  4 |  1 |  0 | 4 |
+| Christian Gonzal | 11 |  4 |  0 |  3 | 0 |
+| Nireas Solidakis |  9 |  3 |  1 |  0 | 1 |
+| Vincent Uzieblo |  8 |  4 |  0 |  0 | 1 |
+| Vidar Ekström |  8 |  4 |  0 |  0 | 2 |
+| Theodor Markey |  4 |  2 |  0 |  0 | 1 |
+| Otis Foon |  3 |  0 |  1 |  0 | 1 |
+| Albin Helmfridsson |  3 |  0 |  1 |  0 | 2 |
+
+### Eastside Falcons - IK Eos Lund
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Vincent Uzieblo | 30 | 10 |  0 | 10 | 3 |
+| Nireas Solidakis | 18 |  6 |  2 |  0 | 2 |
+| Noah Ringheim | 11 |  5 |  0 |  1 | 5 |
+| Albin Helmfridsson |  6 |  0 |  2 |  0 | 1 |
+| Vidar Ekström |  5 |  2 |  0 |  1 | 3 |
+| Vigan Raci |  2 |  1 |  0 |  0 | 2 |
+| Evangelos Kochliaridis |  2 |  1 |  0 |  0 | 2 |
+| Otis Foon |  0 |  0 |  0 |  0 | 0 |
+| Theodor Markey |  0 |  0 |  0 |  0 | 2 |
+| Christian Gonzal |  0 |  0 |  0 |  0 | 4 |
+
+### Hammarö Basketklubb - Eastside Falcons
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Vigan Raci | 20 |  8 |  1 |  1 | 3 |
+| Christian Gonzal | 16 |  7 |  0 |  2 | 3 |
+| Vincent Uzieblo | 15 |  7 |  0 |  1 | 4 |
+| Albin Helmfridsson | 12 |  5 |  0 |  2 | 0 |
+| Evangelos Kochliaridis | 10 |  2 |  2 |  0 | 2 |
+| Nireas Solidakis |  9 |  1 |  2 |  1 | 1 |
+| Otis Foon |  6 |  3 |  0 |  0 | 1 |
+| Noah Ringheim |  5 |  2 |  0 |  1 | 2 |
+| Vidar Ekström |  4 |  1 |  0 |  2 | 4 |
+| Theodor Markey |  0 |  0 |  0 |  0 | 3 |
+| Hjalmar Spångberg |  0 |  0 |  0 |  0 | 0 |
 

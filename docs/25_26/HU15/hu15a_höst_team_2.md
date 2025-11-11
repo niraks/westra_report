@@ -30,17 +30,17 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Elliott Askenbäck | 21 |  6 |  3 |  0 |  3 |
-| Felix Rezler | 16 |  6 |  1 |  1 |  3 |
-| Ward Haddad | 11 |  4 |  1 |  0 |  2 |
-| Noah Lansler | 11 |  5 |  0 |  1 |  0 |
-| Wilmer Myhr | 10 |  5 |  0 |  0 |  1 |
-| Liam Dahlén |  9 |  3 |  0 |  3 |  3 |
-| Hugo Thorson |  4 |  2 |  0 |  0 |  1 |
-| Oskar Rosén |  4 |  2 |  0 |  0 |  0 |
-| Melker Ciba |  4 |  2 |  0 |  0 |  2 |
-| Alvin Hertzman |  2 |  1 |  0 |  0 |  0 |
-| Ibrahim Salma |  0 |  0 |  0 |  0 |  1 |
+| Elliott Askenbäck | 21 |  6 |  3 |  0 | 3 |
+| Felix Rezler | 16 |  6 |  1 |  1 | 3 |
+| Ward Haddad | 11 |  4 |  1 |  0 | 2 |
+| Noah Lansler | 11 |  5 |  0 |  1 | 0 |
+| Wilmer Myhr | 10 |  5 |  0 |  0 | 1 |
+| Liam Dahlén |  9 |  3 |  0 |  3 | 3 |
+| Hugo Thorson |  4 |  2 |  0 |  0 | 1 |
+| Oskar Rosén |  4 |  2 |  0 |  0 | 0 |
+| Melker Ciba |  4 |  2 |  0 |  0 | 2 |
+| Alvin Hertzman |  2 |  1 |  0 |  0 | 0 |
+| Ibrahim Salma |  0 |  0 |  0 |  0 | 1 |
 
 ### Kungsbacka Basket Blå - Högsbo Basket P11 röd
 
@@ -48,15 +48,15 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Elliott Askenbäck | 36 | 13 |  3 |  1 |  1 |
-| Noah Lansler | 11 |  3 |  0 |  5 |  2 |
-| Oskar Rosén | 10 |  5 |  0 |  0 |  0 |
-| Ward Haddad |  8 |  3 |  0 |  2 |  0 |
-| Wilmer Myhr |  6 |  2 |  0 |  2 |  4 |
-| Hugo Thorson |  4 |  2 |  0 |  0 |  3 |
-| Liam Dahlén |  2 |  0 |  0 |  2 |  0 |
-| Ibrahim Salma |  2 |  1 |  0 |  0 |  3 |
-| Melker Ciba |  0 |  0 |  0 |  0 |  2 |
+| Elliott Askenbäck | 36 | 13 |  3 |  1 | 1 |
+| Noah Lansler | 11 |  3 |  0 |  5 | 2 |
+| Oskar Rosén | 10 |  5 |  0 |  0 | 0 |
+| Ward Haddad |  8 |  3 |  0 |  2 | 0 |
+| Wilmer Myhr |  6 |  2 |  0 |  2 | 4 |
+| Hugo Thorson |  4 |  2 |  0 |  0 | 3 |
+| Liam Dahlén |  2 |  0 |  0 |  2 | 0 |
+| Ibrahim Salma |  2 |  1 |  0 |  0 | 3 |
+| Melker Ciba |  0 |  0 |  0 |  0 | 2 |
 
 ### Ale Basket - Högsbo Basket P11 röd
 
@@ -64,15 +64,15 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Elliott Askenbäck | 17 |  8 |  0 |  1 |  5 |
-| Felix Rezler | 15 |  5 |  1 |  2 |  2 |
-| Noah Lansler | 15 |  6 |  0 |  3 |  2 |
-| Oskar Rosén |  7 |  2 |  1 |  0 |  2 |
-| Ward Haddad |  6 |  3 |  0 |  0 |  4 |
-| Wilmer Myhr |  6 |  3 |  0 |  0 |  5 |
-| Liam Dahlén |  4 |  2 |  0 |  0 |  0 |
-| Melker Ciba |  4 |  1 |  0 |  2 |  2 |
-| Hugo Thorson |  2 |  0 |  0 |  2 |  1 |
-| Ibrahim Salma |  2 |  1 |  0 |  0 |  3 |
-| Alvin Hertzman |  0 |  0 |  0 |  0 |  0 |
+| Elliott Askenbäck | 17 |  8 |  0 |  1 | 5 |
+| Felix Rezler | 15 |  5 |  1 |  2 | 2 |
+| Noah Lansler | 15 |  6 |  0 |  3 | 2 |
+| Oskar Rosén |  7 |  2 |  1 |  0 | 2 |
+| Ward Haddad |  6 |  3 |  0 |  0 | 4 |
+| Wilmer Myhr |  6 |  3 |  0 |  0 | 5 |
+| Liam Dahlén |  4 |  2 |  0 |  0 | 0 |
+| Melker Ciba |  4 |  1 |  0 |  2 | 2 |
+| Hugo Thorson |  2 |  0 |  0 |  2 | 1 |
+| Ibrahim Salma |  2 |  1 |  0 |  0 | 3 |
+| Alvin Hertzman |  0 |  0 |  0 |  0 | 0 |
 

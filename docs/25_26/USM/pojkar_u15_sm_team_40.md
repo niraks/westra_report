@@ -1,97 +1,72 @@
-# Statistics for Täby Basket
+# Statistics for Viby Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Täby Basket | 4 | 53.75 | 19.25 | 2.25 | 8.50 | 15.50 |
+| Viby Basket | 3 | 52.33 | 21.00 | 1.33 | 6.33 | 16.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Daniel Matloub | 4 | 18.00 | 5.25 | 1.25 | 3.75 | 2.00 |
-| Oskar Adamheit | 4 | 8.75 | 3.25 | 0.00 | 2.25 | 2.25 |
-| David Psilander | 4 | 8.25 | 4.00 | 0.00 | 0.25 | 3.50 |
-| Oscar Fehn | 4 | 5.75 | 1.50 | 0.50 | 1.25 | 1.25 |
-| William Cajander | 4 | 5.25 | 2.25 | 0.25 | 0.00 | 1.50 |
-| James Belaew | 4 | 3.75 | 1.25 | 0.25 | 0.50 | 0.50 |
-| Melker Hann | 4 | 1.25 | 0.50 | 0.00 | 0.25 | 0.75 |
-| Felix Bonin | 4 | 1.00 | 0.50 | 0.00 | 0.00 | 0.75 |
-| Henry Mikagård | 4 | 0.75 | 0.25 | 0.00 | 0.25 | 0.75 |
-| Rafael Pennisi | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.00 |
-| Elias Köhler | 4 | 0.50 | 0.25 | 0.00 | 0.00 | 1.50 |
+| Axel Braun | 2 | 26.50 | 10.00 | 1.00 | 3.50 | 3.50 |
+| Olle Sjöholm | 2 | 24.50 | 10.00 | 0.50 | 3.00 | 2.50 |
+| Benjamin Hrnjica | 2 | 11.50 | 5.50 | 0.00 | 0.50 | 5.00 |
+| Sampello Abulhassan | 2 | 6.50 | 2.50 | 0.00 | 1.50 | 3.00 |
+| Anton Larsson | 2 | 3.50 | 0.50 | 0.50 | 1.00 | 2.50 |
+| Malik Diouf | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 1.50 |
+| Alexander Thorén | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.50 |
+| Oliver Silén Ljubinovic | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.50 |
+| Eshan Meer | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.50 |
+| Victor Nordgren | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 3.50 |
+| Hannes Hestnes Karlsson | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Vincent Klockare | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 
 ## Games
 
-### Eastside Falcons - Täby Basket
+### Trelleborg Pirates U15 - Viby Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Daniel Matloub | 22 |  7 |  1 |  5 |  0 |
-| Oskar Adamheit |  7 |  2 |  0 |  3 |  0 |
-| William Cajander |  6 |  3 |  0 |  0 |  1 |
-| James Belaew |  5 |  1 |  1 |  0 |  0 |
-| David Psilander |  2 |  1 |  0 |  0 |  2 |
-| Felix Bonin |  0 |  0 |  0 |  0 |  1 |
-| Melker Hann |  0 |  0 |  0 |  0 |  1 |
-| Oscar Fehn |  0 |  0 |  0 |  0 |  1 |
-| Henry Mikagård |  0 |  0 |  0 |  0 |  0 |
-| Elias Köhler |  0 |  0 |  0 |  0 |  0 |
+| Axel Braun | 21 |  9 |  0 |  3 | 2 |
+| Olle Sjöholm | 20 |  9 |  0 |  2 | 2 |
+| Benjamin Hrnjica | 12 |  6 |  0 |  0 | 5 |
+| Anton Larsson |  7 |  1 |  1 |  2 | 3 |
+| Sampello Abulhassan |  7 |  2 |  0 |  3 | 4 |
+| Alexander Thorén |  2 |  1 |  0 |  0 | 1 |
+| Victor Nordgren |  2 |  1 |  0 |  0 | 3 |
+| Hannes Hestnes Karlsson |  0 |  0 |  0 |  0 | 0 |
+| Oliver Silén Ljubinovic |  0 |  0 |  0 |  0 | 0 |
+| Malik Diouf |  0 |  0 |  0 |  0 | 1 |
+| Eshan Meer |  0 |  0 |  0 |  0 | 3 |
+| Vincent Klockare |  0 |  0 |  0 |  0 | 0 |
 
-### Norrköpings Basketförening - Täby Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Oskar Adamheit | 18 |  7 |  0 |  4 |  5 |
-| Daniel Matloub | 15 |  5 |  1 |  2 |  4 |
-| Oscar Fehn |  9 |  3 |  1 |  0 |  2 |
-| David Psilander |  7 |  3 |  0 |  1 |  4 |
-| James Belaew |  4 |  1 |  0 |  2 |  1 |
-| William Cajander |  2 |  1 |  0 |  0 |  2 |
-| Rafael Pennisi |  2 |  1 |  0 |  0 |  0 |
-| Felix Bonin |  2 |  1 |  0 |  0 |  0 |
-| Melker Hann |  2 |  1 |  0 |  0 |  2 |
-| Henry Mikagård |  0 |  0 |  0 |  0 |  1 |
-| Elias Köhler |  0 |  0 |  0 |  0 |  0 |
-
-### Täby Basket - Skuru Idrottsklubb
+### Borås Basket - Viby Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Daniel Matloub | 19 |  7 |  1 |  2 |  2 |
-| David Psilander | 10 |  5 |  0 |  0 |  4 |
-| William Cajander |  6 |  3 |  0 |  0 |  0 |
-| James Belaew |  4 |  2 |  0 |  0 |  0 |
-| Oskar Adamheit |  4 |  1 |  0 |  2 |  2 |
-| Oscar Fehn |  4 |  1 |  0 |  2 |  0 |
-| Henry Mikagård |  2 |  1 |  0 |  0 |  0 |
-| Elias Köhler |  2 |  1 |  0 |  0 |  5 |
-| Melker Hann |  1 |  0 |  0 |  1 |  0 |
-| Rafael Pennisi |  0 |  0 |  0 |  0 |  3 |
-| Felix Bonin |  0 |  0 |  0 |  0 |  0 |
+| Axel Braun | 32 | 11 |  2 |  4 | 5 |
+| Olle Sjöholm | 29 | 11 |  1 |  4 | 3 |
+| Benjamin Hrnjica | 11 |  5 |  0 |  1 | 5 |
+| Sampello Abulhassan |  6 |  3 |  0 |  0 | 2 |
+| Malik Diouf |  4 |  2 |  0 |  0 | 2 |
+| Oliver Silén Ljubinovic |  2 |  1 |  0 |  0 | 1 |
+| Eshan Meer |  2 |  1 |  0 |  0 | 0 |
+| Hannes Hestnes Karlsson |  0 |  0 |  0 |  0 | 0 |
+| Alexander Thorén |  0 |  0 |  0 |  0 | 0 |
+| Anton Larsson |  0 |  0 |  0 |  0 | 2 |
+| Vincent Klockare |  0 |  0 |  0 |  0 | 2 |
+| Victor Nordgren |  0 |  0 |  0 |  0 | 4 |
 
-### Kungsholmen - Täby Basket
+### Viby Basket - Lobas Vit
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Daniel Matloub | 16 |  2 |  2 |  6 |  2 |
-| David Psilander | 14 |  7 |  0 |  0 |  4 |
-| Oscar Fehn | 10 |  2 |  1 |  3 |  2 |
-| William Cajander |  7 |  2 |  1 |  0 |  3 |
-| Oskar Adamheit |  6 |  3 |  0 |  0 |  2 |
-| James Belaew |  2 |  1 |  0 |  0 |  1 |
-| Felix Bonin |  2 |  1 |  0 |  0 |  2 |
-| Melker Hann |  2 |  1 |  0 |  0 |  0 |
-| Henry Mikagård |  1 |  0 |  0 |  1 |  2 |
-| Rafael Pennisi |  0 |  0 |  0 |  0 |  0 |
-| Elias Köhler |  0 |  0 |  0 |  0 |  1 |
 

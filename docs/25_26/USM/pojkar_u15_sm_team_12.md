@@ -1,28 +1,23 @@
-# Statistics for Fryshuset Basket
+# Statistics for KFUM Kalmar Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Fryshuset Basket | 3 | 82.67 | 27.33 | 5.33 | 12.00 | 21.33 |
+| KFUM Kalmar Basket | 3 | 91.67 | 27.67 | 7.33 | 14.33 | 18.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Rasmus Veller | 3 | 21.67 | 7.67 | 1.00 | 3.33 | 2.00 |
-| Sean Agbozeke Efe | 3 | 15.33 | 5.33 | 1.00 | 1.67 | 2.00 |
-| Johannes Eriata Jansson | 3 | 11.33 | 4.00 | 0.33 | 2.33 | 3.00 |
-| Enzo Ilunga | 3 | 9.00 | 3.33 | 0.33 | 1.33 | 3.00 |
-| Sandor Jacobsson | 3 | 7.00 | 2.67 | 0.00 | 1.67 | 2.67 |
-| Novak Nikolic | 3 | 4.67 | 0.00 | 1.33 | 0.67 | 1.00 |
-| Edison Vlad | 3 | 4.67 | 0.33 | 1.33 | 0.00 | 1.33 |
-| Isak Simic Rihtnesberg | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 2.33 |
-| Elton Kempe | 3 | 2.67 | 1.00 | 0.00 | 0.67 | 2.00 |
-| Timur Lalic | 2 | 2.50 | 1.00 | 0.00 | 0.50 | 1.50 |
-| Lowe Berg Byström | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.50 |
-| Sebastian Thomas | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Alim Jemal | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
+| Alfons Throfast | 3 | 27.67 | 10.67 | 1.33 | 2.33 | 3.33 |
+| Love Holmgren | 3 | 21.00 | 5.00 | 1.67 | 6.00 | 4.33 |
+| Dani Drazic | 3 | 17.00 | 3.33 | 2.67 | 2.33 | 3.33 |
+| Ergen Atac | 3 | 13.00 | 2.67 | 1.67 | 2.67 | 2.33 |
+| Gunnar Ericson | 3 | 7.67 | 3.33 | 0.00 | 1.00 | 2.67 |
+| Leo Runnqvist | 3 | 3.33 | 1.67 | 0.00 | 0.00 | 1.00 |
+| Otto Throfast | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 1.33 |
+| Charlie Rainford | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
 
 ## Games
 
@@ -32,51 +27,42 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Rasmus Veller | 20 |  6 |  1 |  5 |  4 |
-| Sean Agbozeke Efe | 13 |  6 |  0 |  1 |  3 |
-| Enzo Ilunga | 12 |  5 |  0 |  2 |  3 |
-| Sandor Jacobsson | 11 |  5 |  0 |  1 |  3 |
-| Johannes Eriata Jansson |  8 |  4 |  0 |  0 |  2 |
-| Novak Nikolic |  5 |  0 |  1 |  2 |  1 |
-| Timur Lalic |  4 |  2 |  0 |  0 |  2 |
-| Elton Kempe |  4 |  1 |  0 |  2 |  2 |
-| Edison Vlad |  3 |  0 |  1 |  0 |  2 |
-| Lowe Berg Byström |  2 |  1 |  0 |  0 |  1 |
-| Isak Simic Rihtnesberg |  0 |  0 |  0 |  0 |  0 |
+| Alfons Throfast | 27 |  8 |  3 |  2 | 4 |
+| Love Holmgren | 20 |  2 |  3 |  7 | 4 |
+| Dani Drazic | 20 |  5 |  3 |  1 | 4 |
+| Gunnar Ericson | 11 |  5 |  0 |  1 | 4 |
+| Ergen Atac |  9 |  3 |  0 |  3 | 2 |
+| Otto Throfast |  0 |  0 |  0 |  0 | 0 |
+| Charlie Rainford |  0 |  0 |  0 |  0 | 0 |
+| Leo Runnqvist |  0 |  0 |  0 |  0 | 0 |
 
-### Västerås Basketboll Förening - Fryshuset Basket
+### KFUM Kalmar Basket - Västerås Basketboll Förening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Rasmus Veller | 25 | 11 |  0 |  3 |  1 |
-| Johannes Eriata Jansson | 14 |  4 |  1 |  3 |  4 |
-| Sean Agbozeke Efe | 13 |  4 |  1 |  2 |  1 |
-| Enzo Ilunga | 11 |  4 |  1 |  0 |  4 |
-| Novak Nikolic |  9 |  0 |  3 |  0 |  1 |
-| Edison Vlad |  6 |  0 |  2 |  0 |  2 |
-| Sandor Jacobsson |  6 |  2 |  0 |  2 |  1 |
-| Isak Simic Rihtnesberg |  6 |  3 |  0 |  0 |  3 |
-| Elton Kempe |  2 |  1 |  0 |  0 |  4 |
-| Sebastian Thomas |  0 |  0 |  0 |  0 |  0 |
-| Alim Jemal |  0 |  0 |  0 |  0 |  2 |
+| Alfons Throfast | 37 | 15 |  1 |  4 | 2 |
+| Love Holmgren | 21 |  7 |  1 |  4 | 5 |
+| Ergen Atac | 20 |  3 |  3 |  5 | 3 |
+| Dani Drazic | 12 |  3 |  2 |  0 | 5 |
+| Gunnar Ericson |  6 |  3 |  0 |  0 | 1 |
+| Leo Runnqvist |  6 |  3 |  0 |  0 | 1 |
+| Otto Throfast |  2 |  1 |  0 |  0 | 3 |
+| Charlie Rainford |  0 |  0 |  0 |  0 | 0 |
 
-### Fryshuset Basket - KFUM Central Basket
+### KFUM Central Basket - KFUM Kalmar Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Rasmus Veller | 20 |  6 |  2 |  2 |  1 |
-| Sean Agbozeke Efe | 20 |  6 |  2 |  2 |  2 |
-| Johannes Eriata Jansson | 12 |  4 |  0 |  4 |  3 |
-| Isak Simic Rihtnesberg |  6 |  3 |  0 |  0 |  4 |
-| Edison Vlad |  5 |  1 |  1 |  0 |  0 |
-| Sandor Jacobsson |  4 |  1 |  0 |  2 |  4 |
-| Enzo Ilunga |  4 |  1 |  0 |  2 |  2 |
-| Elton Kempe |  2 |  1 |  0 |  0 |  0 |
-| Timur Lalic |  1 |  0 |  0 |  1 |  1 |
-| Novak Nikolic |  0 |  0 |  0 |  0 |  1 |
-| Lowe Berg Byström |  0 |  0 |  0 |  0 |  0 |
+| Love Holmgren | 22 |  6 |  1 |  7 | 4 |
+| Dani Drazic | 19 |  2 |  3 |  6 | 1 |
+| Alfons Throfast | 19 |  9 |  0 |  1 | 4 |
+| Ergen Atac | 10 |  2 |  2 |  0 | 2 |
+| Gunnar Ericson |  6 |  2 |  0 |  2 | 3 |
+| Otto Throfast |  4 |  2 |  0 |  0 | 1 |
+| Leo Runnqvist |  4 |  2 |  0 |  0 | 2 |
+| Charlie Rainford |  0 |  0 |  0 |  0 | 1 |
 

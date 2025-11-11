@@ -1,97 +1,76 @@
-# Statistics for Oskarshamns Basketbollklubb
+# Statistics for Trelleborg Pirates U15
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Oskarshamns Basketbollklubb | 4 | 90.00 | 27.75 | 7.50 | 11.25 | 11.50 |
+| Trelleborg Pirates U15 | 3 | 96.00 | 33.33 | 2.67 | 21.33 | 17.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Albin Ibricic Karlsson | 4 | 56.25 | 16.50 | 4.25 | 9.75 | 3.25 |
-| Aiden Kahric | 4 | 10.75 | 4.00 | 0.50 | 1.25 | 4.25 |
-| Olle Woxö | 3 | 9.00 | 1.00 | 2.33 | 0.00 | 1.00 |
-| Kevin Tang | 4 | 4.00 | 2.00 | 0.00 | 0.00 | 0.50 |
-| Alfred Jutegård | 4 | 3.00 | 0.75 | 0.50 | 0.00 | 0.25 |
-| Jason Brink | 4 | 2.75 | 0.50 | 0.50 | 0.25 | 1.50 |
-| Helmer Löfqvist | 4 | 2.50 | 1.25 | 0.00 | 0.00 | 0.00 |
-| Johannes Cao | 4 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
-| Dovydas Stankünas | 4 | 1.00 | 0.50 | 0.00 | 0.00 | 0.75 |
-| Theo Pehkonen | 4 | 0.50 | 0.25 | 0.00 | 0.00 | 0.00 |
-| Oliver Lindqvist Frisk | 4 | 0.50 | 0.25 | 0.00 | 0.00 | 0.25 |
+| Adem Asanovski | 3 | 20.33 | 7.67 | 0.00 | 5.00 | 3.67 |
+| Axel Niklasson | 3 | 19.00 | 8.67 | 0.00 | 1.67 | 3.67 |
+| Dylan Kuksta Larsen | 3 | 16.00 | 4.00 | 0.67 | 6.00 | 2.33 |
+| William Mårtensson Yalcin | 3 | 15.00 | 5.33 | 0.33 | 3.33 | 2.00 |
+| William Nilsson | 3 | 13.67 | 3.00 | 1.33 | 3.67 | 1.67 |
+| Theo Bergqvist | 3 | 8.00 | 3.33 | 0.00 | 1.33 | 2.33 |
+| Eslam Amer | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 0.33 |
+| Matin Jamali | 3 | 1.67 | 0.33 | 0.33 | 0.00 | 1.00 |
+| Isac Belgrave | 3 | 0.33 | 0.00 | 0.00 | 0.33 | 0.67 |
+| Viggo Flensburg | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Oskarshamns Basketbollklubb - Kungsholmen
+### Trelleborg Pirates U15 - Viby Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Albin Ibricic Karlsson | 44 | 11 |  4 | 10 |  3 |
-| Olle Woxö | 14 |  1 |  4 |  0 |  1 |
-| Jason Brink | 10 |  2 |  2 |  0 |  0 |
-| Kevin Tang |  6 |  3 |  0 |  0 |  1 |
-| Aiden Kahric |  5 |  1 |  1 |  0 |  4 |
-| Johannes Cao |  0 |  0 |  0 |  0 |  0 |
-| Theo Pehkonen |  0 |  0 |  0 |  0 |  0 |
-| Alfred Jutegård |  0 |  0 |  0 |  0 |  1 |
-| Helmer Löfqvist |  0 |  0 |  0 |  0 |  0 |
-| Oliver Lindqvist Frisk |  0 |  0 |  0 |  0 |  0 |
-| Dovydas Stankünas |  0 |  0 |  0 |  0 |  2 |
+| William Mårtensson Yalcin | 24 |  8 |  1 |  5 | 1 |
+| Axel Niklasson | 22 | 11 |  0 |  0 | 4 |
+| Adem Asanovski | 21 |  7 |  0 |  7 | 4 |
+| Dylan Kuksta Larsen | 11 |  1 |  1 |  6 | 1 |
+| Theo Bergqvist |  9 |  4 |  0 |  1 | 2 |
+| Eslam Amer |  2 |  1 |  0 |  0 | 0 |
+| William Nilsson |  2 |  0 |  0 |  2 | 0 |
+| Matin Jamali |  0 |  0 |  0 |  0 | 0 |
+| Isac Belgrave |  0 |  0 |  0 |  0 | 0 |
+| Viggo Flensburg |  0 |  0 |  0 |  0 | 0 |
 
-### S:t Helena BK - Oskarshamns Basketbollklubb
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Albin Ibricic Karlsson | 82 | 27 |  5 | 10 |  4 |
-| Aiden Kahric | 15 |  5 |  1 |  2 |  3 |
-| Olle Woxö |  7 |  2 |  1 |  0 |  1 |
-| Kevin Tang |  6 |  3 |  0 |  0 |  1 |
-| Alfred Jutegård |  5 |  1 |  1 |  0 |  0 |
-| Helmer Löfqvist |  4 |  2 |  0 |  0 |  0 |
-| Johannes Cao |  0 |  0 |  0 |  0 |  0 |
-| Theo Pehkonen |  0 |  0 |  0 |  0 |  0 |
-| Oliver Lindqvist Frisk |  0 |  0 |  0 |  0 |  1 |
-| Dovydas Stankünas |  0 |  0 |  0 |  0 |  1 |
-| Jason Brink |  0 |  0 |  0 |  0 |  0 |
-
-### Oskarshamns Basketbollklubb - Lidingö Basket
+### Trelleborg Pirates U15 - Borås Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Albin Ibricic Karlsson | 40 |  8 |  4 | 12 |  2 |
-| Aiden Kahric | 12 |  5 |  0 |  2 |  5 |
-| Olle Woxö |  6 |  0 |  2 |  0 |  1 |
-| Johannes Cao |  4 |  2 |  0 |  0 |  0 |
-| Kevin Tang |  4 |  2 |  0 |  0 |  0 |
-| Alfred Jutegård |  4 |  2 |  0 |  0 |  0 |
-| Helmer Löfqvist |  4 |  2 |  0 |  0 |  0 |
-| Theo Pehkonen |  2 |  1 |  0 |  0 |  0 |
-| Oliver Lindqvist Frisk |  2 |  1 |  0 |  0 |  0 |
-| Dovydas Stankünas |  2 |  1 |  0 |  0 |  0 |
-| Jason Brink |  0 |  0 |  0 |  0 |  4 |
+| Axel Niklasson | 21 |  9 |  0 |  3 | 4 |
+| William Nilsson | 17 |  1 |  3 |  6 | 1 |
+| Dylan Kuksta Larsen | 15 |  4 |  1 |  4 | 3 |
+| Adem Asanovski | 14 |  6 |  0 |  2 | 4 |
+| William Mårtensson Yalcin | 13 |  5 |  0 |  3 | 1 |
+| Theo Bergqvist |  9 |  4 |  0 |  1 | 1 |
+| Eslam Amer |  0 |  0 |  0 |  0 | 0 |
+| Matin Jamali |  0 |  0 |  0 |  0 | 0 |
+| Isac Belgrave |  0 |  0 |  0 |  0 | 0 |
+| Viggo Flensburg |  0 |  0 |  0 |  0 | 0 |
 
-### Aros Basketbollklubb - Oskarshamns Basketbollklubb
+### Trelleborg Pirates U15 - Lobas Vit
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Albin Ibricic Karlsson | 59 | 20 |  4 |  7 |  4 |
-| Aiden Kahric | 11 |  5 |  0 |  1 |  5 |
-| Johannes Cao |  4 |  2 |  0 |  0 |  0 |
-| Alfred Jutegård |  3 |  0 |  1 |  0 |  0 |
-| Helmer Löfqvist |  2 |  1 |  0 |  0 |  0 |
-| Dovydas Stankünas |  2 |  1 |  0 |  0 |  0 |
-| Jason Brink |  1 |  0 |  0 |  1 |  2 |
-| Theo Pehkonen |  0 |  0 |  0 |  0 |  0 |
-| Kevin Tang |  0 |  0 |  0 |  0 |  0 |
-| Oliver Lindqvist Frisk |  0 |  0 |  0 |  0 |  0 |
+| Adem Asanovski | 26 | 10 |  0 |  6 | 3 |
+| William Nilsson | 22 |  8 |  1 |  3 | 4 |
+| Dylan Kuksta Larsen | 22 |  7 |  0 |  8 | 3 |
+| Axel Niklasson | 14 |  6 |  0 |  2 | 3 |
+| William Mårtensson Yalcin |  8 |  3 |  0 |  2 | 4 |
+| Theo Bergqvist |  6 |  2 |  0 |  2 | 4 |
+| Matin Jamali |  5 |  1 |  1 |  0 | 3 |
+| Eslam Amer |  4 |  2 |  0 |  0 | 1 |
+| Isac Belgrave |  1 |  0 |  0 |  1 | 2 |
+| Viggo Flensburg |  0 |  0 |  0 |  0 | 0 |
 

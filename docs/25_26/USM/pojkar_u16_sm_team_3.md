@@ -1,84 +1,71 @@
-# Statistics for Högsbo Basket
+# Statistics for Trelleborg Pirates U16
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Högsbo Basket | 3 | 96.00 | 33.33 | 4.33 | 16.33 | 14.33 |
+| Trelleborg Pirates U16 | 3 | 111.00 | 32.33 | 9.67 | 17.33 | 18.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Alexander Tinnerholm | 3 | 16.00 | 7.33 | 0.00 | 1.33 | 1.67 |
-| Suheb Ahmed Ahmed | 3 | 14.67 | 5.33 | 0.67 | 2.00 | 1.33 |
-| Kelvin Hansson Sjöö | 3 | 14.33 | 5.00 | 0.67 | 2.33 | 1.00 |
-| Aleksa Vladisavljevic | 3 | 9.00 | 3.67 | 0.00 | 1.67 | 2.33 |
-| Douglas Helm | 3 | 9.00 | 3.33 | 0.00 | 2.33 | 2.33 |
-| Nikola Arsic | 3 | 8.33 | 1.00 | 2.00 | 0.33 | 2.33 |
-| Julian Friis | 3 | 6.67 | 1.67 | 0.33 | 2.33 | 0.67 |
-| Jonatan Birath | 3 | 6.00 | 1.67 | 0.33 | 1.67 | 1.00 |
-| Shalom Kabusu Alona Luyeye | 3 | 5.00 | 2.00 | 0.00 | 1.00 | 1.00 |
-| Joel Zamora | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 0.67 |
-| Wille Lundgren | 3 | 2.33 | 0.33 | 0.33 | 0.67 | 0.00 |
-| Edwin Ståhle | 3 | 2.00 | 0.67 | 0.00 | 0.67 | 0.00 |
+| Algot Bråhammar | 3 | 27.33 | 10.33 | 0.00 | 6.67 | 3.33 |
+| Mio Bergqvist | 3 | 24.67 | 7.67 | 1.33 | 5.33 | 2.33 |
+| Marof Titani | 3 | 22.33 | 3.00 | 5.00 | 1.33 | 2.00 |
+| Eli Andersson | 3 | 18.00 | 5.00 | 2.33 | 1.00 | 1.00 |
+| Atle Olofsson | 3 | 8.67 | 2.67 | 0.67 | 1.33 | 3.67 |
+| Irakoze Irakoze | 3 | 4.33 | 1.33 | 0.00 | 1.67 | 3.00 |
+| Ludwig Prior | 3 | 2.33 | 0.67 | 0.33 | 0.00 | 0.67 |
+| Walther Andersson | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 1.67 |
+| Caspian Karlsén | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 1.50 |
 
 ## Games
 
-### Högsbo Basket - IK Eos Lund
+### Trelleborg Pirates U16 - Kalmar Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Kelvin Hansson Sjöö | 23 | 10 |  0 |  3 |  1 |
-| Suheb Ahmed Ahmed | 15 |  6 |  1 |  0 |  3 |
-| Alexander Tinnerholm | 14 |  6 |  0 |  2 |  2 |
-| Douglas Helm | 13 |  5 |  0 |  3 |  4 |
-| Jonatan Birath | 11 |  3 |  1 |  2 |  1 |
-| Aleksa Vladisavljevic | 10 |  4 |  0 |  2 |  3 |
-| Julian Friis |  7 |  2 |  0 |  3 |  2 |
-| Shalom Kabusu Alona Luyeye |  6 |  2 |  0 |  2 |  2 |
-| Nikola Arsic |  6 |  0 |  2 |  0 |  1 |
-| Joel Zamora |  2 |  1 |  0 |  0 |  1 |
-| Edwin Ståhle |  2 |  0 |  0 |  2 |  0 |
-| Wille Lundgren |  0 |  0 |  0 |  0 |  0 |
+| Algot Bråhammar | 29 | 10 |  0 |  9 | 4 |
+| Mio Bergqvist | 28 |  9 |  3 |  1 | 2 |
+| Marof Titani | 26 |  2 |  7 |  1 | 2 |
+| Atle Olofsson | 14 |  3 |  2 |  2 | 3 |
+| Eli Andersson | 11 |  4 |  1 |  0 | 1 |
+| Irakoze Irakoze |  1 |  0 |  0 |  1 | 4 |
+| Ludwig Prior |  0 |  0 |  0 |  0 | 1 |
+| Walther Andersson |  0 |  0 |  0 |  0 | 2 |
+| Caspian Karlsén |  0 |  0 |  0 |  0 | 1 |
 
-### Malbas Vit - Högsbo Basket
+### Trelleborg Pirates U16 - Pirates Basketboll
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Alexander Tinnerholm | 25 | 12 |  0 |  1 |  3 |
-| Kelvin Hansson Sjöö | 16 |  3 |  2 |  4 |  1 |
-| Suheb Ahmed Ahmed | 10 |  4 |  0 |  2 |  0 |
-| Shalom Kabusu Alona Luyeye |  9 |  4 |  0 |  1 |  1 |
-| Aleksa Vladisavljevic |  8 |  4 |  0 |  0 |  2 |
-| Nikola Arsic |  7 |  2 |  1 |  0 |  4 |
-| Wille Lundgren |  5 |  1 |  1 |  0 |  0 |
-| Jonatan Birath |  4 |  1 |  0 |  2 |  0 |
-| Joel Zamora |  4 |  2 |  0 |  0 |  1 |
-| Julian Friis |  2 |  0 |  0 |  2 |  0 |
-| Douglas Helm |  2 |  1 |  0 |  0 |  0 |
-| Edwin Ståhle |  2 |  1 |  0 |  0 |  0 |
+| Mio Bergqvist | 24 |  7 |  1 |  7 | 1 |
+| Algot Bråhammar | 23 | 10 |  0 |  3 | 3 |
+| Marof Titani | 22 |  5 |  4 |  0 | 1 |
+| Eli Andersson | 21 |  5 |  3 |  2 | 1 |
+| Irakoze Irakoze |  7 |  2 |  0 |  3 | 1 |
+| Atle Olofsson |  6 |  2 |  0 |  2 | 3 |
+| Ludwig Prior |  3 |  0 |  1 |  0 | 1 |
+| Walther Andersson |  2 |  1 |  0 |  0 | 2 |
 
-### Högsbo Basket - Nässjö Basket
+### Trelleborg Pirates U16 - IK Eos Lund
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Suheb Ahmed Ahmed | 19 |  6 |  1 |  4 |  1 |
-| Douglas Helm | 12 |  4 |  0 |  4 |  3 |
-| Nikola Arsic | 12 |  1 |  3 |  1 |  2 |
-| Julian Friis | 11 |  3 |  1 |  2 |  0 |
-| Aleksa Vladisavljevic |  9 |  3 |  0 |  3 |  2 |
-| Alexander Tinnerholm |  9 |  4 |  0 |  1 |  0 |
-| Kelvin Hansson Sjöö |  4 |  2 |  0 |  0 |  1 |
-| Jonatan Birath |  3 |  1 |  0 |  1 |  2 |
-| Wille Lundgren |  2 |  0 |  0 |  2 |  0 |
-| Joel Zamora |  2 |  1 |  0 |  0 |  0 |
-| Edwin Ståhle |  2 |  1 |  0 |  0 |  0 |
-| Shalom Kabusu Alona Luyeye |  0 |  0 |  0 |  0 |  0 |
+| Algot Bråhammar | 30 | 11 |  0 |  8 | 3 |
+| Eli Andersson | 22 |  6 |  3 |  1 | 1 |
+| Mio Bergqvist | 22 |  7 |  0 |  8 | 4 |
+| Marof Titani | 19 |  2 |  4 |  3 | 3 |
+| Atle Olofsson |  6 |  3 |  0 |  0 | 5 |
+| Irakoze Irakoze |  5 |  2 |  0 |  1 | 4 |
+| Ludwig Prior |  4 |  2 |  0 |  0 | 0 |
+| Walther Andersson |  4 |  2 |  0 |  0 | 1 |
+| Caspian Karlsén |  4 |  2 |  0 |  0 | 2 |
 

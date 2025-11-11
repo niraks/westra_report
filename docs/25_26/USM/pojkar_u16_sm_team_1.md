@@ -1,98 +1,72 @@
-# Statistics for Helsingborg
+# Statistics for Östersund Basket Ungdom HU16
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Helsingborg | 4 | 113.25 | 24.75 | 7.25 | 6.75 | 14.50 |
+| Östersund Basket Ungdom HU16 | 3 | 123.00 | 41.00 | 11.00 | 8.00 | 14.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| John Bolanle | 4 | 23.00 | 4.75 | 2.00 | 0.50 | 1.25 |
-| Noah Grahn Gustafsson | 4 | 21.00 | 7.25 | 0.00 | 0.00 | 2.25 |
-| Adrian Döme | 4 | 18.00 | 3.50 | 1.00 | 2.75 | 1.50 |
-| Sebastian Frank-Gamez | 4 | 16.00 | 3.25 | 1.50 | 0.75 | 1.50 |
-| Alfred Jämtfalk | 4 | 12.75 | 4.00 | 0.75 | 0.00 | 1.00 |
-| Hamza Ibrahim | 4 | 9.25 | 0.50 | 1.00 | 1.00 | 1.75 |
-| Vytas Gaudutis | 4 | 5.75 | 1.00 | 0.50 | 0.25 | 1.50 |
-| Milo Bjurling | 4 | 4.50 | 0.50 | 0.25 | 1.00 | 1.75 |
-| Charlie Forsberg-Varga | 4 | 1.50 | 0.00 | 0.25 | 0.00 | 0.50 |
-| Philip Behnke | 4 | 1.25 | 0.00 | 0.00 | 0.50 | 0.25 |
-| William Nilsson | 4 | 0.25 | 0.00 | 0.00 | 0.00 | 1.25 |
+| Ture Skoglund Knutsson | 3 | 24.33 | 7.33 | 2.33 | 2.67 | 1.33 |
+| Sigge Benerfalk | 3 | 24.00 | 8.33 | 1.67 | 2.33 | 1.67 |
+| Valdemar Säwström | 3 | 19.00 | 7.67 | 1.00 | 0.67 | 1.33 |
+| Elias Hurtigh | 3 | 14.00 | 3.67 | 2.00 | 0.67 | 3.00 |
+| Mattis Svedberg | 3 | 14.00 | 5.00 | 1.33 | 0.00 | 1.33 |
+| Axel Wenna | 3 | 11.00 | 4.00 | 0.67 | 1.00 | 2.00 |
+| Ingemar Stenwall | 3 | 9.67 | 2.33 | 1.67 | 0.00 | 1.33 |
+| Axel Elgnäs | 3 | 4.67 | 1.67 | 0.33 | 0.33 | 0.67 |
+| Valter Eklund | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 1.33 |
 
 ## Games
 
-### Helsingborg - Kalmar Basket
+### Östersund Basket Ungdom HU16 - AIK
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| John Bolanle | 22 |  5 |  4 |  0 |  0 |
-| Adrian Döme | 17 |  6 |  0 |  5 |  2 |
-| Sebastian Frank-Gamez | 14 |  4 |  2 |  0 |  2 |
-| Hamza Ibrahim | 11 |  0 |  3 |  2 |  0 |
-| Alfred Jämtfalk | 11 |  4 |  1 |  0 |  1 |
-| Noah Grahn Gustafsson | 10 |  5 |  0 |  0 |  4 |
-| Milo Bjurling |  5 |  1 |  1 |  0 |  2 |
-| Vytas Gaudutis |  4 |  2 |  0 |  0 |  2 |
-| Charlie Forsberg-Varga |  0 |  0 |  0 |  0 |  0 |
-| Philip Behnke |  0 |  0 |  0 |  0 |  0 |
-| William Nilsson |  0 |  0 |  0 |  0 |  0 |
+| Sigge Benerfalk | 28 | 13 |  0 |  2 | 1 |
+| Ture Skoglund Knutsson | 21 |  6 |  2 |  3 | 0 |
+| Elias Hurtigh | 18 |  3 |  4 |  0 | 4 |
+| Valdemar Säwström | 18 |  4 |  3 |  1 | 2 |
+| Axel Wenna | 15 |  4 |  2 |  1 | 1 |
+| Mattis Svedberg | 15 |  3 |  3 |  0 | 0 |
+| Ingemar Stenwall |  7 |  2 |  1 |  0 | 1 |
+| Axel Elgnäs |  4 |  0 |  1 |  1 | 0 |
+| Valter Eklund |  1 |  0 |  0 |  1 | 1 |
 
-### Eastside Aviators - Helsingborg
+### Hammarby - Östersund Basket Ungdom HU16
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Noah Grahn Gustafsson | 30 | 15 |  0 |  0 |  2 |
-| Adrian Döme | 17 |  5 |  1 |  4 |  1 |
-| Sebastian Frank-Gamez | 15 |  3 |  3 |  0 |  1 |
-| John Bolanle | 15 |  4 |  2 |  1 |  2 |
-| Alfred Jämtfalk | 15 |  6 |  1 |  0 |  0 |
-| Vytas Gaudutis |  9 |  1 |  2 |  1 |  3 |
-| Hamza Ibrahim |  7 |  1 |  1 |  2 |  3 |
-| Milo Bjurling |  3 |  1 |  0 |  1 |  4 |
-| Philip Behnke |  2 |  0 |  0 |  2 |  0 |
-| Charlie Forsberg-Varga |  0 |  0 |  0 |  0 |  1 |
-| William Nilsson |  0 |  0 |  0 |  0 |  1 |
+| Ture Skoglund Knutsson | 25 |  9 |  2 |  1 | 1 |
+| Sigge Benerfalk | 24 |  5 |  4 |  2 | 2 |
+| Valdemar Säwström | 19 |  9 |  0 |  1 | 2 |
+| Mattis Svedberg | 13 |  5 |  1 |  0 | 1 |
+| Ingemar Stenwall | 10 |  2 |  2 |  0 | 1 |
+| Elias Hurtigh |  8 |  1 |  2 |  0 | 2 |
+| Axel Elgnäs |  6 |  3 |  0 |  0 | 1 |
+| Axel Wenna |  2 |  1 |  0 |  0 | 3 |
+| Valter Eklund |  2 |  1 |  0 |  0 | 3 |
 
-### Uppsala Basket - Helsingborg
+### Östersund Basket Ungdom HU16 - Eskilstuna Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| John Bolanle | 27 | 10 |  2 |  1 |  0 |
-| Sebastian Frank-Gamez | 18 |  6 |  1 |  3 |  0 |
-| Noah Grahn Gustafsson | 18 |  9 |  0 |  0 |  0 |
-| Adrian Döme | 17 |  3 |  3 |  2 |  0 |
-| Alfred Jämtfalk | 15 |  6 |  1 |  0 |  0 |
-| Charlie Forsberg-Varga |  3 |  0 |  1 |  0 |  0 |
-| Milo Bjurling |  3 |  0 |  0 |  3 |  0 |
-| Hamza Ibrahim |  2 |  1 |  0 |  0 |  0 |
-| Vytas Gaudutis |  2 |  1 |  0 |  0 |  0 |
-| Philip Behnke |  0 |  0 |  0 |  0 |  0 |
-| William Nilsson |  0 |  0 |  0 |  0 |  0 |
-
-### Motala Basket - Helsingborg
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| John Bolanle | 28 |  0 |  0 |  0 |  3 |
-| Noah Grahn Gustafsson | 26 |  0 |  0 |  0 |  3 |
-| Adrian Döme | 21 |  0 |  0 |  0 |  3 |
-| Hamza Ibrahim | 17 |  0 |  0 |  0 |  4 |
-| Sebastian Frank-Gamez | 17 |  0 |  0 |  0 |  3 |
-| Alfred Jämtfalk | 10 |  0 |  0 |  0 |  3 |
-| Vytas Gaudutis |  8 |  0 |  0 |  0 |  1 |
-| Milo Bjurling |  7 |  0 |  0 |  0 |  1 |
-| Charlie Forsberg-Varga |  3 |  0 |  0 |  0 |  1 |
-| Philip Behnke |  3 |  0 |  0 |  0 |  1 |
-| William Nilsson |  1 |  0 |  0 |  0 |  4 |
+| Ture Skoglund Knutsson | 27 |  7 |  3 |  4 | 3 |
+| Sigge Benerfalk | 20 |  7 |  1 |  3 | 2 |
+| Valdemar Säwström | 20 | 10 |  0 |  0 | 0 |
+| Elias Hurtigh | 16 |  7 |  0 |  2 | 3 |
+| Axel Wenna | 16 |  7 |  0 |  2 | 2 |
+| Mattis Svedberg | 14 |  7 |  0 |  0 | 3 |
+| Ingemar Stenwall | 12 |  3 |  2 |  0 | 2 |
+| Valter Eklund |  4 |  2 |  0 |  0 | 0 |
+| Axel Elgnäs |  4 |  2 |  0 |  0 | 1 |
 

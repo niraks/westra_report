@@ -1,77 +1,65 @@
-# Statistics for Malbas Svart
+# Statistics for KFUM Huddinge Basketklubb
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Malbas Svart | 3 | 61.33 | 17.33 | 3.00 | 17.67 | 20.33 |
+| KFUM Huddinge Basketklubb | 2 | 78.50 | 25.50 | 4.00 | 15.50 | 15.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Folke Turesson | 3 | 16.33 | 4.67 | 1.00 | 4.00 | 2.33 |
-| John Hallin | 3 | 14.33 | 2.33 | 1.33 | 5.67 | 2.67 |
-| Felix Ånmo | 3 | 7.33 | 2.67 | 0.00 | 2.00 | 1.33 |
-| Mads Hammerfald | 3 | 6.67 | 2.33 | 0.00 | 2.00 | 2.33 |
-| Alexander Nilsson Ponnert | 3 | 6.67 | 2.67 | 0.00 | 1.33 | 3.33 |
-| Oscar Lund | 3 | 4.33 | 1.67 | 0.33 | 0.00 | 1.33 |
-| Julian Billing | 3 | 2.67 | 0.67 | 0.33 | 0.33 | 2.67 |
-| Isac Persson | 2 | 2.50 | 0.50 | 0.00 | 1.50 | 3.50 |
-| Ivan Sandelin Ståhl | 3 | 0.67 | 0.00 | 0.00 | 0.67 | 0.67 |
-| Ebbot Lilliebladh | 3 | 0.67 | 0.00 | 0.00 | 0.67 | 1.33 |
-| Elias Engsten San Miguel | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Gustav Dundeberg | 2 | 21.50 | 9.00 | 0.00 | 3.50 | 2.00 |
+| Sid Lepistö | 2 | 19.50 | 5.00 | 2.00 | 3.50 | 0.50 |
+| Dennis Ohlis | 2 | 9.50 | 2.00 | 1.00 | 2.50 | 4.50 |
+| Max Jerlin | 2 | 7.50 | 2.00 | 0.00 | 3.50 | 1.50 |
+| Leo Kulpa | 2 | 7.00 | 2.00 | 1.00 | 0.00 | 1.50 |
+| Charlie Lönnberg | 2 | 6.00 | 2.50 | 0.00 | 1.00 | 1.00 |
+| Khizar Aamir | 2 | 4.00 | 1.50 | 0.00 | 1.00 | 2.00 |
+| Leo Axelsson Martinsson | 2 | 3.50 | 1.50 | 0.00 | 0.50 | 2.00 |
+| Oliver Bobinac | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| William Spengs | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Axel Oja Wass | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Jonathan Karlsson Siegers | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Malbas Svart - Fryshuset Basket
+### KFUM Huddinge Basketklubb - KFUM Örebro Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| John Hallin | 25 |  3 |  2 | 13 |  3 |
-| Folke Turesson | 16 |  5 |  0 |  6 |  1 |
-| Felix Ånmo | 10 |  4 |  0 |  2 |  2 |
-| Oscar Lund |  6 |  3 |  0 |  0 |  3 |
-| Mads Hammerfald |  6 |  2 |  0 |  2 |  4 |
-| Julian Billing |  3 |  1 |  0 |  1 |  3 |
-| Ivan Sandelin Ståhl |  2 |  0 |  0 |  2 |  1 |
-| Alexander Nilsson Ponnert |  2 |  0 |  0 |  2 |  4 |
-| Ebbot Lilliebladh |  0 |  0 |  0 |  0 |  2 |
-| Elias Engsten San Miguel |  0 |  0 |  0 |  0 |  0 |
+| Sid Lepistö | 20 |  4 |  3 |  3 | 0 |
+| Gustav Dundeberg | 15 |  7 |  0 |  1 | 1 |
+| Dennis Ohlis | 12 |  4 |  1 |  1 | 4 |
+| Max Jerlin |  8 |  3 |  0 |  2 | 2 |
+| Leo Axelsson Martinsson |  7 |  3 |  0 |  1 | 1 |
+| Leo Kulpa |  7 |  2 |  1 |  0 | 0 |
+| Charlie Lönnberg |  2 |  1 |  0 |  0 | 0 |
+| Oliver Bobinac |  0 |  0 |  0 |  0 | 0 |
+| William Spengs |  0 |  0 |  0 |  0 | 0 |
+| Axel Oja Wass |  0 |  0 |  0 |  0 | 0 |
+| Jonathan Karlsson Siegers |  0 |  0 |  0 |  0 | 0 |
+| Khizar Aamir |  0 |  0 |  0 |  0 | 0 |
 
-### Västerås Basketboll Förening - Malbas Svart
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Folke Turesson | 23 |  7 |  2 |  3 |  4 |
-| Felix Ånmo | 12 |  4 |  0 |  4 |  1 |
-| John Hallin | 11 |  2 |  2 |  1 |  2 |
-| Alexander Nilsson Ponnert | 10 |  5 |  0 |  0 |  4 |
-| Mads Hammerfald |  7 |  3 |  0 |  1 |  0 |
-| Oscar Lund |  3 |  0 |  1 |  0 |  0 |
-| Ebbot Lilliebladh |  2 |  0 |  0 |  2 |  1 |
-| Julian Billing |  2 |  1 |  0 |  0 |  1 |
-| Isac Persson |  1 |  0 |  0 |  1 |  3 |
-| Ivan Sandelin Ståhl |  0 |  0 |  0 |  0 |  0 |
-
-### Malbas Svart - Kungsholmen
+### Uppsala Basket - KFUM Huddinge Basketklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Folke Turesson | 10 |  2 |  1 |  3 |  2 |
-| Alexander Nilsson Ponnert |  8 |  3 |  0 |  2 |  2 |
-| Mads Hammerfald |  7 |  2 |  0 |  3 |  3 |
-| John Hallin |  7 |  2 |  0 |  3 |  3 |
-| Oscar Lund |  4 |  2 |  0 |  0 |  1 |
-| Isac Persson |  4 |  1 |  0 |  2 |  4 |
-| Julian Billing |  3 |  0 |  1 |  0 |  4 |
-| Ivan Sandelin Ståhl |  0 |  0 |  0 |  0 |  1 |
-| Ebbot Lilliebladh |  0 |  0 |  0 |  0 |  1 |
-| Felix Ånmo |  0 |  0 |  0 |  0 |  1 |
+| Gustav Dundeberg | 28 | 11 |  0 |  6 | 3 |
+| Sid Lepistö | 19 |  6 |  1 |  4 | 1 |
+| Charlie Lönnberg | 10 |  4 |  0 |  2 | 2 |
+| Khizar Aamir |  8 |  3 |  0 |  2 | 4 |
+| Dennis Ohlis |  7 |  0 |  1 |  4 | 5 |
+| Max Jerlin |  7 |  1 |  0 |  5 | 1 |
+| Leo Kulpa |  7 |  2 |  1 |  0 | 3 |
+| Oliver Bobinac |  0 |  0 |  0 |  0 | 0 |
+| William Spengs |  0 |  0 |  0 |  0 | 0 |
+| Leo Axelsson Martinsson |  0 |  0 |  0 |  0 | 3 |
+| Axel Oja Wass |  0 |  0 |  0 |  0 | 0 |
+| Jonathan Karlsson Siegers |  0 |  0 |  0 |  0 | 0 |
 

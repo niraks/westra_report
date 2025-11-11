@@ -1,76 +1,65 @@
-# Statistics for Kvarnby Basket
+# Statistics for Södertälje Basketbollklubb
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kvarnby Basket | 3 | 97.00 | 33.33 | 7.00 | 9.33 | 12.67 |
+| Södertälje Basketbollklubb | 2 | 109.00 | 34.50 | 9.00 | 13.00 | 14.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Viggo Fältjäger | 3 | 21.00 | 9.00 | 0.33 | 2.00 | 1.00 |
-| Alexander Blomgren | 3 | 19.33 | 7.67 | 0.67 | 2.00 | 2.67 |
-| Theodor Nankler | 3 | 15.00 | 4.33 | 1.33 | 2.33 | 1.00 |
-| Sam Limberg | 3 | 11.33 | 3.00 | 1.67 | 0.33 | 2.67 |
-| Elvin Östenson Grimfeldt | 3 | 8.33 | 3.33 | 0.33 | 0.67 | 0.33 |
-| Sebastian Nilsson | 3 | 6.33 | 1.33 | 1.00 | 0.67 | 0.33 |
-| Noel Dalgärde | 3 | 6.00 | 1.00 | 1.33 | 0.00 | 0.33 |
-| Liam Kim Börjesson | 3 | 5.00 | 2.33 | 0.00 | 0.33 | 1.33 |
-| Gustav Setterberg | 3 | 2.67 | 0.33 | 0.33 | 1.00 | 2.33 |
-| Aravind Sreenivas | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 0.67 |
+| Alexander Massamba Johansson | 1 | 47.00 | 9.00 | 6.00 | 11.00 | 3.00 |
+| Andy Kasarji | 2 | 20.50 | 5.50 | 3.00 | 0.50 | 1.50 |
+| Simo Jovic | 1 | 16.00 | 8.00 | 0.00 | 0.00 | 0.00 |
+| Nikola Lazic | 2 | 14.00 | 6.00 | 0.50 | 0.50 | 1.50 |
+| Nasrulahi Adedoyin | 2 | 11.50 | 5.00 | 0.00 | 1.50 | 2.00 |
+| Oliver Larsson | 2 | 8.50 | 1.50 | 1.00 | 2.50 | 3.00 |
+| André Cortinovis | 1 | 7.00 | 3.00 | 0.00 | 1.00 | 0.00 |
+| Santino Halef | 1 | 6.00 | 1.00 | 1.00 | 1.00 | 1.00 |
+| Jeremy Lundstein | 2 | 6.00 | 3.00 | 0.00 | 0.00 | 1.00 |
+| Omar Barre | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 1.00 |
+| Julian Sundberg | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 2.00 |
+| Pedro Rodrigues Pereira | 1 | 3.00 | 1.00 | 0.00 | 1.00 | 1.00 |
+| Kevin Bravén Lundström | 1 | 3.00 | 0.00 | 1.00 | 0.00 | 0.00 |
+| Noel Larsson | 2 | 2.50 | 0.00 | 0.50 | 1.00 | 0.50 |
+| Antonio Rendulic | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
 
 ## Games
 
-### Arvika Basket - Kvarnby Basket
+### Södertälje Basketbollklubb - KFUM Huddinge Basketklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Alexander Blomgren | 16 |  5 |  2 |  0 |  3 |
-| Theodor Nankler | 16 |  5 |  2 |  0 |  1 |
-| Viggo Fältjäger | 13 |  4 |  1 |  2 |  0 |
-| Sam Limberg | 12 |  3 |  2 |  0 |  4 |
-| Gustav Setterberg |  8 |  1 |  1 |  3 |  4 |
-| Sebastian Nilsson |  8 |  2 |  1 |  1 |  1 |
-| Elvin Östenson Grimfeldt |  6 |  3 |  0 |  0 |  0 |
-| Aravind Sreenivas |  4 |  2 |  0 |  0 |  1 |
-| Noel Dalgärde |  3 |  0 |  1 |  0 |  0 |
-| Liam Kim Börjesson |  2 |  1 |  0 |  0 |  1 |
+| Alexander Massamba Johansson | 47 |  9 |  6 | 11 | 3 |
+| Andy Kasarji | 24 |  4 |  5 |  1 | 2 |
+| Nikola Lazic | 14 |  5 |  1 |  1 | 2 |
+| Nasrulahi Adedoyin | 10 |  4 |  0 |  2 | 4 |
+| Oliver Larsson |  8 |  1 |  1 |  3 | 4 |
+| Santino Halef |  6 |  1 |  1 |  1 | 1 |
+| Jeremy Lundstein |  6 |  3 |  0 |  0 | 2 |
+| Noel Larsson |  4 |  0 |  1 |  1 | 1 |
+| Pedro Rodrigues Pereira |  3 |  1 |  0 |  1 | 1 |
+| Antonio Rendulic |  0 |  0 |  0 |  0 | 2 |
 
-### KFUM Huddinge Basketklubb - Kvarnby Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Viggo Fältjäger | 25 | 12 |  0 |  1 |  1 |
-| Theodor Nankler | 19 |  5 |  1 |  6 |  0 |
-| Alexander Blomgren | 15 |  5 |  0 |  5 |  2 |
-| Sebastian Nilsson |  6 |  0 |  2 |  0 |  0 |
-| Sam Limberg |  6 |  3 |  0 |  0 |  4 |
-| Noel Dalgärde |  5 |  1 |  1 |  0 |  1 |
-| Elvin Östenson Grimfeldt |  4 |  1 |  0 |  2 |  1 |
-| Liam Kim Börjesson |  2 |  1 |  0 |  0 |  0 |
-| Aravind Sreenivas |  0 |  0 |  0 |  0 |  0 |
-| Gustav Setterberg |  0 |  0 |  0 |  0 |  2 |
-
-### Kvarnby Basket - Hammarö Basketklubb
+### Östersund Basket Ungdom HU15 - Södertälje Basketbollklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Alexander Blomgren | 27 | 13 |  0 |  1 |  3 |
-| Viggo Fältjäger | 25 | 11 |  0 |  3 |  2 |
-| Sam Limberg | 16 |  3 |  3 |  1 |  0 |
-| Elvin Östenson Grimfeldt | 15 |  6 |  1 |  0 |  0 |
-| Liam Kim Börjesson | 11 |  5 |  0 |  1 |  3 |
-| Noel Dalgärde | 10 |  2 |  2 |  0 |  0 |
-| Theodor Nankler | 10 |  3 |  1 |  1 |  2 |
-| Sebastian Nilsson |  5 |  2 |  0 |  1 |  0 |
-| Aravind Sreenivas |  2 |  1 |  0 |  0 |  1 |
-| Gustav Setterberg |  0 |  0 |  0 |  0 |  1 |
+| Andy Kasarji | 17 |  7 |  1 |  0 | 1 |
+| Simo Jovic | 16 |  8 |  0 |  0 | 0 |
+| Nikola Lazic | 14 |  7 |  0 |  0 | 1 |
+| Nasrulahi Adedoyin | 13 |  6 |  0 |  1 | 0 |
+| Oliver Larsson |  9 |  2 |  1 |  2 | 2 |
+| André Cortinovis |  7 |  3 |  0 |  1 | 0 |
+| Omar Barre |  6 |  3 |  0 |  0 | 1 |
+| Jeremy Lundstein |  6 |  3 |  0 |  0 | 0 |
+| Julian Sundberg |  4 |  2 |  0 |  0 | 2 |
+| Kevin Bravén Lundström |  3 |  0 |  1 |  0 | 0 |
+| Noel Larsson |  1 |  0 |  0 |  1 | 0 |
 

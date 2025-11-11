@@ -1,69 +1,80 @@
-# Statistics for Norrköpings Basketförening
+# Statistics for Växjö Ravens
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Norrköpings Basketförening | 3 | 56.67 | 14.67 | 7.00 | 6.33 | 8.33 |
+| Växjö Ravens | 3 | 70.33 | 25.33 | 4.33 | 6.67 | 15.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lucas Berggreen | 2 | 20.00 | 7.00 | 0.50 | 4.50 | 2.50 |
-| Vilgot Ljung | 2 | 16.50 | 3.00 | 2.50 | 3.00 | 1.00 |
-| Wilhelm Lind | 2 | 13.00 | 3.50 | 1.50 | 1.50 | 2.00 |
-| Alfred Klarin Törnell | 2 | 11.00 | 1.00 | 3.00 | 0.00 | 1.00 |
-| Jason Sonebrand | 2 | 8.50 | 3.50 | 0.50 | 0.00 | 0.50 |
-| Casper Stjärnskog | 2 | 7.50 | 2.00 | 1.00 | 0.50 | 2.00 |
-| Oscar Henriksson | 2 | 3.00 | 0.00 | 1.00 | 0.00 | 0.50 |
-| Emil Ingvarsson | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 1.50 |
-| Charlie Rydström | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 0.00 |
-| Tajus Varanavicius | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.50 |
-| Jesper Saarnak | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.00 |
+| Benjamin Ahlberg | 3 | 20.67 | 8.00 | 1.00 | 1.67 | 2.67 |
+| Elend Chweich | 3 | 16.00 | 7.67 | 0.00 | 0.67 | 2.67 |
+| Elton Belo Da Silva | 3 | 11.33 | 3.33 | 1.00 | 1.67 | 3.00 |
+| Casper Edbäck | 3 | 6.00 | 1.67 | 0.67 | 0.67 | 2.00 |
+| Sublime Pandjo | 3 | 5.67 | 2.33 | 0.00 | 1.00 | 2.00 |
+| Noel Ståhlgren | 3 | 3.33 | 1.00 | 0.33 | 0.33 | 0.67 |
+| Ruzdija Beharovic | 3 | 2.67 | 0.33 | 0.67 | 0.00 | 0.00 |
+| Liam Mancilla | 3 | 2.33 | 0.67 | 0.33 | 0.00 | 0.33 |
+| Dellas Lazo | 3 | 2.33 | 0.33 | 0.33 | 0.67 | 1.33 |
+| Adrian Saglamoglu | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.67 |
+| Emilio Lopez | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
 
 ## Games
 
-### Södertälje Basketbollklubb - Norrköpings Basketförening
+### Växjö Ravens - Högsbo Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Lucas Berggreen | 26 |  9 |  1 |  5 |  4 |
-| Vilgot Ljung | 18 |  3 |  3 |  3 |  2 |
-| Wilhelm Lind | 13 |  2 |  2 |  3 |  2 |
-| Jason Sonebrand |  8 |  4 |  0 |  0 |  0 |
-| Alfred Klarin Törnell |  5 |  1 |  1 |  0 |  2 |
-| Casper Stjärnskog |  5 |  1 |  1 |  0 |  1 |
-| Tajus Varanavicius |  2 |  1 |  0 |  0 |  2 |
-| Oscar Henriksson |  0 |  0 |  0 |  0 |  0 |
-| Charlie Rydström |  0 |  0 |  0 |  0 |  0 |
-| Jesper Saarnak |  0 |  0 |  0 |  0 |  0 |
-| Emil Ingvarsson |  0 |  0 |  0 |  0 |  3 |
+| Benjamin Ahlberg | 27 | 10 |  2 |  1 | 3 |
+| Elend Chweich | 14 |  7 |  0 |  0 | 3 |
+| Noel Ståhlgren | 10 |  3 |  1 |  1 | 2 |
+| Casper Edbäck |  4 |  2 |  0 |  0 | 4 |
+| Elton Belo Da Silva |  4 |  2 |  0 |  0 | 4 |
+| Sublime Pandjo |  1 |  0 |  0 |  1 | 0 |
+| Liam Mancilla |  0 |  0 |  0 |  0 | 0 |
+| Ruzdija Beharovic |  0 |  0 |  0 |  0 | 0 |
+| Adrian Saglamoglu |  0 |  0 |  0 |  0 | 0 |
+| Emilio Lopez |  0 |  0 |  0 |  0 | 0 |
+| Dellas Lazo |  0 |  0 |  0 |  0 | 1 |
 
-### Norrköpings Basketförening - Täby Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Alfred Klarin Törnell | 17 |  1 |  5 |  0 |  0 |
-| Vilgot Ljung | 15 |  3 |  2 |  3 |  0 |
-| Lucas Berggreen | 14 |  5 |  0 |  4 |  1 |
-| Wilhelm Lind | 13 |  5 |  1 |  0 |  2 |
-| Casper Stjärnskog | 10 |  3 |  1 |  1 |  3 |
-| Jason Sonebrand |  9 |  3 |  1 |  0 |  1 |
-| Oscar Henriksson |  6 |  0 |  2 |  0 |  1 |
-| Emil Ingvarsson |  4 |  2 |  0 |  0 |  0 |
-| Charlie Rydström |  3 |  0 |  1 |  0 |  0 |
-| Jesper Saarnak |  2 |  1 |  0 |  0 |  0 |
-| Tajus Varanavicius |  0 |  0 |  0 |  0 |  1 |
-
-### KFUM Blackebergs Idrottsklubb - Norrköpings Basketförening
+### Växjö Ravens - Gota Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
+| Elend Chweich | 17 |  8 |  0 |  1 | 2 |
+| Benjamin Ahlberg | 15 |  7 |  0 |  1 | 4 |
+| Elton Belo Da Silva | 14 |  4 |  1 |  3 | 2 |
+| Sublime Pandjo | 12 |  5 |  0 |  2 | 2 |
+| Dellas Lazo |  7 |  1 |  1 |  2 | 2 |
+| Ruzdija Beharovic |  5 |  1 |  1 |  0 | 0 |
+| Liam Mancilla |  2 |  1 |  0 |  0 | 1 |
+| Casper Edbäck |  2 |  1 |  0 |  0 | 1 |
+| Adrian Saglamoglu |  0 |  0 |  0 |  0 | 0 |
+| Noel Ståhlgren |  0 |  0 |  0 |  0 | 0 |
+| Emilio Lopez |  0 |  0 |  0 |  0 | 0 |
+
+### Växjö Ravens - Malbas Vit
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Benjamin Ahlberg | 20 |  7 |  1 |  3 | 1 |
+| Elend Chweich | 17 |  8 |  0 |  1 | 3 |
+| Elton Belo Da Silva | 16 |  4 |  2 |  2 | 3 |
+| Casper Edbäck | 12 |  2 |  2 |  2 | 1 |
+| Liam Mancilla |  5 |  1 |  1 |  0 | 0 |
+| Sublime Pandjo |  4 |  2 |  0 |  0 | 4 |
+| Ruzdija Beharovic |  3 |  0 |  1 |  0 | 0 |
+| Adrian Saglamoglu |  0 |  0 |  0 |  0 | 2 |
+| Noel Ståhlgren |  0 |  0 |  0 |  0 | 0 |
+| Emilio Lopez |  0 |  0 |  0 |  0 | 1 |
+| Dellas Lazo |  0 |  0 |  0 |  0 | 1 |
 

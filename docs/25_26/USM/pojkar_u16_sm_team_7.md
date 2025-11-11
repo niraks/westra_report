@@ -1,72 +1,134 @@
-# Statistics for Kalmar Basket
+# Statistics for Åkersberga
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kalmar Basket | 3 | 87.67 | 30.67 | 5.67 | 9.33 | 9.00 |
+| Åkersberga | 6 | 89.67 | 27.67 | 6.17 | 15.83 | 20.17 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Alvin Vuckic | 3 | 32.00 | 8.67 | 3.33 | 4.67 | 1.33 |
-| Noa Erlandsson | 3 | 24.33 | 10.33 | 0.00 | 3.67 | 2.33 |
-| Axel Bröms | 3 | 11.00 | 4.67 | 0.33 | 0.67 | 0.67 |
-| Theo Neuman Sundin | 3 | 11.00 | 4.00 | 1.00 | 0.00 | 1.67 |
-| Leo Grenstadius | 3 | 4.33 | 0.67 | 1.00 | 0.00 | 0.67 |
-| Rodion Haidai | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 0.33 |
-| Winton Vervaart | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 2.00 |
-| Theodor Dahl | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.00 |
-| Albin Bucht | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.00 |
+| Sixten Lindgren | 6 | 16.17 | 5.50 | 0.33 | 4.17 | 2.83 |
+| Felix Maier | 6 | 14.67 | 3.50 | 1.33 | 3.67 | 3.33 |
+| Dominykas Cepele | 6 | 12.17 | 3.17 | 1.33 | 1.83 | 2.00 |
+| Hugo Renlund | 6 | 12.17 | 4.33 | 0.50 | 2.00 | 2.83 |
+| Einar Kero | 6 | 9.33 | 3.67 | 0.17 | 1.50 | 2.17 |
+| Bolor Munkh-Erdene | 6 | 8.33 | 2.83 | 0.83 | 0.17 | 1.50 |
+| Ture Lindvall | 6 | 8.00 | 2.50 | 0.50 | 1.50 | 1.83 |
+| Mattis Marter | 3 | 5.67 | 2.67 | 0.00 | 0.33 | 1.33 |
+| Viggo Lundqvist | 6 | 5.17 | 0.83 | 1.00 | 0.50 | 0.67 |
+| Henrik Östlind | 3 | 1.33 | 0.00 | 0.33 | 0.33 | 3.00 |
+| Theo Fredin-Hallén | 3 | 0.33 | 0.00 | 0.00 | 0.33 | 0.00 |
+| Melker Feldt | 4 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Milo Löfroth | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
 
 ## Games
 
-### Helsingborg - Kalmar Basket
+### KFUM Basketbollklubb Skellefteå - Åkersberga
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Alvin Vuckic | 35 | 11 |  3 |  4 |  2 |
-| Noa Erlandsson | 19 |  8 |  0 |  3 |  3 |
-| Theo Neuman Sundin | 13 |  5 |  1 |  0 |  4 |
-| Axel Bröms | 10 |  5 |  0 |  0 |  1 |
-| Leo Grenstadius |  5 |  1 |  1 |  0 |  2 |
-| Winton Vervaart |  0 |  0 |  0 |  0 |  0 |
-| Theodor Dahl |  0 |  0 |  0 |  0 |  0 |
-| Albin Bucht |  0 |  0 |  0 |  0 |  0 |
-| Rodion Haidai |  0 |  0 |  0 |  0 |  0 |
+| Sixten Lindgren | 22 |  5 |  2 |  6 | 4 |
+| Hugo Renlund | 18 |  6 |  2 |  0 | 2 |
+| Dominykas Cepele | 16 |  6 |  1 |  1 | 2 |
+| Felix Maier | 15 |  3 |  2 |  3 | 4 |
+| Viggo Lundqvist | 11 |  1 |  3 |  0 | 1 |
+| Ture Lindvall | 11 |  2 |  1 |  4 | 2 |
+| Einar Kero | 10 |  3 |  0 |  4 | 2 |
+| Henrik Östlind |  1 |  0 |  0 |  1 | 3 |
+| Bolor Munkh-Erdene |  0 |  0 |  0 |  0 | 0 |
 
-### Kalmar Basket - Uppsala Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Noa Erlandsson | 34 | 15 |  0 |  4 |  3 |
-| Alvin Vuckic | 33 |  6 |  4 |  9 |  2 |
-| Axel Bröms |  9 |  4 |  0 |  1 |  1 |
-| Rodion Haidai |  4 |  2 |  0 |  0 |  0 |
-| Leo Grenstadius |  2 |  1 |  0 |  0 |  0 |
-| Winton Vervaart |  0 |  0 |  0 |  0 |  4 |
-| Theo Neuman Sundin |  0 |  0 |  0 |  0 |  0 |
-| Theodor Dahl |  0 |  0 |  0 |  0 |  0 |
-| Albin Bucht |  0 |  0 |  0 |  0 |  0 |
-
-### Kalmar Basket - Eastside Aviators
+### Åkersberga - Duvbo
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Alvin Vuckic | 28 |  9 |  3 |  1 |  0 |
-| Theo Neuman Sundin | 20 |  7 |  2 |  0 |  1 |
-| Noa Erlandsson | 20 |  8 |  0 |  4 |  1 |
-| Axel Bröms | 14 |  5 |  1 |  1 |  0 |
-| Leo Grenstadius |  6 |  0 |  2 |  0 |  0 |
-| Rodion Haidai |  4 |  2 |  0 |  0 |  1 |
-| Winton Vervaart |  3 |  1 |  0 |  1 |  2 |
-| Theodor Dahl |  2 |  1 |  0 |  0 |  0 |
-| Albin Bucht |  2 |  1 |  0 |  0 |  0 |
+| Dominykas Cepele | 24 |  5 |  3 |  5 | 2 |
+| Ture Lindvall | 18 |  8 |  0 |  2 | 3 |
+| Hugo Renlund | 18 |  5 |  1 |  5 | 2 |
+| Felix Maier | 16 |  5 |  0 |  6 | 4 |
+| Sixten Lindgren | 13 |  4 |  0 |  5 | 2 |
+| Bolor Munkh-Erdene | 12 |  4 |  1 |  1 | 2 |
+| Einar Kero |  9 |  4 |  0 |  1 | 4 |
+| Viggo Lundqvist |  3 |  0 |  1 |  0 | 1 |
+| Henrik Östlind |  0 |  0 |  0 |  0 | 2 |
+
+### Lidingö Basket - Åkersberga
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Felix Maier | 17 |  2 |  3 |  4 | 3 |
+| Bolor Munkh-Erdene | 14 |  4 |  2 |  0 | 1 |
+| Einar Kero |  9 |  4 |  0 |  1 | 1 |
+| Sixten Lindgren |  7 |  1 |  0 |  5 | 5 |
+| Ture Lindvall |  7 |  3 |  0 |  1 | 1 |
+| Hugo Renlund |  7 |  3 |  0 |  1 | 4 |
+| Henrik Östlind |  3 |  0 |  1 |  0 | 4 |
+| Dominykas Cepele |  2 |  1 |  0 |  0 | 3 |
+| Viggo Lundqvist |  1 |  0 |  0 |  1 | 0 |
+| Melker Feldt |  0 |  0 |  0 |  0 | 0 |
+
+### Vallentuna Basket - Åkersberga
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Sixten Lindgren | 25 | 11 |  0 |  3 | 0 |
+| Dominykas Cepele | 19 |  6 |  1 |  4 | 1 |
+| Felix Maier |  8 |  1 |  2 |  0 | 2 |
+| Einar Kero |  6 |  2 |  0 |  2 | 2 |
+| Bolor Munkh-Erdene |  6 |  3 |  0 |  0 | 3 |
+| Viggo Lundqvist |  5 |  2 |  0 |  1 | 0 |
+| Mattis Marter |  5 |  2 |  0 |  1 | 1 |
+| Hugo Renlund |  4 |  1 |  0 |  2 | 4 |
+| Ture Lindvall |  2 |  1 |  0 |  0 | 0 |
+| Theo Fredin-Hallén |  0 |  0 |  0 |  0 | 0 |
+| Melker Feldt |  0 |  0 |  0 |  0 | 4 |
+| Milo Löfroth |  0 |  0 |  0 |  0 | 1 |
+
+### Eastside Aviators - Åkersberga
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Hugo Renlund | 18 |  9 |  0 |  0 | 1 |
+| Einar Kero | 17 |  7 |  1 |  0 | 2 |
+| Felix Maier | 16 |  6 |  1 |  1 | 4 |
+| Sixten Lindgren | 13 |  6 |  0 |  1 | 2 |
+| Viggo Lundqvist |  9 |  1 |  2 |  1 | 2 |
+| Bolor Munkh-Erdene |  9 |  3 |  1 |  0 | 1 |
+| Mattis Marter |  6 |  3 |  0 |  0 | 0 |
+| Ture Lindvall |  5 |  1 |  1 |  0 | 2 |
+| Dominykas Cepele |  2 |  1 |  0 |  0 | 3 |
+| Theo Fredin-Hallén |  0 |  0 |  0 |  0 | 0 |
+| Melker Feldt |  0 |  0 |  0 |  0 | 0 |
+| Milo Löfroth |  0 |  0 |  0 |  0 | 0 |
+
+### Åkersberga - Stockholm Nordväst
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Sixten Lindgren | 17 |  6 |  0 |  5 | 4 |
+| Felix Maier | 16 |  4 |  0 |  8 | 3 |
+| Dominykas Cepele | 10 |  0 |  3 |  1 | 1 |
+| Bolor Munkh-Erdene |  9 |  3 |  1 |  0 | 2 |
+| Hugo Renlund |  8 |  2 |  0 |  4 | 4 |
+| Mattis Marter |  6 |  3 |  0 |  0 | 3 |
+| Einar Kero |  5 |  2 |  0 |  1 | 2 |
+| Ture Lindvall |  5 |  0 |  1 |  2 | 3 |
+| Viggo Lundqvist |  2 |  1 |  0 |  0 | 0 |
+| Theo Fredin-Hallén |  1 |  0 |  0 |  1 | 0 |
+| Melker Feldt |  0 |  0 |  0 |  0 | 0 |
+| Milo Löfroth |  0 |  0 |  0 |  0 | 0 |
 

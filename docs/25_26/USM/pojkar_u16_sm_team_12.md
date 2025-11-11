@@ -1,83 +1,126 @@
-# Statistics for Uppsala Basket
+# Statistics for Bankeryds Basketklubb
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Uppsala Basket | 3 | 79.33 | 28.00 | 6.00 | 5.33 | 12.67 |
+| Bankeryds Basketklubb | 6 | 84.83 | 28.67 | 4.67 | 13.50 | 17.33 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Holger Karlsson | 3 | 20.00 | 6.67 | 1.33 | 2.67 | 0.67 |
-| Eliel Lonsa Kanda | 3 | 17.33 | 3.67 | 3.33 | 0.00 | 2.00 |
-| Lukas Enochsson Stjernström | 3 | 10.00 | 4.00 | 0.33 | 1.00 | 1.67 |
-| Nuftaliem Ghebremichael | 3 | 7.00 | 2.67 | 0.00 | 1.67 | 0.33 |
-| Aymane Jebrane | 3 | 6.00 | 3.00 | 0.00 | 0.00 | 0.67 |
-| Ed Bovin | 3 | 6.00 | 3.00 | 0.00 | 0.00 | 1.33 |
-| Orion Yohannes Morén | 3 | 5.33 | 1.67 | 0.67 | 0.00 | 1.00 |
-| Isidor Saykali | 3 | 3.33 | 1.67 | 0.00 | 0.00 | 0.67 |
-| Nils Gulliksson | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 3.50 |
-| Nathaniel Sasha Lind | 3 | 1.67 | 0.33 | 0.33 | 0.00 | 0.67 |
-| Douglas Unberg | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.67 |
-| Elias Mohisenpour | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.67 |
+| Bob Berggren | 6 | 41.83 | 14.17 | 1.67 | 8.50 | 4.00 |
+| Oscar Carendi | 6 | 16.67 | 5.50 | 1.00 | 2.67 | 2.00 |
+| Vincent Ivåker | 3 | 9.00 | 2.67 | 1.00 | 0.67 | 1.33 |
+| Erik Rapi | 6 | 7.83 | 2.50 | 0.83 | 0.33 | 2.17 |
+| Mats Garrido Fällene | 6 | 6.67 | 2.17 | 0.50 | 0.83 | 2.67 |
+| Vilmer Isaksson | 4 | 5.75 | 2.25 | 0.00 | 1.25 | 3.50 |
+| Didrik Horndahl | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 1.67 |
+| Matt Rzepa | 6 | 1.00 | 0.50 | 0.00 | 0.00 | 1.17 |
+| Jona To Baben | 6 | 1.00 | 0.50 | 0.00 | 0.00 | 1.00 |
+| Elvin Haugan | 5 | 0.60 | 0.00 | 0.20 | 0.00 | 0.60 |
+| William Storm | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Idriz Mohamed Abdi | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Uppsala Basket - Motala Basket
+### Bankeryds Basketklubb - Alviks Basketbollklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Nuftaliem Ghebremichael | 13 |  4 |  0 |  5 |  1 |
-| Holger Karlsson | 11 |  5 |  0 |  1 |  1 |
-| Orion Yohannes Morén | 11 |  4 |  1 |  0 |  1 |
-| Isidor Saykali | 10 |  5 |  0 |  0 |  2 |
-| Ed Bovin |  8 |  4 |  0 |  0 |  0 |
-| Eliel Lonsa Kanda |  7 |  2 |  1 |  0 |  3 |
-| Lukas Enochsson Stjernström |  6 |  3 |  0 |  0 |  2 |
-| Nathaniel Sasha Lind |  5 |  1 |  1 |  0 |  2 |
-| Aymane Jebrane |  4 |  2 |  0 |  0 |  1 |
-| Nils Gulliksson |  2 |  1 |  0 |  0 |  3 |
-| Douglas Unberg |  2 |  1 |  0 |  0 |  2 |
-| Elias Mohisenpour |  0 |  0 |  0 |  0 |  2 |
+| Bob Berggren | 39 | 14 |  2 |  5 | 4 |
+| Oscar Carendi | 21 |  6 |  1 |  6 | 3 |
+| Vincent Ivåker | 11 |  2 |  2 |  1 | 4 |
+| Vilmer Isaksson |  9 |  4 |  0 |  1 | 5 |
+| Mats Garrido Fällene |  5 |  2 |  0 |  1 | 3 |
+| William Storm |  0 |  0 |  0 |  0 | 0 |
+| Matt Rzepa |  0 |  0 |  0 |  0 | 0 |
+| Idriz Mohamed Abdi |  0 |  0 |  0 |  0 | 0 |
+| Jona To Baben |  0 |  0 |  0 |  0 | 0 |
+| Elvin Haugan |  0 |  0 |  0 |  0 | 0 |
+| Erik Rapi |  0 |  0 |  0 |  0 | 0 |
+| Didrik Horndahl |  0 |  0 |  0 |  0 | 3 |
 
-### Kalmar Basket - Uppsala Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Eliel Lonsa Kanda | 29 |  4 |  7 |  0 |  3 |
-| Holger Karlsson | 25 |  5 |  4 |  3 |  1 |
-| Lukas Enochsson Stjernström | 15 |  6 |  1 |  0 |  3 |
-| Nils Gulliksson |  4 |  2 |  0 |  0 |  4 |
-| Ed Bovin |  4 |  2 |  0 |  0 |  4 |
-| Aymane Jebrane |  2 |  1 |  0 |  0 |  1 |
-| Orion Yohannes Morén |  2 |  1 |  0 |  0 |  2 |
-| Nathaniel Sasha Lind |  0 |  0 |  0 |  0 |  0 |
-| Isidor Saykali |  0 |  0 |  0 |  0 |  0 |
-| Elias Mohisenpour |  0 |  0 |  0 |  0 |  0 |
-| Douglas Unberg |  0 |  0 |  0 |  0 |  0 |
-| Nuftaliem Ghebremichael |  0 |  0 |  0 |  0 |  0 |
-
-### Uppsala Basket - Helsingborg
+### Lobas - Bankeryds Basketklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Holger Karlsson | 24 | 10 |  0 |  4 |  0 |
-| Eliel Lonsa Kanda | 16 |  5 |  2 |  0 |  0 |
-| Aymane Jebrane | 12 |  6 |  0 |  0 |  0 |
-| Lukas Enochsson Stjernström |  9 |  3 |  0 |  3 |  0 |
-| Nuftaliem Ghebremichael |  8 |  4 |  0 |  0 |  0 |
-| Ed Bovin |  6 |  3 |  0 |  0 |  0 |
-| Orion Yohannes Morén |  3 |  0 |  1 |  0 |  0 |
-| Nathaniel Sasha Lind |  0 |  0 |  0 |  0 |  0 |
-| Isidor Saykali |  0 |  0 |  0 |  0 |  0 |
-| Elias Mohisenpour |  0 |  0 |  0 |  0 |  0 |
-| Douglas Unberg |  0 |  0 |  0 |  0 |  0 |
+| Oscar Carendi | 23 |  9 |  1 |  2 | 2 |
+| Bob Berggren | 21 |  3 |  4 |  3 | 4 |
+| Vincent Ivåker | 12 |  4 |  1 |  1 | 0 |
+| Erik Rapi | 10 |  2 |  2 |  0 | 2 |
+| Mats Garrido Fällene |  8 |  4 |  0 |  0 | 2 |
+| Vilmer Isaksson |  6 |  3 |  0 |  0 | 2 |
+| William Storm |  0 |  0 |  0 |  0 | 0 |
+| Matt Rzepa |  0 |  0 |  0 |  0 | 0 |
+| Idriz Mohamed Abdi |  0 |  0 |  0 |  0 | 0 |
+| Jona To Baben |  0 |  0 |  0 |  0 | 0 |
+| Didrik Horndahl |  0 |  0 |  0 |  0 | 0 |
+
+### Bankeryds Basketklubb - Pirates Basketboll
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Bob Berggren | 38 | 10 |  1 | 15 | 4 |
+| Oscar Carendi | 14 |  5 |  0 |  4 | 2 |
+| Mats Garrido Fällene |  6 |  1 |  1 |  1 | 4 |
+| Didrik Horndahl |  6 |  3 |  0 |  0 | 2 |
+| Vincent Ivåker |  4 |  2 |  0 |  0 | 0 |
+| Erik Rapi |  3 |  1 |  0 |  1 | 2 |
+| Vilmer Isaksson |  2 |  1 |  0 |  0 | 4 |
+| William Storm |  0 |  0 |  0 |  0 | 0 |
+| Matt Rzepa |  0 |  0 |  0 |  0 | 0 |
+| Idriz Mohamed Abdi |  0 |  0 |  0 |  0 | 0 |
+| Jona To Baben |  0 |  0 |  0 |  0 | 0 |
+| Elvin Haugan |  0 |  0 |  0 |  0 | 0 |
+
+### LIDBAS/Borås - Bankeryds Basketklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Bob Berggren | 50 | 19 |  0 | 12 | 4 |
+| Erik Rapi | 15 |  3 |  3 |  0 | 2 |
+| Mats Garrido Fällene | 13 |  4 |  1 |  2 | 2 |
+| Elvin Haugan |  3 |  0 |  1 |  0 | 1 |
+| Jona To Baben |  2 |  1 |  0 |  0 | 3 |
+| Matt Rzepa |  2 |  1 |  0 |  0 | 3 |
+| Oscar Carendi |  0 |  0 |  0 |  0 | 0 |
+
+### Kvarnby Basket - Bankeryds Basketklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Bob Berggren | 54 | 18 |  3 |  9 | 4 |
+| Oscar Carendi | 21 |  7 |  2 |  1 | 1 |
+| Erik Rapi | 15 |  7 |  0 |  1 | 2 |
+| Jona To Baben |  2 |  1 |  0 |  0 | 3 |
+| Mats Garrido Fällene |  0 |  0 |  0 |  0 | 0 |
+| Elvin Haugan |  0 |  0 |  0 |  0 | 2 |
+| Matt Rzepa |  0 |  0 |  0 |  0 | 2 |
+
+### Helsingborg - Bankeryds Basketklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Bob Berggren | 49 | 21 |  0 |  7 | 4 |
+| Oscar Carendi | 21 |  6 |  2 |  3 | 4 |
+| Mats Garrido Fällene |  8 |  2 |  1 |  1 | 5 |
+| Vilmer Isaksson |  6 |  1 |  0 |  4 | 3 |
+| Erik Rapi |  4 |  2 |  0 |  0 | 5 |
+| Matt Rzepa |  4 |  2 |  0 |  0 | 2 |
+| Jona To Baben |  2 |  1 |  0 |  0 | 0 |
+| Elvin Haugan |  0 |  0 |  0 |  0 | 0 |
 

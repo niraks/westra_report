@@ -1,79 +1,139 @@
-# Statistics for Kungsholmen
+# Statistics for Malbas Svart
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kungsholmen | 3 | 100.00 | 37.67 | 6.67 | 4.67 | 20.00 |
+| Malbas Svart | 6 | 109.33 | 45.17 | 2.67 | 11.00 | 20.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Adrian Carlsten | 3 | 16.67 | 8.00 | 0.00 | 0.67 | 2.00 |
-| Carljohan Werner Sundén | 3 | 16.33 | 6.00 | 1.33 | 0.33 | 2.33 |
-| Mustafa Muminovic | 3 | 14.33 | 3.67 | 2.33 | 0.00 | 2.67 |
-| Hugo Mattsson Lundberg | 3 | 14.33 | 6.33 | 0.00 | 1.67 | 2.33 |
-| Carl Zachrisson | 3 | 12.00 | 4.67 | 0.67 | 0.67 | 3.33 |
-| Adrian Dennemark | 3 | 12.00 | 3.67 | 1.33 | 0.67 | 2.00 |
-| Carl Hårleman | 3 | 8.67 | 2.67 | 1.00 | 0.33 | 0.67 |
-| Elas Kaae Kyauk | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 2.67 |
-| Sture Rimmfelt | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 2.50 |
-| Jonathan Alemdar | 3 | 0.33 | 0.00 | 0.00 | 0.33 | 0.33 |
-| Johan Sjöstedt | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Dax Metoyer | 6 | 30.33 | 12.17 | 0.17 | 5.50 | 2.67 |
+| Dez Martha | 6 | 24.83 | 11.17 | 0.17 | 2.00 | 2.83 |
+| Lowe Kjellqvist Forsén | 6 | 12.00 | 5.50 | 0.17 | 0.50 | 1.50 |
+| David Askari Louyeh | 6 | 11.33 | 4.17 | 0.67 | 1.00 | 3.00 |
+| Nathan Velandria | 3 | 6.67 | 3.00 | 0.00 | 0.67 | 1.00 |
+| Ilias Vlachos | 3 | 6.67 | 3.33 | 0.00 | 0.00 | 3.00 |
+| Adam Gihan | 3 | 6.00 | 2.00 | 0.67 | 0.00 | 0.33 |
+| Jens Lindberg Torkelsson | 3 | 5.00 | 2.00 | 0.00 | 1.00 | 1.67 |
+| Kristian Damevski | 6 | 4.67 | 1.33 | 0.50 | 0.50 | 1.67 |
+| Mercx Metoyer | 6 | 4.17 | 1.67 | 0.17 | 0.33 | 1.17 |
+| Monir Rashid | 6 | 4.00 | 1.50 | 0.33 | 0.00 | 2.00 |
+| Alfred Eborn | 5 | 2.80 | 1.40 | 0.00 | 0.00 | 0.40 |
+| Rohan Abraham | 6 | 2.33 | 1.00 | 0.00 | 0.33 | 2.17 |
+| Arkis Moussa | 3 | 2.33 | 0.67 | 0.33 | 0.00 | 0.67 |
 
 ## Games
 
-### Kungsholmen - Aros Basketbollklubb
+### Malbas Svart - Norrköpings Basketförening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Adrian Carlsten | 20 | 10 |  0 |  0 |  3 |
-| Carljohan Werner Sundén | 20 |  7 |  2 |  0 |  0 |
-| Carl Hårleman | 13 |  3 |  2 |  1 |  1 |
-| Mustafa Muminovic |  9 |  3 |  1 |  0 |  2 |
-| Hugo Mattsson Lundberg |  9 |  3 |  0 |  3 |  2 |
-| Carl Zachrisson |  8 |  4 |  0 |  0 |  2 |
-| Adrian Dennemark |  8 |  3 |  0 |  2 |  0 |
-| Elas Kaae Kyauk |  4 |  2 |  0 |  0 |  2 |
-| Sture Rimmfelt |  2 |  1 |  0 |  0 |  3 |
-| Jonathan Alemdar |  1 |  0 |  0 |  1 |  0 |
-| Johan Sjöstedt |  0 |  0 |  0 |  0 |  0 |
+| Dax Metoyer | 35 | 12 |  1 |  8 | 4 |
+| Dez Martha | 31 | 13 |  0 |  5 | 4 |
+| Lowe Kjellqvist Forsén | 16 |  8 |  0 |  0 | 0 |
+| Kristian Damevski | 14 |  2 |  3 |  1 | 3 |
+| Ilias Vlachos |  8 |  4 |  0 |  0 | 3 |
+| Monir Rashid |  6 |  3 |  0 |  0 | 4 |
+| David Askari Louyeh |  4 |  2 |  0 |  0 | 4 |
+| Mercx Metoyer |  0 |  0 |  0 |  0 | 0 |
+| Nathan Velandria |  0 |  0 |  0 |  0 | 0 |
+| Alfred Eborn |  0 |  0 |  0 |  0 | 0 |
+| Rohan Abraham |  0 |  0 |  0 |  0 | 3 |
 
-### Oskarshamns Basketbollklubb - Kungsholmen
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Mustafa Muminovic | 23 |  7 |  3 |  0 |  3 |
-| Carljohan Werner Sundén | 19 |  8 |  1 |  0 |  3 |
-| Hugo Mattsson Lundberg | 18 |  9 |  0 |  0 |  2 |
-| Adrian Dennemark | 17 |  7 |  1 |  0 |  3 |
-| Carl Zachrisson | 14 |  5 |  1 |  1 |  4 |
-| Adrian Carlsten | 10 |  5 |  0 |  0 |  1 |
-| Carl Hårleman |  4 |  2 |  0 |  0 |  0 |
-| Elas Kaae Kyauk |  4 |  2 |  0 |  0 |  3 |
-| Johan Sjöstedt |  0 |  0 |  0 |  0 |  0 |
-| Jonathan Alemdar |  0 |  0 |  0 |  0 |  0 |
-
-### Kungsholmen - S:t Helena BK
+### Malbas Svart - WestCoast Basketförening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Adrian Carlsten | 20 |  9 |  0 |  2 |  2 |
-| Hugo Mattsson Lundberg | 16 |  7 |  0 |  2 |  3 |
-| Carl Zachrisson | 14 |  5 |  1 |  1 |  4 |
-| Mustafa Muminovic | 11 |  1 |  3 |  0 |  3 |
-| Adrian Dennemark | 11 |  1 |  3 |  0 |  3 |
-| Carljohan Werner Sundén | 10 |  3 |  1 |  1 |  4 |
-| Carl Hårleman |  9 |  3 |  1 |  0 |  1 |
-| Elas Kaae Kyauk |  4 |  2 |  0 |  0 |  3 |
-| Sture Rimmfelt |  2 |  1 |  0 |  0 |  2 |
-| Johan Sjöstedt |  0 |  0 |  0 |  0 |  0 |
-| Jonathan Alemdar |  0 |  0 |  0 |  0 |  1 |
+| Dax Metoyer | 35 | 15 |  0 |  5 | 0 |
+| Lowe Kjellqvist Forsén | 25 | 11 |  0 |  3 | 3 |
+| Dez Martha | 24 | 12 |  0 |  0 | 2 |
+| Nathan Velandria | 16 |  7 |  0 |  2 | 1 |
+| David Askari Louyeh |  9 |  3 |  1 |  0 | 3 |
+| Monir Rashid |  7 |  2 |  1 |  0 | 1 |
+| Mercx Metoyer |  6 |  3 |  0 |  0 | 3 |
+| Ilias Vlachos |  6 |  3 |  0 |  0 | 3 |
+| Kristian Damevski |  5 |  2 |  0 |  1 | 3 |
+| Rohan Abraham |  3 |  1 |  0 |  1 | 1 |
+
+### Älmhult Beasts BC P15 - Malbas Svart
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Dax Metoyer | 19 |  6 |  0 |  7 | 2 |
+| Dez Martha | 19 |  9 |  0 |  1 | 2 |
+| David Askari Louyeh | 12 |  4 |  1 |  1 | 4 |
+| Lowe Kjellqvist Forsén | 12 |  6 |  0 |  0 | 1 |
+| Ilias Vlachos |  6 |  3 |  0 |  0 | 3 |
+| Mercx Metoyer |  4 |  2 |  0 |  0 | 1 |
+| Nathan Velandria |  4 |  2 |  0 |  0 | 2 |
+| Rohan Abraham |  4 |  2 |  0 |  0 | 2 |
+| Alfred Eborn |  2 |  1 |  0 |  0 | 0 |
+| Kristian Damevski |  2 |  1 |  0 |  0 | 1 |
+| Monir Rashid |  2 |  1 |  0 |  0 | 0 |
+
+### Malbas Svart - KFUM Örebro Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Dez Martha | 27 | 11 |  1 |  2 | 2 |
+| Dax Metoyer | 25 |  8 |  0 |  9 | 3 |
+| David Askari Louyeh |  8 |  2 |  1 |  1 | 2 |
+| Mercx Metoyer |  6 |  1 |  1 |  1 | 1 |
+| Jens Lindberg Torkelsson |  6 |  2 |  0 |  2 | 1 |
+| Alfred Eborn |  6 |  3 |  0 |  0 | 1 |
+| Kristian Damevski |  2 |  1 |  0 |  0 | 0 |
+| Adam Gihan |  2 |  1 |  0 |  0 | 0 |
+| Arkis Moussa |  0 |  0 |  0 |  0 | 0 |
+| Lowe Kjellqvist Forsén |  0 |  0 |  0 |  0 | 1 |
+| Monir Rashid |  0 |  0 |  0 |  0 | 2 |
+| Rohan Abraham |  0 |  0 |  0 |  0 | 3 |
+
+### S:t Helena BK - Malbas Svart
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Dax Metoyer | 40 | 18 |  0 |  4 | 3 |
+| Dez Martha | 23 | 10 |  0 |  3 | 4 |
+| David Askari Louyeh | 19 |  8 |  0 |  3 | 2 |
+| Adam Gihan |  8 |  4 |  0 |  0 | 1 |
+| Mercx Metoyer |  7 |  3 |  0 |  1 | 1 |
+| Arkis Moussa |  7 |  2 |  1 |  0 | 1 |
+| Rohan Abraham |  7 |  3 |  0 |  1 | 4 |
+| Alfred Eborn |  6 |  3 |  0 |  0 | 1 |
+| Monir Rashid |  6 |  3 |  0 |  0 | 1 |
+| Kristian Damevski |  5 |  2 |  0 |  1 | 2 |
+| Jens Lindberg Torkelsson |  4 |  2 |  0 |  0 | 4 |
+| Lowe Kjellqvist Forsén |  0 |  0 |  0 |  0 | 0 |
+
+### Malbas Svart - Gota Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Dax Metoyer | 28 | 14 |  0 |  0 | 4 |
+| Dez Martha | 25 | 12 |  0 |  1 | 3 |
+| Lowe Kjellqvist Forsén | 19 |  8 |  1 |  0 | 4 |
+| David Askari Louyeh | 16 |  6 |  1 |  1 | 3 |
+| Adam Gihan |  8 |  1 |  2 |  0 | 0 |
+| Jens Lindberg Torkelsson |  5 |  2 |  0 |  1 | 0 |
+| Monir Rashid |  3 |  0 |  1 |  0 | 4 |
+| Mercx Metoyer |  2 |  1 |  0 |  0 | 1 |
+| Alfred Eborn |  0 |  0 |  0 |  0 | 0 |
+| Kristian Damevski |  0 |  0 |  0 |  0 | 1 |
+| Arkis Moussa |  0 |  0 |  0 |  0 | 1 |
+| Rohan Abraham |  0 |  0 |  0 |  0 | 0 |
 

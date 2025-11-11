@@ -1,76 +1,76 @@
-# Statistics for Trelleborg Pirates U15
+# Statistics for KFUM Örebro Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Trelleborg Pirates U15 | 3 | 96.00 | 20.33 | 2.00 | 13.33 | 17.67 |
+| KFUM Örebro Basket | 3 | 106.67 | 43.33 | 4.00 | 8.00 | 22.33 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Adem Asanovski | 3 | 20.33 | 4.33 | 0.00 | 3.00 | 3.67 |
-| Axel Niklasson | 3 | 19.00 | 6.67 | 0.00 | 1.00 | 3.67 |
-| Dylan Kuksta Larsen | 3 | 16.00 | 1.67 | 0.67 | 3.33 | 2.33 |
-| William Mårtensson Yalcin | 3 | 15.00 | 4.33 | 0.33 | 2.67 | 2.00 |
-| William Nilsson | 3 | 13.67 | 0.33 | 1.00 | 2.67 | 1.67 |
-| Theo Bergqvist | 3 | 8.00 | 2.67 | 0.00 | 0.67 | 2.33 |
-| Eslam Amer | 3 | 2.00 | 0.33 | 0.00 | 0.00 | 0.33 |
-| Matin Jamali | 3 | 1.67 | 0.00 | 0.00 | 0.00 | 1.00 |
-| Isac Belgrave | 3 | 0.33 | 0.00 | 0.00 | 0.00 | 0.67 |
-| Viggo Flensburg | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Adrian Pleick | 3 | 28.00 | 11.00 | 1.00 | 3.00 | 0.67 |
+| Ludvig Fagerberg | 3 | 17.67 | 8.00 | 0.33 | 0.67 | 4.00 |
+| Adrian Hasani | 3 | 11.67 | 3.67 | 1.00 | 1.33 | 1.67 |
+| Harry Selimbasic | 3 | 10.33 | 4.33 | 0.00 | 1.67 | 1.33 |
+| Ture Blomgren | 3 | 10.00 | 3.67 | 0.67 | 0.67 | 3.00 |
+| Denni Jusufbegovic | 3 | 8.67 | 4.33 | 0.00 | 0.00 | 3.00 |
+| Wilmer Axelsson | 3 | 7.33 | 2.67 | 0.67 | 0.00 | 5.00 |
+| Ilias Rudenko | 3 | 5.67 | 2.00 | 0.33 | 0.67 | 1.67 |
+| Zeke Viborg | 3 | 4.67 | 2.33 | 0.00 | 0.00 | 1.33 |
+| Hugo Engberg | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 0.67 |
 
 ## Games
 
-### Trelleborg Pirates U15 - Viby Basket
+### Malbas Svart - KFUM Örebro Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| William Mårtensson Yalcin | 24 |  8 |  1 |  5 |  1 |
-| Axel Niklasson | 22 | 11 |  0 |  0 |  4 |
-| Adem Asanovski | 21 |  7 |  0 |  7 |  4 |
-| Dylan Kuksta Larsen | 11 |  1 |  1 |  6 |  1 |
-| Theo Bergqvist |  9 |  4 |  0 |  1 |  2 |
-| Eslam Amer |  2 |  1 |  0 |  0 |  0 |
-| William Nilsson |  2 |  0 |  0 |  2 |  0 |
-| Matin Jamali |  0 |  0 |  0 |  0 |  0 |
-| Isac Belgrave |  0 |  0 |  0 |  0 |  0 |
-| Viggo Flensburg |  0 |  0 |  0 |  0 |  0 |
+| Adrian Pleick | 33 | 12 |  3 |  0 | 0 |
+| Ture Blomgren | 16 |  7 |  0 |  2 | 4 |
+| Harry Selimbasic | 14 |  5 |  0 |  4 | 1 |
+| Ludvig Fagerberg | 13 |  6 |  0 |  1 | 5 |
+| Adrian Hasani | 12 |  5 |  0 |  2 | 1 |
+| Denni Jusufbegovic |  8 |  4 |  0 |  0 | 4 |
+| Ilias Rudenko |  2 |  1 |  0 |  0 | 2 |
+| Wilmer Axelsson |  2 |  1 |  0 |  0 | 5 |
+| Hugo Engberg |  2 |  1 |  0 |  0 | 1 |
+| Zeke Viborg |  2 |  1 |  0 |  0 | 0 |
 
-### Trelleborg Pirates U15 - Borås Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Axel Niklasson | 21 |  9 |  0 |  3 |  4 |
-| William Nilsson | 17 |  1 |  3 |  6 |  1 |
-| Dylan Kuksta Larsen | 15 |  4 |  1 |  4 |  3 |
-| Adem Asanovski | 14 |  6 |  0 |  2 |  4 |
-| William Mårtensson Yalcin | 13 |  5 |  0 |  3 |  1 |
-| Theo Bergqvist |  9 |  4 |  0 |  1 |  1 |
-| Eslam Amer |  0 |  0 |  0 |  0 |  0 |
-| Matin Jamali |  0 |  0 |  0 |  0 |  0 |
-| Isac Belgrave |  0 |  0 |  0 |  0 |  0 |
-| Viggo Flensburg |  0 |  0 |  0 |  0 |  0 |
-
-### Trelleborg Pirates U15 - Lobas Vit
+### Gota Basket - KFUM Örebro Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Adem Asanovski | 26 |  0 |  0 |  0 |  3 |
-| William Nilsson | 22 |  0 |  0 |  0 |  4 |
-| Dylan Kuksta Larsen | 22 |  0 |  0 |  0 |  3 |
-| Axel Niklasson | 14 |  0 |  0 |  0 |  3 |
-| William Mårtensson Yalcin |  8 |  0 |  0 |  0 |  4 |
-| Theo Bergqvist |  6 |  0 |  0 |  0 |  4 |
-| Matin Jamali |  5 |  0 |  0 |  0 |  3 |
-| Eslam Amer |  4 |  0 |  0 |  0 |  1 |
-| Isac Belgrave |  1 |  0 |  0 |  0 |  2 |
-| Viggo Flensburg |  0 |  0 |  0 |  0 |  0 |
+| Adrian Pleick | 23 |  8 |  0 |  7 | 0 |
+| Ludvig Fagerberg | 19 |  9 |  0 |  1 | 4 |
+| Ilias Rudenko | 11 |  3 |  1 |  2 | 3 |
+| Adrian Hasani | 11 |  2 |  2 |  1 | 2 |
+| Harry Selimbasic |  8 |  4 |  0 |  0 | 2 |
+| Hugo Engberg |  6 |  3 |  0 |  0 | 0 |
+| Zeke Viborg |  6 |  3 |  0 |  0 | 2 |
+| Denni Jusufbegovic |  6 |  3 |  0 |  0 | 3 |
+| Wilmer Axelsson |  5 |  1 |  1 |  0 | 5 |
+| Ture Blomgren |  3 |  0 |  1 |  0 | 2 |
+
+### KFUM Örebro Basket - S:t Helena BK
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Adrian Pleick | 28 | 13 |  0 |  2 | 2 |
+| Ludvig Fagerberg | 21 |  9 |  1 |  0 | 3 |
+| Wilmer Axelsson | 15 |  6 |  1 |  0 | 5 |
+| Adrian Hasani | 12 |  4 |  1 |  1 | 2 |
+| Denni Jusufbegovic | 12 |  6 |  0 |  0 | 2 |
+| Ture Blomgren | 11 |  4 |  1 |  0 | 3 |
+| Harry Selimbasic |  9 |  4 |  0 |  1 | 1 |
+| Zeke Viborg |  6 |  3 |  0 |  0 | 2 |
+| Ilias Rudenko |  4 |  2 |  0 |  0 | 0 |
+| Hugo Engberg |  0 |  0 |  0 |  0 | 1 |
 

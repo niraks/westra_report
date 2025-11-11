@@ -31,17 +31,17 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Robin Hysén | 28 | 14 |  0 |  0 |  1 |
-| Fabian Hjärtinge | 19 |  8 |  0 |  3 |  3 |
-| Charlie Lindblom | 15 |  5 |  0 |  5 |  3 |
-| David Franco Weihe | 12 |  3 |  2 |  0 |  2 |
-| Emil Järvinen |  7 |  2 |  1 |  0 |  5 |
-| Edvin Harbas |  2 |  1 |  0 |  0 |  3 |
-| Bakir Hasanovic |  2 |  1 |  0 |  0 |  0 |
-| Noah Nilsson |  2 |  1 |  0 |  0 |  1 |
-| Anton Hjärn |  0 |  0 |  0 |  0 |  0 |
-| Alvin Nylén |  0 |  0 |  0 |  0 |  0 |
-| Jack Kilany |  0 |  0 |  0 |  0 |  1 |
+| Robin Hysén | 28 | 14 |  0 |  0 | 1 |
+| Fabian Hjärtinge | 19 |  8 |  0 |  3 | 3 |
+| Charlie Lindblom | 15 |  5 |  0 |  5 | 3 |
+| David Franco Weihe | 12 |  3 |  2 |  0 | 2 |
+| Emil Järvinen |  7 |  2 |  1 |  0 | 5 |
+| Edvin Harbas |  2 |  1 |  0 |  0 | 3 |
+| Bakir Hasanovic |  2 |  1 |  0 |  0 | 0 |
+| Noah Nilsson |  2 |  1 |  0 |  0 | 1 |
+| Anton Hjärn |  0 |  0 |  0 |  0 | 0 |
+| Alvin Nylén |  0 |  0 |  0 |  0 | 0 |
+| Jack Kilany |  0 |  0 |  0 |  0 | 1 |
 
 ### Ale Basket - Trollhättans Basketbollklubb
 
@@ -49,16 +49,16 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Charlie Lindblom | 28 |  8 |  2 |  6 |  2 |
-| Robin Hysén | 27 | 13 |  0 |  1 |  1 |
-| Noah Nilsson | 20 | 10 |  0 |  0 |  2 |
-| Edvin Harbas | 18 |  9 |  0 |  0 |  0 |
-| Emil Järvinen | 16 |  4 |  1 |  5 |  3 |
-| Jack Kilany |  4 |  1 |  0 |  2 |  0 |
-| David Franco Weihe |  4 |  2 |  0 |  0 |  2 |
-| Bakir Hasanovic |  4 |  2 |  0 |  0 |  2 |
-| Anton Hjärn |  2 |  1 |  0 |  0 |  3 |
-| Alvin Nylén |  2 |  1 |  0 |  0 |  2 |
+| Charlie Lindblom | 28 |  8 |  2 |  6 | 2 |
+| Robin Hysén | 27 | 13 |  0 |  1 | 1 |
+| Noah Nilsson | 20 | 10 |  0 |  0 | 2 |
+| Edvin Harbas | 18 |  9 |  0 |  0 | 0 |
+| Emil Järvinen | 16 |  4 |  1 |  5 | 3 |
+| Jack Kilany |  4 |  1 |  0 |  2 | 0 |
+| David Franco Weihe |  4 |  2 |  0 |  0 | 2 |
+| Bakir Hasanovic |  4 |  2 |  0 |  0 | 2 |
+| Anton Hjärn |  2 |  1 |  0 |  0 | 3 |
+| Alvin Nylén |  2 |  1 |  0 |  0 | 2 |
 
 ### Ale Basket - Högsbo Basket P11 röd
 
@@ -66,17 +66,17 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Charlie Lindblom | 35 |  8 |  3 | 10 |  3 |
-| Fabian Hjärtinge | 14 |  5 |  0 |  4 |  4 |
-| Robin Hysén | 10 |  4 |  0 |  2 |  0 |
-| Edvin Harbas |  8 |  4 |  0 |  0 |  5 |
-| David Franco Weihe |  4 |  1 |  0 |  2 |  1 |
-| Bakir Hasanovic |  4 |  2 |  0 |  0 |  3 |
-| Jack Kilany |  2 |  1 |  0 |  0 |  0 |
-| Emil Järvinen |  2 |  1 |  0 |  0 |  1 |
-| Noah Nilsson |  2 |  1 |  0 |  0 |  4 |
-| Anton Hjärn |  0 |  0 |  0 |  0 |  0 |
-| Alvin Nylén |  0 |  0 |  0 |  0 |  0 |
+| Charlie Lindblom | 35 |  8 |  3 | 10 | 3 |
+| Fabian Hjärtinge | 14 |  5 |  0 |  4 | 4 |
+| Robin Hysén | 10 |  4 |  0 |  2 | 0 |
+| Edvin Harbas |  8 |  4 |  0 |  0 | 5 |
+| David Franco Weihe |  4 |  1 |  0 |  2 | 1 |
+| Bakir Hasanovic |  4 |  2 |  0 |  0 | 3 |
+| Jack Kilany |  2 |  1 |  0 |  0 | 0 |
+| Emil Järvinen |  2 |  1 |  0 |  0 | 1 |
+| Noah Nilsson |  2 |  1 |  0 |  0 | 4 |
+| Anton Hjärn |  0 |  0 |  0 |  0 | 0 |
+| Alvin Nylén |  0 |  0 |  0 |  0 | 0 |
 
 ### Eastside Falcons - Ale Basket
 
@@ -84,12 +84,12 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Charlie Lindblom | 34 |  9 |  4 |  4 |  1 |
-| Edvin Harbas | 11 |  5 |  0 |  1 |  4 |
-| Emil Järvinen | 10 |  4 |  0 |  2 |  4 |
-| Bakir Hasanovic |  9 |  4 |  0 |  1 |  3 |
-| Jack Kilany |  4 |  2 |  0 |  0 |  0 |
-| David Franco Weihe |  2 |  1 |  0 |  0 |  1 |
-| Oscar Jansson |  2 |  1 |  0 |  0 |  1 |
-| Anton Hjärn |  0 |  0 |  0 |  0 |  2 |
+| Charlie Lindblom | 34 |  9 |  4 |  4 | 1 |
+| Edvin Harbas | 11 |  5 |  0 |  1 | 4 |
+| Emil Järvinen | 10 |  4 |  0 |  2 | 4 |
+| Bakir Hasanovic |  9 |  4 |  0 |  1 | 3 |
+| Jack Kilany |  4 |  2 |  0 |  0 | 0 |
+| David Franco Weihe |  2 |  1 |  0 |  0 | 1 |
+| Oscar Jansson |  2 |  1 |  0 |  0 | 1 |
+| Anton Hjärn |  0 |  0 |  0 |  0 | 2 |
 

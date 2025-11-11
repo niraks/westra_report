@@ -1,64 +1,84 @@
-# Statistics for Bankeryds Basketklubb
+# Statistics for Stockholm Nordväst
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Bankeryds Basketklubb | 2 | 82.50 | 26.50 | 6.50 | 10.00 | 17.00 |
+| Stockholm Nordväst | 3 | 88.00 | 31.00 | 4.33 | 13.00 | 21.33 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Bob Berggren | 2 | 30.00 | 8.50 | 3.00 | 4.00 | 4.00 |
-| Oscar Carendi | 2 | 22.00 | 7.50 | 1.00 | 4.00 | 2.50 |
-| Vincent Ivåker | 2 | 11.50 | 3.00 | 1.50 | 1.00 | 2.00 |
-| Vilmer Isaksson | 2 | 7.50 | 3.50 | 0.00 | 0.50 | 3.50 |
-| Mats Garrido Fällene | 2 | 6.50 | 3.00 | 0.00 | 0.50 | 2.50 |
-| Erik Rapi | 2 | 5.00 | 1.00 | 1.00 | 0.00 | 1.00 |
-| William Storm | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Matt Rzepa | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Idriz Mohamed Abdi | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Jona To Baben | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Elvin Haugan | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Didrik Horndahl | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.50 |
+| Felix Plaksin | 3 | 17.00 | 5.00 | 0.67 | 5.00 | 2.00 |
+| Temesgen Amanuel | 3 | 13.00 | 5.33 | 0.67 | 0.33 | 2.00 |
+| Max Holmqvist | 3 | 8.67 | 4.00 | 0.00 | 0.67 | 2.67 |
+| Melvin Kristiansson | 3 | 7.67 | 2.33 | 0.67 | 1.00 | 0.33 |
+| Hampus Hoverberg | 3 | 7.33 | 3.00 | 0.00 | 1.33 | 0.00 |
+| Dante Biberg | 3 | 7.00 | 2.00 | 1.00 | 0.00 | 2.33 |
+| Novak Marinkovich | 3 | 7.00 | 3.33 | 0.00 | 0.33 | 3.00 |
+| Girts Ragovskis | 3 | 6.00 | 1.67 | 0.00 | 2.67 | 2.67 |
+| Emil Grudziecki | 3 | 5.67 | 1.67 | 0.67 | 0.33 | 2.00 |
+| Aaron Bukasa Nkuna | 3 | 4.00 | 0.67 | 0.67 | 0.67 | 1.67 |
+| Agathon Conrad Vilsmyr | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 1.67 |
+| Emilis Kupcinskas | 3 | 2.00 | 0.67 | 0.00 | 0.67 | 1.00 |
 
 ## Games
 
-### Bankeryds Basketklubb - Alviks Basketbollklubb
+### Eastside Aviators - Stockholm Nordväst
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Bob Berggren | 39 | 14 |  2 |  5 |  4 |
-| Oscar Carendi | 21 |  6 |  1 |  6 |  3 |
-| Vincent Ivåker | 11 |  2 |  2 |  1 |  4 |
-| Vilmer Isaksson |  9 |  4 |  0 |  1 |  5 |
-| Mats Garrido Fällene |  5 |  2 |  0 |  1 |  3 |
-| William Storm |  0 |  0 |  0 |  0 |  0 |
-| Matt Rzepa |  0 |  0 |  0 |  0 |  0 |
-| Idriz Mohamed Abdi |  0 |  0 |  0 |  0 |  0 |
-| Jona To Baben |  0 |  0 |  0 |  0 |  0 |
-| Elvin Haugan |  0 |  0 |  0 |  0 |  0 |
-| Erik Rapi |  0 |  0 |  0 |  0 |  0 |
-| Didrik Horndahl |  0 |  0 |  0 |  0 |  3 |
+| Felix Plaksin | 18 |  4 |  2 |  4 | 2 |
+| Temesgen Amanuel | 13 |  5 |  1 |  0 | 2 |
+| Dante Biberg | 10 |  2 |  2 |  0 | 1 |
+| Hampus Hoverberg |  8 |  4 |  0 |  0 | 0 |
+| Max Holmqvist |  8 |  4 |  0 |  0 | 2 |
+| Emil Grudziecki |  7 |  2 |  1 |  0 | 2 |
+| Girts Ragovskis |  7 |  2 |  0 |  3 | 1 |
+| Melvin Kristiansson |  4 |  2 |  0 |  0 | 1 |
+| Emilis Kupcinskas |  4 |  2 |  0 |  0 | 1 |
+| Novak Marinkovich |  2 |  1 |  0 |  0 | 2 |
+| Agathon Conrad Vilsmyr |  0 |  0 |  0 |  0 | 0 |
+| Aaron Bukasa Nkuna |  0 |  0 |  0 |  0 | 2 |
 
-### Lobas - Bankeryds Basketklubb
+### Vallentuna Basket - Stockholm Nordväst
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Oscar Carendi | 23 |  9 |  1 |  2 |  2 |
-| Bob Berggren | 21 |  3 |  4 |  3 |  4 |
-| Vincent Ivåker | 12 |  4 |  1 |  1 |  0 |
-| Erik Rapi | 10 |  2 |  2 |  0 |  2 |
-| Mats Garrido Fällene |  8 |  4 |  0 |  0 |  2 |
-| Vilmer Isaksson |  6 |  3 |  0 |  0 |  2 |
-| William Storm |  0 |  0 |  0 |  0 |  0 |
-| Matt Rzepa |  0 |  0 |  0 |  0 |  0 |
-| Idriz Mohamed Abdi |  0 |  0 |  0 |  0 |  0 |
-| Jona To Baben |  0 |  0 |  0 |  0 |  0 |
-| Didrik Horndahl |  0 |  0 |  0 |  0 |  0 |
+| Novak Marinkovich | 17 |  8 |  0 |  1 | 2 |
+| Hampus Hoverberg | 14 |  5 |  0 |  4 | 0 |
+| Dante Biberg | 11 |  4 |  1 |  0 | 3 |
+| Girts Ragovskis | 11 |  3 |  0 |  5 | 3 |
+| Emil Grudziecki | 10 |  3 |  1 |  1 | 1 |
+| Felix Plaksin |  8 |  3 |  0 |  2 | 2 |
+| Agathon Conrad Vilsmyr |  6 |  3 |  0 |  0 | 1 |
+| Melvin Kristiansson |  6 |  3 |  0 |  0 | 0 |
+| Max Holmqvist |  6 |  2 |  0 |  2 | 2 |
+| Aaron Bukasa Nkuna |  5 |  1 |  1 |  0 | 2 |
+| Temesgen Amanuel |  4 |  2 |  0 |  0 | 1 |
+| Emilis Kupcinskas |  2 |  0 |  0 |  2 | 2 |
+
+### Åkersberga - Stockholm Nordväst
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Felix Plaksin | 25 |  8 |  0 |  9 | 2 |
+| Temesgen Amanuel | 22 |  9 |  1 |  1 | 3 |
+| Melvin Kristiansson | 13 |  2 |  2 |  3 | 0 |
+| Max Holmqvist | 12 |  6 |  0 |  0 | 4 |
+| Aaron Bukasa Nkuna |  7 |  1 |  1 |  2 | 1 |
+| Agathon Conrad Vilsmyr |  2 |  1 |  0 |  0 | 4 |
+| Novak Marinkovich |  2 |  1 |  0 |  0 | 5 |
+| Emil Grudziecki |  0 |  0 |  0 |  0 | 3 |
+| Dante Biberg |  0 |  0 |  0 |  0 | 3 |
+| Hampus Hoverberg |  0 |  0 |  0 |  0 | 0 |
+| Emilis Kupcinskas |  0 |  0 |  0 |  0 | 0 |
+| Girts Ragovskis |  0 |  0 |  0 |  0 | 4 |
 

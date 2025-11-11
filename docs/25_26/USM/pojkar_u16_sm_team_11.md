@@ -1,84 +1,143 @@
-# Statistics for AIK
+# Statistics for Högsbo Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| AIK | 3 | 81.00 | 28.00 | 6.00 | 7.00 | 14.00 |
+| Högsbo Basket | 6 | 85.33 | 29.67 | 4.50 | 12.50 | 12.83 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Tristan Danielsson Claret | 3 | 17.00 | 4.67 | 2.00 | 1.67 | 3.00 |
-| Darian Kalkali Tawfeek | 3 | 16.33 | 6.67 | 0.00 | 3.00 | 1.00 |
-| Nils Samuelsson | 3 | 12.00 | 6.00 | 0.00 | 0.00 | 2.67 |
-| Samuel Halvarsson De Oliveira | 3 | 10.67 | 1.00 | 2.67 | 0.67 | 1.33 |
-| Marcus Falk | 3 | 6.33 | 2.00 | 0.67 | 0.33 | 0.00 |
-| Carl Lind | 3 | 5.33 | 2.67 | 0.00 | 0.00 | 2.00 |
-| Benjamin Banoub | 3 | 4.00 | 1.67 | 0.00 | 0.67 | 0.33 |
-| Jonatan Jarde | 3 | 3.33 | 0.67 | 0.67 | 0.00 | 0.00 |
-| Dante Dehaddo | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 0.67 |
-| Adam Emara | 3 | 1.67 | 0.67 | 0.00 | 0.33 | 1.00 |
-| Tyson Bah Hichens-Bergström | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 2.00 |
-| Axel Åhman Siljemark | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.00 |
+| Kelvin Hansson Sjöö | 6 | 15.50 | 4.33 | 1.33 | 2.83 | 1.17 |
+| Alexander Tinnerholm | 6 | 13.33 | 5.83 | 0.00 | 1.67 | 2.17 |
+| Suheb Ahmed Ahmed | 6 | 12.50 | 4.17 | 0.67 | 2.17 | 1.00 |
+| Aleksa Vladisavljevic | 3 | 9.00 | 3.67 | 0.00 | 1.67 | 2.33 |
+| Douglas Helm | 6 | 8.67 | 3.67 | 0.00 | 1.33 | 2.17 |
+| Nikola Arsic | 6 | 7.17 | 1.50 | 1.33 | 0.17 | 1.67 |
+| Jonatan Birath | 6 | 6.67 | 2.33 | 0.33 | 1.00 | 0.67 |
+| Shalom Kabusu Alona Luyeye | 6 | 4.83 | 1.83 | 0.17 | 0.67 | 0.83 |
+| Julian Friis | 6 | 4.00 | 1.17 | 0.17 | 1.17 | 0.50 |
+| Precious Bwene | 3 | 3.33 | 0.67 | 0.67 | 0.00 | 0.33 |
+| Wille Lundgren | 6 | 2.50 | 0.83 | 0.17 | 0.33 | 0.67 |
+| Joel Zamora | 6 | 2.33 | 1.17 | 0.00 | 0.00 | 0.67 |
+| Edwin Ståhle | 3 | 2.00 | 0.67 | 0.00 | 0.67 | 0.00 |
+| Deen Kadribasic | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Trollhättans Basketbollklubb - AIK
+### Högsbo Basket - IK Eos Lund
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Tristan Danielsson Claret | 16 |  6 |  1 |  1 |  3 |
-| Marcus Falk | 11 |  4 |  1 |  0 |  0 |
-| Nils Samuelsson | 10 |  5 |  0 |  0 |  3 |
-| Samuel Halvarsson De Oliveira |  9 |  0 |  3 |  0 |  1 |
-| Darian Kalkali Tawfeek |  8 |  3 |  0 |  2 |  1 |
-| Jonatan Jarde |  7 |  2 |  1 |  0 |  0 |
-| Benjamin Banoub |  6 |  2 |  0 |  2 |  1 |
-| Carl Lind |  6 |  3 |  0 |  0 |  1 |
-| Tyson Bah Hichens-Bergström |  4 |  2 |  0 |  0 |  2 |
-| Adam Emara |  2 |  1 |  0 |  0 |  2 |
-| Dante Dehaddo |  0 |  0 |  0 |  0 |  0 |
-| Axel Åhman Siljemark |  0 |  0 |  0 |  0 |  0 |
+| Kelvin Hansson Sjöö | 23 | 10 |  0 |  3 | 1 |
+| Suheb Ahmed Ahmed | 15 |  6 |  1 |  0 | 3 |
+| Alexander Tinnerholm | 14 |  6 |  0 |  2 | 2 |
+| Douglas Helm | 13 |  5 |  0 |  3 | 4 |
+| Jonatan Birath | 11 |  3 |  1 |  2 | 1 |
+| Aleksa Vladisavljevic | 10 |  4 |  0 |  2 | 3 |
+| Julian Friis |  7 |  2 |  0 |  3 | 2 |
+| Shalom Kabusu Alona Luyeye |  6 |  2 |  0 |  2 | 2 |
+| Nikola Arsic |  6 |  0 |  2 |  0 | 1 |
+| Joel Zamora |  2 |  1 |  0 |  0 | 1 |
+| Edwin Ståhle |  2 |  0 |  0 |  2 | 0 |
+| Wille Lundgren |  0 |  0 |  0 |  0 | 0 |
 
-### Hammarö Basketklubb P10 - AIK
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Darian Kalkali Tawfeek | 23 | 10 |  0 |  3 |  1 |
-| Tristan Danielsson Claret | 18 |  4 |  3 |  1 |  3 |
-| Samuel Halvarsson De Oliveira | 14 |  1 |  4 |  0 |  3 |
-| Nils Samuelsson |  8 |  4 |  0 |  0 |  2 |
-| Marcus Falk |  5 |  1 |  1 |  0 |  0 |
-| Dante Dehaddo |  2 |  1 |  0 |  0 |  0 |
-| Benjamin Banoub |  2 |  1 |  0 |  0 |  0 |
-| Axel Åhman Siljemark |  0 |  0 |  0 |  0 |  0 |
-| Jonatan Jarde |  0 |  0 |  0 |  0 |  0 |
-| Adam Emara |  0 |  0 |  0 |  0 |  1 |
-| Carl Lind |  0 |  0 |  0 |  0 |  3 |
-| Tyson Bah Hichens-Bergström |  0 |  0 |  0 |  0 |  0 |
-
-### AIK - Vallentuna Basket
+### Malbas Vit - Högsbo Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Darian Kalkali Tawfeek | 18 |  7 |  0 |  4 |  1 |
-| Nils Samuelsson | 18 |  9 |  0 |  0 |  3 |
-| Tristan Danielsson Claret | 17 |  4 |  2 |  3 |  3 |
-| Carl Lind | 10 |  5 |  0 |  0 |  2 |
-| Samuel Halvarsson De Oliveira |  9 |  2 |  1 |  2 |  0 |
-| Dante Dehaddo |  5 |  2 |  0 |  1 |  2 |
-| Benjamin Banoub |  4 |  2 |  0 |  0 |  0 |
-| Jonatan Jarde |  3 |  0 |  1 |  0 |  0 |
-| Marcus Falk |  3 |  1 |  0 |  1 |  0 |
-| Adam Emara |  3 |  1 |  0 |  1 |  0 |
-| Axel Åhman Siljemark |  2 |  1 |  0 |  0 |  0 |
-| Tyson Bah Hichens-Bergström |  0 |  0 |  0 |  0 |  4 |
+| Alexander Tinnerholm | 25 | 12 |  0 |  1 | 3 |
+| Kelvin Hansson Sjöö | 16 |  3 |  2 |  4 | 1 |
+| Suheb Ahmed Ahmed | 10 |  4 |  0 |  2 | 0 |
+| Shalom Kabusu Alona Luyeye |  9 |  4 |  0 |  1 | 1 |
+| Aleksa Vladisavljevic |  8 |  4 |  0 |  0 | 2 |
+| Nikola Arsic |  7 |  2 |  1 |  0 | 4 |
+| Wille Lundgren |  5 |  1 |  1 |  0 | 0 |
+| Jonatan Birath |  4 |  1 |  0 |  2 | 0 |
+| Joel Zamora |  4 |  2 |  0 |  0 | 1 |
+| Julian Friis |  2 |  0 |  0 |  2 | 0 |
+| Douglas Helm |  2 |  1 |  0 |  0 | 0 |
+| Edwin Ståhle |  2 |  1 |  0 |  0 | 0 |
+
+### Högsbo Basket - Nässjö Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Suheb Ahmed Ahmed | 19 |  6 |  1 |  4 | 1 |
+| Douglas Helm | 12 |  4 |  0 |  4 | 3 |
+| Nikola Arsic | 12 |  1 |  3 |  1 | 2 |
+| Julian Friis | 11 |  3 |  1 |  2 | 0 |
+| Aleksa Vladisavljevic |  9 |  3 |  0 |  3 | 2 |
+| Alexander Tinnerholm |  9 |  4 |  0 |  1 | 0 |
+| Kelvin Hansson Sjöö |  4 |  2 |  0 |  0 | 1 |
+| Jonatan Birath |  3 |  1 |  0 |  1 | 2 |
+| Wille Lundgren |  2 |  0 |  0 |  2 | 0 |
+| Joel Zamora |  2 |  1 |  0 |  0 | 0 |
+| Edwin Ståhle |  2 |  1 |  0 |  0 | 0 |
+| Shalom Kabusu Alona Luyeye |  0 |  0 |  0 |  0 | 0 |
+
+### Växjö Ravens - Högsbo Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Suheb Ahmed Ahmed | 12 |  4 |  0 |  4 | 1 |
+| Alexander Tinnerholm | 12 |  6 |  0 |  0 | 4 |
+| Kelvin Hansson Sjöö | 11 |  4 |  0 |  3 | 2 |
+| Jonatan Birath |  7 |  2 |  1 |  0 | 0 |
+| Douglas Helm |  6 |  3 |  0 |  0 | 1 |
+| Shalom Kabusu Alona Luyeye |  5 |  1 |  1 |  0 | 0 |
+| Precious Bwene |  5 |  1 |  1 |  0 | 0 |
+| Wille Lundgren |  0 |  0 |  0 |  0 | 0 |
+| Julian Friis |  0 |  0 |  0 |  0 | 1 |
+| Deen Kadribasic |  0 |  0 |  0 |  0 | 0 |
+| Nikola Arsic |  0 |  0 |  0 |  0 | 0 |
+| Joel Zamora |  0 |  0 |  0 |  0 | 1 |
+
+### Gota Basket - Högsbo Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Jonatan Birath | 15 |  7 |  0 |  1 | 1 |
+| Alexander Tinnerholm | 15 |  6 |  0 |  3 | 2 |
+| Suheb Ahmed Ahmed | 13 |  5 |  0 |  3 | 1 |
+| Nikola Arsic | 13 |  5 |  1 |  0 | 1 |
+| Kelvin Hansson Sjöö | 10 |  3 |  0 |  4 | 1 |
+| Douglas Helm |  7 |  3 |  0 |  1 | 2 |
+| Wille Lundgren |  6 |  3 |  0 |  0 | 2 |
+| Julian Friis |  4 |  2 |  0 |  0 | 0 |
+| Deen Kadribasic |  4 |  2 |  0 |  0 | 0 |
+| Joel Zamora |  4 |  2 |  0 |  0 | 0 |
+| Shalom Kabusu Alona Luyeye |  2 |  1 |  0 |  0 | 1 |
+| Precious Bwene |  0 |  0 |  0 |  0 | 0 |
+
+### Högsbo Basket - Malbas Vit
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Kelvin Hansson Sjöö | 29 |  4 |  6 |  3 | 1 |
+| Douglas Helm | 12 |  6 |  0 |  0 | 3 |
+| Shalom Kabusu Alona Luyeye |  7 |  3 |  0 |  1 | 1 |
+| Suheb Ahmed Ahmed |  6 |  0 |  2 |  0 | 0 |
+| Alexander Tinnerholm |  5 |  1 |  0 |  3 | 2 |
+| Precious Bwene |  5 |  1 |  1 |  0 | 1 |
+| Nikola Arsic |  5 |  1 |  1 |  0 | 2 |
+| Wille Lundgren |  2 |  1 |  0 |  0 | 2 |
+| Joel Zamora |  2 |  1 |  0 |  0 | 1 |
+| Julian Friis |  0 |  0 |  0 |  0 | 0 |
+| Jonatan Birath |  0 |  0 |  0 |  0 | 0 |
+| Deen Kadribasic |  0 |  0 |  0 |  0 | 0 |
 

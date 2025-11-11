@@ -1,79 +1,86 @@
-# Statistics for KFUM Blackebergs Idrottsklubb
+# Statistics for Kungsbacka Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| KFUM Blackebergs Idrottsklubb | 3 | 70.33 | 19.67 | 6.33 | 12.00 | 20.00 |
+| Kungsbacka Basket | 3 | 82.00 | 31.00 | 5.00 | 5.00 | 14.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Viktor Strandin | 3 | 22.67 | 7.33 | 1.00 | 5.00 | 3.00 |
-| Sufyan Mohamed Ali | 3 | 11.00 | 2.33 | 1.33 | 2.33 | 4.33 |
-| Simon Carlén | 3 | 10.33 | 2.67 | 0.67 | 3.00 | 2.33 |
-| Neo Negret | 2 | 6.50 | 1.50 | 0.50 | 2.00 | 3.00 |
-| Hector Garcia | 3 | 6.33 | 0.00 | 2.00 | 0.33 | 0.33 |
-| Vidar Sjösvärd | 3 | 6.00 | 3.00 | 0.00 | 0.00 | 2.00 |
-| Tyler Iguchi | 3 | 4.00 | 1.00 | 0.67 | 0.00 | 0.33 |
-| Noel Imets | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 0.67 |
-| Zaccarias Roman | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 3.67 |
-| Keelan Hearne Leander | 3 | 1.00 | 0.00 | 0.33 | 0.00 | 0.33 |
-| Alfred Kartano | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.00 |
+| Eric Svensson | 3 | 26.00 | 9.00 | 2.67 | 0.00 | 1.33 |
+| Filip Berndtsson | 3 | 23.67 | 10.33 | 0.00 | 3.00 | 2.00 |
+| Nils Martinsson | 3 | 7.00 | 3.00 | 0.33 | 0.00 | 1.67 |
+| Melker Näsström | 2 | 5.50 | 1.00 | 1.00 | 0.50 | 2.00 |
+| Wassem Al Hafez | 2 | 5.50 | 2.00 | 0.50 | 0.00 | 0.50 |
+| Algot Bui-Ljungqvist | 3 | 4.33 | 1.67 | 0.33 | 0.00 | 1.33 |
+| Kristijonas Alminas | 3 | 3.67 | 1.33 | 0.33 | 0.00 | 0.33 |
+| Dylan Lian | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 1.00 |
+| Evan Fredriksson | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 0.33 |
+| Eddy Kristofersson | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 1.50 |
+| Amadeus Angelbäck | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 0.00 |
+| Oskar Armini Lönberg | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 3.00 |
+| Elton Westlund | 2 | 0.50 | 0.00 | 0.00 | 0.50 | 1.00 |
+| Rasmus Almgren | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.50 |
 
 ## Games
 
-### Täby Basket - KFUM Blackebergs Idrottsklubb
+### Arvika Basket - Kungsbacka Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Viktor Strandin | 26 | 10 |  0 |  6 |  2 |
-| Vidar Sjösvärd | 10 |  5 |  0 |  0 |  1 |
-| Tyler Iguchi | 10 |  2 |  2 |  0 |  1 |
-| Noel Imets |  8 |  4 |  0 |  0 |  2 |
-| Sufyan Mohamed Ali |  6 |  1 |  1 |  1 |  4 |
-| Hector Garcia |  6 |  0 |  2 |  0 |  0 |
-| Keelan Hearne Leander |  3 |  0 |  1 |  0 |  0 |
-| Alfred Kartano |  2 |  1 |  0 |  0 |  1 |
-| Zaccarias Roman |  2 |  1 |  0 |  0 |  4 |
-| Simon Carlén |  0 |  0 |  0 |  0 |  1 |
+| Filip Berndtsson | 22 | 10 |  0 |  2 | 2 |
+| Eric Svensson | 21 |  3 |  5 |  0 | 3 |
+| Nils Martinsson | 11 |  4 |  1 |  0 | 3 |
+| Evan Fredriksson |  6 |  2 |  0 |  2 | 0 |
+| Kristijonas Alminas |  5 |  1 |  1 |  0 | 0 |
+| Amadeus Angelbäck |  3 |  0 |  1 |  0 | 0 |
+| Dylan Lian |  2 |  1 |  0 |  0 | 3 |
+| Eddy Kristofersson |  2 |  1 |  0 |  0 | 1 |
+| Algot Bui-Ljungqvist |  2 |  1 |  0 |  0 | 0 |
+| Elton Westlund |  0 |  0 |  0 |  0 | 1 |
+| Melker Näsström |  0 |  0 |  0 |  0 | 1 |
+| Oskar Armini Lönberg |  0 |  0 |  0 |  0 | 2 |
 
-### KFUM Blackebergs Idrottsklubb - Eastside Falcons
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Simon Carlén | 22 |  6 |  2 |  4 |  3 |
-| Viktor Strandin | 20 |  6 |  1 |  5 |  5 |
-| Sufyan Mohamed Ali | 17 |  3 |  3 |  2 |  4 |
-| Vidar Sjösvärd |  6 |  3 |  0 |  0 |  3 |
-| Hector Garcia |  4 |  0 |  1 |  1 |  0 |
-| Tyler Iguchi |  2 |  1 |  0 |  0 |  0 |
-| Zaccarias Roman |  2 |  1 |  0 |  0 |  3 |
-| Neo Negret |  1 |  0 |  0 |  1 |  2 |
-| Noel Imets |  0 |  0 |  0 |  0 |  0 |
-| Keelan Hearne Leander |  0 |  0 |  0 |  0 |  1 |
-| Alfred Kartano |  0 |  0 |  0 |  0 |  0 |
-
-### Alviks Basketbollklubb - KFUM Blackebergs Idrottsklubb
+### Kungsbacka Basket - Köping Stars Basketförening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Viktor Strandin | 22 |  6 |  2 |  4 |  2 |
-| Neo Negret | 12 |  3 |  1 |  3 |  4 |
-| Sufyan Mohamed Ali | 10 |  3 |  0 |  4 |  5 |
-| Hector Garcia |  9 |  0 |  3 |  0 |  1 |
-| Simon Carlén |  9 |  2 |  0 |  5 |  3 |
-| Vidar Sjösvärd |  2 |  1 |  0 |  0 |  2 |
-| Noel Imets |  0 |  0 |  0 |  0 |  0 |
-| Keelan Hearne Leander |  0 |  0 |  0 |  0 |  0 |
-| Alfred Kartano |  0 |  0 |  0 |  0 |  2 |
-| Tyler Iguchi |  0 |  0 |  0 |  0 |  0 |
-| Zaccarias Roman |  0 |  0 |  0 |  0 |  4 |
+| Filip Berndtsson | 25 | 12 |  0 |  1 | 3 |
+| Eric Svensson | 22 | 11 |  0 |  0 | 0 |
+| Melker Näsström | 11 |  2 |  2 |  1 | 3 |
+| Algot Bui-Ljungqvist |  7 |  2 |  1 |  0 | 1 |
+| Dylan Lian |  6 |  2 |  0 |  2 | 0 |
+| Nils Martinsson |  6 |  3 |  0 |  0 | 1 |
+| Kristijonas Alminas |  4 |  2 |  0 |  0 | 0 |
+| Wassem Al Hafez |  4 |  2 |  0 |  0 | 0 |
+| Evan Fredriksson |  2 |  1 |  0 |  0 | 1 |
+| Amadeus Angelbäck |  0 |  0 |  0 |  0 | 0 |
+| Oskar Armini Lönberg |  0 |  0 |  0 |  0 | 2 |
+| Rasmus Almgren |  0 |  0 |  0 |  0 | 0 |
+
+### Kungsbacka Basket - Wetterbygden Stars
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Eric Svensson | 35 | 13 |  3 |  0 | 1 |
+| Filip Berndtsson | 24 |  9 |  0 |  6 | 1 |
+| Wassem Al Hafez |  7 |  2 |  1 |  0 | 1 |
+| Nils Martinsson |  4 |  2 |  0 |  0 | 1 |
+| Algot Bui-Ljungqvist |  4 |  2 |  0 |  0 | 3 |
+| Dylan Lian |  2 |  1 |  0 |  0 | 0 |
+| Eddy Kristofersson |  2 |  1 |  0 |  0 | 2 |
+| Evan Fredriksson |  2 |  1 |  0 |  0 | 0 |
+| Kristijonas Alminas |  2 |  1 |  0 |  0 | 1 |
+| Oskar Armini Lönberg |  2 |  1 |  0 |  0 | 5 |
+| Elton Westlund |  1 |  0 |  0 |  1 | 1 |
+| Rasmus Almgren |  0 |  0 |  0 |  0 | 1 |
 
