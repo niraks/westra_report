@@ -1,80 +1,68 @@
-# Statistics for Ale Basket
+# Statistics for KFUM Kalmar Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ale Basket | 3 | 91.67 | 32.00 | 6.67 | 7.67 | 16.33 |
+| KFUM Kalmar Basket | 3 | 91.67 | 27.67 | 7.33 | 14.33 | 18.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Charlie Lindblom | 3 | 24.67 | 8.00 | 2.00 | 2.67 | 2.33 |
-| Robin Hysén | 3 | 14.67 | 7.00 | 0.00 | 0.67 | 1.00 |
-| Bakir Hasanovic | 3 | 11.67 | 5.67 | 0.00 | 0.33 | 2.33 |
-| Edvin Harbas | 3 | 9.67 | 3.33 | 1.00 | 0.00 | 4.00 |
-| Oscar Jansson | 3 | 9.67 | 1.67 | 1.67 | 1.33 | 0.33 |
-| Emil Järvinen | 3 | 9.33 | 2.00 | 1.33 | 1.33 | 2.33 |
-| Jack Kilany | 3 | 3.67 | 1.67 | 0.00 | 0.33 | 0.67 |
-| Alvin Nylén | 3 | 3.00 | 1.00 | 0.33 | 0.00 | 0.67 |
-| David Franco Weihe | 3 | 2.33 | 0.33 | 0.33 | 0.67 | 1.67 |
-| Noah Nilsson | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 0.67 |
-| Anton Hjärn | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.33 |
+| Alfons Throfast | 3 | 27.67 | 10.67 | 1.33 | 2.33 | 3.33 |
+| Love Holmgren | 3 | 21.00 | 5.00 | 1.67 | 6.00 | 4.33 |
+| Dani Drazic | 3 | 17.00 | 3.33 | 2.67 | 2.33 | 3.33 |
+| Ergen Atac | 3 | 13.00 | 2.67 | 1.67 | 2.67 | 2.33 |
+| Gunnar Ericson | 3 | 7.67 | 3.33 | 0.00 | 1.00 | 2.67 |
+| Leo Runnqvist | 3 | 3.33 | 1.67 | 0.00 | 0.00 | 1.00 |
+| Otto Throfast | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 1.33 |
+| Charlie Rainford | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
 
 ## Games
 
-### Lobas Röd - Ale Basket
+### Fryshuset Basket - KFUM Kalmar Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Charlie Lindblom | 26 |  8 |  2 |  4 | 2 |
-| Robin Hysén | 20 |  9 |  0 |  2 | 1 |
-| Bakir Hasanovic | 18 |  9 |  0 |  0 | 3 |
-| Edvin Harbas | 15 |  6 |  1 |  0 | 3 |
-| Oscar Jansson | 12 |  2 |  2 |  2 | 1 |
-| Emil Järvinen |  7 |  2 |  1 |  0 | 2 |
-| Jack Kilany |  5 |  2 |  0 |  1 | 1 |
-| Noah Nilsson |  5 |  2 |  0 |  1 | 1 |
-| Alvin Nylén |  4 |  2 |  0 |  0 | 2 |
-| David Franco Weihe |  1 |  0 |  0 |  1 | 1 |
-| Anton Hjärn |  0 |  0 |  0 |  0 | 1 |
+| Alfons Throfast | 27 |  8 |  3 |  2 | 4 |
+| Love Holmgren | 20 |  2 |  3 |  7 | 4 |
+| Dani Drazic | 20 |  5 |  3 |  1 | 4 |
+| Gunnar Ericson | 11 |  5 |  0 |  1 | 4 |
+| Ergen Atac |  9 |  3 |  0 |  3 | 2 |
+| Otto Throfast |  0 |  0 |  0 |  0 | 0 |
+| Charlie Rainford |  0 |  0 |  0 |  0 | 0 |
+| Leo Runnqvist |  0 |  0 |  0 |  0 | 0 |
 
-### Ale Basket - Aros Basketbollklubb
+### KFUM Kalmar Basket - Västerås Basketboll Förening
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Charlie Lindblom | 25 |  8 |  2 |  3 | 2 |
-| Oscar Jansson | 17 |  3 |  3 |  2 | 0 |
-| Robin Hysén | 16 |  8 |  0 |  0 | 0 |
-| Bakir Hasanovic |  7 |  3 |  0 |  1 | 3 |
-| Edvin Harbas |  5 |  1 |  1 |  0 | 4 |
-| Alvin Nylén |  3 |  0 |  1 |  0 | 0 |
-| David Franco Weihe |  3 |  0 |  1 |  0 | 4 |
-| Anton Hjärn |  2 |  1 |  0 |  0 | 0 |
-| Jack Kilany |  2 |  1 |  0 |  0 | 0 |
-| Emil Järvinen |  2 |  1 |  0 |  0 | 3 |
-| Noah Nilsson |  0 |  0 |  0 |  0 | 1 |
+| Alfons Throfast | 37 | 15 |  1 |  4 | 2 |
+| Love Holmgren | 21 |  7 |  1 |  4 | 5 |
+| Ergen Atac | 20 |  3 |  3 |  5 | 3 |
+| Dani Drazic | 12 |  3 |  2 |  0 | 5 |
+| Gunnar Ericson |  6 |  3 |  0 |  0 | 1 |
+| Leo Runnqvist |  6 |  3 |  0 |  0 | 1 |
+| Otto Throfast |  2 |  1 |  0 |  0 | 3 |
+| Charlie Rainford |  0 |  0 |  0 |  0 | 0 |
 
-### Kvarnby Basket - Ale Basket
+### KFUM Central Basket - KFUM Kalmar Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Charlie Lindblom | 23 |  8 |  2 |  1 | 3 |
-| Emil Järvinen | 19 |  3 |  3 |  4 | 2 |
-| Bakir Hasanovic | 10 |  5 |  0 |  0 | 1 |
-| Edvin Harbas |  9 |  3 |  1 |  0 | 5 |
-| Robin Hysén |  8 |  4 |  0 |  0 | 2 |
-| Jack Kilany |  4 |  2 |  0 |  0 | 1 |
-| David Franco Weihe |  3 |  1 |  0 |  1 | 0 |
-| Alvin Nylén |  2 |  1 |  0 |  0 | 0 |
-| Noah Nilsson |  2 |  1 |  0 |  0 | 0 |
-| Anton Hjärn |  0 |  0 |  0 |  0 | 0 |
-| Oscar Jansson |  0 |  0 |  0 |  0 | 0 |
+| Love Holmgren | 22 |  6 |  1 |  7 | 4 |
+| Dani Drazic | 19 |  2 |  3 |  6 | 1 |
+| Alfons Throfast | 19 |  9 |  0 |  1 | 4 |
+| Ergen Atac | 10 |  2 |  2 |  0 | 2 |
+| Gunnar Ericson |  6 |  2 |  0 |  2 | 3 |
+| Otto Throfast |  4 |  2 |  0 |  0 | 1 |
+| Leo Runnqvist |  4 |  2 |  0 |  0 | 2 |
+| Charlie Rainford |  0 |  0 |  0 |  0 | 1 |
 

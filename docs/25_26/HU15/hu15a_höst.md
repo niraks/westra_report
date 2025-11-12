@@ -52,14 +52,14 @@
 | 4 | [Eric Svensson](hu15a_höst_team_3.md) | 1.50 |
 | 5 | [Vidar Ekström](hu15a_höst_team_5.md) | 1.25 |
 | 6 | [Wassem Al Hafez](hu15a_höst_team_3.md) | 1.00 |
-| 6 | [Felix Rezler](hu15a_höst_team_2.md) | 1.00 |
 | 6 | [Nireas Solidakis](hu15a_höst_team_5.md) | 1.00 |
+| 6 | [Felix Rezler](hu15a_höst_team_2.md) | 1.00 |
 | 9 | [Otis Foon](hu15a_höst_team_5.md) | 0.75 |
+| 10 | [David Franco Weihe](hu15a_höst_team_1.md) | 0.50 |
+| 10 | [Emil Järvinen](hu15a_höst_team_1.md) | 0.50 |
 | 10 | [Malcom Truija Wellington](hu15a_höst_team_3.md) | 0.50 |
 | 10 | [Kristijonas Alminas](hu15a_höst_team_3.md) | 0.50 |
 | 10 | [Melker Näsström](hu15a_höst_team_3.md) | 0.50 |
-| 10 | [David Franco Weihe](hu15a_höst_team_1.md) | 0.50 |
-| 10 | [Emil Järvinen](hu15a_höst_team_1.md) | 0.50 |
 | 10 | [Ilon Åhman](hu15a_höst_team_4.md) | 0.50 |
 | 10 | [Albin Helmfridsson](hu15a_höst_team_5.md) | 0.50 |
 | 10 | [Evangelos Kochliaridis](hu15a_höst_team_5.md) | 0.50 |
@@ -79,6 +79,13 @@
 | 9 | [Liam Dahlén](hu15a_höst_team_2.md) | 1.67 |
 | 10 | [Eric Svensson](hu15a_höst_team_3.md) | 1.50 |
 | 10 | [Malcom Truija Wellington](hu15a_höst_team_3.md) | 1.50 |
-| 10 | [Felix Rezler](hu15a_höst_team_2.md) | 1.50 |
 | 10 | [Vidar Ekström](hu15a_höst_team_5.md) | 1.50 |
+| 10 | [Felix Rezler](hu15a_höst_team_2.md) | 1.50 |
+
+### Most fouls (non-personal)
+
+| Rank | Player | Value |
+|----:|:-------|------:|
+| 1 | [Oskar Armini Lönberg](hu15a_höst_team_3.md) | 1.00 |
+| 1 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.00 |
 

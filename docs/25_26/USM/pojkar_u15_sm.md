@@ -14,8 +14,8 @@
 | [Kvarnby Basket](pojkar_u15_sm_team_8.md) | 6 | 95.33 | 35.50 | 4.83 | 9.83 | 13.83 |
 | [Högsbo Basket](pojkar_u15_sm_team_9.md) | 2 | 93.50 | 42.00 | 1.50 | 5.00 | 12.00 |
 | [Alviks Basketbollklubb](pojkar_u15_sm_team_10.md) | 6 | 91.83 | 27.83 | 8.67 | 10.17 | 17.17 |
-| [Ale Basket](pojkar_u15_sm_team_11.md) | 3 | 91.67 | 32.00 | 6.67 | 7.67 | 16.33 |
-| [KFUM Kalmar Basket](pojkar_u15_sm_team_12.md) | 3 | 91.67 | 27.67 | 7.33 | 14.33 | 18.67 |
+| [KFUM Kalmar Basket](pojkar_u15_sm_team_11.md) | 3 | 91.67 | 27.67 | 7.33 | 14.33 | 18.67 |
+| [Ale Basket](pojkar_u15_sm_team_12.md) | 3 | 91.67 | 32.00 | 6.67 | 7.67 | 16.33 |
 | [Oskarshamns Basketbollklubb](pojkar_u15_sm_team_13.md) | 7 | 91.14 | 24.86 | 8.57 | 15.71 | 13.14 |
 | [Skuru Idrottsklubb](pojkar_u15_sm_team_14.md) | 3 | 87.00 | 33.00 | 3.00 | 12.00 | 16.00 |
 | [Kungsholmen](pojkar_u15_sm_team_15.md) | 7 | 85.43 | 31.00 | 5.57 | 6.71 | 19.00 |
@@ -62,7 +62,7 @@
 | 5 | [Simon Sandahl](pojkar_u15_sm_team_28.md) | 30.00 |
 | 6 | [Olivers Stankevics](pojkar_u15_sm_team_23.md) | 29.17 |
 | 7 | [Adrian Pleick](pojkar_u15_sm_team_4.md) | 28.00 |
-| 8 | [Alfons Throfast](pojkar_u15_sm_team_12.md) | 27.67 |
+| 8 | [Alfons Throfast](pojkar_u15_sm_team_11.md) | 27.67 |
 | 9 | [Luka Caktas](pojkar_u15_sm_team_17.md) | 27.00 |
 | 10 | [Axel Braun](pojkar_u15_sm_team_40.md) | 26.50 |
 | 10 | [Nicholas Abboud](pojkar_u15_sm_team_27.md) | 26.50 |
@@ -76,11 +76,11 @@
 | 3 | [Simon Sandahl](pojkar_u15_sm_team_28.md) | 12.00 |
 | 4 | [Sinisa Nikolic](pojkar_u15_sm_team_1.md) | 11.33 |
 | 5 | [Dez Martha](pojkar_u15_sm_team_2.md) | 11.17 |
-| 6 | [Adrian Pleick](pojkar_u15_sm_team_4.md) | 11.00 |
 | 6 | [Felix Parmklev](pojkar_u15_sm_team_24.md) | 11.00 |
+| 6 | [Adrian Pleick](pojkar_u15_sm_team_4.md) | 11.00 |
 | 8 | [Olivers Stankevics](pojkar_u15_sm_team_23.md) | 10.83 |
 | 9 | [Kaan Üzel](pojkar_u15_sm_team_1.md) | 10.67 |
-| 9 | [Alfons Throfast](pojkar_u15_sm_team_12.md) | 10.67 |
+| 9 | [Alfons Throfast](pojkar_u15_sm_team_11.md) | 10.67 |
 
 ### 3P made per game
 
@@ -91,8 +91,8 @@
 | 3 | [Matti Westman](pojkar_u15_sm_team_34.md) | 4.17 |
 | 4 | [Ivar Fredman](pojkar_u15_sm_team_10.md) | 3.33 |
 | 5 | [Andy Kasarji](pojkar_u15_sm_team_3.md) | 3.00 |
-| 6 | [Dani Drazic](pojkar_u15_sm_team_12.md) | 2.67 |
 | 6 | [Eric Svensson](pojkar_u15_sm_team_20.md) | 2.67 |
+| 6 | [Dani Drazic](pojkar_u15_sm_team_11.md) | 2.67 |
 | 6 | [Nicholas Abboud](pojkar_u15_sm_team_27.md) | 2.67 |
 | 9 | [Narek Atayan](pojkar_u15_sm_team_36.md) | 2.57 |
 | 10 | [William Ericsson](pojkar_u15_sm_team_42.md) | 2.50 |
@@ -105,9 +105,9 @@
 | 2 | [Alexander Massamba Johansson](pojkar_u15_sm_team_3.md) | 11.00 |
 | 3 | [Luka Caktas](pojkar_u15_sm_team_17.md) | 7.67 |
 | 4 | [Valter Larsson](pojkar_u15_sm_team_22.md) | 7.00 |
-| 5 | [Love Holmgren](pojkar_u15_sm_team_12.md) | 6.00 |
 | 5 | [Dylan Kuksta Larsen](pojkar_u15_sm_team_7.md) | 6.00 |
 | 5 | [Simon Sandahl](pojkar_u15_sm_team_28.md) | 6.00 |
+| 5 | [Love Holmgren](pojkar_u15_sm_team_11.md) | 6.00 |
 | 8 | [Matti Westman](pojkar_u15_sm_team_34.md) | 5.50 |
 | 8 | [Teodor Zdravkovic](pojkar_u15_sm_team_42.md) | 5.50 |
 | 8 | [Dax Metoyer](pojkar_u15_sm_team_2.md) | 5.50 |
@@ -116,24 +116,44 @@
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | [Dez Martha](pojkar_u15_sm_team_2.md) | 2.00 |
-| 2 | [Vidar Björlevik](pojkar_u15_sm_team_17.md) | 1.00 |
-| 2 | [Adam Attalla Hassan Hegazy](pojkar_u15_sm_team_31.md) | 1.00 |
-| 2 | [Nireas Solidakis](pojkar_u15_sm_team_18.md) | 1.00 |
-| 2 | [Darlington Adeyefa](pojkar_u15_sm_team_36.md) | 1.00 |
-| 2 | [Jordan Mengüc Lindquist](pojkar_u15_sm_team_21.md) | 1.00 |
-| 2 | [Alexander Blomgren](pojkar_u15_sm_team_8.md) | 1.00 |
-| 2 | [Sam Limberg](pojkar_u15_sm_team_8.md) | 1.00 |
-| 2 | [Emil Järvinen](pojkar_u15_sm_team_11.md) | 1.00 |
-| 2 | [Olle Sjöholm](pojkar_u15_sm_team_40.md) | 1.00 |
-| 2 | [Benjamin Hrnjica](pojkar_u15_sm_team_40.md) | 1.00 |
-| 2 | [Viktor Strandin](pojkar_u15_sm_team_30.md) | 1.00 |
-| 2 | [Neo Negret](pojkar_u15_sm_team_30.md) | 1.00 |
-| 2 | [Dinuka Rathnayaka](pojkar_u15_sm_team_23.md) | 1.00 |
-| 2 | [George Cajam](pojkar_u15_sm_team_23.md) | 1.00 |
-| 2 | [Hugo Hjort](pojkar_u15_sm_team_42.md) | 1.00 |
-| 2 | [Loui Lööf](pojkar_u15_sm_team_42.md) | 1.00 |
-| 2 | [Henning Roghe](pojkar_u15_sm_team_28.md) | 1.00 |
-| 2 | [Anakin Nellbro](pojkar_u15_sm_team_43.md) | 1.00 |
-| 2 | [Spyridon Sypsas](pojkar_u15_sm_team_16.md) | 1.00 |
+| 1 | [Dez Martha](pojkar_u15_sm_team_2.md) | 3.00 |
+| 2 | [Loui Lööf](pojkar_u15_sm_team_42.md) | 2.00 |
+| 2 | [Viktor Strandin](pojkar_u15_sm_team_30.md) | 2.00 |
+| 2 | [Alexander Blomgren](pojkar_u15_sm_team_8.md) | 2.00 |
+| 2 | [Adam Attalla Hassan Hegazy](pojkar_u15_sm_team_31.md) | 2.00 |
+| 6 | [Charlie Olsson](pojkar_u15_sm_team_34.md) | 1.00 |
+| 6 | [Astor Frödin](pojkar_u15_sm_team_34.md) | 1.00 |
+| 6 | [Hugo Hjort](pojkar_u15_sm_team_42.md) | 1.00 |
+| 6 | [Liam Jönsson](pojkar_u15_sm_team_44.md) | 1.00 |
+| 6 | [Sampello Abulhassan](pojkar_u15_sm_team_40.md) | 1.00 |
+| 6 | [Olle Sjöholm](pojkar_u15_sm_team_40.md) | 1.00 |
+| 6 | [Benjamin Hrnjica](pojkar_u15_sm_team_40.md) | 1.00 |
+| 6 | [Dinuka Rathnayaka](pojkar_u15_sm_team_23.md) | 1.00 |
+| 6 | [George Cajam](pojkar_u15_sm_team_23.md) | 1.00 |
+| 6 | [Theo Bergqvist](pojkar_u15_sm_team_7.md) | 1.00 |
+| 6 | [Vidar Björlevik](pojkar_u15_sm_team_17.md) | 1.00 |
+| 6 | [Luka Caktas](pojkar_u15_sm_team_17.md) | 1.00 |
+| 6 | [Algot Turesson](pojkar_u15_sm_team_25.md) | 1.00 |
+| 6 | [Anakin Nellbro](pojkar_u15_sm_team_43.md) | 1.00 |
+| 6 | [Niko Kemismoljanec](pojkar_u15_sm_team_43.md) | 1.00 |
+| 6 | [Alfred Eborn](pojkar_u15_sm_team_2.md) | 1.00 |
+| 6 | [Henning Roghe](pojkar_u15_sm_team_28.md) | 1.00 |
+| 6 | [Oliver Kling](pojkar_u15_sm_team_28.md) | 1.00 |
+| 6 | [Kyle White](pojkar_u15_sm_team_35.md) | 1.00 |
+| 6 | [Neo Negret](pojkar_u15_sm_team_30.md) | 1.00 |
+| 6 | [Nireas Solidakis](pojkar_u15_sm_team_18.md) | 1.00 |
+| 6 | [Evangelos Kochliaridis](pojkar_u15_sm_team_18.md) | 1.00 |
+| 6 | [Wassem Al Hafez](pojkar_u15_sm_team_20.md) | 1.00 |
+| 6 | [Oscar Fehn](pojkar_u15_sm_team_38.md) | 1.00 |
+| 6 | [Gustav Setterberg](pojkar_u15_sm_team_8.md) | 1.00 |
+| 6 | [Sam Limberg](pojkar_u15_sm_team_8.md) | 1.00 |
+| 6 | [Jordan Mengüc Lindquist](pojkar_u15_sm_team_21.md) | 1.00 |
+| 6 | [Aksel Barkhagen](pojkar_u15_sm_team_21.md) | 1.00 |
+| 6 | [Darlington Adeyefa](pojkar_u15_sm_team_36.md) | 1.00 |
+| 6 | [Carl Hårleman](pojkar_u15_sm_team_15.md) | 1.00 |
+| 6 | [Elas Kaae Kyauk](pojkar_u15_sm_team_15.md) | 1.00 |
+| 6 | [Dino Hadziresic](pojkar_u15_sm_team_26.md) | 1.00 |
+| 6 | [Emil Järvinen](pojkar_u15_sm_team_12.md) | 1.00 |
+| 6 | [Lion Ingvall](pojkar_u15_sm_team_37.md) | 1.00 |
+| 6 | [Spyridon Sypsas](pojkar_u15_sm_team_16.md) | 1.00 |
 

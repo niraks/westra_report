@@ -1,130 +1,84 @@
-# Statistics for Lobas
+# Statistics for Fryshuset Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lobas | 6 | 82.00 | 26.67 | 6.50 | 9.17 | 16.17 |
+| Fryshuset Basket | 3 | 82.00 | 29.67 | 3.33 | 12.67 | 19.33 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Anton Dellgård | 6 | 20.83 | 4.83 | 3.17 | 1.67 | 0.83 |
-| Adin Korjenic | 5 | 11.80 | 5.60 | 0.00 | 0.60 | 1.80 |
-| Filip Ljungberg Langéen | 6 | 9.67 | 3.33 | 0.67 | 1.00 | 1.83 |
-| Jack Prestreshi | 6 | 8.50 | 3.67 | 0.17 | 0.67 | 0.67 |
-| Oliver Persson | 6 | 7.50 | 3.17 | 0.17 | 0.67 | 1.50 |
-| William Vallneus | 6 | 6.50 | 1.50 | 0.83 | 1.00 | 3.00 |
-| Albin Böklin | 6 | 6.33 | 1.50 | 0.83 | 0.83 | 0.50 |
-| Ebbot Ek | 6 | 5.00 | 1.17 | 0.33 | 1.67 | 0.83 |
-| Viktor Stenmo | 6 | 4.17 | 1.33 | 0.17 | 1.00 | 1.83 |
-| Matheo Mauritzon Taylor | 6 | 3.67 | 1.50 | 0.17 | 0.17 | 3.50 |
-| Ebbe Gustafsson | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 0.33 |
+| Elliot Sonko Fooladi | 3 | 18.00 | 7.33 | 0.67 | 1.33 | 2.67 |
+| Theo Trygger | 3 | 13.00 | 4.67 | 0.67 | 1.67 | 0.33 |
+| Ibrahim Khalil Fadiga | 3 | 9.67 | 3.00 | 0.67 | 1.67 | 1.67 |
+| Oscar Magnusson Murray | 3 | 8.67 | 2.67 | 0.00 | 3.33 | 1.33 |
+| Elliot Sperling Diene | 3 | 7.33 | 3.33 | 0.00 | 0.67 | 2.33 |
+| Edvard Macijauskas | 3 | 7.33 | 2.67 | 0.00 | 2.00 | 2.00 |
+| Desmond Ewalefoh | 3 | 5.67 | 2.00 | 0.33 | 0.67 | 2.33 |
+| Malcolm Lindberg | 3 | 3.33 | 1.67 | 0.00 | 0.00 | 1.33 |
+| Seydou Eriksson Soumah | 3 | 3.00 | 1.00 | 0.33 | 0.00 | 0.67 |
+| Zacharias Miller | 3 | 2.67 | 0.67 | 0.33 | 0.33 | 2.67 |
+| Nemanja Jevtic | 3 | 1.67 | 0.33 | 0.33 | 0.00 | 1.33 |
+| Iwalley Best | 3 | 1.67 | 0.33 | 0.00 | 1.00 | 0.67 |
 
 ## Games
 
-### Pirates Basketboll - Lobas
+### Malbas Svart - Fryshuset Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Anton Dellgård | 27 |  6 |  5 |  0 | 1 |
-| Filip Ljungberg Langéen | 15 |  6 |  0 |  3 | 4 |
-| William Vallneus | 12 |  1 |  2 |  4 | 3 |
-| Jack Prestreshi | 12 |  4 |  0 |  4 | 0 |
-| Oliver Persson |  6 |  2 |  0 |  2 | 1 |
-| Viktor Stenmo |  4 |  0 |  1 |  1 | 1 |
-| Matheo Mauritzon Taylor |  4 |  2 |  0 |  0 | 5 |
-| Albin Böklin |  2 |  1 |  0 |  0 | 0 |
-| Ebbe Gustafsson |  0 |  0 |  0 |  0 | 0 |
-| Ebbot Ek |  0 |  0 |  0 |  0 | 0 |
+| Elliot Sonko Fooladi | 17 |  7 |  0 |  3 | 2 |
+| Oscar Magnusson Murray | 14 |  5 |  0 |  4 | 2 |
+| Theo Trygger | 14 |  5 |  1 |  1 | 1 |
+| Elliot Sperling Diene |  9 |  4 |  0 |  1 | 1 |
+| Seydou Eriksson Soumah |  9 |  3 |  1 |  0 | 0 |
+| Desmond Ewalefoh |  8 |  2 |  1 |  1 | 2 |
+| Edvard Macijauskas |  5 |  2 |  0 |  1 | 3 |
+| Nemanja Jevtic |  5 |  1 |  1 |  0 | 4 |
+| Iwalley Best |  5 |  1 |  0 |  3 | 2 |
+| Malcolm Lindberg |  4 |  2 |  0 |  0 | 1 |
+| Ibrahim Khalil Fadiga |  4 |  1 |  0 |  2 | 1 |
+| Zacharias Miller |  1 |  0 |  0 |  1 | 4 |
 
-### Lobas - Bankeryds Basketklubb
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Anton Dellgård | 17 |  4 |  3 |  0 | 0 |
-| Adin Korjenic | 16 |  7 |  0 |  2 | 1 |
-| Albin Böklin | 12 |  2 |  2 |  2 | 1 |
-| Filip Ljungberg Langéen |  9 |  3 |  1 |  0 | 0 |
-| Matheo Mauritzon Taylor |  7 |  2 |  1 |  0 | 3 |
-| Oliver Persson |  6 |  3 |  0 |  0 | 2 |
-| William Vallneus |  4 |  2 |  0 |  0 | 1 |
-| Jack Prestreshi |  2 |  1 |  0 |  0 | 0 |
-| Viktor Stenmo |  0 |  0 |  0 |  0 | 3 |
-| Ebbe Gustafsson |  0 |  0 |  0 |  0 | 0 |
-| Ebbot Ek |  0 |  0 |  0 |  0 | 2 |
-
-### Alviks Basketbollklubb - Lobas
+### Fryshuset Basket - Kungsholmen
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Filip Ljungberg Langéen | 18 |  6 |  1 |  3 | 4 |
-| Oliver Persson | 13 |  5 |  1 |  0 | 0 |
-| William Vallneus | 12 |  2 |  2 |  2 | 2 |
-| Anton Dellgård | 11 |  4 |  1 |  0 | 0 |
-| Jack Prestreshi |  9 |  3 |  1 |  0 | 1 |
-| Viktor Stenmo |  6 |  3 |  0 |  0 | 1 |
-| Adin Korjenic |  6 |  3 |  0 |  0 | 2 |
-| Ebbot Ek |  4 |  1 |  0 |  2 | 0 |
-| Matheo Mauritzon Taylor |  2 |  1 |  0 |  0 | 4 |
-| Ebbe Gustafsson |  0 |  0 |  0 |  0 | 1 |
-| Albin Böklin |  0 |  0 |  0 |  0 | 0 |
+| Theo Trygger | 25 |  9 |  1 |  4 | 0 |
+| Elliot Sonko Fooladi | 12 |  6 |  0 |  0 | 3 |
+| Edvard Macijauskas | 10 |  3 |  0 |  4 | 1 |
+| Ibrahim Khalil Fadiga |  8 |  1 |  2 |  0 | 1 |
+| Malcolm Lindberg |  4 |  2 |  0 |  0 | 1 |
+| Elliot Sperling Diene |  4 |  2 |  0 |  0 | 2 |
+| Desmond Ewalefoh |  2 |  1 |  0 |  0 | 4 |
+| Zacharias Miller |  2 |  1 |  0 |  0 | 2 |
+| Oscar Magnusson Murray |  2 |  1 |  0 |  0 | 1 |
+| Nemanja Jevtic |  0 |  0 |  0 |  0 | 0 |
+| Seydou Eriksson Soumah |  0 |  0 |  0 |  0 | 2 |
+| Iwalley Best |  0 |  0 |  0 |  0 | 0 |
 
-### Lobas - Trollhättans Basketbollklubb
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Anton Dellgård | 20 |  4 |  3 |  3 | 1 |
-| Oliver Persson | 10 |  4 |  0 |  2 | 3 |
-| Adin Korjenic | 10 |  5 |  0 |  0 | 4 |
-| Viktor Stenmo |  9 |  3 |  0 |  3 | 2 |
-| Albin Böklin |  8 |  1 |  1 |  3 | 1 |
-| Jack Prestreshi |  6 |  3 |  0 |  0 | 2 |
-| Ebbot Ek |  5 |  0 |  1 |  2 | 0 |
-| Filip Ljungberg Langéen |  5 |  1 |  1 |  0 | 2 |
-| William Vallneus |  3 |  0 |  1 |  0 | 4 |
-| Matheo Mauritzon Taylor |  1 |  0 |  0 |  1 | 3 |
-
-### Lobas - Älmhult Beasts BC P16
+### Västerås Basketboll Förening - Fryshuset Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Anton Dellgård | 20 |  2 |  4 |  4 | 1 |
-| Adin Korjenic |  8 |  4 |  0 |  0 | 2 |
-| Ebbot Ek |  7 |  1 |  0 |  5 | 1 |
-| William Vallneus |  6 |  3 |  0 |  0 | 3 |
-| Jack Prestreshi |  6 |  3 |  0 |  0 | 1 |
-| Oliver Persson |  4 |  2 |  0 |  0 | 2 |
-| Viktor Stenmo |  2 |  0 |  0 |  2 | 1 |
-| Filip Ljungberg Langéen |  2 |  1 |  0 |  0 | 0 |
-| Albin Böklin |  2 |  1 |  0 |  0 | 0 |
-| Matheo Mauritzon Taylor |  0 |  0 |  0 |  0 | 4 |
-
-### Lobas - Motala Basket
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Anton Dellgård | 30 |  9 |  3 |  3 | 2 |
-| Adin Korjenic | 19 |  9 |  0 |  1 | 0 |
-| Jack Prestreshi | 16 |  8 |  0 |  0 | 0 |
-| Ebbot Ek | 14 |  5 |  1 |  1 | 2 |
-| Albin Böklin | 14 |  4 |  2 |  0 | 1 |
-| Filip Ljungberg Langéen |  9 |  3 |  1 |  0 | 1 |
-| Matheo Mauritzon Taylor |  8 |  4 |  0 |  0 | 2 |
-| Oliver Persson |  6 |  3 |  0 |  0 | 1 |
-| Viktor Stenmo |  4 |  2 |  0 |  0 | 3 |
-| William Vallneus |  2 |  1 |  0 |  0 | 5 |
+| Elliot Sonko Fooladi | 25 |  9 |  2 |  1 | 3 |
+| Ibrahim Khalil Fadiga | 17 |  7 |  0 |  3 | 3 |
+| Oscar Magnusson Murray | 10 |  2 |  0 |  6 | 1 |
+| Elliot Sperling Diene |  9 |  4 |  0 |  1 | 4 |
+| Desmond Ewalefoh |  7 |  3 |  0 |  1 | 1 |
+| Edvard Macijauskas |  7 |  3 |  0 |  1 | 2 |
+| Zacharias Miller |  5 |  1 |  1 |  0 | 2 |
+| Malcolm Lindberg |  2 |  1 |  0 |  0 | 2 |
+| Theo Trygger |  0 |  0 |  0 |  0 | 0 |
+| Nemanja Jevtic |  0 |  0 |  0 |  0 | 0 |
+| Seydou Eriksson Soumah |  0 |  0 |  0 |  0 | 0 |
+| Iwalley Best |  0 |  0 |  0 |  0 | 0 |
 

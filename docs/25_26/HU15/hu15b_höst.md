@@ -56,9 +56,9 @@
 | 4 | [Filip Förstberg](hu15b_höst_team_3.md) | 1.00 |
 | 8 | [Axel Odengård](hu15b_höst_team_1.md) | 0.80 |
 | 8 | [Lazar Ilic](hu15b_höst_team_1.md) | 0.80 |
-| 10 | [Harry Askerdal](hu15b_höst_team_2.md) | 0.67 |
-| 10 | [Sergej Pusonjic](hu15b_höst_team_6.md) | 0.67 |
 | 10 | [Viktor Hedberg](hu15b_höst_team_1.md) | 0.67 |
+| 10 | [Sergej Pusonjic](hu15b_höst_team_6.md) | 0.67 |
+| 10 | [Harry Askerdal](hu15b_höst_team_2.md) | 0.67 |
 | 10 | [Gustav Jahren Fransson](hu15b_höst_team_4.md) | 0.67 |
 | 10 | [Charlie Mattsson Meijer](hu15b_höst_team_4.md) | 0.67 |
 
@@ -82,7 +82,12 @@
 
 | Rank | Player | Value |
 |----:|:-------|------:|
-| 1 | [Adis Hrustanovic](hu15b_höst_team_6.md) | 2.00 |
+| 1 | [Adis Hrustanovic](hu15b_höst_team_6.md) | 3.00 |
+| 2 | [Lazar Ilic](hu15b_höst_team_1.md) | 1.00 |
 | 2 | [Sakarias Hänninen](hu15b_höst_team_1.md) | 1.00 |
+| 2 | [Olle Lykkbo](hu15b_höst_team_1.md) | 1.00 |
+| 2 | [Odai Ismaeil](hu15b_höst_team_2.md) | 1.00 |
+| 2 | [Salih Altunsaray](hu15b_höst_team_4.md) | 1.00 |
+| 2 | [Valter Larsson](hu15b_höst_team_4.md) | 1.00 |
 | 2 | [Nikolas Magnusson Giannourakis](hu15b_höst_team_4.md) | 1.00 |
 
