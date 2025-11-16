@@ -4,23 +4,23 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Gota Basket Blå | 5 | 63.80 | 24.80 | 3.00 | 5.20 | 15.00 |
+| Gota Basket Blå | 6 | 67.33 | 25.67 | 2.83 | 7.50 | 14.83 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Filip Lundberg | 4 | 22.75 | 10.25 | 0.50 | 0.75 | 0.75 |
+| Valter Larsson | 3 | 24.67 | 8.33 | 0.33 | 7.00 | 4.33 |
 | Jakov Markovic | 3 | 20.33 | 9.00 | 0.33 | 1.33 | 2.00 |
-| Valter Larsson | 2 | 18.00 | 6.00 | 0.50 | 4.50 | 4.50 |
-| Charlie Mattsson Meijer | 3 | 10.00 | 3.33 | 0.67 | 1.33 | 1.67 |
-| Nikolas Magnusson Giannourakis | 3 | 8.67 | 3.33 | 0.33 | 1.00 | 3.67 |
+| Filip Lundberg | 5 | 19.80 | 8.80 | 0.40 | 1.00 | 0.80 |
+| Nikolas Magnusson Giannourakis | 4 | 11.00 | 3.75 | 0.50 | 2.00 | 3.00 |
+| Charlie Mattsson Meijer | 4 | 9.75 | 3.25 | 0.75 | 1.00 | 1.75 |
 | Lukaz Livén Jonsson | 2 | 7.00 | 0.50 | 2.00 | 0.00 | 2.50 |
 | Erik Helgesson | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 1.00 |
+| Victor Björkman | 4 | 5.00 | 2.50 | 0.00 | 0.00 | 1.75 |
 | Gustav Jahren Fransson | 3 | 4.33 | 1.00 | 0.67 | 0.33 | 0.33 |
 | Karl Brännare | 4 | 4.25 | 1.25 | 0.50 | 0.25 | 0.50 |
 | Alvin Bolteus | 1 | 3.00 | 1.00 | 0.00 | 1.00 | 2.00 |
-| Victor Björkman | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 1.00 |
 | Ivan Bojanic | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
 | Gustav Persson | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
 | Eddie Cagner | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
@@ -28,10 +28,25 @@
 | Salih Altunsaray | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 2.00 |
 | Mansour Iyoun Soud | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 2.50 |
 | Ario Aref | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 2.50 |
+| Ebbe Crona-Sahlberg | 4 | 0.00 | 0.00 | 0.00 | 0.00 | 3.00 |
+| Charis Tyrovouzis | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | Eduard Nr 43 Shala | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 5.00 |
-| Ebbe Crona-Sahlberg | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 3.33 |
 
 ## Games
+
+### Kvarnby Basket Gul - Gota Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Valter Larsson | 38 | 13 |  0 | 12 | 4 |
+| Nikolas Magnusson Giannourakis | 18 |  5 |  1 |  5 | 1 |
+| Victor Björkman | 12 |  6 |  0 |  0 | 4 |
+| Charlie Mattsson Meijer |  9 |  3 |  1 |  0 | 2 |
+| Filip Lundberg |  8 |  3 |  0 |  2 | 1 |
+| Ebbe Crona-Sahlberg |  0 |  0 |  0 |  0 | 2 |
+| Charis Tyrovouzis |  0 |  0 |  0 |  0 | 0 |
 
 ### Gota Basket Blå - Varbergs Basket
 

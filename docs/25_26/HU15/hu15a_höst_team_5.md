@@ -4,29 +4,44 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eastside Falcons | 4 | 63.00 | 22.00 | 4.25 | 6.25 | 16.00 |
+| Eastside Falcons | 5 | 66.60 | 22.60 | 4.20 | 8.80 | 16.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Vigan Raci | 4 | 13.50 | 6.25 | 0.25 | 0.25 | 2.00 |
-| Christian Gonzal | 4 | 11.00 | 4.50 | 0.25 | 1.25 | 2.50 |
+| Christian Gonzal | 5 | 13.00 | 5.40 | 0.20 | 1.60 | 2.60 |
+| Vigan Raci | 5 | 12.60 | 5.40 | 0.20 | 1.20 | 2.00 |
 | Hjalmar Spångberg | 1 | 11.00 | 5.00 | 0.00 | 1.00 | 4.00 |
+| Evangelos Kochliaridis | 5 | 10.20 | 2.80 | 1.00 | 1.60 | 2.20 |
 | Vidar Ekström | 4 | 8.75 | 1.75 | 1.25 | 1.50 | 1.75 |
-| Evangelos Kochliaridis | 4 | 6.75 | 2.00 | 0.50 | 1.25 | 2.00 |
+| Vincent Uzieblo | 5 | 6.80 | 2.20 | 0.40 | 1.20 | 1.20 |
 | Aiden Kehoe | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 0.00 |
-| Vincent Uzieblo | 4 | 6.00 | 2.25 | 0.25 | 0.75 | 1.50 |
 | Nikolas Frestad | 1 | 5.00 | 2.00 | 0.00 | 1.00 | 1.00 |
 | Yuhanan Hailemichael | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 1.00 |
-| Albin Helmfridsson | 4 | 4.00 | 1.00 | 0.50 | 0.50 | 1.75 |
-| Otis Foon | 4 | 3.25 | 0.50 | 0.75 | 0.00 | 0.50 |
-| Nireas Solidakis | 2 | 3.00 | 0.00 | 1.00 | 0.00 | 0.50 |
+| Albin Helmfridsson | 5 | 3.80 | 1.00 | 0.40 | 0.60 | 1.40 |
+| Nireas Solidakis | 3 | 3.67 | 0.33 | 0.67 | 1.00 | 1.67 |
+| Otis Foon | 5 | 3.60 | 0.80 | 0.60 | 0.20 | 0.40 |
 | Anton Lundberg | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
 | Noah Ringheim | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
-| Theodor Markey | 4 | 0.25 | 0.00 | 0.00 | 0.25 | 2.25 |
+| Theodor Markey | 5 | 1.00 | 0.40 | 0.00 | 0.20 | 2.60 |
 
 ## Games
+
+### Ale Basket - Eastside Falcons
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Evangelos Kochliaridis | 24 |  6 |  3 |  3 | 3 |
+| Christian Gonzal | 21 |  9 |  0 |  3 | 3 |
+| Vincent Uzieblo | 10 |  2 |  1 |  3 | 0 |
+| Vigan Raci |  9 |  2 |  0 |  5 | 2 |
+| Otis Foon |  5 |  2 |  0 |  1 | 0 |
+| Nireas Solidakis |  5 |  1 |  0 |  3 | 4 |
+| Theodor Markey |  4 |  2 |  0 |  0 | 4 |
+| Albin Helmfridsson |  3 |  1 |  0 |  1 | 0 |
 
 ### Eastside Falcons - Kungsbacka Basket Blå
 

@@ -4,32 +4,47 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| S:t Helena BK - Vit | 4 | 56.75 | 22.25 | 1.75 | 7.00 | 14.25 |
+| S:t Helena BK - Vit | 5 | 62.20 | 23.40 | 2.60 | 7.60 | 14.20 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
+| Lion Ingvall | 4 | 16.75 | 3.75 | 2.25 | 2.50 | 3.00 |
 | Henning Lundberg | 3 | 13.67 | 4.67 | 1.00 | 1.33 | 3.33 |
-| Theo Kolicic | 4 | 12.25 | 5.75 | 0.00 | 0.75 | 1.75 |
-| Johan Montin | 3 | 10.67 | 5.00 | 0.00 | 0.67 | 3.00 |
-| Lion Ingvall | 3 | 9.33 | 2.33 | 1.00 | 1.67 | 3.33 |
-| Albert Edvinsson | 2 | 6.50 | 3.00 | 0.00 | 0.50 | 0.50 |
+| Theo Kolicic | 5 | 13.40 | 6.00 | 0.00 | 1.40 | 1.60 |
+| Johan Montin | 4 | 11.25 | 5.25 | 0.00 | 0.75 | 3.50 |
+| Albert Edvinsson | 3 | 5.67 | 2.67 | 0.00 | 0.33 | 0.67 |
 | Gustav Sahlberg | 3 | 5.67 | 2.00 | 0.00 | 1.67 | 2.33 |
 | Donatas Auryla | 3 | 5.00 | 2.00 | 0.00 | 1.00 | 0.33 |
 | Mailo Ajax | 3 | 3.33 | 1.67 | 0.00 | 0.00 | 0.00 |
-| Arthur Eriksson | 2 | 2.50 | 1.00 | 0.00 | 0.50 | 0.50 |
+| William Landenmark | 4 | 3.25 | 1.50 | 0.00 | 0.25 | 0.50 |
+| Arthur Eriksson | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 0.33 |
 | Arvid Hogström | 1 | 2.00 | 0.00 | 0.00 | 2.00 | 0.00 |
 | Luka Lukic | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
 | Muhammed Zuna | 3 | 1.67 | 0.33 | 0.33 | 0.00 | 1.33 |
-| William Landenmark | 3 | 1.67 | 0.67 | 0.00 | 0.33 | 0.33 |
 | Amar Kocevic | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.50 |
-| Vincent Ageton | 2 | 0.50 | 0.00 | 0.00 | 0.50 | 0.50 |
+| Vincent Ageton | 3 | 0.33 | 0.00 | 0.00 | 0.33 | 1.00 |
+| Linus Samuelsson Andersson | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.50 |
 | Gustaf Brandshage | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 | Victor Santana | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
-| Linus Samuelsson Andersson | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 
 ## Games
+
+### Bosna IF Göteborg - S:t Helena BK - Vit
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Lion Ingvall | 39 |  8 |  6 |  5 | 2 |
+| Theo Kolicic | 18 |  7 |  0 |  4 | 1 |
+| Johan Montin | 13 |  6 |  0 |  1 | 5 |
+| William Landenmark |  8 |  4 |  0 |  0 | 1 |
+| Albert Edvinsson |  4 |  2 |  0 |  0 | 1 |
+| Arthur Eriksson |  2 |  1 |  0 |  0 | 0 |
+| Vincent Ageton |  0 |  0 |  0 |  0 | 2 |
+| Linus Samuelsson Andersson |  0 |  0 |  0 |  0 | 2 |
 
 ### S:t Helena BK - Vit - Gota Basket Blå
 

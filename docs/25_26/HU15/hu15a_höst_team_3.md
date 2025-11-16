@@ -4,26 +4,42 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kungsbacka Basket Blå | 4 | 80.50 | 31.75 | 3.50 | 6.50 | 13.75 |
+| Kungsbacka Basket Blå | 5 | 79.40 | 31.60 | 3.40 | 6.00 | 13.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Filip Berndtsson | 4 | 26.50 | 11.75 | 0.00 | 3.00 | 2.50 |
-| Eric Svensson | 4 | 20.00 | 7.00 | 1.50 | 1.50 | 1.00 |
-| Malcom Truija Wellington | 2 | 11.00 | 4.00 | 0.50 | 1.50 | 0.00 |
+| Filip Berndtsson | 5 | 28.00 | 12.40 | 0.20 | 2.60 | 2.40 |
+| Eric Svensson | 5 | 18.20 | 6.40 | 1.40 | 1.20 | 0.80 |
+| Malcom Truija Wellington | 3 | 9.00 | 2.67 | 0.67 | 1.67 | 0.67 |
 | Wassem Al Hafez | 3 | 8.00 | 2.33 | 1.00 | 0.33 | 1.00 |
-| Dylan Lian | 3 | 6.33 | 2.33 | 0.33 | 0.67 | 0.67 |
+| Dylan Lian | 4 | 5.25 | 2.00 | 0.25 | 0.50 | 0.50 |
+| Algot Bui-Ljungqvist | 4 | 5.25 | 2.25 | 0.25 | 0.00 | 2.25 |
+| Evan Fredriksson | 5 | 5.20 | 2.60 | 0.00 | 0.00 | 0.40 |
 | Kristijonas Alminas | 2 | 5.00 | 1.50 | 0.50 | 0.50 | 2.00 |
-| Algot Bui-Ljungqvist | 3 | 5.00 | 2.00 | 0.33 | 0.00 | 2.00 |
-| Evan Fredriksson | 4 | 4.00 | 2.00 | 0.00 | 0.00 | 0.50 |
-| Eddy Kristofersson | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 3.67 |
-| Nils Martinsson | 2 | 3.50 | 1.50 | 0.00 | 0.50 | 0.50 |
-| Melker Näsström | 2 | 2.50 | 0.50 | 0.50 | 0.00 | 1.50 |
+| Eddy Kristofersson | 4 | 3.75 | 1.75 | 0.00 | 0.25 | 3.00 |
+| Nils Martinsson | 3 | 3.00 | 1.33 | 0.00 | 0.33 | 0.67 |
+| Melker Näsström | 3 | 2.33 | 0.67 | 0.33 | 0.00 | 1.33 |
 | Oskar Armini Lönberg | 4 | 1.50 | 0.75 | 0.00 | 0.00 | 2.25 |
 
 ## Games
+
+### Trollhättans Basketbollklubb - Kungsbacka Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Filip Berndtsson | 34 | 15 |  1 |  1 | 2 |
+| Eric Svensson | 11 |  4 |  1 |  0 | 0 |
+| Evan Fredriksson | 10 |  5 |  0 |  0 | 0 |
+| Algot Bui-Ljungqvist |  6 |  3 |  0 |  0 | 3 |
+| Malcom Truija Wellington |  5 |  0 |  1 |  2 | 2 |
+| Eddy Kristofersson |  3 |  1 |  0 |  1 | 1 |
+| Dylan Lian |  2 |  1 |  0 |  0 | 0 |
+| Melker Näsström |  2 |  1 |  0 |  0 | 1 |
+| Nils Martinsson |  2 |  1 |  0 |  0 | 1 |
 
 ### Eastside Falcons - Kungsbacka Basket Blå
 

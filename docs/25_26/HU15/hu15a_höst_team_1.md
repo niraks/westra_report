@@ -4,26 +4,45 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ale Basket | 4 | 91.25 | 34.75 | 3.25 | 12.00 | 18.25 |
+| Ale Basket | 5 | 93.80 | 34.60 | 3.80 | 13.20 | 19.40 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Charlie Lindblom | 4 | 28.00 | 7.50 | 2.25 | 6.25 | 2.25 |
-| Robin Hysén | 3 | 21.67 | 10.33 | 0.00 | 1.00 | 0.67 |
-| Fabian Hjärtinge | 2 | 16.50 | 6.50 | 0.00 | 3.50 | 3.50 |
-| Edvin Harbas | 4 | 9.75 | 4.75 | 0.00 | 0.25 | 3.00 |
-| Emil Järvinen | 4 | 8.75 | 2.75 | 0.50 | 1.75 | 3.25 |
-| Noah Nilsson | 3 | 8.00 | 4.00 | 0.00 | 0.00 | 2.33 |
-| David Franco Weihe | 4 | 5.50 | 1.75 | 0.50 | 0.50 | 1.50 |
-| Bakir Hasanovic | 4 | 4.75 | 2.25 | 0.00 | 0.25 | 2.00 |
-| Jack Kilany | 4 | 2.50 | 1.00 | 0.00 | 0.50 | 0.25 |
-| Oscar Jansson | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
-| Alvin Nylén | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.67 |
-| Anton Hjärn | 4 | 0.50 | 0.25 | 0.00 | 0.00 | 1.25 |
+| Charlie Lindblom | 5 | 26.20 | 6.80 | 2.20 | 6.00 | 1.80 |
+| Robin Hysén | 4 | 18.50 | 8.50 | 0.00 | 1.50 | 1.00 |
+| Fabian Hjärtinge | 3 | 16.00 | 6.67 | 0.00 | 2.67 | 3.33 |
+| Emil Järvinen | 5 | 11.40 | 3.20 | 0.80 | 2.60 | 2.60 |
+| Edvin Harbas | 5 | 9.40 | 4.60 | 0.00 | 0.20 | 3.00 |
+| Noah Nilsson | 4 | 7.00 | 3.50 | 0.00 | 0.00 | 2.25 |
+| Oscar Jansson | 2 | 5.50 | 1.00 | 1.00 | 0.50 | 2.00 |
+| David Franco Weihe | 5 | 5.00 | 1.60 | 0.40 | 0.60 | 1.80 |
+| Bakir Hasanovic | 5 | 4.60 | 2.20 | 0.00 | 0.20 | 2.40 |
+| Jack Kilany | 5 | 3.20 | 1.40 | 0.00 | 0.40 | 0.60 |
+| Alvin Nylén | 4 | 1.25 | 0.50 | 0.00 | 0.25 | 0.75 |
+| Anton Hjärn | 5 | 0.80 | 0.40 | 0.00 | 0.00 | 1.20 |
 
 ## Games
+
+### Ale Basket - Eastside Falcons
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Emil Järvinen | 22 |  5 |  2 |  6 | 0 |
+| Charlie Lindblom | 19 |  4 |  2 |  5 | 0 |
+| Fabian Hjärtinge | 15 |  7 |  0 |  1 | 3 |
+| Robin Hysén |  9 |  3 |  0 |  3 | 2 |
+| Oscar Jansson |  9 |  1 |  2 |  1 | 3 |
+| Edvin Harbas |  8 |  4 |  0 |  0 | 3 |
+| Jack Kilany |  6 |  3 |  0 |  0 | 2 |
+| Bakir Hasanovic |  4 |  2 |  0 |  0 | 4 |
+| Noah Nilsson |  4 |  2 |  0 |  0 | 2 |
+| Alvin Nylén |  3 |  1 |  0 |  1 | 1 |
+| David Franco Weihe |  3 |  1 |  0 |  1 | 3 |
+| Anton Hjärn |  2 |  1 |  0 |  0 | 1 |
 
 ### Kungsbacka Basket Blå - Ale Basket
 

@@ -4,22 +4,35 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Bosna IF Göteborg | 4 | 52.25 | 20.75 | 1.50 | 6.25 | 15.00 |
+| Bosna IF Göteborg | 5 | 56.60 | 22.00 | 2.00 | 6.60 | 15.60 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Edin Pejmanovic | 4 | 20.25 | 9.00 | 0.00 | 2.25 | 3.75 |
-| Adis Hrustanovic | 3 | 18.33 | 8.00 | 0.33 | 1.33 | 4.33 |
-| Melvin Zekic | 4 | 8.75 | 2.50 | 0.50 | 2.25 | 3.50 |
+| Edin Pejmanovic | 5 | 22.60 | 10.00 | 0.00 | 2.60 | 3.80 |
+| Adis Hrustanovic | 4 | 21.25 | 7.75 | 1.25 | 2.00 | 4.50 |
+| Melvin Zekic | 5 | 8.20 | 2.60 | 0.40 | 1.80 | 3.80 |
 | Sergej Pusonjic | 3 | 6.00 | 2.00 | 0.67 | 0.00 | 3.00 |
-| Elvin Dzaferagic | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 0.33 |
-| Angelo Aljimi | 3 | 1.67 | 0.00 | 0.33 | 0.67 | 1.00 |
-| Viktor Mihajlovic | 4 | 1.50 | 0.75 | 0.00 | 0.00 | 1.25 |
+| Elvin Dzaferagic | 4 | 2.25 | 1.00 | 0.00 | 0.25 | 0.50 |
+| Viktor Mihajlovic | 5 | 2.00 | 1.00 | 0.00 | 0.00 | 1.60 |
+| Angelo Aljimi | 4 | 1.25 | 0.00 | 0.25 | 0.50 | 0.75 |
 | Saleh Adjeoud | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Bosna IF Göteborg - S:t Helena BK - Vit
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Edin Pejmanovic | 32 | 14 |  0 |  4 | 4 |
+| Adis Hrustanovic | 30 |  7 |  4 |  4 | 5 |
+| Melvin Zekic |  6 |  3 |  0 |  0 | 5 |
+| Viktor Mihajlovic |  4 |  2 |  0 |  0 | 3 |
+| Elvin Dzaferagic |  2 |  1 |  0 |  0 | 1 |
+| Angelo Aljimi |  0 |  0 |  0 |  0 | 0 |
 
 ### Basketklubben Marbo - Bosna IF Göteborg
 
