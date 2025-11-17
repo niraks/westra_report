@@ -4,25 +4,41 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Högsbo Basket P11 röd | 3 | 83.00 | 32.00 | 3.33 | 9.00 | 19.00 |
+| Högsbo Basket P11 röd | 4 | 81.00 | 29.75 | 3.25 | 11.75 | 17.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Elliott Askenbäck | 3 | 24.67 | 9.00 | 2.00 | 0.67 | 3.00 |
-| Felix Rezler | 2 | 15.50 | 5.50 | 1.00 | 1.50 | 2.50 |
-| Noah Lansler | 3 | 12.33 | 4.67 | 0.00 | 3.00 | 1.33 |
-| Ward Haddad | 3 | 8.33 | 3.33 | 0.33 | 0.67 | 2.00 |
+| Elliott Askenbäck | 4 | 25.50 | 9.00 | 1.50 | 3.00 | 2.25 |
+| Felix Rezler | 3 | 14.33 | 5.00 | 1.00 | 1.33 | 2.00 |
+| Noah Lansler | 4 | 11.75 | 4.25 | 0.00 | 3.25 | 1.25 |
 | Wilmer Myhr | 3 | 7.33 | 3.33 | 0.00 | 0.67 | 3.33 |
-| Oskar Rosén | 3 | 7.00 | 3.00 | 0.33 | 0.00 | 0.67 |
-| Liam Dahlén | 3 | 5.00 | 1.67 | 0.00 | 1.67 | 1.00 |
-| Hugo Thorson | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 1.67 |
+| Ward Haddad | 4 | 7.00 | 2.50 | 0.25 | 1.25 | 2.50 |
+| Oskar Rosén | 4 | 6.25 | 2.75 | 0.25 | 0.00 | 1.50 |
+| Hugo Thorson | 4 | 4.75 | 1.50 | 0.25 | 1.00 | 1.50 |
+| Liam Dahlén | 4 | 3.75 | 1.25 | 0.00 | 1.25 | 0.75 |
+| Alvin Hertzman | 3 | 3.67 | 1.33 | 0.33 | 0.00 | 0.00 |
 | Melker Ciba | 3 | 2.67 | 1.00 | 0.00 | 0.67 | 2.00 |
-| Ibrahim Salma | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 2.33 |
-| Alvin Hertzman | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.00 |
+| Ibrahim Salma | 4 | 1.00 | 0.50 | 0.00 | 0.00 | 2.25 |
 
 ## Games
+
+### Trollhättans Basketbollklubb - Högsbo Basket P11 röd
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Elliott Askenbäck | 28 |  9 |  0 | 10 | 0 |
+| Felix Rezler | 12 |  4 |  1 |  1 | 1 |
+| Noah Lansler | 10 |  3 |  0 |  4 | 1 |
+| Hugo Thorson |  9 |  2 |  1 |  2 | 1 |
+| Alvin Hertzman |  9 |  3 |  1 |  0 | 0 |
+| Oskar Rosén |  4 |  2 |  0 |  0 | 4 |
+| Ward Haddad |  3 |  0 |  0 |  3 | 4 |
+| Liam Dahlén |  0 |  0 |  0 |  0 | 0 |
+| Ibrahim Salma |  0 |  0 |  0 |  0 | 2 |
 
 ### Högsbo Basket P11 röd - Eastside Falcons
 

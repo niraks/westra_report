@@ -4,24 +4,40 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Trollhättans Basketbollklubb | 4 | 70.25 | 22.00 | 5.00 | 11.25 | 12.50 |
+| Trollhättans Basketbollklubb | 5 | 72.80 | 22.20 | 5.80 | 11.00 | 13.60 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ilon Åhman | 3 | 30.33 | 10.33 | 1.33 | 5.67 | 1.67 |
-| Oliver Reit | 4 | 26.00 | 6.75 | 3.25 | 2.75 | 2.00 |
-| Joseph Jonsson | 3 | 15.33 | 6.67 | 0.00 | 2.00 | 2.33 |
-| Gustav Karlsson Glasell | 2 | 7.50 | 3.50 | 0.00 | 0.50 | 2.00 |
-| Sabi Memedovski | 4 | 2.75 | 0.25 | 0.50 | 0.75 | 1.75 |
-| Leo Larsson Flensner | 4 | 1.75 | 0.25 | 0.25 | 0.50 | 2.00 |
-| Alexandru Dena | 4 | 1.50 | 0.25 | 0.00 | 1.00 | 2.00 |
+| Oliver Reit | 5 | 28.40 | 6.40 | 4.20 | 3.00 | 2.20 |
+| Ilon Åhman | 4 | 26.00 | 9.00 | 1.00 | 5.00 | 2.25 |
+| Joseph Jonsson | 4 | 15.00 | 6.00 | 0.25 | 2.25 | 2.50 |
+| Gustav Karlsson Glasell | 3 | 9.67 | 4.67 | 0.00 | 0.33 | 2.00 |
+| Sabi Memedovski | 5 | 2.60 | 0.40 | 0.40 | 0.60 | 1.40 |
+| Alexandru Dena | 5 | 1.60 | 0.40 | 0.00 | 0.80 | 2.60 |
+| Leo Larsson Flensner | 5 | 1.40 | 0.20 | 0.20 | 0.40 | 1.80 |
 | Figo Lindqvist | 4 | 0.25 | 0.00 | 0.00 | 0.25 | 0.00 |
-| Hugo Gidlund | 4 | 0.00 | 0.00 | 0.00 | 0.00 | 0.75 |
-| Bassam Alolabi | 4 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Hugo Gidlund | 5 | 0.00 | 0.00 | 0.00 | 0.00 | 0.60 |
+| Bassam Alolabi | 5 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Trollhättans Basketbollklubb - Högsbo Basket P11 röd
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Oliver Reit | 38 |  5 |  8 |  4 | 3 |
+| Joseph Jonsson | 14 |  4 |  1 |  3 | 3 |
+| Gustav Karlsson Glasell | 14 |  7 |  0 |  0 | 2 |
+| Ilon Åhman | 13 |  5 |  0 |  3 | 4 |
+| Alexandru Dena |  2 |  1 |  0 |  0 | 5 |
+| Sabi Memedovski |  2 |  1 |  0 |  0 | 0 |
+| Hugo Gidlund |  0 |  0 |  0 |  0 | 0 |
+| Leo Larsson Flensner |  0 |  0 |  0 |  0 | 1 |
+| Bassam Alolabi |  0 |  0 |  0 |  0 | 0 |
 
 ### Trollhättans Basketbollklubb - Kungsbacka Basket Blå
 

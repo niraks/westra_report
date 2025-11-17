@@ -4,28 +4,46 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Basketklubben Marbo | 5 | 73.60 | 26.60 | 4.00 | 8.40 | 14.60 |
+| Basketklubben Marbo | 6 | 69.67 | 25.17 | 3.83 | 7.83 | 16.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Mattis Gemzell | 3 | 23.67 | 9.33 | 0.33 | 4.00 | 2.33 |
+| Mattis Gemzell | 4 | 24.50 | 9.75 | 0.50 | 3.50 | 2.75 |
 | Benjamin Mårtensson | 2 | 19.50 | 5.50 | 2.00 | 2.50 | 2.50 |
-| Ludvig Skarin | 5 | 15.40 | 4.80 | 1.20 | 2.20 | 2.20 |
-| Rony Aljojo | 3 | 12.67 | 5.67 | 0.33 | 0.33 | 2.67 |
-| Harry Askerdal | 3 | 9.67 | 3.00 | 0.67 | 1.67 | 0.67 |
+| Ludvig Skarin | 6 | 13.83 | 4.00 | 1.33 | 1.83 | 2.33 |
+| Rony Aljojo | 4 | 11.00 | 4.75 | 0.25 | 0.75 | 2.75 |
 | Nasi Schenström | 3 | 8.67 | 2.67 | 1.00 | 0.33 | 1.67 |
-| Sigge Gemzell | 4 | 4.75 | 1.50 | 0.50 | 0.25 | 1.00 |
-| Oscar Linder | 3 | 4.00 | 2.00 | 0.00 | 0.00 | 2.33 |
-| Anton Marknäs | 5 | 3.40 | 1.40 | 0.00 | 0.60 | 1.20 |
-| Herman Haji | 3 | 3.00 | 0.67 | 0.33 | 0.67 | 1.33 |
-| Hannes Nilsson | 5 | 2.60 | 1.20 | 0.00 | 0.20 | 0.40 |
-| Elias Blidö | 4 | 2.50 | 1.25 | 0.00 | 0.00 | 0.00 |
+| Harry Askerdal | 4 | 7.25 | 2.25 | 0.50 | 1.25 | 0.50 |
+| Sigge Gemzell | 5 | 4.40 | 1.40 | 0.40 | 0.40 | 1.00 |
+| Anton Marknäs | 6 | 3.50 | 1.50 | 0.00 | 0.50 | 1.33 |
+| Oscar Linder | 4 | 3.50 | 1.75 | 0.00 | 0.00 | 2.75 |
+| Elias Blidö | 5 | 2.40 | 1.20 | 0.00 | 0.00 | 0.40 |
+| Herman Haji | 4 | 2.25 | 0.50 | 0.25 | 0.50 | 1.75 |
+| Hannes Nilsson | 6 | 2.17 | 1.00 | 0.00 | 0.17 | 0.33 |
 | Odai Ismaeil | 4 | 2.00 | 1.00 | 0.00 | 0.00 | 2.50 |
-| Oskar Backström | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Oskar Backström | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 
 ## Games
+
+### Basketklubben Marbo - S:t Helena BK - Vit
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Mattis Gemzell | 27 | 11 |  1 |  2 | 4 |
+| Ludvig Skarin |  6 |  0 |  2 |  0 | 3 |
+| Rony Aljojo |  6 |  2 |  0 |  2 | 3 |
+| Anton Marknäs |  4 |  2 |  0 |  0 | 2 |
+| Sigge Gemzell |  3 |  1 |  0 |  1 | 1 |
+| Oscar Linder |  2 |  1 |  0 |  0 | 4 |
+| Elias Blidö |  2 |  1 |  0 |  0 | 2 |
+| Harry Askerdal |  0 |  0 |  0 |  0 | 0 |
+| Herman Haji |  0 |  0 |  0 |  0 | 3 |
+| Hannes Nilsson |  0 |  0 |  0 |  0 | 0 |
+| Oskar Backström |  0 |  0 |  0 |  0 | 1 |
 
 ### Kvarnby Basket Gul - Basketklubben Marbo
 
