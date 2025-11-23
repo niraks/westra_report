@@ -4,28 +4,44 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Basketklubben Marbo | 6 | 69.67 | 25.17 | 3.83 | 7.83 | 16.00 |
+| Basketklubben Marbo | 7 | 69.43 | 24.00 | 4.43 | 8.14 | 16.86 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
 | Mattis Gemzell | 4 | 24.50 | 9.75 | 0.50 | 3.50 | 2.75 |
-| Benjamin Mårtensson | 2 | 19.50 | 5.50 | 2.00 | 2.50 | 2.50 |
-| Ludvig Skarin | 6 | 13.83 | 4.00 | 1.33 | 1.83 | 2.33 |
-| Rony Aljojo | 4 | 11.00 | 4.75 | 0.25 | 0.75 | 2.75 |
-| Nasi Schenström | 3 | 8.67 | 2.67 | 1.00 | 0.33 | 1.67 |
-| Harry Askerdal | 4 | 7.25 | 2.25 | 0.50 | 1.25 | 0.50 |
+| Benjamin Mårtensson | 3 | 16.33 | 4.33 | 2.00 | 1.67 | 3.00 |
+| Ludvig Skarin | 7 | 15.29 | 3.86 | 1.71 | 2.43 | 2.29 |
+| Rony Aljojo | 5 | 10.00 | 3.80 | 0.60 | 0.60 | 2.80 |
+| Nasi Schenström | 4 | 8.25 | 2.75 | 0.75 | 0.50 | 2.50 |
+| Harry Askerdal | 5 | 5.80 | 1.80 | 0.40 | 1.00 | 1.20 |
+| Anton Marknäs | 7 | 4.71 | 2.14 | 0.00 | 0.43 | 1.14 |
 | Sigge Gemzell | 5 | 4.40 | 1.40 | 0.40 | 0.40 | 1.00 |
-| Anton Marknäs | 6 | 3.50 | 1.50 | 0.00 | 0.50 | 1.33 |
 | Oscar Linder | 4 | 3.50 | 1.75 | 0.00 | 0.00 | 2.75 |
-| Elias Blidö | 5 | 2.40 | 1.20 | 0.00 | 0.00 | 0.40 |
-| Herman Haji | 4 | 2.25 | 0.50 | 0.25 | 0.50 | 1.75 |
+| Herman Haji | 5 | 3.00 | 1.00 | 0.20 | 0.40 | 1.40 |
+| Elias Blidö | 6 | 2.50 | 1.00 | 0.00 | 0.50 | 0.83 |
 | Hannes Nilsson | 6 | 2.17 | 1.00 | 0.00 | 0.17 | 0.33 |
-| Odai Ismaeil | 4 | 2.00 | 1.00 | 0.00 | 0.00 | 2.50 |
+| Odai Ismaeil | 5 | 1.60 | 0.80 | 0.00 | 0.00 | 2.20 |
 | Oskar Backström | 3 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 
 ## Games
+
+### Varbergs Basket - Basketklubben Marbo
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Ludvig Skarin | 24 |  3 |  4 |  6 | 2 |
+| Anton Marknäs | 12 |  6 |  0 |  0 | 0 |
+| Benjamin Mårtensson | 10 |  2 |  2 |  0 | 4 |
+| Nasi Schenström |  7 |  3 |  0 |  1 | 5 |
+| Rony Aljojo |  6 |  0 |  2 |  0 | 3 |
+| Herman Haji |  6 |  3 |  0 |  0 | 0 |
+| Elias Blidö |  3 |  0 |  0 |  3 | 3 |
+| Harry Askerdal |  0 |  0 |  0 |  0 | 4 |
+| Odai Ismaeil |  0 |  0 |  0 |  0 | 1 |
 
 ### Basketklubben Marbo - S:t Helena BK - Vit
 

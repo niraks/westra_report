@@ -4,32 +4,50 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| S:t Helena BK - Vit | 6 | 63.83 | 23.83 | 2.50 | 8.67 | 13.50 |
+| S:t Helena BK - Vit | 7 | 62.86 | 23.86 | 2.43 | 7.86 | 12.86 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lion Ingvall | 5 | 18.20 | 4.40 | 2.20 | 2.80 | 2.80 |
-| Theo Kolicic | 6 | 15.33 | 6.67 | 0.00 | 2.00 | 1.83 |
-| Henning Lundberg | 3 | 13.67 | 4.67 | 1.00 | 1.33 | 3.33 |
-| Johan Montin | 4 | 11.25 | 5.25 | 0.00 | 0.75 | 3.50 |
-| Gustav Sahlberg | 4 | 7.25 | 2.75 | 0.00 | 1.75 | 2.50 |
+| Lion Ingvall | 6 | 17.83 | 4.33 | 2.17 | 2.67 | 2.50 |
+| Theo Kolicic | 7 | 14.29 | 6.29 | 0.00 | 1.71 | 1.57 |
+| Johan Montin | 5 | 12.40 | 5.80 | 0.00 | 0.80 | 3.00 |
+| Henning Lundberg | 4 | 11.75 | 4.25 | 0.75 | 1.00 | 2.50 |
+| Gustav Sahlberg | 5 | 6.60 | 2.60 | 0.00 | 1.40 | 2.40 |
 | Albert Edvinsson | 3 | 5.67 | 2.67 | 0.00 | 0.33 | 0.67 |
 | Donatas Auryla | 3 | 5.00 | 2.00 | 0.00 | 1.00 | 0.33 |
-| William Landenmark | 5 | 3.60 | 1.40 | 0.00 | 0.80 | 0.60 |
+| William Landenmark | 6 | 3.33 | 1.33 | 0.00 | 0.67 | 0.50 |
 | Mailo Ajax | 3 | 3.33 | 1.67 | 0.00 | 0.00 | 0.00 |
 | Arthur Eriksson | 3 | 2.33 | 1.00 | 0.00 | 0.33 | 0.33 |
-| Gustaf Brandshage | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 0.50 |
-| Luka Lukic | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 0.50 |
-| Arvid Hogström | 1 | 2.00 | 0.00 | 0.00 | 2.00 | 0.00 |
-| Muhammed Zuna | 3 | 1.67 | 0.33 | 0.33 | 0.00 | 1.33 |
+| Arvid Hogström | 2 | 2.00 | 0.50 | 0.00 | 1.00 | 2.00 |
+| Gustaf Brandshage | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 0.33 |
+| Luka Lukic | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 0.33 |
+| Muhammed Zuna | 4 | 1.25 | 0.25 | 0.25 | 0.00 | 1.00 |
 | Amar Kocevic | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.50 |
-| Vincent Ageton | 3 | 0.33 | 0.00 | 0.00 | 0.33 | 1.00 |
+| Vincent Ageton | 4 | 0.25 | 0.00 | 0.00 | 0.25 | 1.00 |
 | Linus Samuelsson Andersson | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.50 |
 | Victor Santana | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 
 ## Games
+
+### S:t Helena BK - Vit - Kvarnby Basket Gul
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Johan Montin | 17 |  8 |  0 |  1 | 1 |
+| Lion Ingvall | 16 |  4 |  2 |  2 | 1 |
+| Theo Kolicic |  8 |  4 |  0 |  0 | 0 |
+| Henning Lundberg |  6 |  3 |  0 |  0 | 0 |
+| Gustav Sahlberg |  4 |  2 |  0 |  0 | 2 |
+| William Landenmark |  2 |  1 |  0 |  0 | 0 |
+| Arvid Hogström |  2 |  1 |  0 |  0 | 4 |
+| Gustaf Brandshage |  2 |  1 |  0 |  0 | 0 |
+| Vincent Ageton |  0 |  0 |  0 |  0 | 1 |
+| Muhammed Zuna |  0 |  0 |  0 |  0 | 0 |
+| Luka Lukic |  0 |  0 |  0 |  0 | 0 |
 
 ### Basketklubben Marbo - S:t Helena BK - Vit
 

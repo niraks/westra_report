@@ -4,26 +4,43 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ale Basket | 5 | 93.80 | 34.60 | 3.80 | 13.20 | 19.40 |
+| Ale Basket | 6 | 92.00 | 33.00 | 4.33 | 13.00 | 18.83 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Charlie Lindblom | 5 | 26.20 | 6.80 | 2.20 | 6.00 | 1.80 |
-| Robin Hysén | 4 | 18.50 | 8.50 | 0.00 | 1.50 | 1.00 |
+| Charlie Lindblom | 6 | 24.33 | 6.83 | 1.83 | 5.17 | 1.67 |
+| Robin Hysén | 5 | 19.40 | 8.80 | 0.00 | 1.80 | 1.00 |
 | Fabian Hjärtinge | 3 | 16.00 | 6.67 | 0.00 | 2.67 | 3.33 |
-| Emil Järvinen | 5 | 11.40 | 3.20 | 0.80 | 2.60 | 2.60 |
-| Edvin Harbas | 5 | 9.40 | 4.60 | 0.00 | 0.20 | 3.00 |
-| Noah Nilsson | 4 | 7.00 | 3.50 | 0.00 | 0.00 | 2.25 |
-| Oscar Jansson | 2 | 5.50 | 1.00 | 1.00 | 0.50 | 2.00 |
-| David Franco Weihe | 5 | 5.00 | 1.60 | 0.40 | 0.60 | 1.80 |
-| Bakir Hasanovic | 5 | 4.60 | 2.20 | 0.00 | 0.20 | 2.40 |
-| Jack Kilany | 5 | 3.20 | 1.40 | 0.00 | 0.40 | 0.60 |
+| Emil Järvinen | 6 | 12.33 | 2.83 | 1.17 | 3.17 | 2.67 |
+| Edvin Harbas | 6 | 10.00 | 4.33 | 0.33 | 0.33 | 3.17 |
+| Noah Nilsson | 5 | 5.80 | 2.80 | 0.00 | 0.20 | 1.80 |
+| Bakir Hasanovic | 6 | 5.17 | 2.50 | 0.00 | 0.17 | 2.00 |
+| Oscar Jansson | 3 | 4.67 | 0.67 | 1.00 | 0.33 | 1.33 |
+| David Franco Weihe | 6 | 4.17 | 1.33 | 0.33 | 0.50 | 1.83 |
+| Jack Kilany | 6 | 3.17 | 1.17 | 0.17 | 0.33 | 1.00 |
 | Alvin Nylén | 4 | 1.25 | 0.50 | 0.00 | 0.25 | 0.75 |
-| Anton Hjärn | 5 | 0.80 | 0.40 | 0.00 | 0.00 | 1.20 |
+| Anton Hjärn | 6 | 0.67 | 0.33 | 0.00 | 0.00 | 1.33 |
 
 ## Games
+
+### Högsbo Basket P11 röd - Ale Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Robin Hysén | 23 | 10 |  0 |  3 | 1 |
+| Emil Järvinen | 17 |  1 |  3 |  6 | 3 |
+| Charlie Lindblom | 15 |  7 |  0 |  1 | 1 |
+| Edvin Harbas | 13 |  3 |  2 |  1 | 4 |
+| Bakir Hasanovic |  8 |  4 |  0 |  0 | 0 |
+| Jack Kilany |  3 |  0 |  1 |  0 | 3 |
+| Oscar Jansson |  3 |  0 |  1 |  0 | 0 |
+| Noah Nilsson |  1 |  0 |  0 |  1 | 0 |
+| Anton Hjärn |  0 |  0 |  0 |  0 | 2 |
+| David Franco Weihe |  0 |  0 |  0 |  0 | 2 |
 
 ### Ale Basket - Eastside Falcons
 

@@ -4,27 +4,61 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Varbergs Basket | 5 | 84.40 | 33.80 | 4.00 | 4.80 | 13.20 |
+| Varbergs Basket | 7 | 81.00 | 31.86 | 3.71 | 6.14 | 14.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lazar Ilic | 5 | 27.00 | 11.80 | 0.80 | 1.00 | 2.80 |
-| Viktor Hedberg | 3 | 26.33 | 11.67 | 0.67 | 1.00 | 0.33 |
-| Vincent Bozic | 5 | 12.00 | 4.80 | 0.40 | 1.20 | 2.60 |
-| Axel Odengård | 5 | 9.00 | 2.80 | 0.80 | 1.00 | 0.20 |
-| Enguun Bat-urnult | 4 | 6.25 | 2.50 | 0.25 | 0.50 | 1.75 |
-| Olle Lykkbo | 5 | 3.80 | 1.40 | 0.20 | 0.40 | 1.20 |
-| Adin Kaltak | 2 | 3.50 | 1.00 | 0.50 | 0.00 | 0.50 |
-| Joel Carlén | 4 | 3.25 | 1.25 | 0.25 | 0.00 | 1.50 |
-| Noel Sagestam | 5 | 2.60 | 0.40 | 0.60 | 0.00 | 0.80 |
-| Sakarias Hänninen | 5 | 2.20 | 1.00 | 0.00 | 0.20 | 1.00 |
-| Maximilian Uddén | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 0.33 |
-| Wiggo Edvinsson | 4 | 1.50 | 0.75 | 0.00 | 0.00 | 0.75 |
+| Lazar Ilic | 6 | 27.67 | 12.00 | 0.67 | 1.67 | 2.83 |
+| Viktor Hedberg | 4 | 23.00 | 10.25 | 0.50 | 1.00 | 1.25 |
+| Vincent Bozic | 7 | 13.86 | 5.14 | 0.71 | 1.43 | 2.29 |
+| Axel Odengård | 7 | 11.00 | 3.71 | 0.86 | 1.00 | 0.57 |
+| Enguun Bat-urnult | 6 | 4.50 | 1.83 | 0.17 | 0.33 | 2.33 |
+| Joel Carlén | 5 | 3.60 | 1.20 | 0.40 | 0.00 | 1.40 |
+| Olle Lykkbo | 7 | 3.00 | 1.14 | 0.14 | 0.29 | 0.86 |
+| Noel Sagestam | 7 | 3.00 | 0.57 | 0.43 | 0.57 | 0.71 |
+| Sakarias Hänninen | 7 | 2.71 | 1.14 | 0.00 | 0.43 | 1.14 |
+| Adin Kaltak | 3 | 2.33 | 0.67 | 0.33 | 0.00 | 0.67 |
+| Wiggo Edvinsson | 6 | 1.83 | 0.83 | 0.00 | 0.17 | 0.67 |
+| Maximilian Uddén | 5 | 1.60 | 0.80 | 0.00 | 0.00 | 1.20 |
 | Aaron Batatina | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 2.00 |
 
 ## Games
+
+### Varbergs Basket - Basketklubben Marbo
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Lazar Ilic | 31 | 13 |  0 |  5 | 3 |
+| Vincent Bozic | 27 | 10 |  2 |  1 | 2 |
+| Axel Odengård | 16 |  6 |  1 |  1 | 0 |
+| Noel Sagestam |  6 |  1 |  0 |  4 | 0 |
+| Wiggo Edvinsson |  3 |  1 |  0 |  1 | 0 |
+| Maximilian Uddén |  2 |  1 |  0 |  0 | 3 |
+| Olle Lykkbo |  2 |  1 |  0 |  0 | 0 |
+| Sakarias Hänninen |  1 |  0 |  0 |  1 | 1 |
+| Adin Kaltak |  0 |  0 |  0 |  0 | 1 |
+| Enguun Bat-urnult |  0 |  0 |  0 |  0 | 5 |
+
+### Bosna IF Göteborg - Varbergs Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Axel Odengård | 16 |  6 |  1 |  1 | 3 |
+| Viktor Hedberg | 13 |  6 |  0 |  1 | 4 |
+| Vincent Bozic | 10 |  2 |  1 |  3 | 1 |
+| Sakarias Hänninen |  7 |  3 |  0 |  1 | 2 |
+| Joel Carlén |  5 |  1 |  1 |  0 | 1 |
+| Enguun Bat-urnult |  2 |  1 |  0 |  0 | 2 |
+| Wiggo Edvinsson |  2 |  1 |  0 |  0 | 1 |
+| Noel Sagestam |  2 |  1 |  0 |  0 | 1 |
+| Maximilian Uddén |  0 |  0 |  0 |  0 | 2 |
+| Olle Lykkbo |  0 |  0 |  0 |  0 | 0 |
 
 ### Gota Basket Blå - Varbergs Basket
 
