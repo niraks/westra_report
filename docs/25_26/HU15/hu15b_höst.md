@@ -53,9 +53,9 @@
 | 4 | [Ludvig Skarin](hu15b_höst_team_2.md) | 1.71 |
 | 5 | [Adis Hrustanovic](hu15b_höst_team_6.md) | 1.00 |
 | 6 | [Axel Odengård](hu15b_höst_team_1.md) | 0.86 |
+| 7 | [Henning Lundberg](hu15b_höst_team_5.md) | 0.75 |
 | 7 | [Nasi Schenström](hu15b_höst_team_2.md) | 0.75 |
 | 7 | [Charlie Mattsson Meijer](hu15b_höst_team_3.md) | 0.75 |
-| 7 | [Henning Lundberg](hu15b_höst_team_5.md) | 0.75 |
 | 10 | [Vincent Bozic](hu15b_höst_team_1.md) | 0.71 |
 
 ### Free throws made per game
@@ -78,14 +78,14 @@
 | Rank | Player | Value |
 |----:|:-------|------:|
 | 1 | [Adis Hrustanovic](hu15b_höst_team_6.md) | 4.00 |
+| 2 | [Lion Ingvall](hu15b_höst_team_5.md) | 1.00 |
 | 2 | [Lazar Ilic](hu15b_höst_team_1.md) | 1.00 |
 | 2 | [Sakarias Hänninen](hu15b_höst_team_1.md) | 1.00 |
 | 2 | [Olle Lykkbo](hu15b_höst_team_1.md) | 1.00 |
+| 2 | [Leo Hashemi](hu15b_höst_team_4.md) | 1.00 |
 | 2 | [Odai Ismaeil](hu15b_höst_team_2.md) | 1.00 |
 | 2 | [Herman Haji](hu15b_höst_team_2.md) | 1.00 |
-| 2 | [Leo Hashemi](hu15b_höst_team_4.md) | 1.00 |
 | 2 | [Valter Larsson](hu15b_höst_team_3.md) | 1.00 |
 | 2 | [Nikolas Magnusson Giannourakis](hu15b_höst_team_3.md) | 1.00 |
 | 2 | [Salih Altunsaray](hu15b_höst_team_3.md) | 1.00 |
-| 2 | [Lion Ingvall](hu15b_höst_team_5.md) | 1.00 |
 

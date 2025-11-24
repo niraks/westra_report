@@ -53,10 +53,10 @@
 | 5 | [Felix Rezler](hu15a_höst_team_2.md) | 1.25 |
 | 5 | [Vidar Ekström](hu15a_höst_team_5.md) | 1.25 |
 | 7 | [Emil Järvinen](hu15a_höst_team_1.md) | 1.17 |
-| 8 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.00 |
-| 8 | [Oscar Jansson](hu15a_höst_team_1.md) | 1.00 |
-| 8 | [Wassem Al Hafez](hu15a_höst_team_3.md) | 1.00 |
 | 8 | [Evangelos Kochliaridis](hu15a_höst_team_5.md) | 1.00 |
+| 8 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.00 |
+| 8 | [Wassem Al Hafez](hu15a_höst_team_3.md) | 1.00 |
+| 8 | [Oscar Jansson](hu15a_höst_team_1.md) | 1.00 |
 
 ### Free throws made per game
 
@@ -78,6 +78,6 @@
 | Rank | Player | Value |
 |----:|:-------|------:|
 | 1 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.00 |
-| 1 | [Jack Kilany](hu15a_höst_team_1.md) | 1.00 |
 | 1 | [Oskar Armini Lönberg](hu15a_höst_team_3.md) | 1.00 |
+| 1 | [Jack Kilany](hu15a_höst_team_1.md) | 1.00 |
 
