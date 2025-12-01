@@ -4,26 +4,42 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kungsbacka Basket Blå | 5 | 79.40 | 31.60 | 3.40 | 6.00 | 13.00 |
+| Kungsbacka Basket Blå | 6 | 78.50 | 30.83 | 3.17 | 7.33 | 12.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Filip Berndtsson | 5 | 28.00 | 12.40 | 0.20 | 2.60 | 2.40 |
-| Eric Svensson | 5 | 18.20 | 6.40 | 1.40 | 1.20 | 0.80 |
-| Malcom Truija Wellington | 3 | 9.00 | 2.67 | 0.67 | 1.67 | 0.67 |
-| Wassem Al Hafez | 3 | 8.00 | 2.33 | 1.00 | 0.33 | 1.00 |
-| Dylan Lian | 4 | 5.25 | 2.00 | 0.25 | 0.50 | 0.50 |
-| Algot Bui-Ljungqvist | 4 | 5.25 | 2.25 | 0.25 | 0.00 | 2.25 |
+| Filip Berndtsson | 6 | 27.50 | 12.17 | 0.17 | 2.67 | 2.33 |
+| Eric Svensson | 6 | 18.50 | 5.83 | 1.50 | 2.33 | 0.83 |
+| Malcom Truija Wellington | 4 | 11.00 | 4.00 | 0.50 | 1.50 | 0.75 |
+| Wassem Al Hafez | 4 | 6.00 | 1.75 | 0.75 | 0.25 | 0.75 |
 | Evan Fredriksson | 5 | 5.20 | 2.60 | 0.00 | 0.00 | 0.40 |
+| Algot Bui-Ljungqvist | 5 | 5.00 | 2.20 | 0.20 | 0.00 | 2.00 |
 | Kristijonas Alminas | 2 | 5.00 | 1.50 | 0.50 | 0.50 | 2.00 |
+| Dylan Lian | 5 | 4.60 | 1.60 | 0.20 | 0.80 | 0.80 |
 | Eddy Kristofersson | 4 | 3.75 | 1.75 | 0.00 | 0.25 | 3.00 |
-| Nils Martinsson | 3 | 3.00 | 1.33 | 0.00 | 0.33 | 0.67 |
-| Melker Näsström | 3 | 2.33 | 0.67 | 0.33 | 0.00 | 1.33 |
-| Oskar Armini Lönberg | 4 | 1.50 | 0.75 | 0.00 | 0.00 | 2.25 |
+| Nils Martinsson | 4 | 3.25 | 1.50 | 0.00 | 0.25 | 0.75 |
+| Melker Näsström | 4 | 1.75 | 0.50 | 0.25 | 0.00 | 1.00 |
+| Oskar Armini Lönberg | 5 | 1.60 | 0.80 | 0.00 | 0.00 | 2.40 |
 
 ## Games
+
+### Högsbo Basket P11 röd - Kungsbacka Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Filip Berndtsson | 25 | 11 |  0 |  3 | 2 |
+| Eric Svensson | 20 |  3 |  2 |  8 | 1 |
+| Malcom Truija Wellington | 17 |  8 |  0 |  1 | 1 |
+| Nils Martinsson |  4 |  2 |  0 |  0 | 1 |
+| Algot Bui-Ljungqvist |  4 |  2 |  0 |  0 | 1 |
+| Dylan Lian |  2 |  0 |  0 |  2 | 2 |
+| Oskar Armini Lönberg |  2 |  1 |  0 |  0 | 3 |
+| Melker Näsström |  0 |  0 |  0 |  0 | 0 |
+| Wassem Al Hafez |  0 |  0 |  0 |  0 | 0 |
 
 ### Trollhättans Basketbollklubb - Kungsbacka Basket Blå
 

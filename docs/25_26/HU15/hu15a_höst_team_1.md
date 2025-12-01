@@ -4,26 +4,43 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ale Basket | 6 | 92.00 | 33.00 | 4.33 | 13.00 | 18.83 |
+| Ale Basket | 7 | 90.43 | 31.57 | 5.00 | 12.29 | 18.43 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Charlie Lindblom | 6 | 24.33 | 6.83 | 1.83 | 5.17 | 1.67 |
-| Robin Hysén | 5 | 19.40 | 8.80 | 0.00 | 1.80 | 1.00 |
+| Charlie Lindblom | 7 | 25.00 | 6.57 | 2.29 | 5.00 | 1.86 |
+| Robin Hysén | 6 | 19.17 | 8.67 | 0.00 | 1.83 | 1.00 |
 | Fabian Hjärtinge | 3 | 16.00 | 6.67 | 0.00 | 2.67 | 3.33 |
-| Emil Järvinen | 6 | 12.33 | 2.83 | 1.17 | 3.17 | 2.67 |
-| Edvin Harbas | 6 | 10.00 | 4.33 | 0.33 | 0.33 | 3.17 |
+| Emil Järvinen | 7 | 13.29 | 3.14 | 1.43 | 2.71 | 2.71 |
+| Edvin Harbas | 7 | 9.86 | 4.00 | 0.43 | 0.57 | 3.00 |
 | Noah Nilsson | 5 | 5.80 | 2.80 | 0.00 | 0.20 | 1.80 |
-| Bakir Hasanovic | 6 | 5.17 | 2.50 | 0.00 | 0.17 | 2.00 |
-| Oscar Jansson | 3 | 4.67 | 0.67 | 1.00 | 0.33 | 1.33 |
-| David Franco Weihe | 6 | 4.17 | 1.33 | 0.33 | 0.50 | 1.83 |
-| Jack Kilany | 6 | 3.17 | 1.17 | 0.17 | 0.33 | 1.00 |
-| Alvin Nylén | 4 | 1.25 | 0.50 | 0.00 | 0.25 | 0.75 |
-| Anton Hjärn | 6 | 0.67 | 0.33 | 0.00 | 0.00 | 1.33 |
+| Bakir Hasanovic | 7 | 5.00 | 2.43 | 0.00 | 0.14 | 2.00 |
+| David Franco Weihe | 7 | 3.57 | 1.14 | 0.29 | 0.43 | 1.86 |
+| Oscar Jansson | 4 | 3.50 | 0.50 | 0.75 | 0.25 | 1.25 |
+| Jack Kilany | 7 | 3.00 | 1.14 | 0.14 | 0.29 | 1.14 |
+| Alvin Nylén | 5 | 1.00 | 0.40 | 0.00 | 0.20 | 0.60 |
+| Anton Hjärn | 7 | 0.57 | 0.29 | 0.00 | 0.00 | 1.14 |
 
 ## Games
+
+### Trollhättans Basketbollklubb - Ale Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Charlie Lindblom | 29 |  5 |  5 |  4 | 3 |
+| Emil Järvinen | 19 |  5 |  3 |  0 | 3 |
+| Robin Hysén | 18 |  8 |  0 |  2 | 1 |
+| Edvin Harbas |  9 |  2 |  1 |  2 | 2 |
+| Bakir Hasanovic |  4 |  2 |  0 |  0 | 2 |
+| Jack Kilany |  2 |  1 |  0 |  0 | 2 |
+| Anton Hjärn |  0 |  0 |  0 |  0 | 0 |
+| Alvin Nylén |  0 |  0 |  0 |  0 | 0 |
+| David Franco Weihe |  0 |  0 |  0 |  0 | 2 |
+| Oscar Jansson |  0 |  0 |  0 |  0 | 1 |
 
 ### Högsbo Basket P11 röd - Ale Basket
 

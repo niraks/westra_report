@@ -4,29 +4,47 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eastside Falcons | 5 | 66.60 | 22.60 | 4.20 | 8.80 | 16.00 |
+| Eastside Falcons | 6 | 68.17 | 22.33 | 4.83 | 9.00 | 16.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Christian Gonzal | 5 | 13.00 | 5.40 | 0.20 | 1.60 | 2.60 |
-| Vigan Raci | 5 | 12.60 | 5.40 | 0.20 | 1.20 | 2.00 |
-| Hjalmar Spångberg | 1 | 11.00 | 5.00 | 0.00 | 1.00 | 4.00 |
-| Evangelos Kochliaridis | 5 | 10.20 | 2.80 | 1.00 | 1.60 | 2.20 |
+| Evangelos Kochliaridis | 6 | 13.00 | 3.33 | 1.50 | 1.83 | 2.17 |
+| Vigan Raci | 6 | 12.67 | 5.17 | 0.33 | 1.33 | 2.00 |
+| Christian Gonzal | 6 | 12.67 | 5.33 | 0.17 | 1.50 | 2.50 |
+| Hjalmar Spångberg | 2 | 9.00 | 3.50 | 0.50 | 0.50 | 3.00 |
 | Vidar Ekström | 4 | 8.75 | 1.75 | 1.25 | 1.50 | 1.75 |
-| Vincent Uzieblo | 5 | 6.80 | 2.20 | 0.40 | 1.20 | 1.20 |
-| Aiden Kehoe | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 0.00 |
-| Nikolas Frestad | 1 | 5.00 | 2.00 | 0.00 | 1.00 | 1.00 |
+| Aiden Kehoe | 2 | 6.50 | 2.50 | 0.00 | 1.50 | 0.50 |
+| Vincent Uzieblo | 6 | 6.17 | 2.00 | 0.33 | 1.17 | 1.67 |
 | Yuhanan Hailemichael | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 1.00 |
-| Albin Helmfridsson | 5 | 3.80 | 1.00 | 0.40 | 0.60 | 1.40 |
+| Otis Foon | 6 | 3.83 | 0.83 | 0.67 | 0.17 | 0.33 |
+| Albin Helmfridsson | 6 | 3.67 | 0.83 | 0.50 | 0.50 | 1.17 |
 | Nireas Solidakis | 3 | 3.67 | 0.33 | 0.67 | 1.00 | 1.67 |
-| Otis Foon | 5 | 3.60 | 0.80 | 0.60 | 0.20 | 0.40 |
-| Anton Lundberg | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
+| Nikolas Frestad | 2 | 2.50 | 1.00 | 0.00 | 0.50 | 1.50 |
 | Noah Ringheim | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
-| Theodor Markey | 5 | 1.00 | 0.40 | 0.00 | 0.20 | 2.60 |
+| Anton Lundberg | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.50 |
+| Theodor Markey | 6 | 0.83 | 0.33 | 0.00 | 0.17 | 2.83 |
 
 ## Games
+
+### Eastside Falcons - Trollhättans Basketbollklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Evangelos Kochliaridis | 27 |  6 |  4 |  3 | 2 |
+| Vigan Raci | 13 |  4 |  1 |  2 | 2 |
+| Christian Gonzal | 11 |  5 |  0 |  1 | 2 |
+| Aiden Kehoe |  7 |  2 |  0 |  3 | 1 |
+| Hjalmar Spångberg |  7 |  2 |  1 |  0 | 2 |
+| Otis Foon |  5 |  1 |  1 |  0 | 0 |
+| Albin Helmfridsson |  3 |  0 |  1 |  0 | 0 |
+| Vincent Uzieblo |  3 |  1 |  0 |  1 | 4 |
+| Nikolas Frestad |  0 |  0 |  0 |  0 | 2 |
+| Theodor Markey |  0 |  0 |  0 |  0 | 4 |
+| Anton Lundberg |  0 |  0 |  0 |  0 | 1 |
 
 ### Ale Basket - Eastside Falcons
 

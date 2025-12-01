@@ -4,27 +4,44 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Varbergs Basket | 7 | 81.00 | 31.86 | 3.71 | 6.14 | 14.00 |
+| Varbergs Basket | 8 | 76.12 | 29.00 | 4.00 | 6.12 | 13.88 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lazar Ilic | 6 | 27.67 | 12.00 | 0.67 | 1.67 | 2.83 |
+| Lazar Ilic | 7 | 25.29 | 11.00 | 0.57 | 1.57 | 3.14 |
 | Viktor Hedberg | 4 | 23.00 | 10.25 | 0.50 | 1.00 | 1.25 |
-| Vincent Bozic | 7 | 13.86 | 5.14 | 0.71 | 1.43 | 2.29 |
-| Axel Odengård | 7 | 11.00 | 3.71 | 0.86 | 1.00 | 0.57 |
-| Enguun Bat-urnult | 6 | 4.50 | 1.83 | 0.17 | 0.33 | 2.33 |
-| Joel Carlén | 5 | 3.60 | 1.20 | 0.40 | 0.00 | 1.40 |
-| Olle Lykkbo | 7 | 3.00 | 1.14 | 0.14 | 0.29 | 0.86 |
-| Noel Sagestam | 7 | 3.00 | 0.57 | 0.43 | 0.57 | 0.71 |
-| Sakarias Hänninen | 7 | 2.71 | 1.14 | 0.00 | 0.43 | 1.14 |
+| Vincent Bozic | 8 | 14.38 | 4.50 | 1.38 | 1.25 | 2.62 |
+| Axel Odengård | 8 | 9.62 | 3.25 | 0.75 | 0.88 | 0.75 |
+| Enguun Bat-urnult | 7 | 4.00 | 1.57 | 0.14 | 0.43 | 2.00 |
+| Olle Lykkbo | 8 | 3.12 | 1.12 | 0.12 | 0.50 | 0.75 |
+| Joel Carlén | 6 | 3.00 | 1.00 | 0.33 | 0.00 | 1.17 |
+| Sakarias Hänninen | 8 | 2.88 | 1.25 | 0.00 | 0.38 | 1.00 |
+| Noel Sagestam | 8 | 2.62 | 0.50 | 0.38 | 0.50 | 0.75 |
 | Adin Kaltak | 3 | 2.33 | 0.67 | 0.33 | 0.00 | 0.67 |
+| Maximilian Uddén | 6 | 1.83 | 0.83 | 0.00 | 0.17 | 1.00 |
 | Wiggo Edvinsson | 6 | 1.83 | 0.83 | 0.00 | 0.17 | 0.67 |
-| Maximilian Uddén | 5 | 1.60 | 0.80 | 0.00 | 0.00 | 1.20 |
-| Aaron Batatina | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 2.00 |
+| Aaron Batatina | 3 | 1.33 | 0.00 | 0.33 | 0.33 | 1.33 |
 
 ## Games
+
+### S:t Helena BK - Vit - Varbergs Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Vincent Bozic | 18 |  0 |  6 |  0 | 5 |
+| Lazar Ilic | 11 |  5 |  0 |  1 | 5 |
+| Sakarias Hänninen |  4 |  2 |  0 |  0 | 0 |
+| Olle Lykkbo |  4 |  1 |  0 |  2 | 0 |
+| Maximilian Uddén |  3 |  1 |  0 |  1 | 0 |
+| Enguun Bat-urnult |  1 |  0 |  0 |  1 | 0 |
+| Aaron Batatina |  1 |  0 |  0 |  1 | 0 |
+| Joel Carlén |  0 |  0 |  0 |  0 | 0 |
+| Axel Odengård |  0 |  0 |  0 |  0 | 2 |
+| Noel Sagestam |  0 |  0 |  0 |  0 | 1 |
 
 ### Varbergs Basket - Basketklubben Marbo
 
