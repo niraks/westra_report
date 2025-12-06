@@ -55,8 +55,8 @@
 | 7 | [Vidar Ekström](hu15a_höst_team_5.md) | 1.25 |
 | 8 | [Felix Rezler](hu15a_höst_team_2.md) | 1.20 |
 | 8 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.20 |
-| 10 | [Oscar Jansson](hu15a_höst_team_1.md) | 0.75 |
 | 10 | [Wassem Al Hafez](hu15a_höst_team_3.md) | 0.75 |
+| 10 | [Oscar Jansson](hu15a_höst_team_1.md) | 0.75 |
 
 ### Free throws made per game
 
@@ -66,11 +66,11 @@
 | 2 | [Ilon Åhman](hu15a_höst_team_4.md) | 4.20 |
 | 3 | [Oliver Reit](hu15a_höst_team_4.md) | 3.57 |
 | 4 | [Emil Järvinen](hu15a_höst_team_1.md) | 2.71 |
-| 5 | [Fabian Hjärtinge](hu15a_höst_team_1.md) | 2.67 |
 | 5 | [Filip Berndtsson](hu15a_höst_team_3.md) | 2.67 |
+| 5 | [Fabian Hjärtinge](hu15a_höst_team_1.md) | 2.67 |
 | 7 | [Elliott Askenbäck](hu15a_höst_team_2.md) | 2.50 |
-| 8 | [Noah Lansler](hu15a_höst_team_2.md) | 2.33 |
 | 8 | [Eric Svensson](hu15a_höst_team_3.md) | 2.33 |
+| 8 | [Noah Lansler](hu15a_höst_team_2.md) | 2.33 |
 | 8 | [Joseph Jonsson](hu15a_höst_team_4.md) | 2.33 |
 
 ### Most fouls (non-personal)
@@ -78,7 +78,7 @@
 | Rank | Player | Value |
 |----:|:-------|------:|
 | 1 | [Melker Ciba](hu15a_höst_team_2.md) | 2.00 |
-| 2 | [Jack Kilany](hu15a_höst_team_1.md) | 1.00 |
 | 2 | [Oskar Armini Lönberg](hu15a_höst_team_3.md) | 1.00 |
 | 2 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.00 |
+| 2 | [Jack Kilany](hu15a_höst_team_1.md) | 1.00 |
 

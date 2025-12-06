@@ -4,22 +4,36 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Bosna IF Göteborg | 7 | 61.14 | 24.00 | 1.86 | 7.57 | 16.29 |
+| Bosna IF Göteborg | 9 | 54.78 | 22.00 | 1.56 | 6.11 | 14.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Adis Hrustanovic | 6 | 26.00 | 10.17 | 1.00 | 2.67 | 3.83 |
-| Edin Pejmanovic | 7 | 23.71 | 10.29 | 0.14 | 2.71 | 4.00 |
-| Melvin Zekic | 7 | 6.57 | 2.14 | 0.29 | 1.43 | 4.00 |
+| Adis Hrustanovic | 7 | 26.71 | 10.71 | 1.00 | 2.29 | 3.86 |
+| Edin Pejmanovic | 8 | 23.88 | 10.50 | 0.12 | 2.50 | 4.00 |
+| Melvin Zekic | 8 | 6.25 | 2.12 | 0.25 | 1.25 | 3.62 |
 | Sergej Pusonjic | 3 | 6.00 | 2.00 | 0.67 | 0.00 | 3.00 |
-| Elvin Dzaferagic | 6 | 2.67 | 0.83 | 0.00 | 1.00 | 1.50 |
-| Angelo Aljimi | 6 | 2.00 | 0.33 | 0.33 | 0.33 | 1.33 |
-| Viktor Mihajlovic | 6 | 1.67 | 0.83 | 0.00 | 0.00 | 1.33 |
-| Saleh Adjeoud | 5 | 0.80 | 0.40 | 0.00 | 0.00 | 0.20 |
+| Elvin Dzaferagic | 7 | 3.00 | 1.00 | 0.00 | 1.00 | 1.57 |
+| Angelo Aljimi | 7 | 1.71 | 0.29 | 0.29 | 0.29 | 1.14 |
+| Viktor Mihajlovic | 7 | 1.43 | 0.71 | 0.00 | 0.00 | 1.14 |
+| Saleh Adjeoud | 6 | 0.67 | 0.33 | 0.00 | 0.00 | 0.33 |
 
 ## Games
+
+### Bosna IF Göteborg - Basketklubben Marbo
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Adis Hrustanovic | 31 | 14 |  1 |  0 | 4 |
+| Edin Pejmanovic | 25 | 12 |  0 |  1 | 4 |
+| Elvin Dzaferagic |  5 |  2 |  0 |  1 | 2 |
+| Melvin Zekic |  4 |  2 |  0 |  0 | 1 |
+| Angelo Aljimi |  0 |  0 |  0 |  0 | 0 |
+| Saleh Adjeoud |  0 |  0 |  0 |  0 | 1 |
+| Viktor Mihajlovic |  0 |  0 |  0 |  0 | 0 |
 
 ### Bosna IF Göteborg - Kvarnby Basket Gul
 
@@ -33,6 +47,13 @@ Players (sorted by points)
 | Elvin Dzaferagic |  5 |  0 |  0 |  5 | 4 |
 | Saleh Adjeoud |  2 |  1 |  0 |  0 | 1 |
 | Melvin Zekic |  1 |  0 |  0 |  1 | 5 |
+
+### Gota Basket Blå - Bosna IF Göteborg
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
 
 ### Bosna IF Göteborg - Varbergs Basket
 

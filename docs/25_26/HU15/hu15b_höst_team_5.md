@@ -1,99 +1,75 @@
-# Statistics for S:t Helena BK - Vit
+# Statistics for Gota Basket Blå
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| S:t Helena BK - Vit | 8 | 63.62 | 23.75 | 2.75 | 7.88 | 12.88 |
+| Gota Basket Blå | 7 | 57.71 | 22.00 | 2.43 | 6.43 | 12.71 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lion Ingvall | 7 | 18.14 | 4.43 | 2.14 | 2.86 | 2.29 |
-| Theo Kolicic | 8 | 13.88 | 6.12 | 0.00 | 1.62 | 1.75 |
-| Johan Montin | 6 | 12.33 | 5.67 | 0.00 | 1.00 | 2.83 |
-| Henning Lundberg | 5 | 12.00 | 3.80 | 1.20 | 0.80 | 2.20 |
-| Gustav Sahlberg | 6 | 5.83 | 2.33 | 0.00 | 1.17 | 2.17 |
-| Albert Edvinsson | 3 | 5.67 | 2.67 | 0.00 | 0.33 | 0.67 |
-| Donatas Auryla | 4 | 3.75 | 1.50 | 0.00 | 0.75 | 0.25 |
-| Arvid Hogström | 3 | 3.33 | 1.33 | 0.00 | 0.67 | 2.00 |
-| Mailo Ajax | 3 | 3.33 | 1.67 | 0.00 | 0.00 | 0.00 |
-| William Landenmark | 7 | 2.86 | 1.14 | 0.00 | 0.57 | 0.71 |
-| Gustaf Brandshage | 4 | 2.75 | 1.25 | 0.00 | 0.25 | 0.50 |
-| Arthur Eriksson | 4 | 1.75 | 0.75 | 0.00 | 0.25 | 0.25 |
-| Muhammed Zuna | 4 | 1.25 | 0.25 | 0.25 | 0.00 | 1.00 |
-| Luka Lukic | 4 | 1.00 | 0.50 | 0.00 | 0.00 | 0.25 |
-| Amar Kocevic | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.50 |
-| Vincent Ageton | 4 | 0.25 | 0.00 | 0.00 | 0.25 | 1.00 |
-| Linus Samuelsson Andersson | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.50 |
-| Victor Santana | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Valter Larsson | 3 | 24.67 | 8.33 | 0.33 | 7.00 | 4.33 |
+| Jakov Markovic | 3 | 20.33 | 9.00 | 0.33 | 1.33 | 2.00 |
+| Filip Lundberg | 5 | 19.80 | 8.80 | 0.40 | 1.00 | 0.80 |
+| Nikolas Magnusson Giannourakis | 4 | 11.00 | 3.75 | 0.50 | 2.00 | 3.00 |
+| Charlie Mattsson Meijer | 4 | 9.75 | 3.25 | 0.75 | 1.00 | 1.75 |
+| Lukaz Livén Jonsson | 2 | 7.00 | 0.50 | 2.00 | 0.00 | 2.50 |
+| Erik Helgesson | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 1.00 |
+| Victor Björkman | 4 | 5.00 | 2.50 | 0.00 | 0.00 | 1.75 |
+| Gustav Jahren Fransson | 3 | 4.33 | 1.00 | 0.67 | 0.33 | 0.33 |
+| Karl Brännare | 4 | 4.25 | 1.25 | 0.50 | 0.25 | 0.50 |
+| Alvin Bolteus | 1 | 3.00 | 1.00 | 0.00 | 1.00 | 2.00 |
+| Ivan Bojanic | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
+| Gustav Persson | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
+| Eddie Cagner | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
+| Ludvig Andrén | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
+| Salih Altunsaray | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 2.00 |
+| Mansour Iyoun Soud | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 2.50 |
+| Ario Aref | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 2.50 |
+| Ebbe Crona-Sahlberg | 4 | 0.00 | 0.00 | 0.00 | 0.00 | 3.00 |
+| Charis Tyrovouzis | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Eduard Nr 43 Shala | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 5.00 |
 
 ## Games
 
-### S:t Helena BK - Vit - Varbergs Basket
+### Gota Basket Blå - Bosna IF Göteborg
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Lion Ingvall | 20 |  5 |  2 |  4 | 1 |
-| Henning Lundberg | 13 |  2 |  3 |  0 | 1 |
-| Johan Montin | 12 |  5 |  0 |  2 | 2 |
-| Theo Kolicic | 11 |  5 |  0 |  1 | 3 |
-| Arvid Hogström |  6 |  3 |  0 |  0 | 2 |
-| Gustaf Brandshage |  5 |  2 |  0 |  1 | 1 |
-| Gustav Sahlberg |  2 |  1 |  0 |  0 | 1 |
-| Arthur Eriksson |  0 |  0 |  0 |  0 | 0 |
-| William Landenmark |  0 |  0 |  0 |  0 | 2 |
-| Donatas Auryla |  0 |  0 |  0 |  0 | 0 |
-| Luka Lukic |  0 |  0 |  0 |  0 | 0 |
 
-### S:t Helena BK - Vit - Kvarnby Basket Gul
+### Kvarnby Basket Gul - Gota Basket Blå
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Johan Montin | 17 |  8 |  0 |  1 | 1 |
-| Lion Ingvall | 16 |  4 |  2 |  2 | 1 |
-| Theo Kolicic |  8 |  4 |  0 |  0 | 0 |
-| Henning Lundberg |  6 |  3 |  0 |  0 | 0 |
-| Gustav Sahlberg |  4 |  2 |  0 |  0 | 2 |
-| William Landenmark |  2 |  1 |  0 |  0 | 0 |
-| Arvid Hogström |  2 |  1 |  0 |  0 | 4 |
-| Gustaf Brandshage |  2 |  1 |  0 |  0 | 0 |
-| Vincent Ageton |  0 |  0 |  0 |  0 | 1 |
-| Muhammed Zuna |  0 |  0 |  0 |  0 | 0 |
-| Luka Lukic |  0 |  0 |  0 |  0 | 0 |
+| Valter Larsson | 38 | 13 |  0 | 12 | 4 |
+| Nikolas Magnusson Giannourakis | 18 |  5 |  1 |  5 | 1 |
+| Victor Björkman | 12 |  6 |  0 |  0 | 4 |
+| Charlie Mattsson Meijer |  9 |  3 |  1 |  0 | 2 |
+| Filip Lundberg |  8 |  3 |  0 |  2 | 1 |
+| Ebbe Crona-Sahlberg |  0 |  0 |  0 |  0 | 2 |
+| Charis Tyrovouzis |  0 |  0 |  0 |  0 | 0 |
 
-### Basketklubben Marbo - S:t Helena BK - Vit
+### Gota Basket Blå - Varbergs Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Theo Kolicic | 25 | 10 |  0 |  5 | 3 |
-| Lion Ingvall | 24 |  7 |  2 |  4 | 2 |
-| Gustav Sahlberg | 12 |  5 |  0 |  2 | 3 |
-| William Landenmark |  5 |  1 |  0 |  3 | 1 |
-| Gustaf Brandshage |  4 |  2 |  0 |  0 | 0 |
-| Luka Lukic |  2 |  1 |  0 |  0 | 1 |
-
-### Bosna IF Göteborg - S:t Helena BK - Vit
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Lion Ingvall | 39 |  8 |  6 |  5 | 2 |
-| Theo Kolicic | 18 |  7 |  0 |  4 | 1 |
-| Johan Montin | 13 |  6 |  0 |  1 | 5 |
-| William Landenmark |  8 |  4 |  0 |  0 | 1 |
-| Albert Edvinsson |  4 |  2 |  0 |  0 | 1 |
-| Arthur Eriksson |  2 |  1 |  0 |  0 | 0 |
-| Vincent Ageton |  0 |  0 |  0 |  0 | 2 |
-| Linus Samuelsson Andersson |  0 |  0 |  0 |  0 | 2 |
+| Lukaz Livén Jonsson | 14 |  1 |  4 |  0 | 1 |
+| Karl Brännare |  8 |  2 |  1 |  1 | 0 |
+| Gustav Jahren Fransson |  8 |  1 |  2 |  0 | 1 |
+| Erik Helgesson |  6 |  3 |  0 |  0 | 1 |
+| Ivan Bojanic |  2 |  1 |  0 |  0 | 0 |
+| Gustav Persson |  2 |  1 |  0 |  0 | 0 |
+| Eddie Cagner |  2 |  1 |  0 |  0 | 0 |
+| Ludvig Andrén |  2 |  1 |  0 |  0 | 0 |
+| Eduard Nr 43 Shala |  0 |  0 |  0 |  0 | 5 |
 
 ### S:t Helena BK - Vit - Gota Basket Blå
 
@@ -101,67 +77,58 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Henning Lundberg | 12 |  3 |  2 |  0 | 4 |
-| Gustav Sahlberg | 10 |  3 |  0 |  4 | 4 |
-| Johan Montin | 10 |  5 |  0 |  0 | 2 |
-| Theo Kolicic |  9 |  4 |  0 |  1 | 0 |
-| Muhammed Zuna |  5 |  1 |  1 |  0 | 0 |
-| William Landenmark |  4 |  2 |  0 |  0 | 0 |
-| Arvid Hogström |  2 |  0 |  0 |  2 | 0 |
-| Donatas Auryla |  1 |  0 |  0 |  1 | 0 |
-| Gustaf Brandshage |  0 |  0 |  0 |  0 | 1 |
+| Valter Larsson | 17 |  5 |  0 |  7 | 4 |
+| Jakov Markovic | 16 |  7 |  0 |  2 | 1 |
+| Filip Lundberg | 16 |  8 |  0 |  0 | 0 |
+| Gustav Jahren Fransson |  4 |  2 |  0 |  0 | 0 |
+| Salih Altunsaray |  2 |  1 |  0 |  0 | 2 |
+| Lukaz Livén Jonsson |  0 |  0 |  0 |  0 | 4 |
 
-### Varbergs Basket - S:t Helena BK - Vit
+### Gota Basket Blå - Basketklubben Marbo
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Lion Ingvall | 13 |  3 |  2 |  1 | 3 |
-| Theo Kolicic | 12 |  6 |  0 |  0 | 2 |
-| Donatas Auryla |  8 |  3 |  0 |  2 | 0 |
-| Johan Montin |  6 |  3 |  0 |  0 | 2 |
-| Gustav Sahlberg |  5 |  2 |  0 |  1 | 0 |
-| Albert Edvinsson |  4 |  2 |  0 |  0 | 0 |
-| Mailo Ajax |  4 |  2 |  0 |  0 | 0 |
-| Arthur Eriksson |  2 |  1 |  0 |  0 | 1 |
-| Luka Lukic |  2 |  1 |  0 |  0 | 0 |
-| William Landenmark |  0 |  0 |  0 |  0 | 1 |
+| Filip Lundberg | 27 | 12 |  1 |  0 | 1 |
+| Jakov Markovic | 12 |  4 |  1 |  1 | 4 |
+| Nikolas Magnusson Giannourakis | 11 |  4 |  1 |  0 | 3 |
+| Charlie Mattsson Meijer | 10 |  2 |  2 |  0 | 0 |
+| Gustav Jahren Fransson |  1 |  0 |  0 |  1 | 0 |
+| Victor Björkman |  0 |  0 |  0 |  0 | 0 |
+| Mansour Iyoun Soud |  0 |  0 |  0 |  0 | 4 |
+| Karl Brännare |  0 |  0 |  0 |  0 | 1 |
+| Ebbe Crona-Sahlberg |  0 |  0 |  0 |  0 | 3 |
 
-### Kvarnby Basket Gul - S:t Helena BK - Vit
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Henning Lundberg | 17 |  7 |  0 |  3 | 2 |
-| Theo Kolicic | 13 |  6 |  0 |  1 | 3 |
-| Albert Edvinsson |  9 |  4 |  0 |  1 | 1 |
-| Mailo Ajax |  6 |  3 |  0 |  0 | 0 |
-| Lion Ingvall |  6 |  3 |  0 |  0 | 4 |
-| Amar Kocevic |  2 |  1 |  0 |  0 | 1 |
-| Gustav Sahlberg |  2 |  1 |  0 |  0 | 3 |
-| Vincent Ageton |  1 |  0 |  0 |  1 | 0 |
-| William Landenmark |  1 |  0 |  0 |  1 | 0 |
-| Victor Santana |  0 |  0 |  0 |  0 | 1 |
-| Muhammed Zuna |  0 |  0 |  0 |  0 | 2 |
-| Linus Samuelsson Andersson |  0 |  0 |  0 |  0 | 1 |
-
-### S:t Helena BK - Vit - Basketklubben Marbo
+### Bosna IF Göteborg - Gota Basket Blå
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Johan Montin | 16 |  7 |  0 |  2 | 5 |
-| Theo Kolicic | 15 |  7 |  0 |  1 | 2 |
-| Henning Lundberg | 12 |  4 |  1 |  1 | 4 |
-| Lion Ingvall |  9 |  1 |  1 |  4 | 3 |
-| Donatas Auryla |  6 |  3 |  0 |  0 | 1 |
-| Arthur Eriksson |  3 |  1 |  0 |  1 | 0 |
-| Vincent Ageton |  0 |  0 |  0 |  0 | 1 |
-| Victor Santana |  0 |  0 |  0 |  0 | 1 |
-| Muhammed Zuna |  0 |  0 |  0 |  0 | 2 |
-| Amar Kocevic |  0 |  0 |  0 |  0 | 0 |
-| Mailo Ajax |  0 |  0 |  0 |  0 | 0 |
+| Filip Lundberg | 29 | 13 |  1 |  0 | 1 |
+| Valter Larsson | 19 |  7 |  1 |  2 | 5 |
+| Charlie Mattsson Meijer | 13 |  5 |  0 |  3 | 1 |
+| Nikolas Magnusson Giannourakis |  7 |  3 |  0 |  1 | 5 |
+| Victor Björkman |  2 |  1 |  0 |  0 | 2 |
+| Karl Brännare |  2 |  1 |  0 |  0 | 0 |
+| Ebbe Crona-Sahlberg |  0 |  0 |  0 |  0 | 3 |
+| Ario Aref |  0 |  0 |  0 |  0 | 3 |
+
+### Gota Basket Blå - Kvarnby Basket Gul
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Jakov Markovic | 33 | 16 |  0 |  1 | 1 |
+| Filip Lundberg | 19 |  8 |  0 |  3 | 1 |
+| Nikolas Magnusson Giannourakis |  8 |  3 |  0 |  2 | 3 |
+| Charlie Mattsson Meijer |  7 |  3 |  0 |  1 | 4 |
+| Karl Brännare |  7 |  2 |  1 |  0 | 1 |
+| Victor Björkman |  6 |  3 |  0 |  0 | 1 |
+| Alvin Bolteus |  3 |  1 |  0 |  1 | 2 |
+| Mansour Iyoun Soud |  2 |  1 |  0 |  0 | 1 |
+| Ario Aref |  2 |  1 |  0 |  0 | 2 |
+| Ebbe Crona-Sahlberg |  0 |  0 |  0 |  0 | 4 |
 
