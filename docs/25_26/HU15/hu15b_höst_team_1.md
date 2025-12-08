@@ -4,27 +4,45 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Varbergs Basket | 8 | 76.12 | 29.00 | 4.00 | 6.12 | 13.88 |
+| Varbergs Basket | 9 | 75.11 | 29.00 | 3.78 | 5.78 | 13.44 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lazar Ilic | 7 | 25.29 | 11.00 | 0.57 | 1.57 | 3.14 |
-| Viktor Hedberg | 4 | 23.00 | 10.25 | 0.50 | 1.00 | 1.25 |
-| Vincent Bozic | 8 | 14.38 | 4.50 | 1.38 | 1.25 | 2.62 |
-| Axel Odengård | 8 | 9.62 | 3.25 | 0.75 | 0.88 | 0.75 |
-| Enguun Bat-urnult | 7 | 4.00 | 1.57 | 0.14 | 0.43 | 2.00 |
-| Olle Lykkbo | 8 | 3.12 | 1.12 | 0.12 | 0.50 | 0.75 |
-| Joel Carlén | 6 | 3.00 | 1.00 | 0.33 | 0.00 | 1.17 |
-| Sakarias Hänninen | 8 | 2.88 | 1.25 | 0.00 | 0.38 | 1.00 |
+| Lazar Ilic | 8 | 23.62 | 10.38 | 0.50 | 1.38 | 3.12 |
+| Viktor Hedberg | 5 | 21.80 | 9.80 | 0.40 | 1.00 | 1.00 |
+| Vincent Bozic | 9 | 14.00 | 4.44 | 1.33 | 1.11 | 2.67 |
+| Axel Odengård | 9 | 11.00 | 3.89 | 0.78 | 0.89 | 0.78 |
+| Enguun Bat-urnult | 8 | 3.50 | 1.38 | 0.12 | 0.38 | 1.75 |
+| Joel Carlén | 7 | 3.00 | 1.00 | 0.29 | 0.14 | 1.14 |
+| Olle Lykkbo | 9 | 2.78 | 1.00 | 0.11 | 0.44 | 0.78 |
 | Noel Sagestam | 8 | 2.62 | 0.50 | 0.38 | 0.50 | 0.75 |
-| Adin Kaltak | 3 | 2.33 | 0.67 | 0.33 | 0.00 | 0.67 |
-| Maximilian Uddén | 6 | 1.83 | 0.83 | 0.00 | 0.17 | 1.00 |
+| Sakarias Hänninen | 9 | 2.56 | 1.11 | 0.00 | 0.33 | 0.89 |
+| Maximilian Uddén | 7 | 1.86 | 0.86 | 0.00 | 0.14 | 1.00 |
 | Wiggo Edvinsson | 6 | 1.83 | 0.83 | 0.00 | 0.17 | 0.67 |
-| Aaron Batatina | 3 | 1.33 | 0.00 | 0.33 | 0.33 | 1.33 |
+| Adin Kaltak | 4 | 1.75 | 0.50 | 0.25 | 0.00 | 0.50 |
+| Aaron Batatina | 4 | 1.00 | 0.00 | 0.25 | 0.25 | 1.00 |
 
 ## Games
+
+### Kvarnby Basket Gul - Varbergs Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Axel Odengård | 22 |  9 |  1 |  1 | 1 |
+| Viktor Hedberg | 17 |  8 |  0 |  1 | 0 |
+| Lazar Ilic | 12 |  6 |  0 |  0 | 3 |
+| Vincent Bozic | 11 |  4 |  1 |  0 | 3 |
+| Joel Carlén |  3 |  1 |  0 |  1 | 1 |
+| Maximilian Uddén |  2 |  1 |  0 |  0 | 1 |
+| Adin Kaltak |  0 |  0 |  0 |  0 | 0 |
+| Enguun Bat-urnult |  0 |  0 |  0 |  0 | 0 |
+| Sakarias Hänninen |  0 |  0 |  0 |  0 | 0 |
+| Olle Lykkbo |  0 |  0 |  0 |  0 | 1 |
+| Aaron Batatina |  0 |  0 |  0 |  0 | 0 |
 
 ### S:t Helena BK - Vit - Varbergs Basket
 

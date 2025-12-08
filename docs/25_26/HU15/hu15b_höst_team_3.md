@@ -4,32 +4,49 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kvarnby Basket Gul | 8 | 66.88 | 25.25 | 2.75 | 8.12 | 15.25 |
+| Kvarnby Basket Gul | 9 | 66.22 | 24.11 | 3.33 | 8.00 | 15.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
 | Sam Limberg | 1 | 20.00 | 9.00 | 0.00 | 2.00 | 3.00 |
-| Gustav Setterberg | 5 | 13.20 | 5.00 | 0.40 | 2.00 | 3.40 |
-| Noel Dalgärde | 3 | 13.00 | 5.00 | 0.67 | 1.00 | 2.00 |
+| Gustav Setterberg | 6 | 13.00 | 4.83 | 0.50 | 1.83 | 3.67 |
+| Noel Dalgärde | 4 | 11.50 | 4.00 | 0.75 | 1.25 | 1.50 |
 | Liam Kim Börjesson | 4 | 10.50 | 4.50 | 0.00 | 1.50 | 1.00 |
-| Leo Hashemi | 3 | 9.33 | 3.67 | 0.33 | 1.00 | 2.67 |
+| Leo Hashemi | 4 | 9.75 | 3.50 | 0.50 | 1.25 | 2.50 |
 | Aravind Sreenivas | 2 | 9.00 | 4.50 | 0.00 | 0.00 | 2.00 |
-| Kasper Hallberg | 8 | 8.62 | 3.50 | 0.25 | 0.88 | 0.88 |
-| Lucas Mouravidze | 7 | 8.14 | 2.86 | 0.57 | 0.71 | 2.43 |
+| Kasper Hallberg | 9 | 8.56 | 3.33 | 0.33 | 0.89 | 1.00 |
+| Lucas Mouravidze | 8 | 8.38 | 2.50 | 0.88 | 0.75 | 2.38 |
 | Michael Mei | 1 | 8.00 | 4.00 | 0.00 | 0.00 | 1.00 |
 | Sixten Offerle | 7 | 7.71 | 2.71 | 0.43 | 1.00 | 0.71 |
 | Leon Doormann | 5 | 6.00 | 2.40 | 0.40 | 0.00 | 0.80 |
-| Amir Vakili | 4 | 5.50 | 2.25 | 0.00 | 1.00 | 3.00 |
-| Ville Ek | 4 | 4.25 | 0.75 | 0.25 | 2.00 | 0.00 |
-| Eliott Bordes | 6 | 4.17 | 1.50 | 0.00 | 1.17 | 3.00 |
-| Andrija Savic | 4 | 2.75 | 1.00 | 0.25 | 0.00 | 1.00 |
+| Amir Vakili | 5 | 5.20 | 2.20 | 0.00 | 0.80 | 2.60 |
+| Andrija Savic | 5 | 4.00 | 1.40 | 0.40 | 0.00 | 1.00 |
+| Eliott Bordes | 7 | 3.57 | 1.29 | 0.00 | 1.00 | 2.57 |
+| Ville Ek | 5 | 3.40 | 0.60 | 0.20 | 1.60 | 0.00 |
 | Einar Fors | 5 | 2.60 | 1.00 | 0.00 | 0.60 | 1.00 |
-| Filip Förstberg | 4 | 2.50 | 0.50 | 0.50 | 0.00 | 0.75 |
+| Filip Förstberg | 5 | 2.00 | 0.40 | 0.40 | 0.00 | 0.60 |
 | Hannes Kanebratt | 4 | 1.50 | 0.00 | 0.50 | 0.00 | 1.00 |
 
 ## Games
+
+### Kvarnby Basket Gul - Varbergs Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Gustav Setterberg | 12 |  4 |  1 |  1 | 5 |
+| Leo Hashemi | 11 |  3 |  1 |  2 | 2 |
+| Lucas Mouravidze | 10 |  0 |  3 |  1 | 2 |
+| Andrija Savic |  9 |  3 |  1 |  0 | 1 |
+| Kasper Hallberg |  8 |  2 |  1 |  1 | 2 |
+| Noel Dalgärde |  7 |  1 |  1 |  2 | 0 |
+| Amir Vakili |  4 |  2 |  0 |  0 | 1 |
+| Eliott Bordes |  0 |  0 |  0 |  0 | 0 |
+| Ville Ek |  0 |  0 |  0 |  0 | 0 |
+| Filip Förstberg |  0 |  0 |  0 |  0 | 0 |
 
 ### Bosna IF Göteborg - Kvarnby Basket Gul
 

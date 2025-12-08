@@ -4,35 +4,52 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Gota Basket Blå | 7 | 57.71 | 22.00 | 2.43 | 6.43 | 12.71 |
+| Gota Basket Blå | 8 | 59.75 | 22.88 | 2.38 | 6.88 | 13.12 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Valter Larsson | 3 | 24.67 | 8.33 | 0.33 | 7.00 | 4.33 |
+| Valter Larsson | 4 | 25.75 | 9.00 | 0.25 | 7.00 | 4.25 |
 | Jakov Markovic | 3 | 20.33 | 9.00 | 0.33 | 1.33 | 2.00 |
-| Filip Lundberg | 5 | 19.80 | 8.80 | 0.40 | 1.00 | 0.80 |
-| Nikolas Magnusson Giannourakis | 4 | 11.00 | 3.75 | 0.50 | 2.00 | 3.00 |
-| Charlie Mattsson Meijer | 4 | 9.75 | 3.25 | 0.75 | 1.00 | 1.75 |
+| Filip Lundberg | 6 | 19.67 | 8.67 | 0.50 | 0.83 | 0.83 |
+| Nikolas Magnusson Giannourakis | 5 | 10.60 | 3.80 | 0.40 | 1.80 | 3.40 |
+| Charlie Mattsson Meijer | 5 | 9.80 | 3.40 | 0.60 | 1.20 | 1.40 |
 | Lukaz Livén Jonsson | 2 | 7.00 | 0.50 | 2.00 | 0.00 | 2.50 |
 | Erik Helgesson | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 1.00 |
-| Victor Björkman | 4 | 5.00 | 2.50 | 0.00 | 0.00 | 1.75 |
+| Victor Björkman | 5 | 4.40 | 2.20 | 0.00 | 0.00 | 1.80 |
 | Gustav Jahren Fransson | 3 | 4.33 | 1.00 | 0.67 | 0.33 | 0.33 |
 | Karl Brännare | 4 | 4.25 | 1.25 | 0.50 | 0.25 | 0.50 |
-| Alvin Bolteus | 1 | 3.00 | 1.00 | 0.00 | 1.00 | 2.00 |
+| Alvin Bolteus | 2 | 3.00 | 0.50 | 0.50 | 0.50 | 1.00 |
+| Salih Altunsaray | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 1.50 |
 | Ivan Bojanic | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
 | Gustav Persson | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
 | Eddie Cagner | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
 | Ludvig Andrén | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
-| Salih Altunsaray | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 2.00 |
-| Mansour Iyoun Soud | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 2.50 |
 | Ario Aref | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 2.50 |
-| Ebbe Crona-Sahlberg | 4 | 0.00 | 0.00 | 0.00 | 0.00 | 3.00 |
-| Charis Tyrovouzis | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Mansour Iyoun Soud | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 1.67 |
+| Ebbe Crona-Sahlberg | 5 | 0.00 | 0.00 | 0.00 | 0.00 | 2.60 |
+| Charis Tyrovouzis | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 | Eduard Nr 43 Shala | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 5.00 |
 
 ## Games
+
+### Gota Basket Blå - S:t Helena BK - Vit
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Valter Larsson | 29 | 11 |  0 |  7 | 4 |
+| Filip Lundberg | 19 |  8 |  1 |  0 | 1 |
+| Charlie Mattsson Meijer | 10 |  4 |  0 |  2 | 0 |
+| Nikolas Magnusson Giannourakis |  9 |  4 |  0 |  1 | 5 |
+| Alvin Bolteus |  3 |  0 |  1 |  0 | 0 |
+| Victor Björkman |  2 |  1 |  0 |  0 | 2 |
+| Salih Altunsaray |  2 |  1 |  0 |  0 | 1 |
+| Mansour Iyoun Soud |  0 |  0 |  0 |  0 | 0 |
+| Ebbe Crona-Sahlberg |  0 |  0 |  0 |  0 | 1 |
+| Charis Tyrovouzis |  0 |  0 |  0 |  0 | 2 |
 
 ### Gota Basket Blå - Bosna IF Göteborg
 
