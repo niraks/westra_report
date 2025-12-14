@@ -4,7 +4,7 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kvarnby Basket Gul | 9 | 66.22 | 24.11 | 3.33 | 8.00 | 15.00 |
+| Kvarnby Basket Gul | 10 | 66.10 | 24.10 | 3.30 | 8.00 | 15.20 |
 
 ## Players summary
 
@@ -12,24 +12,40 @@
 |:-----|--:|----:|------:|------:|------:|--------:|
 | Sam Limberg | 1 | 20.00 | 9.00 | 0.00 | 2.00 | 3.00 |
 | Gustav Setterberg | 6 | 13.00 | 4.83 | 0.50 | 1.83 | 3.67 |
+| Aravind Sreenivas | 3 | 12.33 | 5.33 | 0.33 | 0.67 | 2.33 |
 | Noel Dalgärde | 4 | 11.50 | 4.00 | 0.75 | 1.25 | 1.50 |
 | Liam Kim Börjesson | 4 | 10.50 | 4.50 | 0.00 | 1.50 | 1.00 |
 | Leo Hashemi | 4 | 9.75 | 3.50 | 0.50 | 1.25 | 2.50 |
-| Aravind Sreenivas | 2 | 9.00 | 4.50 | 0.00 | 0.00 | 2.00 |
-| Kasper Hallberg | 9 | 8.56 | 3.33 | 0.33 | 0.89 | 1.00 |
+| Kasper Hallberg | 10 | 9.00 | 3.30 | 0.40 | 1.20 | 1.10 |
 | Lucas Mouravidze | 8 | 8.38 | 2.50 | 0.88 | 0.75 | 2.38 |
 | Michael Mei | 1 | 8.00 | 4.00 | 0.00 | 0.00 | 1.00 |
 | Sixten Offerle | 7 | 7.71 | 2.71 | 0.43 | 1.00 | 0.71 |
-| Leon Doormann | 5 | 6.00 | 2.40 | 0.40 | 0.00 | 0.80 |
-| Amir Vakili | 5 | 5.20 | 2.20 | 0.00 | 0.80 | 2.60 |
-| Andrija Savic | 5 | 4.00 | 1.40 | 0.40 | 0.00 | 1.00 |
-| Eliott Bordes | 7 | 3.57 | 1.29 | 0.00 | 1.00 | 2.57 |
-| Ville Ek | 5 | 3.40 | 0.60 | 0.20 | 1.60 | 0.00 |
-| Einar Fors | 5 | 2.60 | 1.00 | 0.00 | 0.60 | 1.00 |
+| Leon Doormann | 6 | 7.00 | 3.00 | 0.33 | 0.00 | 0.67 |
+| Andrija Savic | 6 | 5.00 | 1.67 | 0.50 | 0.17 | 1.33 |
+| Amir Vakili | 6 | 4.33 | 1.83 | 0.00 | 0.67 | 2.33 |
+| Eliott Bordes | 8 | 3.38 | 1.25 | 0.00 | 0.88 | 2.75 |
+| Einar Fors | 6 | 3.33 | 1.33 | 0.00 | 0.67 | 1.17 |
+| Ville Ek | 6 | 3.17 | 0.67 | 0.17 | 1.33 | 0.17 |
 | Filip Förstberg | 5 | 2.00 | 0.40 | 0.40 | 0.00 | 0.60 |
-| Hannes Kanebratt | 4 | 1.50 | 0.00 | 0.50 | 0.00 | 1.00 |
+| Hannes Kanebratt | 5 | 1.20 | 0.00 | 0.40 | 0.00 | 1.00 |
 
 ## Games
+
+### Basketklubben Marbo - Kvarnby Basket Gul
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Aravind Sreenivas | 19 |  7 |  1 |  2 | 3 |
+| Kasper Hallberg | 13 |  3 |  1 |  4 | 2 |
+| Leon Doormann | 12 |  6 |  0 |  0 | 0 |
+| Andrija Savic | 10 |  3 |  1 |  1 | 3 |
+| Einar Fors |  7 |  3 |  0 |  1 | 2 |
+| Eliott Bordes |  2 |  1 |  0 |  0 | 4 |
+| Ville Ek |  2 |  1 |  0 |  0 | 1 |
+| Amir Vakili |  0 |  0 |  0 |  0 | 1 |
+| Hannes Kanebratt |  0 |  0 |  0 |  0 | 1 |
 
 ### Kvarnby Basket Gul - Varbergs Basket
 

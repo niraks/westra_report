@@ -4,7 +4,7 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Gota Basket Blå | 8 | 59.75 | 22.88 | 2.38 | 6.88 | 13.12 |
+| Gota Basket Blå | 9 | 53.11 | 20.33 | 2.11 | 6.11 | 11.67 |
 
 ## Players summary
 
@@ -34,6 +34,12 @@
 
 ## Games
 
+### Varbergs Basket - Gota Basket Blå
+
+Players (sorted by points)
+
+No data available
+
 ### Gota Basket Blå - S:t Helena BK - Vit
 
 Players (sorted by points)
@@ -55,8 +61,7 @@ Players (sorted by points)
 
 Players (sorted by points)
 
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
+No data available
 
 ### Kvarnby Basket Gul - Gota Basket Blå
 

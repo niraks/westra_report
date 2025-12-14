@@ -66,11 +66,11 @@
 | 3 | [Oliver Reit](hu15a_höst_team_4.md) | 3.57 |
 | 4 | [Emil Järvinen](hu15a_höst_team_1.md) | 2.88 |
 | 5 | [Filip Berndtsson](hu15a_höst_team_3.md) | 2.86 |
-| 6 | [Elliott Askenbäck](hu15a_höst_team_2.md) | 2.50 |
 | 6 | [Fabian Hjärtinge](hu15a_höst_team_1.md) | 2.50 |
+| 6 | [Elliott Askenbäck](hu15a_höst_team_2.md) | 2.50 |
 | 8 | [Joseph Jonsson](hu15a_höst_team_4.md) | 2.33 |
-| 9 | [Noah Lansler](hu15a_höst_team_2.md) | 2.14 |
 | 9 | [Robin Hysén](hu15a_höst_team_1.md) | 2.14 |
+| 9 | [Noah Lansler](hu15a_höst_team_2.md) | 2.14 |
 
 ### Most fouls (non-personal)
 
@@ -79,6 +79,6 @@
 | 1 | [Melker Ciba](hu15a_höst_team_2.md) | 2.00 |
 | 2 | [Jack Kilany](hu15a_höst_team_1.md) | 1.00 |
 | 2 | [Bakir Hasanovic](hu15a_höst_team_1.md) | 1.00 |
-| 2 | [Oskar Armini Lönberg](hu15a_höst_team_3.md) | 1.00 |
 | 2 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.00 |
+| 2 | [Oskar Armini Lönberg](hu15a_höst_team_3.md) | 1.00 |
 
