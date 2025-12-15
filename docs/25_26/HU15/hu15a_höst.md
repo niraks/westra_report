@@ -79,6 +79,6 @@
 | 1 | [Melker Ciba](hu15a_höst_team_2.md) | 2.00 |
 | 2 | [Jack Kilany](hu15a_höst_team_1.md) | 1.00 |
 | 2 | [Bakir Hasanovic](hu15a_höst_team_1.md) | 1.00 |
-| 2 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.00 |
 | 2 | [Oskar Armini Lönberg](hu15a_höst_team_3.md) | 1.00 |
+| 2 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.00 |
 

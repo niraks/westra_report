@@ -37,9 +37,9 @@
 | 3 | [Adis Hrustanovic](hu15b_höst_team_6.md) | 10.12 |
 | 4 | [Viktor Hedberg](hu15b_höst_team_2.md) | 9.80 |
 | 5 | [Mattis Gemzell](hu15b_höst_team_1.md) | 9.60 |
+| 6 | [Sam Limberg](hu15b_höst_team_3.md) | 9.00 |
 | 6 | [Valter Larsson](hu15b_höst_team_5.md) | 9.00 |
 | 6 | [Jakov Markovic](hu15b_höst_team_5.md) | 9.00 |
-| 6 | [Sam Limberg](hu15b_höst_team_3.md) | 9.00 |
 | 9 | [Filip Lundberg](hu15b_höst_team_5.md) | 8.67 |
 | 10 | [Johan Montin](hu15b_höst_team_4.md) | 6.50 |
 
@@ -53,8 +53,8 @@
 | 4 | [Ludvig Skarin](hu15b_höst_team_1.md) | 1.56 |
 | 5 | [Vincent Bozic](hu15b_höst_team_2.md) | 1.33 |
 | 6 | [Mattis Gemzell](hu15b_höst_team_1.md) | 1.00 |
-| 7 | [Lucas Mouravidze](hu15b_höst_team_3.md) | 0.88 |
 | 7 | [Adis Hrustanovic](hu15b_höst_team_6.md) | 0.88 |
+| 7 | [Lucas Mouravidze](hu15b_höst_team_3.md) | 0.88 |
 | 9 | [Henning Lundberg](hu15b_höst_team_4.md) | 0.86 |
 | 10 | [Axel Odengård](hu15b_höst_team_2.md) | 0.78 |
 
@@ -78,12 +78,12 @@
 | Rank | Player | Value |
 |----:|:-------|------:|
 | 1 | [Adis Hrustanovic](hu15b_höst_team_6.md) | 5.00 |
+| 2 | [Leo Hashemi](hu15b_höst_team_3.md) | 1.00 |
 | 2 | [Herman Haji](hu15b_höst_team_1.md) | 1.00 |
 | 2 | [Odai Ismaeil](hu15b_höst_team_1.md) | 1.00 |
 | 2 | [Salih Altunsaray](hu15b_höst_team_5.md) | 1.00 |
 | 2 | [Valter Larsson](hu15b_höst_team_5.md) | 1.00 |
 | 2 | [Nikolas Magnusson Giannourakis](hu15b_höst_team_5.md) | 1.00 |
-| 2 | [Leo Hashemi](hu15b_höst_team_3.md) | 1.00 |
 | 2 | [Lion Ingvall](hu15b_höst_team_4.md) | 1.00 |
 | 2 | [Lazar Ilic](hu15b_höst_team_2.md) | 1.00 |
 | 2 | [Sakarias Hänninen](hu15b_höst_team_2.md) | 1.00 |
