@@ -1,6 +1,6 @@
 # Statistics overview
 
-Statistics generated 2025-12-15
+Statistics generated 2025-12-22
 
 ## Season 25/26 Westra
 

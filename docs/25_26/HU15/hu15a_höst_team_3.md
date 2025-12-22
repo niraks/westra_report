@@ -4,26 +4,41 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kungsbacka Basket Blå | 7 | 76.14 | 29.86 | 2.86 | 7.86 | 12.43 |
+| Kungsbacka Basket Blå | 8 | 75.88 | 29.62 | 3.00 | 7.62 | 12.62 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Filip Berndtsson | 7 | 26.14 | 11.43 | 0.14 | 2.86 | 2.43 |
-| Eric Svensson | 7 | 18.14 | 6.14 | 1.29 | 2.00 | 0.71 |
+| Filip Berndtsson | 8 | 26.38 | 11.50 | 0.25 | 2.62 | 2.38 |
+| Eric Svensson | 8 | 17.62 | 6.00 | 1.25 | 1.88 | 0.62 |
 | Malcom Truija Wellington | 5 | 10.20 | 3.80 | 0.40 | 1.40 | 0.80 |
-| Wassem Al Hafez | 4 | 6.00 | 1.75 | 0.75 | 0.25 | 0.75 |
+| Dylan Lian | 7 | 6.00 | 2.00 | 0.29 | 1.14 | 1.00 |
+| Wassem Al Hafez | 5 | 5.00 | 1.40 | 0.60 | 0.40 | 0.60 |
 | Kristijonas Alminas | 2 | 5.00 | 1.50 | 0.50 | 0.50 | 2.00 |
-| Evan Fredriksson | 6 | 4.67 | 2.33 | 0.00 | 0.00 | 0.50 |
-| Algot Bui-Ljungqvist | 6 | 4.67 | 2.00 | 0.17 | 0.17 | 1.83 |
-| Dylan Lian | 6 | 4.17 | 1.33 | 0.17 | 1.00 | 1.00 |
+| Algot Bui-Ljungqvist | 7 | 4.86 | 1.86 | 0.29 | 0.29 | 2.14 |
+| Evan Fredriksson | 7 | 4.29 | 2.14 | 0.00 | 0.00 | 0.57 |
 | Nils Martinsson | 5 | 4.00 | 1.80 | 0.00 | 0.40 | 0.60 |
 | Eddy Kristofersson | 4 | 3.75 | 1.75 | 0.00 | 0.25 | 3.00 |
-| Melker Näsström | 5 | 2.20 | 0.60 | 0.20 | 0.40 | 1.00 |
-| Oskar Armini Lönberg | 6 | 1.83 | 0.67 | 0.17 | 0.00 | 2.33 |
+| Melker Näsström | 6 | 2.50 | 0.83 | 0.17 | 0.33 | 1.33 |
+| Oskar Armini Lönberg | 7 | 1.86 | 0.71 | 0.14 | 0.00 | 2.43 |
 
 ## Games
+
+### Kungsbacka Basket Blå - Eastside Falcons
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Filip Berndtsson | 28 | 12 |  1 |  1 | 2 |
+| Dylan Lian | 17 |  6 |  1 |  2 | 1 |
+| Eric Svensson | 14 |  5 |  1 |  1 | 0 |
+| Algot Bui-Ljungqvist |  6 |  1 |  1 |  1 | 4 |
+| Melker Näsström |  4 |  2 |  0 |  0 | 3 |
+| Evan Fredriksson |  2 |  1 |  0 |  0 | 1 |
+| Oskar Armini Lönberg |  2 |  1 |  0 |  0 | 3 |
+| Wassem Al Hafez |  1 |  0 |  0 |  1 | 0 |
 
 ### Ale Basket - Kungsbacka Basket Blå
 

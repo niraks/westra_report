@@ -4,29 +4,47 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eastside Falcons | 7 | 67.43 | 22.14 | 4.86 | 8.57 | 17.00 |
+| Eastside Falcons | 8 | 68.38 | 22.12 | 5.00 | 9.12 | 17.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Evangelos Kochliaridis | 7 | 12.86 | 3.29 | 1.43 | 2.00 | 2.29 |
-| Christian Gonzal | 7 | 12.00 | 5.14 | 0.14 | 1.29 | 2.43 |
-| Vigan Raci | 7 | 11.43 | 4.71 | 0.29 | 1.14 | 2.00 |
+| Evangelos Kochliaridis | 8 | 13.88 | 3.12 | 1.88 | 2.00 | 2.12 |
+| Christian Gonzal | 8 | 11.88 | 5.12 | 0.12 | 1.25 | 2.25 |
+| Vigan Raci | 8 | 10.88 | 4.50 | 0.25 | 1.12 | 2.00 |
 | Vidar Ekström | 5 | 9.00 | 2.00 | 1.20 | 1.40 | 1.80 |
-| Hjalmar Spångberg | 3 | 7.33 | 3.00 | 0.33 | 0.33 | 2.33 |
-| Vincent Uzieblo | 7 | 7.14 | 2.29 | 0.43 | 1.29 | 2.14 |
-| Aiden Kehoe | 2 | 6.50 | 2.50 | 0.00 | 1.50 | 0.50 |
+| Vincent Uzieblo | 8 | 8.50 | 2.38 | 0.50 | 2.25 | 2.00 |
+| Hjalmar Spångberg | 4 | 7.50 | 3.25 | 0.25 | 0.25 | 2.75 |
+| Aiden Kehoe | 3 | 5.67 | 2.33 | 0.00 | 1.00 | 0.33 |
 | Noah Ringheim | 3 | 5.33 | 1.67 | 0.67 | 0.00 | 0.67 |
 | Yuhanan Hailemichael | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 1.00 |
-| Albin Helmfridsson | 6 | 3.67 | 0.83 | 0.50 | 0.50 | 1.17 |
-| Otis Foon | 7 | 3.29 | 0.71 | 0.57 | 0.14 | 0.57 |
+| Albin Helmfridsson | 7 | 3.43 | 0.86 | 0.43 | 0.43 | 1.14 |
+| Otis Foon | 8 | 2.88 | 0.62 | 0.50 | 0.12 | 0.62 |
 | Nireas Solidakis | 4 | 2.75 | 0.25 | 0.50 | 0.75 | 1.25 |
+| Leon Frestad | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
 | Nikolas Frestad | 3 | 1.67 | 0.67 | 0.00 | 0.33 | 1.00 |
 | Anton Lundberg | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.50 |
-| Theodor Markey | 7 | 0.71 | 0.29 | 0.00 | 0.14 | 2.43 |
+| Theodor Markey | 8 | 0.88 | 0.38 | 0.00 | 0.12 | 2.75 |
 
 ## Games
+
+### Kungsbacka Basket Blå - Eastside Falcons
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Evangelos Kochliaridis | 21 |  2 |  5 |  2 | 1 |
+| Vincent Uzieblo | 18 |  3 |  1 |  9 | 1 |
+| Christian Gonzal | 11 |  5 |  0 |  1 | 1 |
+| Hjalmar Spångberg |  8 |  4 |  0 |  0 | 4 |
+| Vigan Raci |  7 |  3 |  0 |  1 | 2 |
+| Aiden Kehoe |  4 |  2 |  0 |  0 | 0 |
+| Albin Helmfridsson |  2 |  1 |  0 |  0 | 1 |
+| Theodor Markey |  2 |  1 |  0 |  0 | 5 |
+| Leon Frestad |  2 |  1 |  0 |  0 | 1 |
+| Otis Foon |  0 |  0 |  0 |  0 | 1 |
 
 ### Eastside Falcons - Högsbo Basket P11 röd
 

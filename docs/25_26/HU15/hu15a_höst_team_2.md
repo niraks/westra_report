@@ -4,26 +4,45 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Högsbo Basket P11 röd | 7 | 85.00 | 30.57 | 4.43 | 10.57 | 18.57 |
+| Högsbo Basket P11 röd | 8 | 84.38 | 30.12 | 4.88 | 9.50 | 18.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Elliott Askenbäck | 6 | 25.83 | 9.17 | 1.67 | 2.50 | 2.50 |
-| Felix Rezler | 6 | 17.00 | 5.83 | 1.17 | 1.83 | 3.00 |
-| Noah Lansler | 7 | 11.00 | 3.57 | 0.57 | 2.14 | 1.29 |
-| Ward Haddad | 7 | 9.71 | 3.43 | 0.43 | 1.57 | 2.14 |
-| Wilmer Myhr | 6 | 7.83 | 3.67 | 0.00 | 0.50 | 2.50 |
+| Elliott Askenbäck | 7 | 24.00 | 8.57 | 1.57 | 2.14 | 2.57 |
+| Felix Rezler | 7 | 16.14 | 5.14 | 1.43 | 1.57 | 3.00 |
+| Noah Lansler | 8 | 11.50 | 3.88 | 0.62 | 1.88 | 1.25 |
+| Colin Amnéus | 1 | 11.00 | 4.00 | 1.00 | 0.00 | 2.00 |
+| Ward Haddad | 8 | 9.12 | 3.12 | 0.50 | 1.38 | 2.38 |
+| Wilmer Myhr | 7 | 9.00 | 4.14 | 0.00 | 0.71 | 2.14 |
 | Hugo Thorson | 7 | 5.57 | 1.57 | 0.43 | 1.14 | 1.57 |
 | Oskar Rosén | 7 | 5.57 | 2.43 | 0.14 | 0.29 | 2.00 |
-| Liam Dahlén | 6 | 4.50 | 1.83 | 0.00 | 0.83 | 0.50 |
+| Jonathan Silverwaldt | 1 | 5.00 | 1.00 | 1.00 | 0.00 | 1.00 |
+| Liam Dahlén | 7 | 4.43 | 1.86 | 0.00 | 0.71 | 0.57 |
 | Alvin Hertzman | 6 | 3.33 | 0.83 | 0.50 | 0.17 | 0.67 |
 | Melker Ciba | 5 | 2.00 | 0.80 | 0.00 | 0.40 | 2.00 |
-| Ibrahim Salma | 7 | 1.29 | 0.57 | 0.00 | 0.14 | 2.29 |
-| Olle Sjöbom | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.00 |
+| Ibrahim Salma | 8 | 1.12 | 0.50 | 0.00 | 0.12 | 2.38 |
+| Olle Sjöbom | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Högsbo Basket P11 röd - Trollhättans Basketbollklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Wilmer Myhr | 16 |  7 |  0 |  2 | 0 |
+| Noah Lansler | 15 |  6 |  1 |  0 | 1 |
+| Elliott Askenbäck | 13 |  5 |  1 |  0 | 3 |
+| Felix Rezler | 11 |  1 |  3 |  0 | 3 |
+| Colin Amnéus | 11 |  4 |  1 |  0 | 2 |
+| Ward Haddad |  5 |  1 |  1 |  0 | 4 |
+| Jonathan Silverwaldt |  5 |  1 |  1 |  0 | 1 |
+| Liam Dahlén |  4 |  2 |  0 |  0 | 1 |
+| Ibrahim Salma |  0 |  0 |  0 |  0 | 3 |
+| Olle Sjöbom |  0 |  0 |  0 |  0 | 0 |
 
 ### Eastside Falcons - Högsbo Basket P11 röd
 

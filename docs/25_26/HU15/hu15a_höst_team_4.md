@@ -4,24 +4,39 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Trollhättans Basketbollklubb | 7 | 71.71 | 22.86 | 5.00 | 11.00 | 14.29 |
+| Trollhättans Basketbollklubb | 8 | 70.88 | 23.38 | 4.50 | 10.62 | 13.38 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Oliver Reit | 7 | 27.71 | 6.71 | 3.57 | 3.57 | 1.71 |
-| Ilon Åhman | 5 | 25.40 | 8.80 | 1.20 | 4.20 | 2.40 |
-| Joseph Jonsson | 6 | 14.17 | 5.67 | 0.17 | 2.33 | 2.50 |
-| Gustav Karlsson Glasell | 5 | 10.00 | 4.60 | 0.00 | 0.80 | 3.00 |
-| Sabi Memedovski | 7 | 2.86 | 0.71 | 0.29 | 0.57 | 1.43 |
-| Leo Larsson Flensner | 7 | 2.14 | 0.57 | 0.14 | 0.57 | 1.71 |
-| Alexandru Dena | 7 | 1.43 | 0.43 | 0.00 | 0.57 | 2.71 |
+| Oliver Reit | 8 | 26.88 | 6.75 | 3.25 | 3.62 | 1.50 |
+| Ilon Åhman | 6 | 25.00 | 9.00 | 1.00 | 4.00 | 2.17 |
+| Joseph Jonsson | 7 | 13.29 | 5.43 | 0.14 | 2.00 | 2.29 |
+| Gustav Karlsson Glasell | 6 | 10.17 | 4.67 | 0.00 | 0.83 | 2.67 |
+| Sabi Memedovski | 8 | 2.75 | 0.75 | 0.25 | 0.50 | 1.38 |
+| Leo Larsson Flensner | 8 | 1.88 | 0.50 | 0.12 | 0.50 | 1.50 |
+| Alexandru Dena | 8 | 1.25 | 0.38 | 0.00 | 0.50 | 2.62 |
 | Figo Lindqvist | 4 | 0.25 | 0.00 | 0.00 | 0.25 | 0.00 |
+| Bassam Alolabi | 7 | 0.00 | 0.00 | 0.00 | 0.00 | 0.14 |
 | Hugo Gidlund | 7 | 0.00 | 0.00 | 0.00 | 0.00 | 0.71 |
-| Bassam Alolabi | 6 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Högsbo Basket P11 röd - Trollhättans Basketbollklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Ilon Åhman | 23 | 10 |  0 |  3 | 1 |
+| Oliver Reit | 21 |  7 |  1 |  4 | 0 |
+| Gustav Karlsson Glasell | 11 |  5 |  0 |  1 | 1 |
+| Joseph Jonsson |  8 |  4 |  0 |  0 | 1 |
+| Sabi Memedovski |  2 |  1 |  0 |  0 | 1 |
+| Leo Larsson Flensner |  0 |  0 |  0 |  0 | 0 |
+| Alexandru Dena |  0 |  0 |  0 |  0 | 2 |
+| Bassam Alolabi |  0 |  0 |  0 |  0 | 1 |
 
 ### Trollhättans Basketbollklubb - Ale Basket
 
