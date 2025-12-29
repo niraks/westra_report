@@ -19,8 +19,8 @@
 | 1 | [Oliver Reit](hu15a_höst_team_4.md) | 26.88 |
 | 2 | [Filip Berndtsson](hu15a_höst_team_3.md) | 26.38 |
 | 3 | [Ilon Åhman](hu15a_höst_team_4.md) | 25.00 |
-| 4 | [Elliott Askenbäck](hu15a_höst_team_2.md) | 24.00 |
 | 4 | [Charlie Lindblom](hu15a_höst_team_1.md) | 24.00 |
+| 4 | [Elliott Askenbäck](hu15a_höst_team_2.md) | 24.00 |
 | 6 | [Robin Hysén](hu15a_höst_team_1.md) | 18.14 |
 | 7 | [Eric Svensson](hu15a_höst_team_3.md) | 17.62 |
 | 8 | [Felix Rezler](hu15a_höst_team_2.md) | 16.14 |
@@ -54,9 +54,9 @@
 | 6 | [Felix Rezler](hu15a_höst_team_2.md) | 1.43 |
 | 7 | [Eric Svensson](hu15a_höst_team_3.md) | 1.25 |
 | 8 | [Vidar Ekström](hu15a_höst_team_5.md) | 1.20 |
+| 9 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.00 |
 | 9 | [Colin Amnéus](hu15a_höst_team_2.md) | 1.00 |
 | 9 | [Jonathan Silverwaldt](hu15a_höst_team_2.md) | 1.00 |
-| 9 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.00 |
 
 ### Free throws made per game
 
@@ -69,18 +69,18 @@
 | 5 | [Filip Berndtsson](hu15a_höst_team_3.md) | 2.62 |
 | 6 | [Fabian Hjärtinge](hu15a_höst_team_1.md) | 2.50 |
 | 7 | [Vincent Uzieblo](hu15a_höst_team_5.md) | 2.25 |
-| 8 | [Elliott Askenbäck](hu15a_höst_team_2.md) | 2.14 |
 | 8 | [Robin Hysén](hu15a_höst_team_1.md) | 2.14 |
-| 10 | [Joseph Jonsson](hu15a_höst_team_4.md) | 2.00 |
+| 8 | [Elliott Askenbäck](hu15a_höst_team_2.md) | 2.14 |
 | 10 | [Evangelos Kochliaridis](hu15a_höst_team_5.md) | 2.00 |
+| 10 | [Joseph Jonsson](hu15a_höst_team_4.md) | 2.00 |
 
 ### Most fouls (non-personal)
 
 | Rank | Player | Value |
 |----:|:-------|------:|
 | 1 | [Melker Ciba](hu15a_höst_team_2.md) | 2.00 |
-| 2 | [Oskar Armini Lönberg](hu15a_höst_team_3.md) | 1.00 |
+| 2 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.00 |
 | 2 | [Jack Kilany](hu15a_höst_team_1.md) | 1.00 |
 | 2 | [Bakir Hasanovic](hu15a_höst_team_1.md) | 1.00 |
-| 2 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.00 |
+| 2 | [Oskar Armini Lönberg](hu15a_höst_team_3.md) | 1.00 |
 
