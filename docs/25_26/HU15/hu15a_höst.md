@@ -71,16 +71,16 @@
 | 7 | [Vincent Uzieblo](hu15a_höst_team_5.md) | 2.25 |
 | 8 | [Robin Hysén](hu15a_höst_team_1.md) | 2.14 |
 | 8 | [Elliott Askenbäck](hu15a_höst_team_2.md) | 2.14 |
-| 10 | [Evangelos Kochliaridis](hu15a_höst_team_5.md) | 2.00 |
 | 10 | [Joseph Jonsson](hu15a_höst_team_4.md) | 2.00 |
+| 10 | [Evangelos Kochliaridis](hu15a_höst_team_5.md) | 2.00 |
 
 ### Most fouls (non-personal)
 
 | Rank | Player | Value |
 |----:|:-------|------:|
 | 1 | [Melker Ciba](hu15a_höst_team_2.md) | 2.00 |
-| 2 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.00 |
 | 2 | [Jack Kilany](hu15a_höst_team_1.md) | 1.00 |
 | 2 | [Bakir Hasanovic](hu15a_höst_team_1.md) | 1.00 |
+| 2 | [Ilon Åhman](hu15a_höst_team_4.md) | 1.00 |
 | 2 | [Oskar Armini Lönberg](hu15a_höst_team_3.md) | 1.00 |
 
