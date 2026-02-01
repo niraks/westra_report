@@ -1,11 +1,13 @@
 # Statistics overview
 
-Statistics generated 2026-01-05
+Statistics generated 2026-02-01
 
 ## Season 25/26 Westra
 
 - [HU15A Höst](25_26/HU15/hu15a_höst.md)
+- [HU15A Vår](25_26/HU15/hu15a_vår.md)
 - [HU15B Höst](25_26/HU15/hu15b_höst.md)
+- [HU15B Vår](25_26/HU15/hu15b_vår.md)
 
 ## Season 25/26 USM
 
