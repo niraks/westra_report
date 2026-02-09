@@ -4,24 +4,39 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Gota Basket Blå | 1 | 51.00 | 16.00 | 3.00 | 10.00 | 13.00 |
+| Gota Basket Blå | 2 | 56.00 | 18.00 | 3.50 | 9.50 | 10.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
+| Valter Larsson | 2 | 15.50 | 6.00 | 0.50 | 2.00 | 2.50 |
+| Filip Lundberg | 2 | 14.00 | 4.00 | 1.50 | 1.50 | 2.50 |
 | Jakov Markovic | 1 | 12.00 | 4.00 | 0.00 | 4.00 | 1.00 |
-| Charlie Mattsson Meijer | 1 | 12.00 | 3.00 | 2.00 | 0.00 | 2.00 |
-| Valter Larsson | 1 | 12.00 | 5.00 | 0.00 | 2.00 | 3.00 |
-| Alvin Bolteus | 1 | 8.00 | 3.00 | 0.00 | 2.00 | 0.00 |
-| Nikolas Magnusson Giannourakis | 1 | 4.00 | 0.00 | 1.00 | 1.00 | 5.00 |
-| Filip Lundberg | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
+| Charlie Mattsson Meijer | 2 | 9.00 | 2.50 | 1.00 | 1.00 | 1.50 |
+| Nikolas Magnusson Giannourakis | 2 | 5.00 | 1.00 | 0.50 | 1.50 | 2.50 |
+| Alvin Bolteus | 2 | 5.00 | 2.00 | 0.00 | 1.00 | 0.00 |
+| Lukaz Livén Jonsson | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
 | Ebbe Crona-Sahlberg | 1 | 1.00 | 0.00 | 0.00 | 1.00 | 1.00 |
+| Mansour Iyoun Soud | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | Victor Björkman | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Mansour Iyoun Soud | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | Charis Tyrovouzis | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Högsbo Basket P11 röd - Gota Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Filip Lundberg | 26 |  7 |  3 |  3 | 4 |
+| Valter Larsson | 19 |  7 |  1 |  2 | 2 |
+| Charlie Mattsson Meijer |  6 |  2 |  0 |  2 | 1 |
+| Nikolas Magnusson Giannourakis |  6 |  2 |  0 |  2 | 0 |
+| Alvin Bolteus |  2 |  1 |  0 |  0 | 0 |
+| Lukaz Livén Jonsson |  2 |  1 |  0 |  0 | 1 |
+| Mansour Iyoun Soud |  0 |  0 |  0 |  0 | 0 |
 
 ### Gota Basket Blå - Trollhättans Basketbollklubb
 

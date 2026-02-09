@@ -4,26 +4,42 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ale Basket | 2 | 76.00 | 19.00 | 10.00 | 8.00 | 12.00 |
+| Ale Basket | 3 | 78.33 | 22.67 | 8.00 | 9.00 | 16.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
 | Charlie Lindblom | 2 | 18.50 | 3.00 | 3.00 | 3.50 | 1.00 |
-| Edvin Harbas | 2 | 11.50 | 3.00 | 1.50 | 1.00 | 1.00 |
-| Fabian Hjärtinge | 2 | 11.00 | 5.00 | 0.00 | 1.00 | 1.50 |
-| Emil Järvinen | 2 | 10.00 | 1.50 | 2.00 | 1.00 | 3.50 |
-| Bakir Hasanovic | 2 | 9.50 | 2.50 | 1.50 | 0.00 | 1.50 |
+| Edvin Harbas | 3 | 13.67 | 4.00 | 1.33 | 1.67 | 1.67 |
+| Fabian Hjärtinge | 3 | 13.00 | 6.00 | 0.00 | 1.00 | 2.00 |
+| Emil Järvinen | 3 | 13.00 | 2.33 | 2.33 | 1.33 | 2.67 |
+| Bakir Hasanovic | 3 | 9.33 | 3.00 | 1.00 | 0.33 | 2.33 |
+| Washington Adanihomwan | 1 | 7.00 | 2.00 | 0.00 | 3.00 | 5.00 |
 | Robin Hysén | 2 | 5.50 | 2.00 | 0.00 | 1.50 | 0.50 |
-| Jack Kilany | 2 | 3.50 | 1.00 | 0.50 | 0.00 | 0.50 |
+| Jack Kilany | 3 | 4.00 | 1.33 | 0.33 | 0.33 | 1.33 |
 | Oscar Jansson | 2 | 3.00 | 0.00 | 1.00 | 0.00 | 0.50 |
-| Alvin Nylén | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 1.00 |
+| Noah Nilsson | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 1.00 |
+| Alvin Nylén | 3 | 1.00 | 0.00 | 0.33 | 0.00 | 2.00 |
 | Anton Hjärn | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.00 |
 | David Franco Weihe | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.00 |
-| Noah Nilsson | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Kungsbacka Basket Blå - Ale Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Emil Järvinen | 19 |  4 |  3 |  2 | 1 |
+| Edvin Harbas | 18 |  6 |  1 |  3 | 3 |
+| Fabian Hjärtinge | 17 |  8 |  0 |  1 | 3 |
+| Bakir Hasanovic |  9 |  4 |  0 |  1 | 4 |
+| Noah Nilsson |  8 |  4 |  0 |  0 | 3 |
+| Washington Adanihomwan |  7 |  2 |  0 |  3 | 5 |
+| Jack Kilany |  5 |  2 |  0 |  1 | 3 |
+| Alvin Nylén |  0 |  0 |  0 |  0 | 4 |
 
 ### Ale Basket - Eastside Falcons
 
