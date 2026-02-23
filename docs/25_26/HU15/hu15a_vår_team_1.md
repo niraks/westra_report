@@ -4,29 +4,46 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Högsbo Basket P11 röd | 3 | 94.67 | 32.33 | 8.33 | 5.00 | 14.67 |
+| Högsbo Basket P11 röd | 4 | 96.50 | 33.75 | 7.75 | 5.75 | 16.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Filip Berndtsson | 3 | 21.67 | 10.00 | 0.00 | 1.67 | 2.33 |
-| Elliott Askenbäck | 3 | 17.33 | 7.00 | 1.00 | 0.33 | 2.67 |
-| Ward Haddad | 3 | 16.00 | 4.33 | 2.00 | 1.33 | 2.00 |
+| Filip Berndtsson | 4 | 22.00 | 10.00 | 0.00 | 2.00 | 2.00 |
+| Elliott Askenbäck | 4 | 18.50 | 7.25 | 1.25 | 0.25 | 2.50 |
+| Ward Haddad | 4 | 13.50 | 4.00 | 1.50 | 1.00 | 2.00 |
+| Felix Rezler | 3 | 9.00 | 2.67 | 1.00 | 0.67 | 1.33 |
 | Andreas Persson | 1 | 9.00 | 0.00 | 3.00 | 0.00 | 0.00 |
-| Felix Rezler | 2 | 9.00 | 2.50 | 1.00 | 1.00 | 1.00 |
 | Eddy Kristofersson | 1 | 8.00 | 4.00 | 0.00 | 0.00 | 0.00 |
-| Olle Sjöbom | 3 | 7.00 | 2.00 | 1.00 | 0.00 | 0.33 |
-| Alvin Hertzman | 3 | 5.67 | 1.33 | 1.00 | 0.00 | 0.33 |
+| Olle Sjöbom | 4 | 7.50 | 2.25 | 1.00 | 0.00 | 0.75 |
+| Hugo Thorson | 3 | 7.00 | 2.33 | 0.67 | 0.33 | 1.00 |
 | Oskar Rosén | 2 | 5.50 | 2.00 | 0.50 | 0.00 | 0.50 |
+| Alvin Hertzman | 4 | 5.25 | 1.00 | 1.00 | 0.25 | 1.25 |
 | Jonathan Silverwaldt | 1 | 5.00 | 1.00 | 1.00 | 0.00 | 4.00 |
-| Noah Lansler | 1 | 5.00 | 1.00 | 1.00 | 0.00 | 0.00 |
-| Hugo Thorson | 2 | 4.50 | 1.50 | 0.50 | 0.00 | 1.50 |
-| Ibrahim Salma | 2 | 4.00 | 1.00 | 0.50 | 0.50 | 2.00 |
-| Wilmer Myhr | 2 | 3.00 | 1.50 | 0.00 | 0.00 | 2.50 |
+| Wilmer Myhr | 3 | 4.67 | 2.00 | 0.00 | 0.67 | 2.67 |
+| Noah Lansler | 2 | 4.50 | 1.50 | 0.50 | 0.00 | 1.00 |
+| Ibrahim Salma | 3 | 4.33 | 1.33 | 0.33 | 0.67 | 2.00 |
 | Colin Amnéus | 1 | 2.00 | 0.00 | 0.00 | 2.00 | 2.00 |
 
 ## Games
+
+### Högsbo Basket P11 röd - Kungsbacka Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Filip Berndtsson | 23 | 10 |  0 |  3 | 1 |
+| Elliott Askenbäck | 22 |  8 |  2 |  0 | 2 |
+| Hugo Thorson | 12 |  4 |  1 |  1 | 0 |
+| Felix Rezler |  9 |  3 |  1 |  0 | 2 |
+| Olle Sjöbom |  9 |  3 |  1 |  0 | 2 |
+| Wilmer Myhr |  8 |  3 |  0 |  2 | 3 |
+| Ward Haddad |  6 |  3 |  0 |  0 | 2 |
+| Ibrahim Salma |  5 |  2 |  0 |  1 | 2 |
+| Noah Lansler |  4 |  2 |  0 |  0 | 2 |
+| Alvin Hertzman |  4 |  0 |  1 |  1 | 4 |
 
 ### Högsbo Basket P11 röd - Gota Basket Blå
 

@@ -1,57 +1,69 @@
-# Statistics for Gota Basket Blå
+# Statistics for Kungsbacka Basket Blå
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Gota Basket Blå | 2 | 56.00 | 18.00 | 3.50 | 9.50 | 10.50 |
+| Kungsbacka Basket Blå | 3 | 58.67 | 16.33 | 4.00 | 14.00 | 14.33 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Valter Larsson | 2 | 15.50 | 6.00 | 0.50 | 2.00 | 2.50 |
-| Filip Lundberg | 2 | 14.00 | 4.00 | 1.50 | 1.50 | 2.50 |
-| Jakov Markovic | 1 | 12.00 | 4.00 | 0.00 | 4.00 | 1.00 |
-| Charlie Mattsson Meijer | 2 | 9.00 | 2.50 | 1.00 | 1.00 | 1.50 |
-| Nikolas Magnusson Giannourakis | 2 | 5.00 | 1.00 | 0.50 | 1.50 | 2.50 |
-| Alvin Bolteus | 2 | 5.00 | 2.00 | 0.00 | 1.00 | 0.00 |
-| Lukaz Livén Jonsson | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
-| Ebbe Crona-Sahlberg | 1 | 1.00 | 0.00 | 0.00 | 1.00 | 1.00 |
-| Mansour Iyoun Soud | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Victor Björkman | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Charis Tyrovouzis | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Eric Svensson | 3 | 19.00 | 4.67 | 2.00 | 3.67 | 2.33 |
+| Malcom Truija Wellington | 3 | 13.00 | 3.33 | 0.67 | 4.33 | 1.67 |
+| Simon Bentley | 3 | 9.33 | 3.00 | 0.33 | 2.33 | 3.33 |
+| Algot Bui-Ljungqvist | 3 | 5.33 | 1.33 | 0.33 | 1.67 | 2.33 |
+| Melker Näsström | 3 | 4.33 | 1.33 | 0.33 | 0.67 | 1.67 |
+| Dylan Lian | 2 | 3.50 | 1.50 | 0.00 | 0.50 | 0.50 |
+| Nils Martinsson | 2 | 3.50 | 1.00 | 0.00 | 1.50 | 0.50 |
+| Evan Fredriksson | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 0.67 |
+| Oskar Armini Lönberg | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 2.50 |
 
 ## Games
 
-### Högsbo Basket P11 röd - Gota Basket Blå
+### Högsbo Basket P11 röd - Kungsbacka Basket Blå
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Filip Lundberg | 26 |  7 |  3 |  3 | 4 |
-| Valter Larsson | 19 |  7 |  1 |  2 | 2 |
-| Charlie Mattsson Meijer |  6 |  2 |  0 |  2 | 1 |
-| Nikolas Magnusson Giannourakis |  6 |  2 |  0 |  2 | 0 |
-| Alvin Bolteus |  2 |  1 |  0 |  0 | 0 |
-| Lukaz Livén Jonsson |  2 |  1 |  0 |  0 | 1 |
-| Mansour Iyoun Soud |  0 |  0 |  0 |  0 | 0 |
+| Malcom Truija Wellington | 12 |  4 |  0 |  4 | 1 |
+| Eric Svensson |  9 |  1 |  2 |  1 | 3 |
+| Simon Bentley |  7 |  1 |  1 |  2 | 3 |
+| Evan Fredriksson |  6 |  3 |  0 |  0 | 0 |
+| Nils Martinsson |  5 |  1 |  0 |  3 | 0 |
+| Dylan Lian |  3 |  1 |  0 |  1 | 1 |
+| Melker Näsström |  3 |  1 |  0 |  1 | 0 |
+| Algot Bui-Ljungqvist |  0 |  0 |  0 |  0 | 1 |
 
-### Gota Basket Blå - Trollhättans Basketbollklubb
+### Kungsbacka Basket Blå - Ale Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Jakov Markovic | 12 |  4 |  0 |  4 | 1 |
-| Charlie Mattsson Meijer | 12 |  3 |  2 |  0 | 2 |
-| Valter Larsson | 12 |  5 |  0 |  2 | 3 |
-| Alvin Bolteus |  8 |  3 |  0 |  2 | 0 |
-| Nikolas Magnusson Giannourakis |  4 |  0 |  1 |  1 | 5 |
-| Filip Lundberg |  2 |  1 |  0 |  0 | 1 |
-| Ebbe Crona-Sahlberg |  1 |  0 |  0 |  1 | 1 |
-| Victor Björkman |  0 |  0 |  0 |  0 | 0 |
-| Mansour Iyoun Soud |  0 |  0 |  0 |  0 | 0 |
-| Charis Tyrovouzis |  0 |  0 |  0 |  0 | 0 |
+| Eric Svensson | 18 |  4 |  1 |  7 | 1 |
+| Malcom Truija Wellington | 17 |  5 |  0 |  7 | 4 |
+| Simon Bentley | 11 |  4 |  0 |  3 | 3 |
+| Algot Bui-Ljungqvist | 11 |  3 |  1 |  2 | 2 |
+| Melker Näsström |  5 |  2 |  0 |  1 | 2 |
+| Dylan Lian |  4 |  2 |  0 |  0 | 0 |
+| Evan Fredriksson |  0 |  0 |  0 |  0 | 0 |
+| Oskar Armini Lönberg |  0 |  0 |  0 |  0 | 4 |
+
+### Eastside Falcons - Kungsbacka Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Eric Svensson | 30 |  9 |  3 |  3 | 3 |
+| Simon Bentley | 10 |  4 |  0 |  2 | 4 |
+| Malcom Truija Wellington | 10 |  1 |  2 |  2 | 0 |
+| Melker Näsström |  5 |  1 |  1 |  0 | 3 |
+| Algot Bui-Ljungqvist |  5 |  1 |  0 |  3 | 4 |
+| Oskar Armini Lönberg |  3 |  0 |  1 |  0 | 1 |
+| Nils Martinsson |  2 |  1 |  0 |  0 | 1 |
+| Evan Fredriksson |  0 |  0 |  0 |  0 | 2 |
 

@@ -4,25 +4,41 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Pirates Basketboll Onsala | 2 | 56.50 | 18.50 | 5.50 | 3.00 | 19.00 |
+| Pirates Basketboll Onsala | 3 | 62.67 | 18.33 | 7.67 | 3.00 | 18.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Cillian Bree | 1 | 31.00 | 5.00 | 6.00 | 3.00 | 5.00 |
-| Sture Hultman | 2 | 14.50 | 4.00 | 2.00 | 0.50 | 1.50 |
-| Ludvig Parnmo Larsen | 2 | 7.00 | 3.50 | 0.00 | 0.00 | 1.50 |
-| Olof Tång | 2 | 7.00 | 3.50 | 0.00 | 0.00 | 4.00 |
-| Ivar Runeberg | 2 | 5.50 | 2.00 | 0.50 | 0.00 | 4.50 |
-| Jonathan Sodéus | 2 | 3.00 | 1.00 | 0.00 | 1.00 | 1.00 |
-| Sebastian Maun | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
-| Nathaniel Machiani | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 2.00 |
-| August Runeberg | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.00 |
+| Cillian Bree | 2 | 28.00 | 4.50 | 5.50 | 2.50 | 3.00 |
+| Sture Hultman | 3 | 13.33 | 3.00 | 2.33 | 0.33 | 1.00 |
+| Ludvig Parnmo Larsen | 3 | 8.00 | 4.00 | 0.00 | 0.00 | 2.00 |
+| Jonathan Sodéus | 3 | 7.33 | 1.67 | 1.00 | 1.00 | 1.00 |
+| Ivar Runeberg | 3 | 6.33 | 2.67 | 0.33 | 0.00 | 4.67 |
+| Olof Tång | 3 | 4.67 | 2.33 | 0.00 | 0.00 | 3.67 |
+| Sebastian Maun | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 1.67 |
+| August Runeberg | 3 | 1.67 | 0.33 | 0.33 | 0.00 | 1.00 |
+| Nathaniel Machiani | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.50 |
 | Olle Torbjörnsson | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 | August Ljuca Forsman | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Pirates Basketboll Onsala - Eastside Dragons Blue
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Cillian Bree | 25 |  4 |  5 |  2 | 1 |
+| Jonathan Sodéus | 16 |  3 |  3 |  1 | 1 |
+| Sture Hultman | 11 |  1 |  3 |  0 | 0 |
+| Ludvig Parnmo Larsen | 10 |  5 |  0 |  0 | 3 |
+| Ivar Runeberg |  8 |  4 |  0 |  0 | 5 |
+| August Runeberg |  3 |  0 |  1 |  0 | 1 |
+| Sebastian Maun |  2 |  1 |  0 |  0 | 3 |
+| Olof Tång |  0 |  0 |  0 |  0 | 3 |
+| Nathaniel Machiani |  0 |  0 |  0 |  0 | 1 |
 
 ### Pirates Basketboll Onsala - Högsbo Basket P11 vit
 

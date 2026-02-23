@@ -4,26 +4,42 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Varbergs Basket | 2 | 81.00 | 29.00 | 5.50 | 6.50 | 13.00 |
+| Varbergs Basket | 3 | 76.33 | 27.67 | 4.67 | 7.00 | 13.33 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lazar Ilic | 2 | 27.50 | 12.50 | 0.00 | 2.50 | 2.00 |
-| Viktor Hedberg | 1 | 22.00 | 9.00 | 0.00 | 4.00 | 0.00 |
-| Vincent Bozic | 2 | 20.00 | 4.50 | 3.50 | 0.50 | 5.00 |
-| Olle Lykkbo | 1 | 12.00 | 6.00 | 0.00 | 0.00 | 0.00 |
-| Axel Odengård | 1 | 10.00 | 2.00 | 2.00 | 0.00 | 4.00 |
-| Joel Carlén | 2 | 4.50 | 1.00 | 0.50 | 1.00 | 0.50 |
-| Sakarias Hänninen | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 3.00 |
-| Enguun Bat-urnult | 2 | 2.00 | 0.00 | 0.50 | 0.50 | 1.00 |
-| Noel Sagestam | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
+| Lazar Ilic | 3 | 26.00 | 11.33 | 0.33 | 2.33 | 2.00 |
+| Viktor Hedberg | 2 | 17.00 | 7.50 | 0.00 | 2.00 | 0.50 |
+| Vincent Bozic | 3 | 15.33 | 3.67 | 2.33 | 1.00 | 4.33 |
+| Axel Odengård | 2 | 9.00 | 2.00 | 1.00 | 2.00 | 3.00 |
+| Olle Lykkbo | 2 | 7.00 | 3.50 | 0.00 | 0.00 | 0.50 |
+| Joel Carlén | 3 | 5.67 | 1.00 | 1.00 | 0.67 | 0.67 |
+| Sakarias Hänninen | 2 | 5.00 | 2.50 | 0.00 | 0.00 | 1.50 |
+| Enguun Bat-urnult | 3 | 2.00 | 0.33 | 0.33 | 0.33 | 1.67 |
+| Noel Sagestam | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 0.33 |
 | Wiggo Edvinsson | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.50 |
 | Maximilian Uddén | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 | Adin Kaltak | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Varbergs Basket - S:t Helena BK - Vit
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Lazar Ilic | 23 |  9 |  1 |  2 | 2 |
+| Viktor Hedberg | 12 |  6 |  0 |  0 | 1 |
+| Joel Carlén |  8 |  1 |  2 |  0 | 1 |
+| Axel Odengård |  8 |  2 |  0 |  4 | 2 |
+| Vincent Bozic |  6 |  2 |  0 |  2 | 3 |
+| Sakarias Hänninen |  6 |  3 |  0 |  0 | 0 |
+| Enguun Bat-urnult |  2 |  1 |  0 |  0 | 3 |
+| Olle Lykkbo |  2 |  1 |  0 |  0 | 1 |
+| Noel Sagestam |  0 |  0 |  0 |  0 | 1 |
 
 ### Länghems Basket - Varbergs Basket
 

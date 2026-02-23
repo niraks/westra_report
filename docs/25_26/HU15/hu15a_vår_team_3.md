@@ -1,45 +1,42 @@
-# Statistics for Ale Basket
+# Statistics for Eastside Falcons
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ale Basket | 3 | 78.33 | 22.67 | 8.00 | 9.00 | 16.67 |
+| Eastside Falcons | 3 | 79.00 | 32.00 | 3.00 | 6.00 | 17.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Charlie Lindblom | 2 | 18.50 | 3.00 | 3.00 | 3.50 | 1.00 |
-| Edvin Harbas | 3 | 13.67 | 4.00 | 1.33 | 1.67 | 1.67 |
-| Fabian Hjärtinge | 3 | 13.00 | 6.00 | 0.00 | 1.00 | 2.00 |
-| Emil Järvinen | 3 | 13.00 | 2.33 | 2.33 | 1.33 | 2.67 |
-| Bakir Hasanovic | 3 | 9.33 | 3.00 | 1.00 | 0.33 | 2.33 |
-| Washington Adanihomwan | 1 | 7.00 | 2.00 | 0.00 | 3.00 | 5.00 |
-| Robin Hysén | 2 | 5.50 | 2.00 | 0.00 | 1.50 | 0.50 |
-| Jack Kilany | 3 | 4.00 | 1.33 | 0.33 | 0.33 | 1.33 |
-| Oscar Jansson | 2 | 3.00 | 0.00 | 1.00 | 0.00 | 0.50 |
-| Noah Nilsson | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 1.00 |
-| Alvin Nylén | 3 | 1.00 | 0.00 | 0.33 | 0.00 | 2.00 |
-| Anton Hjärn | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 0.00 |
-| David Franco Weihe | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.00 |
+| Christian Gonzal | 3 | 18.00 | 8.33 | 0.00 | 1.33 | 2.33 |
+| Evangelos Kochliaridis | 3 | 17.00 | 6.33 | 1.00 | 1.33 | 1.33 |
+| Hjalmar Spångberg | 3 | 11.67 | 5.67 | 0.00 | 0.33 | 3.00 |
+| Vincent Uzieblo | 3 | 9.33 | 4.33 | 0.00 | 0.67 | 1.33 |
+| Vidar Ekström | 3 | 8.67 | 1.67 | 1.33 | 1.33 | 3.33 |
+| Vigan Raci | 3 | 6.33 | 2.33 | 0.33 | 0.67 | 1.33 |
+| Otis Foon | 2 | 6.00 | 2.00 | 0.50 | 0.50 | 1.50 |
+| Albin Helmfridsson | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 0.67 |
+| Theodor Markey | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 2.67 |
 
 ## Games
 
-### Kungsbacka Basket Blå - Ale Basket
+### Gota Basket Blå - Eastside Falcons
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Emil Järvinen | 19 |  4 |  3 |  2 | 1 |
-| Edvin Harbas | 18 |  6 |  1 |  3 | 3 |
-| Fabian Hjärtinge | 17 |  8 |  0 |  1 | 3 |
-| Bakir Hasanovic |  9 |  4 |  0 |  1 | 4 |
-| Noah Nilsson |  8 |  4 |  0 |  0 | 3 |
-| Washington Adanihomwan |  7 |  2 |  0 |  3 | 5 |
-| Jack Kilany |  5 |  2 |  0 |  1 | 3 |
-| Alvin Nylén |  0 |  0 |  0 |  0 | 4 |
+| Christian Gonzal | 20 | 10 |  0 |  0 | 3 |
+| Vidar Ekström | 19 |  4 |  3 |  2 | 3 |
+| Evangelos Kochliaridis | 16 |  5 |  1 |  3 | 2 |
+| Hjalmar Spångberg | 14 |  7 |  0 |  0 | 5 |
+| Otis Foon |  7 |  2 |  1 |  0 | 2 |
+| Albin Helmfridsson |  4 |  2 |  0 |  0 | 1 |
+| Vigan Raci |  4 |  2 |  0 |  0 | 1 |
+| Theodor Markey |  4 |  2 |  0 |  0 | 2 |
+| Vincent Uzieblo |  2 |  1 |  0 |  0 | 1 |
 
 ### Ale Basket - Eastside Falcons
 
@@ -47,35 +44,28 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Charlie Lindblom | 30 |  4 |  6 |  4 | 1 |
-| Fabian Hjärtinge | 17 |  8 |  0 |  1 | 1 |
-| Emil Järvinen | 15 |  2 |  3 |  2 | 4 |
-| Edvin Harbas |  9 |  3 |  1 |  0 | 1 |
-| Bakir Hasanovic |  7 |  2 |  1 |  0 | 1 |
-| Jack Kilany |  4 |  2 |  0 |  0 | 0 |
-| Alvin Nylén |  3 |  0 |  1 |  0 | 2 |
-| Oscar Jansson |  3 |  0 |  1 |  0 | 1 |
-| Anton Hjärn |  2 |  1 |  0 |  0 | 0 |
-| Robin Hysén |  2 |  1 |  0 |  0 | 1 |
-| David Franco Weihe |  0 |  0 |  0 |  0 | 1 |
-| Noah Nilsson |  0 |  0 |  0 |  0 | 0 |
+| Evangelos Kochliaridis | 17 |  7 |  1 |  0 | 0 |
+| Vincent Uzieblo | 17 |  8 |  0 |  1 | 0 |
+| Christian Gonzal | 17 |  7 |  0 |  3 | 1 |
+| Hjalmar Spångberg | 12 |  6 |  0 |  0 | 0 |
+| Vigan Raci |  6 |  3 |  0 |  0 | 2 |
+| Albin Helmfridsson |  2 |  1 |  0 |  0 | 0 |
+| Theodor Markey |  0 |  0 |  0 |  0 | 4 |
+| Vidar Ekström |  0 |  0 |  0 |  0 | 3 |
 
-### Högsbo Basket P11 röd - Ale Basket
+### Eastside Falcons - Kungsbacka Basket Blå
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Edvin Harbas | 14 |  3 |  2 |  2 | 1 |
-| Bakir Hasanovic | 12 |  3 |  2 |  0 | 2 |
-| Robin Hysén |  9 |  3 |  0 |  3 | 0 |
-| Charlie Lindblom |  7 |  2 |  0 |  3 | 1 |
-| Fabian Hjärtinge |  5 |  2 |  0 |  1 | 2 |
-| Emil Järvinen |  5 |  1 |  1 |  0 | 3 |
-| Jack Kilany |  3 |  0 |  1 |  0 | 1 |
-| Oscar Jansson |  3 |  0 |  1 |  0 | 0 |
-| David Franco Weihe |  2 |  1 |  0 |  0 | 1 |
-| Anton Hjärn |  0 |  0 |  0 |  0 | 0 |
-| Alvin Nylén |  0 |  0 |  0 |  0 | 0 |
-| Noah Nilsson |  0 |  0 |  0 |  0 | 0 |
+| Evangelos Kochliaridis | 18 |  7 |  1 |  1 | 2 |
+| Christian Gonzal | 17 |  8 |  0 |  1 | 3 |
+| Vigan Raci |  9 |  2 |  1 |  2 | 1 |
+| Vincent Uzieblo |  9 |  4 |  0 |  1 | 3 |
+| Hjalmar Spångberg |  9 |  4 |  0 |  1 | 4 |
+| Vidar Ekström |  7 |  1 |  1 |  2 | 4 |
+| Otis Foon |  5 |  2 |  0 |  1 | 1 |
+| Albin Helmfridsson |  2 |  1 |  0 |  0 | 1 |
+| Theodor Markey |  0 |  0 |  0 |  0 | 2 |
 
