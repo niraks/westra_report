@@ -1,71 +1,55 @@
-# Statistics for Eastside Falcons
+# Statistics for Trollhättans Basketbollklubb
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eastside Falcons | 3 | 79.00 | 32.00 | 3.00 | 6.00 | 17.00 |
+| Trollhättans Basketbollklubb | 2 | 82.50 | 27.00 | 6.50 | 9.00 | 16.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Christian Gonzal | 3 | 18.00 | 8.33 | 0.00 | 1.33 | 2.33 |
-| Evangelos Kochliaridis | 3 | 17.00 | 6.33 | 1.00 | 1.33 | 1.33 |
-| Hjalmar Spångberg | 3 | 11.67 | 5.67 | 0.00 | 0.33 | 3.00 |
-| Vincent Uzieblo | 3 | 9.33 | 4.33 | 0.00 | 0.67 | 1.33 |
-| Vidar Ekström | 3 | 8.67 | 1.67 | 1.33 | 1.33 | 3.33 |
-| Vigan Raci | 3 | 6.33 | 2.33 | 0.33 | 0.67 | 1.33 |
-| Otis Foon | 2 | 6.00 | 2.00 | 0.50 | 0.50 | 1.50 |
-| Albin Helmfridsson | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 0.67 |
-| Theodor Markey | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 2.67 |
+| Ilon Åhman | 2 | 31.00 | 12.50 | 0.50 | 4.50 | 3.50 |
+| Oliver Reit | 2 | 22.50 | 3.50 | 5.00 | 0.50 | 2.00 |
+| Joseph Jonsson | 2 | 12.50 | 4.00 | 0.50 | 3.00 | 1.50 |
+| Gustav Karlsson Glasell | 2 | 8.00 | 4.00 | 0.00 | 0.00 | 2.50 |
+| Sabi Memedovski | 1 | 8.00 | 3.00 | 0.00 | 2.00 | 4.00 |
+| Hugo Gidlund | 2 | 2.50 | 0.50 | 0.50 | 0.00 | 1.00 |
+| Leo Larsson Flensner | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 3.00 |
+| Alexandru Dena | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 2.00 |
+| Theodor Simonovic | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Bassam Alolabi | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Gota Basket Blå - Eastside Falcons
+### Trollhättans Basketbollklubb - Högsbo Basket P11 röd
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Christian Gonzal | 20 | 10 |  0 |  0 | 3 |
-| Vidar Ekström | 19 |  4 |  3 |  2 | 3 |
-| Evangelos Kochliaridis | 16 |  5 |  1 |  3 | 2 |
-| Hjalmar Spångberg | 14 |  7 |  0 |  0 | 5 |
-| Otis Foon |  7 |  2 |  1 |  0 | 2 |
-| Albin Helmfridsson |  4 |  2 |  0 |  0 | 1 |
-| Vigan Raci |  4 |  2 |  0 |  0 | 1 |
-| Theodor Markey |  4 |  2 |  0 |  0 | 2 |
-| Vincent Uzieblo |  2 |  1 |  0 |  0 | 1 |
+| Ilon Åhman | 30 | 11 |  1 |  5 | 3 |
+| Oliver Reit | 24 |  4 |  5 |  1 | 1 |
+| Joseph Jonsson | 10 |  4 |  0 |  2 | 1 |
+| Gustav Karlsson Glasell | 10 |  5 |  0 |  0 | 3 |
+| Theodor Simonovic |  0 |  0 |  0 |  0 | 0 |
+| Hugo Gidlund |  0 |  0 |  0 |  0 | 0 |
+| Alexandru Dena |  0 |  0 |  0 |  0 | 1 |
+| Bassam Alolabi |  0 |  0 |  0 |  0 | 0 |
 
-### Ale Basket - Eastside Falcons
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Evangelos Kochliaridis | 17 |  7 |  1 |  0 | 0 |
-| Vincent Uzieblo | 17 |  8 |  0 |  1 | 0 |
-| Christian Gonzal | 17 |  7 |  0 |  3 | 1 |
-| Hjalmar Spångberg | 12 |  6 |  0 |  0 | 0 |
-| Vigan Raci |  6 |  3 |  0 |  0 | 2 |
-| Albin Helmfridsson |  2 |  1 |  0 |  0 | 0 |
-| Theodor Markey |  0 |  0 |  0 |  0 | 4 |
-| Vidar Ekström |  0 |  0 |  0 |  0 | 3 |
-
-### Eastside Falcons - Kungsbacka Basket Blå
+### Gota Basket Blå - Trollhättans Basketbollklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Evangelos Kochliaridis | 18 |  7 |  1 |  1 | 2 |
-| Christian Gonzal | 17 |  8 |  0 |  1 | 3 |
-| Vigan Raci |  9 |  2 |  1 |  2 | 1 |
-| Vincent Uzieblo |  9 |  4 |  0 |  1 | 3 |
-| Hjalmar Spångberg |  9 |  4 |  0 |  1 | 4 |
-| Vidar Ekström |  7 |  1 |  1 |  2 | 4 |
-| Otis Foon |  5 |  2 |  0 |  1 | 1 |
-| Albin Helmfridsson |  2 |  1 |  0 |  0 | 1 |
-| Theodor Markey |  0 |  0 |  0 |  0 | 2 |
+| Ilon Åhman | 32 | 14 |  0 |  4 | 4 |
+| Oliver Reit | 21 |  3 |  5 |  0 | 3 |
+| Joseph Jonsson | 15 |  4 |  1 |  4 | 2 |
+| Sabi Memedovski |  8 |  3 |  0 |  2 | 4 |
+| Gustav Karlsson Glasell |  6 |  3 |  0 |  0 | 2 |
+| Hugo Gidlund |  5 |  1 |  1 |  0 | 2 |
+| Leo Larsson Flensner |  2 |  1 |  0 |  0 | 3 |
+| Alexandru Dena |  2 |  1 |  0 |  0 | 3 |
 

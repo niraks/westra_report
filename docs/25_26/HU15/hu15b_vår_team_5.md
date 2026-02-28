@@ -1,59 +1,73 @@
-# Statistics for Eastside Dragons Blue
+# Statistics for S:t Helena BK - Vit
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eastside Dragons Blue | 2 | 71.00 | 26.00 | 3.50 | 8.50 | 19.00 |
+| S:t Helena BK - Vit | 3 | 73.33 | 26.67 | 3.00 | 11.00 | 17.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Nireas Solidakis | 2 | 17.00 | 4.00 | 3.00 | 0.00 | 2.50 |
-| Nikolas Frestad | 1 | 15.00 | 5.00 | 1.00 | 2.00 | 1.00 |
-| Aiden Kehoe | 1 | 14.00 | 7.00 | 0.00 | 0.00 | 3.00 |
-| Arvid Germgård | 1 | 11.00 | 5.00 | 0.00 | 1.00 | 3.00 |
-| Yuhanan Hailemichael | 2 | 10.50 | 4.00 | 0.00 | 2.50 | 4.00 |
-| Noah Ringheim | 1 | 10.00 | 5.00 | 0.00 | 0.00 | 2.00 |
-| Novak Punos | 2 | 8.00 | 3.50 | 0.00 | 1.00 | 0.00 |
-| Henry von Knorring | 2 | 5.50 | 2.00 | 0.00 | 1.50 | 1.00 |
-| Michail Tsoposidis | 2 | 4.50 | 1.50 | 0.00 | 1.50 | 4.50 |
-| Leon Frestad | 1 | 1.00 | 0.00 | 0.00 | 1.00 | 3.00 |
-| Sam Aldenborn | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
-| Marcus Asplund | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Johan Montin | 3 | 24.67 | 10.33 | 0.67 | 2.00 | 2.33 |
+| Lion Ingvall | 3 | 23.00 | 6.00 | 2.00 | 5.00 | 3.67 |
+| Theo Kolicic | 3 | 13.33 | 5.33 | 0.00 | 2.67 | 3.00 |
+| Henning Lundberg | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 0.00 |
+| Gustav Sahlberg | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 2.00 |
+| Arthur Eriksson | 3 | 5.33 | 2.00 | 0.33 | 0.33 | 0.67 |
+| Arvid Hogström | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 3.00 |
+| Gustaf Brandshage | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 1.33 |
+| William Landenmark | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 2.50 |
+| Muhammed Zuna | 3 | 0.67 | 0.00 | 0.00 | 0.67 | 1.33 |
+| Jan Barkho | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
+| Vincent Ageton | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
 
 ## Games
 
-### Pirates Basketboll Onsala - Eastside Dragons Blue
+### S:t Helena BK - Vit - Kvarnby Basket Gul
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Nireas Solidakis | 21 |  6 |  3 |  0 | 3 |
-| Yuhanan Hailemichael | 17 |  6 |  0 |  5 | 5 |
-| Arvid Germgård | 11 |  5 |  0 |  1 | 3 |
-| Michail Tsoposidis |  9 |  3 |  0 |  3 | 5 |
-| Novak Punos |  8 |  3 |  0 |  2 | 0 |
-| Henry von Knorring |  7 |  3 |  0 |  1 | 2 |
-| Sam Aldenborn |  0 |  0 |  0 |  0 | 0 |
-| Marcus Asplund |  0 |  0 |  0 |  0 | 0 |
+| Johan Montin | 33 | 14 |  1 |  2 | 0 |
+| Lion Ingvall | 27 |  6 |  3 |  6 | 3 |
+| Theo Kolicic | 16 |  6 |  0 |  4 | 4 |
+| Arthur Eriksson |  6 |  3 |  0 |  0 | 1 |
+| Gustaf Brandshage |  3 |  1 |  0 |  1 | 2 |
+| Arvid Hogström |  2 |  1 |  0 |  0 | 3 |
+| Muhammed Zuna |  0 |  0 |  0 |  0 | 2 |
+| Jan Barkho |  0 |  0 |  0 |  0 | 2 |
 
-### Högsbo Basket P11 vit - Eastside Dragons Blue
+### Varbergs Basket - S:t Helena BK - Vit
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Nikolas Frestad | 15 |  5 |  1 |  2 | 1 |
-| Aiden Kehoe | 14 |  7 |  0 |  0 | 3 |
-| Nireas Solidakis | 13 |  2 |  3 |  0 | 2 |
-| Noah Ringheim | 10 |  5 |  0 |  0 | 2 |
-| Novak Punos |  8 |  4 |  0 |  0 | 0 |
-| Yuhanan Hailemichael |  4 |  2 |  0 |  0 | 3 |
-| Henry von Knorring |  4 |  1 |  0 |  2 | 0 |
-| Leon Frestad |  1 |  0 |  0 |  1 | 3 |
-| Sam Aldenborn |  0 |  0 |  0 |  0 | 2 |
-| Michail Tsoposidis |  0 |  0 |  0 |  0 | 4 |
+| Lion Ingvall | 29 |  8 |  2 |  7 | 4 |
+| Johan Montin | 16 |  7 |  0 |  2 | 2 |
+| Theo Kolicic |  7 |  3 |  0 |  1 | 4 |
+| Henning Lundberg |  6 |  3 |  0 |  0 | 0 |
+| Arthur Eriksson |  4 |  2 |  0 |  0 | 0 |
+| William Landenmark |  2 |  1 |  0 |  0 | 2 |
+| Muhammed Zuna |  0 |  0 |  0 |  0 | 0 |
+| Gustaf Brandshage |  0 |  0 |  0 |  0 | 0 |
+
+### S:t Helena BK - Vit - Länghems Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Johan Montin | 25 | 10 |  1 |  2 | 5 |
+| Theo Kolicic | 17 |  7 |  0 |  3 | 1 |
+| Lion Ingvall | 13 |  4 |  1 |  2 | 4 |
+| Arthur Eriksson |  6 |  1 |  1 |  1 | 1 |
+| Gustav Sahlberg |  6 |  3 |  0 |  0 | 2 |
+| Muhammed Zuna |  2 |  0 |  0 |  2 | 2 |
+| Vincent Ageton |  0 |  0 |  0 |  0 | 2 |
+| William Landenmark |  0 |  0 |  0 |  0 | 3 |
+| Gustaf Brandshage |  0 |  0 |  0 |  0 | 2 |
 
