@@ -4,23 +4,39 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eastside Falcons | 3 | 79.00 | 32.00 | 3.00 | 6.00 | 17.00 |
+| Eastside Falcons | 4 | 71.00 | 28.00 | 3.00 | 6.00 | 15.25 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Christian Gonzal | 3 | 18.00 | 8.33 | 0.00 | 1.33 | 2.33 |
-| Evangelos Kochliaridis | 3 | 17.00 | 6.33 | 1.00 | 1.33 | 1.33 |
-| Hjalmar Spångberg | 3 | 11.67 | 5.67 | 0.00 | 0.33 | 3.00 |
-| Vincent Uzieblo | 3 | 9.33 | 4.33 | 0.00 | 0.67 | 1.33 |
-| Vidar Ekström | 3 | 8.67 | 1.67 | 1.33 | 1.33 | 3.33 |
-| Vigan Raci | 3 | 6.33 | 2.33 | 0.33 | 0.67 | 1.33 |
-| Otis Foon | 2 | 6.00 | 2.00 | 0.50 | 0.50 | 1.50 |
-| Albin Helmfridsson | 3 | 2.67 | 1.33 | 0.00 | 0.00 | 0.67 |
-| Theodor Markey | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 2.67 |
+| Christian Gonzal | 4 | 15.50 | 7.25 | 0.00 | 1.00 | 1.75 |
+| Evangelos Kochliaridis | 4 | 13.50 | 5.00 | 0.75 | 1.25 | 1.25 |
+| Hjalmar Spångberg | 4 | 10.50 | 5.00 | 0.00 | 0.50 | 2.75 |
+| Vincent Uzieblo | 4 | 9.25 | 4.25 | 0.00 | 0.75 | 1.25 |
+| Vigan Raci | 4 | 8.50 | 2.50 | 0.75 | 1.25 | 1.00 |
+| Vidar Ekström | 4 | 6.50 | 1.25 | 1.00 | 1.00 | 3.50 |
+| Otis Foon | 3 | 5.00 | 1.33 | 0.67 | 0.33 | 1.00 |
+| Albin Helmfridsson | 4 | 2.50 | 1.25 | 0.00 | 0.00 | 1.00 |
+| Theodor Markey | 4 | 1.00 | 0.50 | 0.00 | 0.00 | 2.00 |
 
 ## Games
+
+### Eastside Falcons - Högsbo Basket P11 röd
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Vigan Raci | 15 |  3 |  2 |  3 | 0 |
+| Vincent Uzieblo |  9 |  4 |  0 |  1 | 1 |
+| Christian Gonzal |  8 |  4 |  0 |  0 | 0 |
+| Hjalmar Spångberg |  7 |  3 |  0 |  1 | 2 |
+| Otis Foon |  3 |  0 |  1 |  0 | 0 |
+| Evangelos Kochliaridis |  3 |  1 |  0 |  1 | 1 |
+| Albin Helmfridsson |  2 |  1 |  0 |  0 | 2 |
+| Theodor Markey |  0 |  0 |  0 |  0 | 0 |
+| Vidar Ekström |  0 |  0 |  0 |  0 | 4 |
 
 ### Gota Basket Blå - Eastside Falcons
 

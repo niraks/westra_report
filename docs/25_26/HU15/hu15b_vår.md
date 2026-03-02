@@ -42,8 +42,8 @@
 | 5 | [Holger Nerman](hu15b_vår_team_2.md) | 8.00 |
 | 5 | [Ward Haddad](hu15b_vår_team_3.md) | 8.00 |
 | 7 | [Viktor Hedberg](hu15b_vår_team_1.md) | 7.50 |
-| 8 | [Cillian Bree](hu15b_vår_team_8.md) | 7.00 |
 | 8 | [Aiden Kehoe](hu15b_vår_team_6.md) | 7.00 |
+| 8 | [Cillian Bree](hu15b_vår_team_8.md) | 7.00 |
 | 10 | [Rony Aljojo](hu15b_vår_team_4.md) | 6.75 |
 
 ### 3P made per game
@@ -52,8 +52,8 @@
 |----:|:-------|------:|
 | 1 | [Cillian Bree](hu15b_vår_team_8.md) | 4.67 |
 | 2 | [Hugo Thorson](hu15b_vår_team_3.md) | 4.00 |
-| 3 | [Leo Hashemi](hu15b_vår_team_7.md) | 3.00 |
 | 3 | [Nireas Solidakis](hu15b_vår_team_6.md) | 3.00 |
+| 3 | [Leo Hashemi](hu15b_vår_team_7.md) | 3.00 |
 | 5 | [Sture Hultman](hu15b_vår_team_8.md) | 2.33 |
 | 5 | [Vincent Bozic](hu15b_vår_team_1.md) | 2.33 |
 | 7 | [Lion Ingvall](hu15b_vår_team_5.md) | 2.00 |
@@ -70,13 +70,13 @@
 | 3 | [Lion Ingvall](hu15b_vår_team_5.md) | 5.00 |
 | 4 | [Cillian Bree](hu15b_vår_team_8.md) | 4.00 |
 | 5 | [Theo Kolicic](hu15b_vår_team_5.md) | 2.67 |
-| 6 | [Holger Nerman](hu15b_vår_team_2.md) | 2.50 |
 | 6 | [Yuhanan Hailemichael](hu15b_vår_team_6.md) | 2.50 |
+| 6 | [Holger Nerman](hu15b_vår_team_2.md) | 2.50 |
 | 8 | [Colin Amnéus](hu15b_vår_team_3.md) | 2.33 |
 | 8 | [Lazar Ilic](hu15b_vår_team_1.md) | 2.33 |
-| 10 | [Liam Kim Börjesson](hu15b_vår_team_7.md) | 2.00 |
 | 10 | [Johan Montin](hu15b_vår_team_5.md) | 2.00 |
 | 10 | [Nikolas Frestad](hu15b_vår_team_6.md) | 2.00 |
+| 10 | [Liam Kim Börjesson](hu15b_vår_team_7.md) | 2.00 |
 | 10 | [Oskar Rosén](hu15b_vår_team_3.md) | 2.00 |
 | 10 | [Viktor Hedberg](hu15b_vår_team_1.md) | 2.00 |
 | 10 | [Axel Odengård](hu15b_vår_team_1.md) | 2.00 |
@@ -87,15 +87,15 @@
 |----:|:-------|------:|
 | 1 | [Lion Ingvall](hu15b_vår_team_5.md) | 2.00 |
 | 1 | [Odai Ismaeil](hu15b_vår_team_4.md) | 2.00 |
-| 3 | [Alvin Gustafsson Göransson](hu15b_vår_team_2.md) | 1.00 |
-| 3 | [Amir Vakili](hu15b_vår_team_7.md) | 1.00 |
-| 3 | [Ivar Runeberg](hu15b_vår_team_8.md) | 1.00 |
-| 3 | [Herman Haji](hu15b_vår_team_4.md) | 1.00 |
-| 3 | [Houssam Al Kotob](hu15b_vår_team_4.md) | 1.00 |
 | 3 | [Aiden Kehoe](hu15b_vår_team_6.md) | 1.00 |
+| 3 | [Amir Vakili](hu15b_vår_team_7.md) | 1.00 |
+| 3 | [Alvin Gustafsson Göransson](hu15b_vår_team_2.md) | 1.00 |
 | 3 | [Felix Rezler](hu15b_vår_team_3.md) | 1.00 |
 | 3 | [Jacob Faraj](hu15b_vår_team_3.md) | 1.00 |
 | 3 | [Colin Amnéus](hu15b_vår_team_3.md) | 1.00 |
+| 3 | [Herman Haji](hu15b_vår_team_4.md) | 1.00 |
+| 3 | [Houssam Al Kotob](hu15b_vår_team_4.md) | 1.00 |
+| 3 | [Ivar Runeberg](hu15b_vår_team_8.md) | 1.00 |
 | 3 | [Axel Odengård](hu15b_vår_team_1.md) | 1.00 |
 | 3 | [Vincent Bozic](hu15b_vår_team_1.md) | 1.00 |
 | 3 | [Lazar Ilic](hu15b_vår_team_1.md) | 1.00 |

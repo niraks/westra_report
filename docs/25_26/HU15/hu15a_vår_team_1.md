@@ -1,66 +1,42 @@
-# Statistics for Högsbo Basket P11 röd
+# Statistics for Trollhättans Basketbollklubb
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Högsbo Basket P11 röd | 4 | 96.50 | 33.75 | 7.75 | 5.75 | 16.00 |
+| Trollhättans Basketbollklubb | 3 | 93.67 | 34.33 | 6.00 | 7.00 | 13.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Filip Berndtsson | 4 | 22.00 | 10.00 | 0.00 | 2.00 | 2.00 |
-| Elliott Askenbäck | 4 | 18.50 | 7.25 | 1.25 | 0.25 | 2.50 |
-| Ward Haddad | 4 | 13.50 | 4.00 | 1.50 | 1.00 | 2.00 |
-| Felix Rezler | 3 | 9.00 | 2.67 | 1.00 | 0.67 | 1.33 |
-| Andreas Persson | 1 | 9.00 | 0.00 | 3.00 | 0.00 | 0.00 |
-| Eddy Kristofersson | 1 | 8.00 | 4.00 | 0.00 | 0.00 | 0.00 |
-| Olle Sjöbom | 4 | 7.50 | 2.25 | 1.00 | 0.00 | 0.75 |
-| Hugo Thorson | 3 | 7.00 | 2.33 | 0.67 | 0.33 | 1.00 |
-| Oskar Rosén | 2 | 5.50 | 2.00 | 0.50 | 0.00 | 0.50 |
-| Alvin Hertzman | 4 | 5.25 | 1.00 | 1.00 | 0.25 | 1.25 |
-| Jonathan Silverwaldt | 1 | 5.00 | 1.00 | 1.00 | 0.00 | 4.00 |
-| Wilmer Myhr | 3 | 4.67 | 2.00 | 0.00 | 0.67 | 2.67 |
-| Noah Lansler | 2 | 4.50 | 1.50 | 0.50 | 0.00 | 1.00 |
-| Ibrahim Salma | 3 | 4.33 | 1.33 | 0.33 | 0.67 | 2.00 |
-| Colin Amnéus | 1 | 2.00 | 0.00 | 0.00 | 2.00 | 2.00 |
+| Ilon Åhman | 3 | 33.67 | 14.33 | 0.67 | 3.00 | 2.67 |
+| Oliver Reit | 3 | 29.33 | 7.67 | 4.33 | 1.00 | 1.33 |
+| Joseph Jonsson | 3 | 13.33 | 4.67 | 0.67 | 2.00 | 2.00 |
+| Gustav Karlsson Glasell | 2 | 8.00 | 4.00 | 0.00 | 0.00 | 2.50 |
+| Sabi Memedovski | 1 | 8.00 | 3.00 | 0.00 | 2.00 | 4.00 |
+| Viktor Brajkovic | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 0.00 |
+| Hugo Gidlund | 3 | 3.67 | 1.33 | 0.33 | 0.00 | 0.67 |
+| Leo Larsson Flensner | 2 | 3.50 | 1.50 | 0.00 | 0.50 | 2.00 |
+| Alexandru Dena | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 2.67 |
+| Theodor Simonovic | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Bassam Alolabi | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Högsbo Basket P11 röd - Kungsbacka Basket Blå
+### Kungsbacka Basket Blå - Trollhättans Basketbollklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Filip Berndtsson | 23 | 10 |  0 |  3 | 1 |
-| Elliott Askenbäck | 22 |  8 |  2 |  0 | 2 |
-| Hugo Thorson | 12 |  4 |  1 |  1 | 0 |
-| Felix Rezler |  9 |  3 |  1 |  0 | 2 |
-| Olle Sjöbom |  9 |  3 |  1 |  0 | 2 |
-| Wilmer Myhr |  8 |  3 |  0 |  2 | 3 |
-| Ward Haddad |  6 |  3 |  0 |  0 | 2 |
-| Ibrahim Salma |  5 |  2 |  0 |  1 | 2 |
-| Noah Lansler |  4 |  2 |  0 |  0 | 2 |
-| Alvin Hertzman |  4 |  0 |  1 |  1 | 4 |
-
-### Högsbo Basket P11 röd - Gota Basket Blå
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Ward Haddad | 22 |  6 |  3 |  1 | 3 |
-| Filip Berndtsson | 20 | 10 |  0 |  0 | 4 |
-| Elliott Askenbäck | 18 |  6 |  2 |  0 | 2 |
-| Andreas Persson |  9 |  0 |  3 |  0 | 0 |
-| Olle Sjöbom |  9 |  3 |  1 |  0 | 0 |
-| Eddy Kristofersson |  8 |  4 |  0 |  0 | 0 |
-| Ibrahim Salma |  6 |  1 |  1 |  1 | 3 |
-| Alvin Hertzman |  5 |  1 |  1 |  0 | 1 |
-| Jonathan Silverwaldt |  5 |  1 |  1 |  0 | 4 |
-| Colin Amnéus |  2 |  0 |  0 |  2 | 2 |
+| Oliver Reit | 43 | 16 |  3 |  2 | 0 |
+| Ilon Åhman | 39 | 18 |  1 |  0 | 1 |
+| Joseph Jonsson | 15 |  6 |  1 |  0 | 3 |
+| Hugo Gidlund |  6 |  3 |  0 |  0 | 0 |
+| Leo Larsson Flensner |  5 |  2 |  0 |  1 | 1 |
+| Viktor Brajkovic |  4 |  2 |  0 |  0 | 0 |
+| Alexandru Dena |  4 |  2 |  0 |  0 | 4 |
 
 ### Trollhättans Basketbollklubb - Högsbo Basket P11 röd
 
@@ -68,31 +44,27 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Filip Berndtsson | 20 |  8 |  0 |  4 | 0 |
-| Ward Haddad | 12 |  2 |  2 |  2 | 2 |
-| Alvin Hertzman | 12 |  3 |  2 |  0 | 0 |
-| Felix Rezler | 10 |  2 |  2 |  0 | 2 |
-| Elliott Askenbäck | 10 |  3 |  1 |  1 | 3 |
-| Olle Sjöbom |  8 |  1 |  2 |  0 | 0 |
-| Hugo Thorson |  7 |  2 |  1 |  0 | 3 |
-| Oskar Rosén |  7 |  2 |  1 |  0 | 0 |
-| Noah Lansler |  5 |  1 |  1 |  0 | 0 |
-| Wilmer Myhr |  4 |  2 |  0 |  0 | 2 |
+| Ilon Åhman | 30 | 11 |  1 |  5 | 3 |
+| Oliver Reit | 24 |  4 |  5 |  1 | 1 |
+| Joseph Jonsson | 10 |  4 |  0 |  2 | 1 |
+| Gustav Karlsson Glasell | 10 |  5 |  0 |  0 | 3 |
+| Theodor Simonovic |  0 |  0 |  0 |  0 | 0 |
+| Hugo Gidlund |  0 |  0 |  0 |  0 | 0 |
+| Alexandru Dena |  0 |  0 |  0 |  0 | 1 |
+| Bassam Alolabi |  0 |  0 |  0 |  0 | 0 |
 
-### Högsbo Basket P11 röd - Ale Basket
+### Gota Basket Blå - Trollhättans Basketbollklubb
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Filip Berndtsson | 25 | 12 |  0 |  1 | 3 |
-| Elliott Askenbäck | 24 | 12 |  0 |  0 | 3 |
-| Ward Haddad | 14 |  5 |  1 |  1 | 1 |
-| Felix Rezler |  8 |  3 |  0 |  2 | 0 |
-| Olle Sjöbom |  4 |  2 |  0 |  0 | 1 |
-| Oskar Rosén |  4 |  2 |  0 |  0 | 1 |
-| Hugo Thorson |  2 |  1 |  0 |  0 | 0 |
-| Ibrahim Salma |  2 |  1 |  0 |  0 | 1 |
-| Wilmer Myhr |  2 |  1 |  0 |  0 | 3 |
-| Alvin Hertzman |  0 |  0 |  0 |  0 | 0 |
+| Ilon Åhman | 32 | 14 |  0 |  4 | 4 |
+| Oliver Reit | 21 |  3 |  5 |  0 | 3 |
+| Joseph Jonsson | 15 |  4 |  1 |  4 | 2 |
+| Sabi Memedovski |  8 |  3 |  0 |  2 | 4 |
+| Gustav Karlsson Glasell |  6 |  3 |  0 |  0 | 2 |
+| Hugo Gidlund |  5 |  1 |  1 |  0 | 2 |
+| Leo Larsson Flensner |  2 |  1 |  0 |  0 | 3 |
+| Alexandru Dena |  2 |  1 |  0 |  0 | 3 |
 
