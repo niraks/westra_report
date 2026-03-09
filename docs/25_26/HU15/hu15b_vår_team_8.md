@@ -4,28 +4,46 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kvarnby Basket Gul | 4 | 66.00 | 24.00 | 3.75 | 6.75 | 17.50 |
+| Kvarnby Basket Gul | 5 | 64.00 | 23.40 | 3.80 | 5.80 | 16.80 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
 | Leo Hashemi | 1 | 19.00 | 5.00 | 3.00 | 0.00 | 1.00 |
-| Noel Dalgärde | 1 | 13.00 | 5.00 | 1.00 | 0.00 | 0.00 |
-| Liam Kim Börjesson | 3 | 12.00 | 5.00 | 0.00 | 2.00 | 2.00 |
-| Lucas Mouravidze | 2 | 11.00 | 4.50 | 0.50 | 0.50 | 4.50 |
-| Gustav Setterberg | 2 | 10.50 | 4.50 | 0.00 | 1.50 | 3.50 |
-| Leon Doormann | 4 | 9.25 | 2.75 | 0.75 | 1.50 | 2.00 |
+| Gustav Setterberg | 3 | 12.67 | 5.67 | 0.00 | 1.33 | 3.00 |
+| Liam Kim Börjesson | 4 | 10.50 | 4.50 | 0.00 | 1.50 | 2.75 |
+| Noel Dalgärde | 2 | 8.50 | 3.50 | 0.50 | 0.00 | 0.00 |
+| Lucas Mouravidze | 3 | 8.00 | 3.33 | 0.33 | 0.33 | 3.33 |
+| Leon Doormann | 5 | 8.00 | 2.40 | 0.60 | 1.40 | 1.60 |
 | Amir Vakili | 4 | 6.25 | 2.75 | 0.00 | 0.75 | 2.00 |
-| Kasper Hallberg | 4 | 5.75 | 1.50 | 0.50 | 1.25 | 1.75 |
-| Andrija Savic | 4 | 5.75 | 1.75 | 0.75 | 0.00 | 1.00 |
-| Sixten Offerle | 4 | 5.00 | 2.00 | 0.25 | 0.25 | 1.00 |
-| Aravind Sreenivas | 3 | 4.67 | 1.67 | 0.33 | 0.33 | 3.00 |
-| Eliott Bordes | 2 | 4.50 | 2.00 | 0.00 | 0.50 | 3.50 |
+| Kasper Hallberg | 5 | 5.40 | 1.60 | 0.40 | 1.00 | 1.60 |
+| Andrija Savic | 5 | 5.20 | 1.40 | 0.80 | 0.00 | 0.80 |
+| Eliott Bordes | 3 | 5.00 | 2.33 | 0.00 | 0.33 | 3.33 |
+| Sixten Offerle | 5 | 4.60 | 1.60 | 0.40 | 0.20 | 0.80 |
+| Aravind Sreenivas | 4 | 4.25 | 1.25 | 0.50 | 0.25 | 2.75 |
+| Filip Förstberg | 2 | 2.50 | 0.50 | 0.50 | 0.00 | 0.00 |
 | Hannes Kanebratt | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
-| Filip Förstberg | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Kvarnby Basket Gul - Varbergs Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Gustav Setterberg | 17 |  8 |  0 |  1 | 2 |
+| Liam Kim Börjesson |  6 |  3 |  0 |  0 | 5 |
+| Eliott Bordes |  6 |  3 |  0 |  0 | 3 |
+| Filip Förstberg |  5 |  1 |  1 |  0 | 0 |
+| Noel Dalgärde |  4 |  2 |  0 |  0 | 0 |
+| Kasper Hallberg |  4 |  2 |  0 |  0 | 1 |
+| Andrija Savic |  3 |  0 |  1 |  0 | 0 |
+| Aravind Sreenivas |  3 |  0 |  1 |  0 | 2 |
+| Sixten Offerle |  3 |  0 |  1 |  0 | 0 |
+| Leon Doormann |  3 |  1 |  0 |  1 | 0 |
+| Lucas Mouravidze |  2 |  1 |  0 |  0 | 1 |
 
 ### S:t Helena BK - Vit - Kvarnby Basket Gul
 

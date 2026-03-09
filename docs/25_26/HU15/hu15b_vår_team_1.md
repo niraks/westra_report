@@ -1,87 +1,76 @@
-# Statistics for Länghems Basket
+# Statistics for S:t Helena BK - Vit
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Länghems Basket | 5 | 79.80 | 31.40 | 2.20 | 10.40 | 11.60 |
+| S:t Helena BK - Vit | 4 | 80.50 | 29.25 | 3.25 | 12.25 | 14.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Noel Gustafsson | 5 | 25.60 | 9.60 | 0.40 | 5.20 | 2.20 |
-| Holger Nerman | 5 | 22.60 | 8.40 | 0.80 | 3.40 | 2.20 |
-| Isac Gustafsson Göransson | 5 | 9.80 | 4.60 | 0.00 | 0.60 | 3.00 |
-| Alvin Gustafsson Göransson | 5 | 7.20 | 2.40 | 0.60 | 0.60 | 2.80 |
-| Hugo Flack Georgsson | 5 | 5.60 | 2.40 | 0.20 | 0.20 | 0.20 |
-| Kevin Phoonjan | 3 | 4.67 | 2.33 | 0.00 | 0.00 | 0.00 |
-| Thyr Arvidsson Bouvin | 3 | 4.00 | 1.67 | 0.00 | 0.67 | 1.00 |
-| Malte Novén | 4 | 2.75 | 1.00 | 0.25 | 0.00 | 0.50 |
-| Elias Engen | 4 | 2.00 | 1.00 | 0.00 | 0.00 | 0.25 |
+| Lion Ingvall | 4 | 24.00 | 6.25 | 1.75 | 6.25 | 3.00 |
+| Johan Montin | 4 | 22.00 | 9.25 | 0.50 | 2.00 | 2.00 |
+| Theo Kolicic | 4 | 18.00 | 7.75 | 0.00 | 2.50 | 2.50 |
+| Henning Lundberg | 2 | 15.00 | 5.00 | 1.50 | 0.50 | 1.50 |
+| Gustav Sahlberg | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 2.00 |
+| Arthur Eriksson | 3 | 5.33 | 2.00 | 0.33 | 0.33 | 0.67 |
+| Sharbel Barkho | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
+| Arvid Hogström | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 3.00 |
+| Vincent Ageton | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.00 |
+| William Landenmark | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 1.67 |
+| Gustaf Brandshage | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 1.33 |
+| Muhammed Zuna | 3 | 0.67 | 0.00 | 0.00 | 0.67 | 1.33 |
+| Luka Lukic | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Jan Barkho | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
 
 ## Games
 
-### Pirates Basketboll Onsala - Länghems Basket
+### Högsbo Basket P11 vit - S:t Helena BK - Vit
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Noel Gustafsson | 30 | 13 |  1 |  1 | 2 |
-| Holger Nerman | 27 | 10 |  0 |  7 | 1 |
-| Isac Gustafsson Göransson | 13 |  5 |  0 |  3 | 4 |
-| Alvin Gustafsson Göransson |  9 |  4 |  0 |  1 | 3 |
-| Hugo Flack Georgsson |  8 |  4 |  0 |  0 | 0 |
-| Thyr Arvidsson Bouvin |  6 |  2 |  0 |  2 | 0 |
-| Malte Novén |  4 |  2 |  0 |  0 | 1 |
-| Elias Engen |  0 |  0 |  0 |  0 | 0 |
+| Theo Kolicic | 32 | 15 |  0 |  2 | 1 |
+| Lion Ingvall | 27 |  7 |  1 | 10 | 1 |
+| Henning Lundberg | 24 |  7 |  3 |  1 | 3 |
+| Johan Montin | 14 |  6 |  0 |  2 | 1 |
+| Vincent Ageton |  2 |  1 |  0 |  0 | 0 |
+| Sharbel Barkho |  2 |  1 |  0 |  0 | 1 |
+| William Landenmark |  1 |  0 |  0 |  1 | 0 |
+| Luka Lukic |  0 |  0 |  0 |  0 | 0 |
 
-### Länghems Basket - Högsbo Basket P11 vit
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Noel Gustafsson | 22 |  7 |  0 |  8 | 2 |
-| Holger Nerman | 21 |  9 |  0 |  3 | 1 |
-| Alvin Gustafsson Göransson | 11 |  2 |  2 |  1 | 1 |
-| Isac Gustafsson Göransson |  6 |  3 |  0 |  0 | 3 |
-| Kevin Phoonjan |  6 |  3 |  0 |  0 | 0 |
-| Hugo Flack Georgsson |  4 |  2 |  0 |  0 | 0 |
-| Elias Engen |  4 |  2 |  0 |  0 | 0 |
-| Thyr Arvidsson Bouvin |  2 |  1 |  0 |  0 | 2 |
-| Malte Novén |  0 |  0 |  0 |  0 | 0 |
-
-### Kvarnby Basket Gul - Länghems Basket
+### S:t Helena BK - Vit - Kvarnby Basket Gul
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Noel Gustafsson | 28 | 12 |  0 |  4 | 3 |
-| Holger Nerman | 21 |  8 |  1 |  2 | 2 |
-| Isac Gustafsson Göransson | 10 |  5 |  0 |  0 | 4 |
-| Hugo Flack Georgsson |  9 |  3 |  1 |  0 | 0 |
-| Kevin Phoonjan |  6 |  3 |  0 |  0 | 0 |
-| Malte Novén |  4 |  2 |  0 |  0 | 0 |
-| Alvin Gustafsson Göransson |  2 |  1 |  0 |  0 | 2 |
-| Elias Engen |  2 |  1 |  0 |  0 | 0 |
+| Johan Montin | 33 | 14 |  1 |  2 | 0 |
+| Lion Ingvall | 27 |  6 |  3 |  6 | 3 |
+| Theo Kolicic | 16 |  6 |  0 |  4 | 4 |
+| Arthur Eriksson |  6 |  3 |  0 |  0 | 1 |
+| Gustaf Brandshage |  3 |  1 |  0 |  1 | 2 |
+| Arvid Hogström |  2 |  1 |  0 |  0 | 3 |
+| Muhammed Zuna |  0 |  0 |  0 |  0 | 2 |
+| Jan Barkho |  0 |  0 |  0 |  0 | 2 |
 
-### Länghems Basket - Varbergs Basket
+### Varbergs Basket - S:t Helena BK - Vit
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Noel Gustafsson | 28 |  9 |  1 |  7 | 2 |
-| Holger Nerman | 27 |  8 |  2 |  5 | 2 |
-| Alvin Gustafsson Göransson |  7 |  3 |  0 |  1 | 3 |
-| Isac Gustafsson Göransson |  6 |  3 |  0 |  0 | 3 |
-| Hugo Flack Georgsson |  6 |  3 |  0 |  0 | 1 |
-| Thyr Arvidsson Bouvin |  4 |  2 |  0 |  0 | 1 |
-| Kevin Phoonjan |  2 |  1 |  0 |  0 | 0 |
-| Elias Engen |  2 |  1 |  0 |  0 | 1 |
+| Lion Ingvall | 29 |  8 |  2 |  7 | 4 |
+| Johan Montin | 16 |  7 |  0 |  2 | 2 |
+| Theo Kolicic |  7 |  3 |  0 |  1 | 4 |
+| Henning Lundberg |  6 |  3 |  0 |  0 | 0 |
+| Arthur Eriksson |  4 |  2 |  0 |  0 | 0 |
+| William Landenmark |  2 |  1 |  0 |  0 | 2 |
+| Muhammed Zuna |  0 |  0 |  0 |  0 | 0 |
+| Gustaf Brandshage |  0 |  0 |  0 |  0 | 0 |
 
 ### S:t Helena BK - Vit - Länghems Basket
 
@@ -89,10 +78,13 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Noel Gustafsson | 20 |  7 |  0 |  6 | 2 |
-| Holger Nerman | 17 |  7 |  1 |  0 | 5 |
-| Isac Gustafsson Göransson | 14 |  7 |  0 |  0 | 1 |
-| Alvin Gustafsson Göransson |  7 |  2 |  1 |  0 | 5 |
-| Malte Novén |  3 |  0 |  1 |  0 | 1 |
-| Hugo Flack Georgsson |  1 |  0 |  0 |  1 | 0 |
+| Johan Montin | 25 | 10 |  1 |  2 | 5 |
+| Theo Kolicic | 17 |  7 |  0 |  3 | 1 |
+| Lion Ingvall | 13 |  4 |  1 |  2 | 4 |
+| Arthur Eriksson |  6 |  1 |  1 |  1 | 1 |
+| Gustav Sahlberg |  6 |  3 |  0 |  0 | 2 |
+| Muhammed Zuna |  2 |  0 |  0 |  2 | 2 |
+| Vincent Ageton |  0 |  0 |  0 |  0 | 2 |
+| William Landenmark |  0 |  0 |  0 |  0 | 3 |
+| Gustaf Brandshage |  0 |  0 |  0 |  0 | 2 |
 

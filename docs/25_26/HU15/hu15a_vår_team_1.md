@@ -4,29 +4,46 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Högsbo Basket P11 röd | 5 | 93.00 | 33.00 | 7.00 | 6.00 | 15.80 |
+| Högsbo Basket P11 röd | 6 | 92.33 | 32.67 | 6.83 | 6.50 | 14.83 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Filip Berndtsson | 5 | 22.20 | 10.00 | 0.00 | 2.20 | 2.40 |
-| Elliott Askenbäck | 5 | 16.80 | 6.40 | 1.20 | 0.40 | 2.40 |
-| Ward Haddad | 5 | 11.60 | 3.60 | 1.20 | 0.80 | 2.00 |
-| Felix Rezler | 4 | 10.50 | 3.00 | 1.25 | 0.75 | 1.25 |
+| Filip Berndtsson | 6 | 21.33 | 9.67 | 0.00 | 2.00 | 2.50 |
+| Elliott Askenbäck | 6 | 16.50 | 6.50 | 1.00 | 0.50 | 2.17 |
+| Ward Haddad | 6 | 10.67 | 3.17 | 1.17 | 0.83 | 2.00 |
+| Felix Rezler | 5 | 10.40 | 2.40 | 1.60 | 0.80 | 1.20 |
+| Wilmer Myhr | 5 | 10.20 | 4.40 | 0.00 | 1.40 | 2.00 |
 | Andreas Persson | 1 | 9.00 | 0.00 | 3.00 | 0.00 | 0.00 |
 | Eddy Kristofersson | 1 | 8.00 | 4.00 | 0.00 | 0.00 | 0.00 |
-| Olle Sjöbom | 5 | 7.40 | 2.20 | 1.00 | 0.00 | 0.80 |
-| Wilmer Myhr | 4 | 6.25 | 2.75 | 0.00 | 0.75 | 2.00 |
-| Hugo Thorson | 4 | 5.50 | 1.75 | 0.50 | 0.50 | 0.75 |
-| Alvin Hertzman | 5 | 5.00 | 1.20 | 0.80 | 0.20 | 1.60 |
+| Olle Sjöbom | 6 | 7.17 | 1.83 | 1.17 | 0.00 | 0.67 |
 | Jonathan Silverwaldt | 1 | 5.00 | 1.00 | 1.00 | 0.00 | 4.00 |
-| Noah Lansler | 3 | 4.33 | 1.67 | 0.33 | 0.00 | 1.00 |
+| Alvin Hertzman | 6 | 4.50 | 1.17 | 0.67 | 0.17 | 1.33 |
+| Hugo Thorson | 5 | 4.40 | 1.40 | 0.40 | 0.40 | 0.60 |
 | Ibrahim Salma | 3 | 4.33 | 1.33 | 0.33 | 0.67 | 2.00 |
-| Oskar Rosén | 3 | 3.67 | 1.33 | 0.33 | 0.00 | 0.67 |
+| Oskar Rosén | 4 | 4.00 | 1.50 | 0.25 | 0.25 | 0.50 |
+| Noah Lansler | 4 | 3.75 | 1.50 | 0.25 | 0.00 | 1.00 |
 | Colin Amnéus | 1 | 2.00 | 0.00 | 0.00 | 2.00 | 2.00 |
 
 ## Games
+
+### Ale Basket - Högsbo Basket P11 röd
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Wilmer Myhr | 26 | 11 |  0 |  4 | 2 |
+| Filip Berndtsson | 17 |  8 |  0 |  1 | 3 |
+| Elliott Askenbäck | 15 |  7 |  0 |  1 | 1 |
+| Felix Rezler | 10 |  0 |  3 |  1 | 1 |
+| Ward Haddad |  6 |  1 |  1 |  1 | 2 |
+| Olle Sjöbom |  6 |  0 |  2 |  0 | 0 |
+| Oskar Rosén |  5 |  2 |  0 |  1 | 0 |
+| Noah Lansler |  2 |  1 |  0 |  0 | 1 |
+| Alvin Hertzman |  2 |  1 |  0 |  0 | 0 |
+| Hugo Thorson |  0 |  0 |  0 |  0 | 0 |
 
 ### Eastside Falcons - Högsbo Basket P11 röd
 
