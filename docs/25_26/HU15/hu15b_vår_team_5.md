@@ -1,125 +1,126 @@
-# Statistics for Högsbo Basket P11 vit
+# Statistics for Varbergs Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Högsbo Basket P11 vit | 5 | 74.80 | 25.80 | 5.60 | 6.40 | 17.40 |
+| Varbergs Basket | 6 | 74.00 | 24.67 | 5.50 | 8.17 | 13.17 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Oskar Rosén | 1 | 24.00 | 11.00 | 0.00 | 2.00 | 2.00 |
-| Hugo Thorson | 1 | 23.00 | 5.00 | 4.00 | 1.00 | 3.00 |
-| Ward Haddad | 1 | 19.00 | 8.00 | 1.00 | 0.00 | 1.00 |
-| Felix Rezler | 1 | 14.00 | 4.00 | 2.00 | 0.00 | 5.00 |
-| Colin Amnéus | 4 | 11.00 | 3.75 | 0.50 | 2.00 | 2.25 |
-| Viggo Tapper | 5 | 9.00 | 2.60 | 1.00 | 0.80 | 1.60 |
-| Beslagic Nail | 5 | 7.40 | 3.00 | 0.20 | 0.80 | 1.40 |
-| Eddy Kristofersson | 5 | 7.20 | 3.40 | 0.00 | 0.40 | 2.00 |
-| Wassem Al Hafez | 4 | 6.50 | 1.50 | 0.75 | 1.25 | 0.75 |
-| Jonathan Silverwaldt | 5 | 6.20 | 1.20 | 1.00 | 0.80 | 1.60 |
-| Christian Delgado Muñoz | 5 | 5.80 | 2.60 | 0.20 | 0.00 | 2.60 |
-| Andreas Persson | 4 | 5.75 | 1.25 | 1.00 | 0.25 | 1.50 |
-| Ibrahim Salma | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 3.00 |
-| William Nordqvist | 4 | 3.50 | 1.75 | 0.00 | 0.00 | 0.50 |
-| Elaj Apell | 4 | 1.25 | 0.50 | 0.00 | 0.25 | 1.00 |
-| Jacob Faraj | 5 | 0.00 | 0.00 | 0.00 | 0.00 | 0.60 |
-| Linus Blomqvist | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Nathan Mc Grath | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Lazar Ilic | 6 | 21.83 | 9.17 | 0.33 | 2.50 | 2.00 |
+| Vincent Bozic | 6 | 20.33 | 4.00 | 3.50 | 1.83 | 3.50 |
+| Viktor Hedberg | 4 | 15.00 | 6.25 | 0.00 | 2.50 | 1.00 |
+| Noel Wronski | 1 | 11.00 | 4.00 | 1.00 | 0.00 | 0.00 |
+| Axel Odengård | 4 | 7.50 | 2.00 | 0.75 | 1.25 | 1.75 |
+| Olle Lykkbo | 4 | 6.50 | 2.00 | 0.50 | 1.00 | 0.25 |
+| Joel Carlén | 4 | 5.00 | 1.00 | 0.75 | 0.75 | 1.25 |
+| Sakarias Hänninen | 5 | 4.00 | 2.00 | 0.00 | 0.00 | 1.40 |
+| Enguun Bat-urnult | 6 | 2.00 | 0.67 | 0.17 | 0.17 | 2.00 |
+| Wiggo Edvinsson | 3 | 1.33 | 0.67 | 0.00 | 0.00 | 1.00 |
+| Noel Sagestam | 6 | 1.00 | 0.50 | 0.00 | 0.00 | 0.67 |
+| Maximilian Uddén | 3 | 0.67 | 0.33 | 0.00 | 0.00 | 0.67 |
+| Aaron Batatina | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Adin Kaltak | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
 
-### Högsbo Basket P11 vit - S:t Helena BK - Vit
+### Varbergs Basket - Högsbo Basket P11 vit
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Beslagic Nail | 17 |  7 |  1 |  0 | 2 |
-| Jonathan Silverwaldt | 11 |  4 |  1 |  0 | 1 |
-| Colin Amnéus |  8 |  2 |  1 |  1 | 0 |
-| Viggo Tapper |  8 |  1 |  2 |  0 | 1 |
-| Andreas Persson |  7 |  0 |  2 |  1 | 1 |
-| Eddy Kristofersson |  6 |  3 |  0 |  0 | 2 |
-| Christian Delgado Muñoz |  6 |  3 |  0 |  0 | 3 |
-| Ibrahim Salma |  4 |  2 |  0 |  0 | 3 |
-| Wassem Al Hafez |  3 |  0 |  1 |  0 | 1 |
-| William Nordqvist |  2 |  1 |  0 |  0 | 1 |
-| Jacob Faraj |  0 |  0 |  0 |  0 | 0 |
+| Vincent Bozic | 36 |  5 |  7 |  5 | 3 |
+| Lazar Ilic | 23 |  9 |  1 |  2 | 1 |
+| Axel Odengård | 11 |  4 |  1 |  0 | 0 |
+| Olle Lykkbo |  6 |  0 |  2 |  0 | 0 |
+| Joel Carlén |  3 |  1 |  0 |  1 | 3 |
+| Enguun Bat-urnult |  0 |  0 |  0 |  0 | 3 |
+| Sakarias Hänninen |  0 |  0 |  0 |  0 | 2 |
+| Noel Sagestam |  0 |  0 |  0 |  0 | 1 |
 
-### Länghems Basket - Högsbo Basket P11 vit
+### Eastside Dragons Blue - Varbergs Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Hugo Thorson | 23 |  5 |  4 |  1 | 3 |
-| Ward Haddad | 19 |  8 |  1 |  0 | 1 |
-| Felix Rezler | 14 |  4 |  2 |  0 | 5 |
-| Jonathan Silverwaldt |  9 |  0 |  3 |  0 | 1 |
-| Christian Delgado Muñoz |  6 |  3 |  0 |  0 | 3 |
-| William Nordqvist |  4 |  2 |  0 |  0 | 0 |
-| Viggo Tapper |  4 |  2 |  0 |  0 | 2 |
-| Wassem Al Hafez |  2 |  1 |  0 |  0 | 1 |
-| Beslagic Nail |  2 |  1 |  0 |  0 | 1 |
-| Elaj Apell |  0 |  0 |  0 |  0 | 0 |
-| Jacob Faraj |  0 |  0 |  0 |  0 | 0 |
-| Eddy Kristofersson |  0 |  0 |  0 |  0 | 3 |
+| Lazar Ilic | 17 |  7 |  0 |  3 | 1 |
+| Viktor Hedberg | 12 |  4 |  0 |  4 | 1 |
+| Vincent Bozic | 11 |  2 |  2 |  1 | 5 |
+| Sakarias Hänninen |  6 |  3 |  0 |  0 | 1 |
+| Olle Lykkbo |  6 |  1 |  0 |  4 | 0 |
+| Maximilian Uddén |  2 |  1 |  0 |  0 | 0 |
+| Enguun Bat-urnult |  2 |  1 |  0 |  0 | 1 |
+| Axel Odengård |  1 |  0 |  0 |  1 | 1 |
+| Noel Sagestam |  0 |  0 |  0 |  0 | 1 |
+| Aaron Batatina |  0 |  0 |  0 |  0 | 1 |
 
-### Högsbo Basket P11 vit - Basketklubben Marbo
+### Kvarnby Basket Gul - Varbergs Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Oskar Rosén | 24 | 11 |  0 |  2 | 2 |
-| Eddy Kristofersson | 17 |  8 |  0 |  1 | 1 |
-| Colin Amnéus | 15 |  6 |  0 |  3 | 5 |
-| Viggo Tapper | 11 |  4 |  0 |  3 | 2 |
-| Christian Delgado Muñoz |  5 |  1 |  1 |  0 | 4 |
-| Wassem Al Hafez |  4 |  1 |  0 |  2 | 1 |
-| Jonathan Silverwaldt |  4 |  1 |  0 |  2 | 1 |
-| Beslagic Nail |  4 |  2 |  0 |  0 | 3 |
-| Elaj Apell |  2 |  1 |  0 |  0 | 3 |
-| Andreas Persson |  2 |  1 |  0 |  0 | 3 |
-| Jacob Faraj |  0 |  0 |  0 |  0 | 2 |
-| Linus Blomqvist |  0 |  0 |  0 |  0 | 0 |
+| Vincent Bozic | 29 |  6 |  5 |  2 | 0 |
+| Viktor Hedberg | 14 |  6 |  0 |  2 | 2 |
+| Lazar Ilic | 13 |  5 |  0 |  3 | 4 |
+| Noel Wronski | 11 |  4 |  1 |  0 | 0 |
+| Enguun Bat-urnult |  4 |  2 |  0 |  0 | 3 |
+| Sakarias Hänninen |  4 |  2 |  0 |  0 | 1 |
+| Wiggo Edvinsson |  2 |  1 |  0 |  0 | 2 |
+| Noel Sagestam |  2 |  1 |  0 |  0 | 1 |
+| Maximilian Uddén |  0 |  0 |  0 |  0 | 1 |
+| Adin Kaltak |  0 |  0 |  0 |  0 | 0 |
 
-### Pirates Basketboll Onsala - Högsbo Basket P11 vit
+### Varbergs Basket - S:t Helena BK - Vit
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Wassem Al Hafez | 17 |  4 |  2 |  3 | 0 |
-| Eddy Kristofersson | 10 |  5 |  0 |  0 | 2 |
-| Colin Amnéus |  9 |  3 |  1 |  0 | 1 |
-| William Nordqvist |  8 |  4 |  0 |  0 | 1 |
-| Viggo Tapper |  7 |  2 |  1 |  0 | 1 |
-| Andreas Persson |  6 |  3 |  0 |  0 | 2 |
-| Christian Delgado Muñoz |  4 |  2 |  0 |  0 | 2 |
-| Beslagic Nail |  4 |  2 |  0 |  0 | 1 |
-| Elaj Apell |  2 |  1 |  0 |  0 | 0 |
-| Jacob Faraj |  0 |  0 |  0 |  0 | 0 |
-| Jonathan Silverwaldt |  0 |  0 |  0 |  0 | 2 |
+| Lazar Ilic | 23 |  9 |  1 |  2 | 2 |
+| Viktor Hedberg | 12 |  6 |  0 |  0 | 1 |
+| Joel Carlén |  8 |  1 |  2 |  0 | 1 |
+| Axel Odengård |  8 |  2 |  0 |  4 | 2 |
+| Vincent Bozic |  6 |  2 |  0 |  2 | 3 |
+| Sakarias Hänninen |  6 |  3 |  0 |  0 | 0 |
+| Enguun Bat-urnult |  2 |  1 |  0 |  0 | 3 |
+| Olle Lykkbo |  2 |  1 |  0 |  0 | 1 |
+| Noel Sagestam |  0 |  0 |  0 |  0 | 1 |
 
-### Högsbo Basket P11 vit - Eastside Dragons Blue
+### Länghems Basket - Varbergs Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Viggo Tapper | 15 |  4 |  2 |  1 | 2 |
-| Colin Amnéus | 12 |  4 |  0 |  4 | 3 |
-| Beslagic Nail | 10 |  3 |  0 |  4 | 0 |
-| Andreas Persson |  8 |  1 |  2 |  0 | 0 |
-| Christian Delgado Muñoz |  8 |  4 |  0 |  0 | 1 |
-| Jonathan Silverwaldt |  7 |  1 |  1 |  2 | 3 |
-| Eddy Kristofersson |  3 |  1 |  0 |  1 | 2 |
-| Elaj Apell |  1 |  0 |  0 |  1 | 1 |
-| Nathan Mc Grath |  0 |  0 |  0 |  0 | 0 |
-| William Nordqvist |  0 |  0 |  0 |  0 | 0 |
-| Jacob Faraj |  0 |  0 |  0 |  0 | 1 |
+| Vincent Bozic | 23 |  2 |  6 |  1 | 5 |
+| Lazar Ilic | 22 | 10 |  0 |  2 | 2 |
+| Axel Odengård | 10 |  2 |  2 |  0 | 4 |
+| Joel Carlén |  5 |  1 |  1 |  0 | 1 |
+| Sakarias Hänninen |  4 |  2 |  0 |  0 | 3 |
+| Enguun Bat-urnult |  3 |  0 |  1 |  0 | 1 |
+| Wiggo Edvinsson |  2 |  1 |  0 |  0 | 1 |
+| Noel Sagestam |  2 |  1 |  0 |  0 | 0 |
+
+### Varbergs Basket - Basketklubben Marbo
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Lazar Ilic | 33 | 15 |  0 |  3 | 2 |
+| Viktor Hedberg | 22 |  9 |  0 |  4 | 0 |
+| Vincent Bozic | 17 |  7 |  1 |  0 | 5 |
+| Olle Lykkbo | 12 |  6 |  0 |  0 | 0 |
+| Joel Carlén |  4 |  1 |  0 |  2 | 0 |
+| Noel Sagestam |  2 |  1 |  0 |  0 | 0 |
+| Enguun Bat-urnult |  1 |  0 |  0 |  1 | 1 |
+| Maximilian Uddén |  0 |  0 |  0 |  0 | 1 |
+| Adin Kaltak |  0 |  0 |  0 |  0 | 0 |
+| Wiggo Edvinsson |  0 |  0 |  0 |  0 | 0 |
 

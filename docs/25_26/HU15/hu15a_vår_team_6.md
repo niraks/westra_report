@@ -4,24 +4,54 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kungsbacka Basket Blå | 5 | 59.40 | 16.80 | 4.40 | 12.60 | 11.80 |
+| Kungsbacka Basket Blå | 7 | 63.71 | 19.43 | 4.14 | 12.43 | 12.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eric Svensson | 5 | 19.00 | 4.40 | 2.20 | 3.60 | 1.60 |
-| Malcom Truija Wellington | 5 | 11.00 | 3.00 | 0.60 | 3.20 | 1.40 |
-| Simon Bentley | 5 | 7.20 | 2.40 | 0.20 | 1.80 | 2.60 |
-| Nils Martinsson | 4 | 7.00 | 2.00 | 0.50 | 1.50 | 0.75 |
-| Algot Bui-Ljungqvist | 5 | 6.80 | 2.20 | 0.20 | 1.80 | 2.00 |
-| Dylan Lian | 4 | 4.25 | 1.75 | 0.00 | 0.75 | 0.75 |
-| Melker Näsström | 4 | 3.25 | 1.00 | 0.25 | 0.50 | 2.00 |
-| Evan Fredriksson | 5 | 3.20 | 1.00 | 0.40 | 0.00 | 0.40 |
+| Eric Svensson | 7 | 20.00 | 4.71 | 2.43 | 3.29 | 1.57 |
+| Malcom Truija Wellington | 7 | 11.86 | 3.57 | 0.57 | 3.00 | 1.43 |
+| Simon Bentley | 7 | 11.71 | 4.29 | 0.14 | 2.71 | 2.14 |
+| Nils Martinsson | 6 | 6.17 | 2.00 | 0.33 | 1.17 | 1.00 |
+| Algot Bui-Ljungqvist | 7 | 6.14 | 2.00 | 0.14 | 1.71 | 2.29 |
+| Dylan Lian | 6 | 4.17 | 1.83 | 0.00 | 0.50 | 1.00 |
+| Evan Fredriksson | 6 | 3.00 | 1.00 | 0.33 | 0.00 | 0.67 |
+| Melker Näsström | 5 | 3.00 | 1.00 | 0.20 | 0.40 | 1.80 |
 | Oskar Armini Lönberg | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 2.50 |
+| Elton Westlund | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
 | Kristijonas Alminas | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Ale Basket - Kungsbacka Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Simon Bentley | 27 | 10 |  0 |  7 | 1 |
+| Eric Svensson | 21 |  5 |  3 |  2 | 0 |
+| Malcom Truija Wellington | 13 |  5 |  1 |  0 | 1 |
+| Nils Martinsson |  9 |  4 |  0 |  1 | 3 |
+| Dylan Lian |  2 |  1 |  0 |  0 | 0 |
+| Algot Bui-Ljungqvist |  2 |  1 |  0 |  0 | 3 |
+
+### Gota Basket Blå - Kungsbacka Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Eric Svensson | 24 |  6 |  3 |  3 | 3 |
+| Simon Bentley | 19 |  8 |  0 |  3 | 1 |
+| Malcom Truija Wellington | 15 |  5 |  0 |  5 | 2 |
+| Algot Bui-Ljungqvist |  7 |  2 |  0 |  3 | 3 |
+| Dylan Lian |  6 |  3 |  0 |  0 | 3 |
+| Evan Fredriksson |  2 |  1 |  0 |  0 | 2 |
+| Melker Näsström |  2 |  1 |  0 |  0 | 1 |
+| Elton Westlund |  0 |  0 |  0 |  0 | 2 |
+| Nils Martinsson |  0 |  0 |  0 |  0 | 0 |
 
 ### Kungsbacka Basket Blå - Eastside Falcons
 

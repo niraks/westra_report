@@ -4,28 +4,58 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| S:t Helena BK - Vit | 4 | 80.50 | 29.25 | 3.25 | 12.25 | 14.50 |
+| S:t Helena BK - Vit | 6 | 83.83 | 29.67 | 3.67 | 13.50 | 14.67 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lion Ingvall | 4 | 24.00 | 6.25 | 1.75 | 6.25 | 3.00 |
-| Johan Montin | 4 | 22.00 | 9.25 | 0.50 | 2.00 | 2.00 |
-| Theo Kolicic | 4 | 18.00 | 7.75 | 0.00 | 2.50 | 2.50 |
-| Henning Lundberg | 2 | 15.00 | 5.00 | 1.50 | 0.50 | 1.50 |
+| Lion Ingvall | 6 | 25.50 | 7.00 | 1.83 | 6.00 | 3.50 |
+| Theo Kolicic | 6 | 20.17 | 8.17 | 0.33 | 2.83 | 2.50 |
+| Johan Montin | 5 | 20.00 | 8.20 | 0.60 | 1.80 | 1.80 |
+| Henning Lundberg | 4 | 16.00 | 4.75 | 1.25 | 2.75 | 2.50 |
+| Arvid Hogström | 2 | 7.00 | 3.50 | 0.00 | 0.00 | 2.00 |
 | Gustav Sahlberg | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 2.00 |
-| Arthur Eriksson | 3 | 5.33 | 2.00 | 0.33 | 0.33 | 0.67 |
+| Arthur Eriksson | 4 | 4.50 | 1.75 | 0.25 | 0.25 | 0.50 |
+| William Landenmark | 5 | 2.60 | 1.00 | 0.00 | 0.60 | 1.40 |
 | Sharbel Barkho | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
-| Arvid Hogström | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 3.00 |
-| Vincent Ageton | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.00 |
-| William Landenmark | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 1.67 |
-| Gustaf Brandshage | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 1.33 |
-| Muhammed Zuna | 3 | 0.67 | 0.00 | 0.00 | 0.67 | 1.33 |
+| Muhammed Zuna | 4 | 1.00 | 0.25 | 0.00 | 0.50 | 1.25 |
+| Jan Barkho | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 2.50 |
+| Vincent Ageton | 4 | 0.75 | 0.25 | 0.00 | 0.25 | 0.75 |
+| Gustaf Brandshage | 4 | 0.75 | 0.25 | 0.00 | 0.25 | 1.00 |
 | Luka Lukic | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Jan Barkho | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
 
 ## Games
+
+### S:t Helena BK - Vit - Pirates Basketboll Onsala
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Theo Kolicic | 30 | 12 |  1 |  3 | 2 |
+| Lion Ingvall | 23 |  8 |  1 |  4 | 5 |
+| Henning Lundberg | 16 |  4 |  2 |  2 | 3 |
+| Arvid Hogström | 12 |  6 |  0 |  0 | 1 |
+| William Landenmark |  6 |  3 |  0 |  0 | 1 |
+| Arthur Eriksson |  2 |  1 |  0 |  0 | 0 |
+| Muhammed Zuna |  2 |  1 |  0 |  0 | 1 |
+| Jan Barkho |  2 |  1 |  0 |  0 | 3 |
+| Vincent Ageton |  0 |  0 |  0 |  0 | 1 |
+
+### Eastside Dragons Blue - S:t Helena BK - Vit
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Lion Ingvall | 34 |  9 |  3 |  7 | 4 |
+| Theo Kolicic | 19 |  6 |  1 |  4 | 3 |
+| Henning Lundberg | 18 |  5 |  0 |  8 | 4 |
+| Johan Montin | 12 |  4 |  1 |  1 | 1 |
+| William Landenmark |  4 |  1 |  0 |  2 | 1 |
+| Vincent Ageton |  1 |  0 |  0 |  1 | 0 |
+| Gustaf Brandshage |  0 |  0 |  0 |  0 | 0 |
 
 ### Högsbo Basket P11 vit - S:t Helena BK - Vit
 

@@ -4,25 +4,39 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Basketklubben Marbo | 4 | 75.25 | 27.75 | 3.25 | 10.00 | 14.25 |
+| Basketklubben Marbo | 5 | 74.00 | 26.40 | 3.80 | 9.80 | 13.80 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ludvig Skarin | 2 | 20.00 | 4.50 | 1.50 | 6.50 | 3.00 |
-| Rony Aljojo | 4 | 16.75 | 6.75 | 0.75 | 1.00 | 1.50 |
-| Harry Askerdal | 4 | 14.50 | 5.25 | 1.00 | 1.00 | 2.50 |
+| Ludvig Skarin | 3 | 24.33 | 7.00 | 1.33 | 6.33 | 3.00 |
+| Rony Aljojo | 5 | 16.00 | 6.20 | 0.80 | 1.20 | 1.40 |
+| Harry Askerdal | 5 | 13.20 | 4.60 | 1.00 | 1.00 | 2.40 |
 | Elias Blidö | 4 | 10.00 | 4.50 | 0.00 | 1.00 | 1.25 |
-| Herman Haji | 4 | 7.50 | 2.50 | 0.50 | 1.00 | 1.75 |
+| Herman Haji | 5 | 6.80 | 2.40 | 0.40 | 0.80 | 2.20 |
+| Sigge Gemzell | 4 | 6.00 | 1.50 | 0.75 | 0.75 | 0.50 |
 | Hannes Nilsson | 4 | 5.00 | 1.50 | 0.25 | 1.25 | 0.25 |
-| Sigge Gemzell | 3 | 5.00 | 2.00 | 0.00 | 1.00 | 0.67 |
 | Odai Ismaeil | 3 | 4.67 | 2.00 | 0.00 | 0.67 | 4.33 |
 | Oscar Linder | 2 | 4.50 | 2.00 | 0.00 | 0.50 | 2.50 |
-| Anton Marknäs | 2 | 4.00 | 2.00 | 0.00 | 0.00 | 0.50 |
-| Houssam Al Kotob | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Anton Marknäs | 3 | 3.33 | 1.67 | 0.00 | 0.00 | 0.67 |
+| Houssam Al Kotob | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 
 ## Games
+
+### Länghems Basket - Basketklubben Marbo
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Ludvig Skarin | 33 | 12 |  1 |  6 | 3 |
+| Rony Aljojo | 13 |  4 |  1 |  2 | 1 |
+| Sigge Gemzell |  9 |  0 |  3 |  0 | 0 |
+| Harry Askerdal |  8 |  2 |  1 |  1 | 2 |
+| Herman Haji |  4 |  2 |  0 |  0 | 4 |
+| Anton Marknäs |  2 |  1 |  0 |  0 | 1 |
+| Houssam Al Kotob |  0 |  0 |  0 |  0 | 1 |
 
 ### Basketklubben Marbo - Pirates Basketboll Onsala
 

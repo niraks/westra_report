@@ -4,28 +4,46 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kvarnby Basket Gul | 5 | 64.00 | 23.40 | 3.80 | 5.80 | 16.80 |
+| Kvarnby Basket Gul | 6 | 64.17 | 23.17 | 3.67 | 6.83 | 16.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
 | Leo Hashemi | 1 | 19.00 | 5.00 | 3.00 | 0.00 | 1.00 |
-| Gustav Setterberg | 3 | 12.67 | 5.67 | 0.00 | 1.33 | 3.00 |
-| Liam Kim Börjesson | 4 | 10.50 | 4.50 | 0.00 | 1.50 | 2.75 |
+| Michael Mei | 1 | 15.00 | 6.00 | 0.00 | 3.00 | 0.00 |
+| Gustav Setterberg | 4 | 12.50 | 5.50 | 0.00 | 1.50 | 3.25 |
+| Liam Kim Börjesson | 5 | 10.60 | 4.40 | 0.00 | 1.80 | 2.60 |
+| Lucas Mouravidze | 4 | 9.75 | 3.75 | 0.50 | 0.75 | 3.25 |
 | Noel Dalgärde | 2 | 8.50 | 3.50 | 0.50 | 0.00 | 0.00 |
-| Lucas Mouravidze | 3 | 8.00 | 3.33 | 0.33 | 0.33 | 3.33 |
-| Leon Doormann | 5 | 8.00 | 2.40 | 0.60 | 1.40 | 1.60 |
+| Leon Doormann | 6 | 7.33 | 2.00 | 0.67 | 1.33 | 1.33 |
 | Amir Vakili | 4 | 6.25 | 2.75 | 0.00 | 0.75 | 2.00 |
-| Kasper Hallberg | 5 | 5.40 | 1.60 | 0.40 | 1.00 | 1.60 |
-| Andrija Savic | 5 | 5.20 | 1.40 | 0.80 | 0.00 | 0.80 |
-| Eliott Bordes | 3 | 5.00 | 2.33 | 0.00 | 0.33 | 3.33 |
-| Sixten Offerle | 5 | 4.60 | 1.60 | 0.40 | 0.20 | 0.80 |
-| Aravind Sreenivas | 4 | 4.25 | 1.25 | 0.50 | 0.25 | 2.75 |
+| Kasper Hallberg | 6 | 4.83 | 1.50 | 0.33 | 0.83 | 1.50 |
+| Eliott Bordes | 4 | 4.50 | 1.75 | 0.25 | 0.25 | 3.50 |
+| Andrija Savic | 6 | 4.33 | 1.17 | 0.67 | 0.00 | 0.67 |
+| Aravind Sreenivas | 5 | 4.00 | 1.20 | 0.40 | 0.40 | 2.40 |
+| Sixten Offerle | 6 | 3.83 | 1.33 | 0.33 | 0.17 | 0.67 |
 | Filip Förstberg | 2 | 2.50 | 0.50 | 0.50 | 0.00 | 0.00 |
 | Hannes Kanebratt | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Eastside Dragons Blue - Kvarnby Basket Gul
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Lucas Mouravidze | 15 |  5 |  1 |  2 | 3 |
+| Michael Mei | 15 |  6 |  0 |  3 | 0 |
+| Gustav Setterberg | 12 |  5 |  0 |  2 | 4 |
+| Liam Kim Börjesson | 11 |  4 |  0 |  3 | 2 |
+| Leon Doormann |  4 |  0 |  1 |  1 | 0 |
+| Eliott Bordes |  3 |  0 |  1 |  0 | 4 |
+| Aravind Sreenivas |  3 |  1 |  0 |  1 | 1 |
+| Kasper Hallberg |  2 |  1 |  0 |  0 | 1 |
+| Andrija Savic |  0 |  0 |  0 |  0 | 0 |
+| Sixten Offerle |  0 |  0 |  0 |  0 | 0 |
 
 ### Kvarnby Basket Gul - Varbergs Basket
 

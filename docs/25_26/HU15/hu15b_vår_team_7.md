@@ -4,26 +4,40 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Pirates Basketboll Onsala | 5 | 70.80 | 19.00 | 9.40 | 4.60 | 19.60 |
+| Pirates Basketboll Onsala | 6 | 72.33 | 19.33 | 9.67 | 4.67 | 19.33 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Cillian Bree | 4 | 36.25 | 7.50 | 5.75 | 4.00 | 3.25 |
+| Cillian Bree | 5 | 37.00 | 7.60 | 6.00 | 3.80 | 2.80 |
 | Sture Hultman | 3 | 13.33 | 3.00 | 2.33 | 0.33 | 1.00 |
-| Jonathan Sodéus | 5 | 11.20 | 1.40 | 2.60 | 0.60 | 1.60 |
+| Jonathan Sodéus | 6 | 10.67 | 1.33 | 2.50 | 0.50 | 2.00 |
 | Ludvig Parnmo Larsen | 4 | 8.75 | 4.25 | 0.00 | 0.25 | 1.75 |
-| Ivar Runeberg | 5 | 5.40 | 2.40 | 0.20 | 0.00 | 4.60 |
-| Sebastian Maun | 5 | 4.20 | 1.40 | 0.40 | 0.20 | 2.40 |
-| Olof Tång | 5 | 4.00 | 2.00 | 0.00 | 0.00 | 3.60 |
-| August Runeberg | 4 | 1.75 | 0.50 | 0.25 | 0.00 | 1.00 |
-| David Plahn | 2 | 0.50 | 0.00 | 0.00 | 0.50 | 0.50 |
+| Ivar Runeberg | 6 | 5.83 | 2.50 | 0.17 | 0.33 | 4.67 |
+| Sebastian Maun | 6 | 5.33 | 1.83 | 0.50 | 0.17 | 2.33 |
+| Olof Tång | 6 | 4.17 | 1.83 | 0.17 | 0.00 | 3.67 |
+| August Runeberg | 5 | 2.60 | 1.00 | 0.20 | 0.00 | 1.00 |
+| David Plahn | 3 | 1.00 | 0.33 | 0.00 | 0.33 | 0.67 |
 | Nathaniel Machiani | 4 | 0.50 | 0.25 | 0.00 | 0.00 | 1.50 |
 | Olle Torbjörnsson | 4 | 0.00 | 0.00 | 0.00 | 0.00 | 0.75 |
 | August Ljuca Forsman | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### S:t Helena BK - Vit - Pirates Basketboll Onsala
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Cillian Bree | 40 |  8 |  7 |  3 | 1 |
+| Sebastian Maun | 11 |  4 |  1 |  0 | 2 |
+| Ivar Runeberg |  8 |  3 |  0 |  2 | 5 |
+| Jonathan Sodéus |  8 |  1 |  2 |  0 | 4 |
+| August Runeberg |  6 |  3 |  0 |  0 | 1 |
+| Olof Tång |  5 |  1 |  1 |  0 | 4 |
+| David Plahn |  2 |  1 |  0 |  0 | 1 |
 
 ### Pirates Basketboll Onsala - Länghems Basket
 

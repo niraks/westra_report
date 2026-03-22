@@ -4,23 +4,38 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Länghems Basket | 5 | 79.80 | 31.40 | 2.20 | 10.40 | 11.60 |
+| Länghems Basket | 6 | 82.33 | 33.00 | 2.17 | 9.83 | 11.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Noel Gustafsson | 5 | 25.60 | 9.60 | 0.40 | 5.20 | 2.20 |
-| Holger Nerman | 5 | 22.60 | 8.40 | 0.80 | 3.40 | 2.20 |
-| Isac Gustafsson Göransson | 5 | 9.80 | 4.60 | 0.00 | 0.60 | 3.00 |
-| Alvin Gustafsson Göransson | 5 | 7.20 | 2.40 | 0.60 | 0.60 | 2.80 |
-| Hugo Flack Georgsson | 5 | 5.60 | 2.40 | 0.20 | 0.20 | 0.20 |
+| Noel Gustafsson | 6 | 26.00 | 9.83 | 0.50 | 4.83 | 2.33 |
+| Holger Nerman | 6 | 22.67 | 8.83 | 0.67 | 3.00 | 2.17 |
+| Isac Gustafsson Göransson | 6 | 11.50 | 5.33 | 0.00 | 0.83 | 3.17 |
+| Alvin Gustafsson Göransson | 6 | 7.17 | 2.50 | 0.50 | 0.67 | 2.67 |
+| Hugo Flack Georgsson | 6 | 5.00 | 2.17 | 0.17 | 0.17 | 0.17 |
 | Kevin Phoonjan | 3 | 4.67 | 2.33 | 0.00 | 0.00 | 0.00 |
-| Thyr Arvidsson Bouvin | 3 | 4.00 | 1.67 | 0.00 | 0.67 | 1.00 |
-| Malte Novén | 4 | 2.75 | 1.00 | 0.25 | 0.00 | 0.50 |
-| Elias Engen | 4 | 2.00 | 1.00 | 0.00 | 0.00 | 0.25 |
+| Thyr Arvidsson Bouvin | 4 | 4.00 | 1.75 | 0.00 | 0.50 | 0.75 |
+| Malte Novén | 5 | 3.60 | 1.20 | 0.40 | 0.00 | 0.40 |
+| Elias Engen | 5 | 2.40 | 1.20 | 0.00 | 0.00 | 0.20 |
 
 ## Games
+
+### Länghems Basket - Basketklubben Marbo
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Noel Gustafsson | 28 | 11 |  1 |  3 | 3 |
+| Holger Nerman | 23 | 11 |  0 |  1 | 2 |
+| Isac Gustafsson Göransson | 20 |  9 |  0 |  2 | 4 |
+| Alvin Gustafsson Göransson |  7 |  3 |  0 |  1 | 2 |
+| Malte Novén |  7 |  2 |  1 |  0 | 0 |
+| Elias Engen |  4 |  2 |  0 |  0 | 0 |
+| Thyr Arvidsson Bouvin |  4 |  2 |  0 |  0 | 0 |
+| Hugo Flack Georgsson |  2 |  1 |  0 |  0 | 0 |
 
 ### Pirates Basketboll Onsala - Länghems Basket
 
