@@ -83,8 +83,8 @@
 | 3 | [David Franco Weihe](hu15a_vår_team_2.md) | 1.00 |
 | 3 | [Fabian Hjärtinge](hu15a_vår_team_2.md) | 1.00 |
 | 3 | [Emil Järvinen](hu15a_vår_team_2.md) | 1.00 |
+| 3 | [Colin Amnéus](hu15a_vår_team_1.md) | 1.00 |
 | 3 | [Filip Lundberg](hu15a_vår_team_5.md) | 1.00 |
 | 3 | [Eric Svensson](hu15a_vår_team_6.md) | 1.00 |
 | 3 | [Malcom Truija Wellington](hu15a_vår_team_6.md) | 1.00 |
-| 3 | [Colin Amnéus](hu15a_vår_team_1.md) | 1.00 |
 

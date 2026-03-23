@@ -42,9 +42,9 @@
 | 6 | [Theo Kolicic](hu15b_vår_team_1.md) | 8.17 |
 | 7 | [Ward Haddad](hu15b_vår_team_6.md) | 8.00 |
 | 8 | [Cillian Bree](hu15b_vår_team_7.md) | 7.60 |
+| 9 | [Noah Ringheim](hu15b_vår_team_3.md) | 7.00 |
 | 9 | [Ludvig Skarin](hu15b_vår_team_4.md) | 7.00 |
 | 9 | [Lion Ingvall](hu15b_vår_team_1.md) | 7.00 |
-| 9 | [Noah Ringheim](hu15b_vår_team_3.md) | 7.00 |
 
 ### 3P made per game
 
@@ -69,8 +69,8 @@
 | 2 | [Lion Ingvall](hu15b_vår_team_1.md) | 6.00 |
 | 3 | [Noel Gustafsson](hu15b_vår_team_2.md) | 4.83 |
 | 4 | [Cillian Bree](hu15b_vår_team_7.md) | 3.80 |
-| 5 | [Holger Nerman](hu15b_vår_team_2.md) | 3.00 |
 | 5 | [Michael Mei](hu15b_vår_team_8.md) | 3.00 |
+| 5 | [Holger Nerman](hu15b_vår_team_2.md) | 3.00 |
 | 7 | [Theo Kolicic](hu15b_vår_team_1.md) | 2.83 |
 | 8 | [Henning Lundberg](hu15b_vår_team_1.md) | 2.75 |
 | 9 | [Lazar Ilic](hu15b_vår_team_5.md) | 2.50 |
@@ -80,19 +80,19 @@
 
 | Rank | Player | Value |
 |----:|:-------|------:|
+| 1 | [Aiden Kehoe](hu15b_vår_team_3.md) | 2.00 |
 | 1 | [Odai Ismaeil](hu15b_vår_team_4.md) | 2.00 |
 | 1 | [Lion Ingvall](hu15b_vår_team_1.md) | 2.00 |
-| 1 | [Aiden Kehoe](hu15b_vår_team_3.md) | 2.00 |
-| 4 | [Alvin Gustafsson Göransson](hu15b_vår_team_2.md) | 1.00 |
 | 4 | [Colin Amnéus](hu15b_vår_team_6.md) | 1.00 |
 | 4 | [Jacob Faraj](hu15b_vår_team_6.md) | 1.00 |
 | 4 | [Felix Rezler](hu15b_vår_team_6.md) | 1.00 |
+| 4 | [Michail Tsoposidis](hu15b_vår_team_3.md) | 1.00 |
+| 4 | [Ivar Runeberg](hu15b_vår_team_7.md) | 1.00 |
 | 4 | [Herman Haji](hu15b_vår_team_4.md) | 1.00 |
 | 4 | [Houssam Al Kotob](hu15b_vår_team_4.md) | 1.00 |
 | 4 | [Axel Odengård](hu15b_vår_team_5.md) | 1.00 |
 | 4 | [Vincent Bozic](hu15b_vår_team_5.md) | 1.00 |
 | 4 | [Lazar Ilic](hu15b_vår_team_5.md) | 1.00 |
 | 4 | [Amir Vakili](hu15b_vår_team_8.md) | 1.00 |
-| 4 | [Ivar Runeberg](hu15b_vår_team_7.md) | 1.00 |
-| 4 | [Michail Tsoposidis](hu15b_vår_team_3.md) | 1.00 |
+| 4 | [Alvin Gustafsson Göransson](hu15b_vår_team_2.md) | 1.00 |
 
