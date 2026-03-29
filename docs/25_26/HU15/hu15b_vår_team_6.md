@@ -4,7 +4,7 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Högsbo Basket P11 vit | 6 | 72.83 | 25.50 | 5.17 | 6.33 | 17.17 |
+| Högsbo Basket P11 vit | 7 | 71.14 | 24.43 | 4.86 | 7.71 | 17.43 |
 
 ## Players summary
 
@@ -14,24 +14,42 @@
 | Hugo Thorson | 1 | 23.00 | 5.00 | 4.00 | 1.00 | 3.00 |
 | Ward Haddad | 1 | 19.00 | 8.00 | 1.00 | 0.00 | 1.00 |
 | Felix Rezler | 1 | 14.00 | 4.00 | 2.00 | 0.00 | 5.00 |
-| Colin Amnéus | 5 | 12.80 | 4.80 | 0.40 | 2.00 | 2.00 |
-| Viggo Tapper | 6 | 9.50 | 3.17 | 0.83 | 0.67 | 1.67 |
+| Colin Amnéus | 6 | 13.67 | 5.17 | 0.33 | 2.33 | 2.00 |
 | Olle Sjöbom | 1 | 9.00 | 1.00 | 2.00 | 1.00 | 0.00 |
+| Viggo Tapper | 7 | 8.71 | 2.86 | 0.71 | 0.86 | 1.57 |
 | Alvin Hertzman | 1 | 8.00 | 2.00 | 1.00 | 1.00 | 2.00 |
-| Eddy Kristofersson | 6 | 6.50 | 3.00 | 0.00 | 0.50 | 2.00 |
-| Beslagic Nail | 6 | 6.50 | 2.67 | 0.17 | 0.67 | 1.33 |
-| Jonathan Silverwaldt | 6 | 5.83 | 1.33 | 0.83 | 0.67 | 1.67 |
-| Andreas Persson | 5 | 5.20 | 1.20 | 0.80 | 0.40 | 2.00 |
+| Beslagic Nail | 7 | 6.86 | 2.57 | 0.14 | 1.29 | 1.14 |
+| Andreas Persson | 6 | 6.50 | 1.33 | 1.00 | 0.83 | 1.83 |
+| Eddy Kristofersson | 7 | 6.14 | 2.86 | 0.00 | 0.43 | 2.29 |
+| Jonathan Silverwaldt | 7 | 6.14 | 1.43 | 0.86 | 0.71 | 1.86 |
 | Wassem Al Hafez | 5 | 5.20 | 1.20 | 0.60 | 1.00 | 0.80 |
-| Christian Delgado Muñoz | 6 | 5.17 | 2.33 | 0.17 | 0.00 | 2.33 |
+| Christian Delgado Muñoz | 7 | 5.14 | 2.29 | 0.14 | 0.14 | 2.43 |
 | Ibrahim Salma | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 3.00 |
-| William Nordqvist | 5 | 2.80 | 1.40 | 0.00 | 0.00 | 0.40 |
-| Elaj Apell | 4 | 1.25 | 0.50 | 0.00 | 0.25 | 1.00 |
-| Jacob Faraj | 5 | 0.00 | 0.00 | 0.00 | 0.00 | 0.60 |
-| Linus Blomqvist | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| William Nordqvist | 6 | 2.33 | 1.17 | 0.00 | 0.00 | 0.67 |
+| Elaj Apell | 5 | 1.00 | 0.40 | 0.00 | 0.20 | 1.40 |
+| Jacob Faraj | 6 | 0.00 | 0.00 | 0.00 | 0.00 | 0.50 |
+| Linus Blomqvist | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | Nathan Mc Grath | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Högsbo Basket P11 vit - Kvarnby Basket Gul
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Colin Amnéus | 18 |  7 |  0 |  4 | 2 |
+| Andreas Persson | 13 |  2 |  2 |  3 | 1 |
+| Beslagic Nail |  9 |  2 |  0 |  5 | 0 |
+| Jonathan Silverwaldt |  8 |  2 |  1 |  1 | 3 |
+| Christian Delgado Muñoz |  5 |  2 |  0 |  1 | 3 |
+| Viggo Tapper |  4 |  1 |  0 |  2 | 1 |
+| Eddy Kristofersson |  4 |  2 |  0 |  0 | 4 |
+| William Nordqvist |  0 |  0 |  0 |  0 | 2 |
+| Elaj Apell |  0 |  0 |  0 |  0 | 3 |
+| Jacob Faraj |  0 |  0 |  0 |  0 | 0 |
+| Linus Blomqvist |  0 |  0 |  0 |  0 | 0 |
 
 ### Varbergs Basket - Högsbo Basket P11 vit
 

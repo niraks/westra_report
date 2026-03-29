@@ -4,28 +4,41 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| S:t Helena BK - Vit | 6 | 83.83 | 29.67 | 3.67 | 13.50 | 14.67 |
+| S:t Helena BK - Vit | 7 | 83.43 | 29.00 | 3.86 | 13.86 | 14.86 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Lion Ingvall | 6 | 25.50 | 7.00 | 1.83 | 6.00 | 3.50 |
-| Theo Kolicic | 6 | 20.17 | 8.17 | 0.33 | 2.83 | 2.50 |
+| Lion Ingvall | 7 | 27.86 | 7.86 | 2.00 | 6.14 | 3.57 |
+| Theo Kolicic | 7 | 20.43 | 8.29 | 0.29 | 3.00 | 2.71 |
 | Johan Montin | 5 | 20.00 | 8.20 | 0.60 | 1.80 | 1.80 |
-| Henning Lundberg | 4 | 16.00 | 4.75 | 1.25 | 2.75 | 2.50 |
+| Henning Lundberg | 5 | 16.00 | 4.40 | 1.40 | 3.00 | 3.00 |
 | Arvid Hogström | 2 | 7.00 | 3.50 | 0.00 | 0.00 | 2.00 |
 | Gustav Sahlberg | 1 | 6.00 | 3.00 | 0.00 | 0.00 | 2.00 |
 | Arthur Eriksson | 4 | 4.50 | 1.75 | 0.25 | 0.25 | 0.50 |
-| William Landenmark | 5 | 2.60 | 1.00 | 0.00 | 0.60 | 1.40 |
-| Sharbel Barkho | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 1.00 |
+| William Landenmark | 6 | 2.33 | 0.83 | 0.00 | 0.67 | 1.33 |
+| Sharbel Barkho | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.00 |
 | Muhammed Zuna | 4 | 1.00 | 0.25 | 0.00 | 0.50 | 1.25 |
 | Jan Barkho | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 2.50 |
 | Vincent Ageton | 4 | 0.75 | 0.25 | 0.00 | 0.25 | 0.75 |
-| Gustaf Brandshage | 4 | 0.75 | 0.25 | 0.00 | 0.25 | 1.00 |
+| Gustaf Brandshage | 5 | 0.60 | 0.20 | 0.00 | 0.20 | 1.00 |
 | Luka Lukic | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Basketklubben Marbo - S:t Helena BK - Vit
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Lion Ingvall | 42 | 13 |  3 |  7 | 4 |
+| Theo Kolicic | 22 |  9 |  0 |  4 | 4 |
+| Henning Lundberg | 16 |  3 |  2 |  4 | 5 |
+| William Landenmark |  1 |  0 |  0 |  1 | 1 |
+| Gustaf Brandshage |  0 |  0 |  0 |  0 | 1 |
+| Sharbel Barkho |  0 |  0 |  0 |  0 | 1 |
 
 ### S:t Helena BK - Vit - Pirates Basketboll Onsala
 

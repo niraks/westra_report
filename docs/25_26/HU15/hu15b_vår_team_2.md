@@ -4,23 +4,39 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Länghems Basket | 6 | 82.33 | 33.00 | 2.17 | 9.83 | 11.50 |
+| Länghems Basket | 7 | 80.14 | 31.86 | 2.14 | 10.00 | 11.86 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Noel Gustafsson | 6 | 26.00 | 9.83 | 0.50 | 4.83 | 2.33 |
-| Holger Nerman | 6 | 22.67 | 8.83 | 0.67 | 3.00 | 2.17 |
-| Isac Gustafsson Göransson | 6 | 11.50 | 5.33 | 0.00 | 0.83 | 3.17 |
-| Alvin Gustafsson Göransson | 6 | 7.17 | 2.50 | 0.50 | 0.67 | 2.67 |
-| Hugo Flack Georgsson | 6 | 5.00 | 2.17 | 0.17 | 0.17 | 0.17 |
-| Kevin Phoonjan | 3 | 4.67 | 2.33 | 0.00 | 0.00 | 0.00 |
-| Thyr Arvidsson Bouvin | 4 | 4.00 | 1.75 | 0.00 | 0.50 | 0.75 |
-| Malte Novén | 5 | 3.60 | 1.20 | 0.40 | 0.00 | 0.40 |
-| Elias Engen | 5 | 2.40 | 1.20 | 0.00 | 0.00 | 0.20 |
+| Noel Gustafsson | 7 | 25.14 | 9.43 | 0.57 | 4.57 | 2.29 |
+| Holger Nerman | 7 | 21.43 | 8.14 | 0.71 | 3.00 | 2.14 |
+| Isac Gustafsson Göransson | 7 | 11.14 | 5.14 | 0.00 | 0.86 | 3.29 |
+| Alvin Gustafsson Göransson | 7 | 7.43 | 2.57 | 0.43 | 1.00 | 2.86 |
+| Kevin Phoonjan | 4 | 5.50 | 2.75 | 0.00 | 0.00 | 0.00 |
+| Hugo Flack Georgsson | 7 | 4.57 | 2.00 | 0.14 | 0.14 | 0.14 |
+| Thyr Arvidsson Bouvin | 5 | 3.80 | 1.60 | 0.00 | 0.60 | 1.00 |
+| Malte Novén | 6 | 3.00 | 1.00 | 0.33 | 0.00 | 0.33 |
+| Elias Engen | 6 | 2.33 | 1.17 | 0.00 | 0.00 | 0.17 |
 
 ## Games
+
+### Länghems Basket - Eastside Dragons Blue
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Noel Gustafsson | 20 |  7 |  1 |  3 | 2 |
+| Holger Nerman | 14 |  4 |  1 |  3 | 2 |
+| Isac Gustafsson Göransson |  9 |  4 |  0 |  1 | 4 |
+| Alvin Gustafsson Göransson |  9 |  3 |  0 |  3 | 4 |
+| Kevin Phoonjan |  8 |  4 |  0 |  0 | 0 |
+| Thyr Arvidsson Bouvin |  3 |  1 |  0 |  1 | 2 |
+| Hugo Flack Georgsson |  2 |  1 |  0 |  0 | 0 |
+| Elias Engen |  2 |  1 |  0 |  0 | 0 |
+| Malte Novén |  0 |  0 |  0 |  0 | 0 |
 
 ### Länghems Basket - Basketklubben Marbo
 

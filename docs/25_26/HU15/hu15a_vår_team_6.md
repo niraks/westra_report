@@ -4,25 +4,40 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kungsbacka Basket Blå | 7 | 63.71 | 19.43 | 4.14 | 12.43 | 12.00 |
+| Kungsbacka Basket Blå | 8 | 61.88 | 19.25 | 3.88 | 11.75 | 11.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eric Svensson | 7 | 20.00 | 4.71 | 2.43 | 3.29 | 1.57 |
-| Malcom Truija Wellington | 7 | 11.86 | 3.57 | 0.57 | 3.00 | 1.43 |
+| Eric Svensson | 8 | 19.12 | 4.62 | 2.25 | 3.12 | 1.75 |
+| Malcom Truija Wellington | 8 | 12.25 | 3.75 | 0.62 | 2.88 | 1.50 |
 | Simon Bentley | 7 | 11.71 | 4.29 | 0.14 | 2.71 | 2.14 |
-| Nils Martinsson | 6 | 6.17 | 2.00 | 0.33 | 1.17 | 1.00 |
-| Algot Bui-Ljungqvist | 7 | 6.14 | 2.00 | 0.14 | 1.71 | 2.29 |
-| Dylan Lian | 6 | 4.17 | 1.83 | 0.00 | 0.50 | 1.00 |
-| Evan Fredriksson | 6 | 3.00 | 1.00 | 0.33 | 0.00 | 0.67 |
-| Melker Näsström | 5 | 3.00 | 1.00 | 0.20 | 0.40 | 1.80 |
+| Nils Martinsson | 7 | 6.29 | 2.00 | 0.29 | 1.43 | 1.00 |
+| Algot Bui-Ljungqvist | 8 | 6.12 | 2.12 | 0.12 | 1.50 | 2.25 |
+| Dylan Lian | 7 | 4.14 | 1.86 | 0.00 | 0.43 | 0.86 |
+| Evan Fredriksson | 7 | 2.86 | 1.00 | 0.29 | 0.00 | 0.57 |
+| Melker Näsström | 6 | 2.83 | 1.00 | 0.17 | 0.33 | 1.50 |
 | Oskar Armini Lönberg | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 2.50 |
+| Kristijonas Alminas | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | Elton Westlund | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
-| Kristijonas Alminas | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Kungsbacka Basket Blå - Högsbo Basket P11 röd
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Malcom Truija Wellington | 15 |  5 |  1 |  2 | 2 |
+| Eric Svensson | 13 |  4 |  1 |  2 | 3 |
+| Nils Martinsson |  7 |  2 |  0 |  3 | 1 |
+| Algot Bui-Ljungqvist |  6 |  3 |  0 |  0 | 2 |
+| Dylan Lian |  4 |  2 |  0 |  0 | 0 |
+| Evan Fredriksson |  2 |  1 |  0 |  0 | 0 |
+| Melker Näsström |  2 |  1 |  0 |  0 | 0 |
+| Kristijonas Alminas |  0 |  0 |  0 |  0 | 0 |
 
 ### Ale Basket - Kungsbacka Basket Blå
 

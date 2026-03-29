@@ -4,26 +4,56 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Trollhättans Basketbollklubb | 7 | 85.43 | 28.86 | 6.29 | 8.86 | 13.43 |
+| Trollhättans Basketbollklubb | 9 | 82.67 | 28.78 | 5.56 | 8.44 | 13.11 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ilon Åhman | 7 | 33.86 | 14.00 | 0.57 | 4.14 | 2.43 |
-| Oliver Reit | 7 | 25.00 | 4.86 | 4.57 | 1.57 | 1.57 |
-| Joseph Jonsson | 7 | 11.00 | 3.71 | 0.57 | 1.86 | 2.57 |
-| Gustav Karlsson Glasell | 6 | 10.00 | 4.33 | 0.17 | 0.83 | 3.00 |
-| Sabi Memedovski | 3 | 3.67 | 1.00 | 0.33 | 0.67 | 2.33 |
-| Hugo Gidlund | 5 | 2.20 | 0.80 | 0.20 | 0.00 | 0.60 |
-| Leo Larsson Flensner | 5 | 2.00 | 0.80 | 0.00 | 0.40 | 1.40 |
+| Ilon Åhman | 9 | 33.22 | 14.00 | 0.44 | 3.89 | 2.22 |
+| Oliver Reit | 9 | 22.11 | 4.44 | 4.00 | 1.22 | 1.22 |
+| Joseph Jonsson | 9 | 11.00 | 3.89 | 0.56 | 1.56 | 2.78 |
+| Gustav Karlsson Glasell | 8 | 10.88 | 4.50 | 0.12 | 1.50 | 3.00 |
+| Sabi Memedovski | 5 | 3.60 | 1.00 | 0.40 | 0.40 | 1.60 |
 | Viktor Brajkovic | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
-| Alexandru Dena | 7 | 1.86 | 0.71 | 0.14 | 0.00 | 1.86 |
+| Hugo Gidlund | 7 | 1.86 | 0.71 | 0.14 | 0.00 | 0.57 |
+| Alexandru Dena | 9 | 1.67 | 0.67 | 0.11 | 0.00 | 1.78 |
+| Leo Larsson Flensner | 7 | 1.43 | 0.57 | 0.00 | 0.29 | 1.43 |
 | Anas Khushfeh | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | Theodor Simonovic | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | Bassam Alolabi | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Ale Basket - Trollhättans Basketbollklubb
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Ilon Åhman | 25 | 12 |  0 |  1 | 1 |
+| Gustav Karlsson Glasell | 16 |  5 |  0 |  6 | 3 |
+| Oliver Reit | 10 |  2 |  2 |  0 | 0 |
+| Joseph Jonsson |  7 |  2 |  1 |  0 | 2 |
+| Sabi Memedovski |  5 |  1 |  1 |  0 | 0 |
+| Hugo Gidlund |  2 |  1 |  0 |  0 | 0 |
+| Alexandru Dena |  2 |  1 |  0 |  0 | 0 |
+| Leo Larsson Flensner |  0 |  0 |  0 |  0 | 0 |
+
+### Trollhättans Basketbollklubb - Ale Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Ilon Åhman | 37 | 16 |  0 |  5 | 2 |
+| Joseph Jonsson | 15 |  7 |  0 |  1 | 5 |
+| Oliver Reit | 14 |  4 |  2 |  0 | 0 |
+| Gustav Karlsson Glasell | 11 |  5 |  0 |  1 | 3 |
+| Sabi Memedovski |  2 |  1 |  0 |  0 | 1 |
+| Leo Larsson Flensner |  0 |  0 |  0 |  0 | 3 |
+| Hugo Gidlund |  0 |  0 |  0 |  0 | 1 |
+| Alexandru Dena |  0 |  0 |  0 |  0 | 3 |
 
 ### Trollhättans Basketbollklubb - Eastside Falcons
 

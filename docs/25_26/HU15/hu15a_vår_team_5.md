@@ -4,25 +4,39 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Gota Basket Blå | 7 | 65.29 | 20.86 | 4.57 | 9.86 | 12.43 |
+| Gota Basket Blå | 8 | 66.75 | 21.50 | 4.38 | 10.62 | 12.75 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Valter Larsson | 7 | 19.71 | 6.43 | 0.86 | 4.29 | 3.57 |
-| Filip Lundberg | 7 | 16.86 | 6.29 | 1.00 | 1.29 | 1.86 |
+| Valter Larsson | 8 | 21.12 | 6.62 | 0.88 | 5.25 | 3.50 |
+| Filip Lundberg | 8 | 18.50 | 6.88 | 1.12 | 1.38 | 1.75 |
 | Jakov Markovic | 1 | 12.00 | 4.00 | 0.00 | 4.00 | 1.00 |
-| Nikolas Magnusson Giannourakis | 7 | 7.86 | 2.14 | 0.86 | 1.00 | 1.86 |
+| Nikolas Magnusson Giannourakis | 8 | 8.00 | 2.38 | 0.75 | 1.00 | 2.00 |
 | Charlie Mattsson Meijer | 7 | 6.57 | 1.00 | 1.14 | 1.14 | 2.00 |
-| Lukaz Livén Jonsson | 6 | 5.00 | 1.50 | 0.33 | 1.00 | 0.83 |
+| Lukaz Livén Jonsson | 7 | 4.29 | 1.29 | 0.29 | 0.86 | 1.00 |
 | Alvin Bolteus | 6 | 4.17 | 1.67 | 0.17 | 0.33 | 1.00 |
 | Victor Björkman | 6 | 2.67 | 1.00 | 0.17 | 0.17 | 1.00 |
-| Charis Tyrovouzis | 6 | 1.83 | 0.67 | 0.17 | 0.00 | 0.33 |
-| Mansour Iyoun Soud | 3 | 1.67 | 0.67 | 0.00 | 0.33 | 0.00 |
-| Ebbe Crona-Sahlberg | 4 | 0.25 | 0.00 | 0.00 | 0.25 | 0.50 |
+| Mansour Iyoun Soud | 4 | 2.25 | 1.00 | 0.00 | 0.25 | 0.25 |
+| Charis Tyrovouzis | 7 | 2.00 | 0.71 | 0.14 | 0.14 | 0.57 |
+| Ebbe Crona-Sahlberg | 5 | 0.20 | 0.00 | 0.00 | 0.20 | 1.00 |
 
 ## Games
+
+### Eastside Falcons - Gota Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Valter Larsson | 31 |  8 |  1 | 12 | 3 |
+| Filip Lundberg | 30 | 11 |  2 |  2 | 1 |
+| Nikolas Magnusson Giannourakis |  9 |  4 |  0 |  1 | 3 |
+| Mansour Iyoun Soud |  4 |  2 |  0 |  0 | 1 |
+| Charis Tyrovouzis |  3 |  1 |  0 |  1 | 2 |
+| Ebbe Crona-Sahlberg |  0 |  0 |  0 |  0 | 3 |
+| Lukaz Livén Jonsson |  0 |  0 |  0 |  0 | 2 |
 
 ### Gota Basket Blå - Högsbo Basket P11 röd
 

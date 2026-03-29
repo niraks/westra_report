@@ -4,26 +4,42 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eastside Dragons Blue | 5 | 75.00 | 28.40 | 3.60 | 7.40 | 21.80 |
+| Eastside Dragons Blue | 6 | 79.33 | 29.67 | 3.83 | 8.50 | 21.33 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Noah Ringheim | 4 | 15.25 | 7.00 | 0.25 | 0.50 | 3.50 |
-| Nireas Solidakis | 5 | 15.00 | 3.40 | 2.40 | 1.00 | 2.20 |
-| Nikolas Frestad | 3 | 10.00 | 4.00 | 0.33 | 1.00 | 2.67 |
-| Aiden Kehoe | 3 | 9.00 | 4.00 | 0.33 | 0.00 | 2.33 |
-| Yuhanan Hailemichael | 5 | 9.00 | 3.60 | 0.20 | 1.20 | 3.20 |
-| Novak Punos | 5 | 8.60 | 3.60 | 0.00 | 1.40 | 0.80 |
+| Noah Ringheim | 5 | 16.60 | 7.60 | 0.20 | 0.80 | 3.60 |
+| Nireas Solidakis | 6 | 13.67 | 3.17 | 2.17 | 0.83 | 2.50 |
+| Nikolas Frestad | 4 | 11.00 | 4.25 | 0.25 | 1.75 | 2.00 |
+| Yuhanan Hailemichael | 6 | 10.83 | 4.17 | 0.50 | 1.00 | 3.17 |
+| Novak Punos | 6 | 10.67 | 4.50 | 0.00 | 1.67 | 0.83 |
+| Aiden Kehoe | 4 | 8.75 | 3.25 | 0.50 | 0.75 | 3.00 |
 | Henry von Knorring | 5 | 5.80 | 2.40 | 0.00 | 1.00 | 2.60 |
-| Michail Tsoposidis | 5 | 5.80 | 2.20 | 0.00 | 1.40 | 3.60 |
-| Arvid Germgård | 4 | 5.00 | 2.00 | 0.25 | 0.25 | 1.00 |
-| Leon Frestad | 4 | 4.00 | 1.50 | 0.25 | 0.25 | 3.00 |
+| Michail Tsoposidis | 6 | 5.33 | 1.83 | 0.17 | 1.17 | 3.33 |
+| Arvid Germgård | 5 | 4.40 | 1.80 | 0.20 | 0.20 | 0.80 |
+| Leon Frestad | 5 | 4.00 | 1.40 | 0.20 | 0.60 | 2.40 |
 | Sam Aldenborn | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
 | Marcus Asplund | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Länghems Basket - Eastside Dragons Blue
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Noah Ringheim | 22 | 10 |  0 |  2 | 4 |
+| Novak Punos | 21 |  9 |  0 |  3 | 1 |
+| Yuhanan Hailemichael | 20 |  7 |  2 |  0 | 3 |
+| Nikolas Frestad | 14 |  5 |  0 |  4 | 0 |
+| Aiden Kehoe |  8 |  1 |  1 |  3 | 5 |
+| Nireas Solidakis |  7 |  2 |  1 |  0 | 4 |
+| Leon Frestad |  4 |  1 |  0 |  2 | 0 |
+| Michail Tsoposidis |  3 |  0 |  1 |  0 | 2 |
+| Arvid Germgård |  2 |  1 |  0 |  0 | 0 |
 
 ### Eastside Dragons Blue - Kvarnby Basket Gul
 

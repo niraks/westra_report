@@ -4,25 +4,43 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Basketklubben Marbo | 5 | 74.00 | 26.40 | 3.80 | 9.80 | 13.80 |
+| Basketklubben Marbo | 6 | 74.83 | 26.67 | 4.00 | 9.50 | 14.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ludvig Skarin | 3 | 24.33 | 7.00 | 1.33 | 6.33 | 3.00 |
-| Rony Aljojo | 5 | 16.00 | 6.20 | 0.80 | 1.20 | 1.40 |
-| Harry Askerdal | 5 | 13.20 | 4.60 | 1.00 | 1.00 | 2.40 |
-| Elias Blidö | 4 | 10.00 | 4.50 | 0.00 | 1.00 | 1.25 |
-| Herman Haji | 5 | 6.80 | 2.40 | 0.40 | 0.80 | 2.20 |
-| Sigge Gemzell | 4 | 6.00 | 1.50 | 0.75 | 0.75 | 0.50 |
+| Ludvig Skarin | 4 | 22.50 | 6.25 | 1.25 | 6.25 | 2.50 |
+| Rony Aljojo | 6 | 18.33 | 6.83 | 1.17 | 1.17 | 2.00 |
+| Harry Askerdal | 6 | 13.00 | 4.83 | 0.83 | 0.83 | 2.50 |
+| Elias Blidö | 5 | 9.60 | 4.40 | 0.00 | 0.80 | 1.00 |
+| Herman Haji | 6 | 5.67 | 2.00 | 0.33 | 0.67 | 2.50 |
 | Hannes Nilsson | 4 | 5.00 | 1.50 | 0.25 | 1.25 | 0.25 |
-| Odai Ismaeil | 3 | 4.67 | 2.00 | 0.00 | 0.67 | 4.33 |
+| Sigge Gemzell | 5 | 4.80 | 1.20 | 0.60 | 0.60 | 0.40 |
 | Oscar Linder | 2 | 4.50 | 2.00 | 0.00 | 0.50 | 2.50 |
-| Anton Marknäs | 3 | 3.33 | 1.67 | 0.00 | 0.00 | 0.67 |
-| Houssam Al Kotob | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
+| Odai Ismaeil | 4 | 4.25 | 1.75 | 0.00 | 0.75 | 4.00 |
+| Anton Marknäs | 4 | 4.00 | 2.00 | 0.00 | 0.00 | 0.75 |
+| Houssam Al Kotob | 3 | 1.00 | 0.00 | 0.33 | 0.00 | 1.00 |
+| Oskar Backström | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Basketklubben Marbo - S:t Helena BK - Vit
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Rony Aljojo | 30 | 10 |  3 |  1 | 5 |
+| Ludvig Skarin | 17 |  4 |  1 |  6 | 1 |
+| Harry Askerdal | 12 |  6 |  0 |  0 | 3 |
+| Elias Blidö |  8 |  4 |  0 |  0 | 0 |
+| Anton Marknäs |  6 |  3 |  0 |  0 | 1 |
+| Houssam Al Kotob |  3 |  0 |  1 |  0 | 1 |
+| Odai Ismaeil |  3 |  1 |  0 |  1 | 3 |
+| Herman Haji |  0 |  0 |  0 |  0 | 4 |
+| Oskar Backström |  0 |  0 |  0 |  0 | 0 |
+| Sigge Gemzell |  0 |  0 |  0 |  0 | 0 |
 
 ### Länghems Basket - Basketklubben Marbo
 

@@ -4,24 +4,41 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eastside Falcons | 8 | 76.38 | 28.00 | 4.25 | 7.62 | 16.12 |
+| Eastside Falcons | 9 | 77.22 | 28.56 | 4.22 | 7.44 | 17.00 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Evangelos Kochliaridis | 8 | 13.50 | 4.12 | 1.25 | 1.50 | 1.62 |
-| Christian Gonzal | 8 | 13.38 | 6.12 | 0.00 | 1.12 | 1.88 |
-| Vincent Uzieblo | 8 | 11.38 | 4.38 | 0.12 | 2.25 | 1.38 |
-| Hjalmar Spångberg | 8 | 11.38 | 5.38 | 0.00 | 0.62 | 2.62 |
-| Vigan Raci | 8 | 9.88 | 3.50 | 0.62 | 1.00 | 1.62 |
-| Otis Foon | 7 | 6.43 | 1.43 | 1.14 | 0.14 | 0.57 |
-| Vidar Ekström | 8 | 6.12 | 0.75 | 1.25 | 0.88 | 3.50 |
-| Albin Helmfridsson | 8 | 2.75 | 1.38 | 0.00 | 0.00 | 1.00 |
-| Liam Dahlén | 3 | 2.00 | 1.00 | 0.00 | 0.00 | 0.67 |
-| Theodor Markey | 8 | 1.62 | 0.75 | 0.00 | 0.12 | 1.75 |
+| Evangelos Kochliaridis | 9 | 13.11 | 3.67 | 1.44 | 1.44 | 1.78 |
+| Christian Gonzal | 9 | 12.56 | 5.78 | 0.00 | 1.00 | 1.78 |
+| Vincent Uzieblo | 9 | 12.22 | 4.89 | 0.11 | 2.11 | 1.22 |
+| Hjalmar Spångberg | 9 | 12.00 | 5.56 | 0.00 | 0.89 | 2.67 |
+| Vigan Raci | 9 | 9.56 | 3.33 | 0.67 | 0.89 | 1.56 |
+| Otis Foon | 8 | 5.62 | 1.25 | 1.00 | 0.12 | 1.12 |
+| Vidar Ekström | 9 | 5.44 | 0.67 | 1.11 | 0.78 | 3.44 |
+| Liam Dahlén | 4 | 4.25 | 2.00 | 0.00 | 0.25 | 1.25 |
+| Theodor Markey | 9 | 2.78 | 1.33 | 0.00 | 0.11 | 1.89 |
+| Albin Helmfridsson | 9 | 2.67 | 1.33 | 0.00 | 0.00 | 1.11 |
 
 ## Games
+
+### Eastside Falcons - Gota Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Vincent Uzieblo | 19 |  9 |  0 |  1 | 0 |
+| Hjalmar Spångberg | 17 |  7 |  0 |  3 | 3 |
+| Theodor Markey | 12 |  6 |  0 |  0 | 3 |
+| Liam Dahlén | 11 |  5 |  0 |  1 | 3 |
+| Evangelos Kochliaridis | 10 |  0 |  3 |  1 | 3 |
+| Vigan Raci |  7 |  2 |  1 |  0 | 1 |
+| Christian Gonzal |  6 |  3 |  0 |  0 | 1 |
+| Albin Helmfridsson |  2 |  1 |  0 |  0 | 2 |
+| Otis Foon |  0 |  0 |  0 |  0 | 5 |
+| Vidar Ekström |  0 |  0 |  0 |  0 | 3 |
 
 ### Trollhättans Basketbollklubb - Eastside Falcons
 
