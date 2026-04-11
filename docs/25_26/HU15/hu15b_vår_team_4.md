@@ -4,26 +4,43 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Basketklubben Marbo | 6 | 74.83 | 26.67 | 4.00 | 9.50 | 14.50 |
+| Basketklubben Marbo | 7 | 75.71 | 26.57 | 4.29 | 9.71 | 14.43 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ludvig Skarin | 4 | 22.50 | 6.25 | 1.25 | 6.25 | 2.50 |
-| Rony Aljojo | 6 | 18.33 | 6.83 | 1.17 | 1.17 | 2.00 |
-| Harry Askerdal | 6 | 13.00 | 4.83 | 0.83 | 0.83 | 2.50 |
+| Ludvig Skarin | 5 | 23.20 | 7.20 | 1.00 | 5.80 | 2.20 |
+| Rony Aljojo | 7 | 18.14 | 6.14 | 1.43 | 1.57 | 2.29 |
+| Harry Askerdal | 7 | 13.86 | 5.14 | 0.86 | 1.00 | 2.57 |
 | Elias Blidö | 5 | 9.60 | 4.40 | 0.00 | 0.80 | 1.00 |
-| Herman Haji | 6 | 5.67 | 2.00 | 0.33 | 0.67 | 2.50 |
-| Hannes Nilsson | 4 | 5.00 | 1.50 | 0.25 | 1.25 | 0.25 |
-| Sigge Gemzell | 5 | 4.80 | 1.20 | 0.60 | 0.60 | 0.40 |
+| Odai Ismaeil | 5 | 5.00 | 1.60 | 0.40 | 0.60 | 3.80 |
+| Herman Haji | 7 | 5.00 | 1.71 | 0.29 | 0.71 | 2.29 |
+| Anton Marknäs | 5 | 4.80 | 2.40 | 0.00 | 0.00 | 0.60 |
 | Oscar Linder | 2 | 4.50 | 2.00 | 0.00 | 0.50 | 2.50 |
-| Odai Ismaeil | 4 | 4.25 | 1.75 | 0.00 | 0.75 | 4.00 |
-| Anton Marknäs | 4 | 4.00 | 2.00 | 0.00 | 0.00 | 0.75 |
-| Houssam Al Kotob | 3 | 1.00 | 0.00 | 0.33 | 0.00 | 1.00 |
-| Oskar Backström | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Hannes Nilsson | 5 | 4.40 | 1.40 | 0.20 | 1.00 | 0.40 |
+| Sigge Gemzell | 6 | 4.00 | 1.00 | 0.50 | 0.50 | 0.50 |
+| Houssam Al Kotob | 4 | 0.75 | 0.00 | 0.25 | 0.00 | 0.75 |
+| Oskar Backström | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Basketklubben Marbo - Eastside Dragons Blue
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Ludvig Skarin | 26 | 11 |  0 |  4 | 1 |
+| Harry Askerdal | 19 |  7 |  1 |  2 | 3 |
+| Rony Aljojo | 17 |  2 |  3 |  4 | 4 |
+| Odai Ismaeil |  8 |  1 |  2 |  0 | 3 |
+| Anton Marknäs |  8 |  4 |  0 |  0 | 0 |
+| Hannes Nilsson |  2 |  1 |  0 |  0 | 1 |
+| Herman Haji |  1 |  0 |  0 |  1 | 1 |
+| Houssam Al Kotob |  0 |  0 |  0 |  0 | 0 |
+| Oskar Backström |  0 |  0 |  0 |  0 | 0 |
+| Sigge Gemzell |  0 |  0 |  0 |  0 | 1 |
 
 ### Basketklubben Marbo - S:t Helena BK - Vit
 

@@ -1,27 +1,24 @@
-# Statistics for Eastside Dragons Blue
+# Statistics for Länghems Basket
 
 ## Team summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eastside Dragons Blue | 6 | 79.33 | 29.67 | 3.83 | 8.50 | 21.33 |
+| Länghems Basket | 7 | 80.14 | 31.86 | 2.14 | 10.00 | 11.86 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Noah Ringheim | 5 | 16.60 | 7.60 | 0.20 | 0.80 | 3.60 |
-| Nireas Solidakis | 6 | 13.67 | 3.17 | 2.17 | 0.83 | 2.50 |
-| Nikolas Frestad | 4 | 11.00 | 4.25 | 0.25 | 1.75 | 2.00 |
-| Yuhanan Hailemichael | 6 | 10.83 | 4.17 | 0.50 | 1.00 | 3.17 |
-| Novak Punos | 6 | 10.67 | 4.50 | 0.00 | 1.67 | 0.83 |
-| Aiden Kehoe | 4 | 8.75 | 3.25 | 0.50 | 0.75 | 3.00 |
-| Henry von Knorring | 5 | 5.80 | 2.40 | 0.00 | 1.00 | 2.60 |
-| Michail Tsoposidis | 6 | 5.33 | 1.83 | 0.17 | 1.17 | 3.33 |
-| Arvid Germgård | 5 | 4.40 | 1.80 | 0.20 | 0.20 | 0.80 |
-| Leon Frestad | 5 | 4.00 | 1.40 | 0.20 | 0.60 | 2.40 |
-| Sam Aldenborn | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 1.00 |
-| Marcus Asplund | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| Noel Gustafsson | 7 | 25.14 | 9.43 | 0.57 | 4.57 | 2.29 |
+| Holger Nerman | 7 | 21.43 | 8.14 | 0.71 | 3.00 | 2.14 |
+| Isac Gustafsson Göransson | 7 | 11.14 | 5.14 | 0.00 | 0.86 | 3.29 |
+| Alvin Gustafsson Göransson | 7 | 7.43 | 2.57 | 0.43 | 1.00 | 2.86 |
+| Kevin Phoonjan | 4 | 5.50 | 2.75 | 0.00 | 0.00 | 0.00 |
+| Hugo Flack Georgsson | 7 | 4.57 | 2.00 | 0.14 | 0.14 | 0.14 |
+| Thyr Arvidsson Bouvin | 5 | 3.80 | 1.60 | 0.00 | 0.60 | 1.00 |
+| Malte Novén | 6 | 3.00 | 1.00 | 0.33 | 0.00 | 0.33 |
+| Elias Engen | 6 | 2.33 | 1.17 | 0.00 | 0.00 | 0.17 |
 
 ## Games
 
@@ -31,94 +28,102 @@ Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Noah Ringheim | 22 | 10 |  0 |  2 | 4 |
-| Novak Punos | 21 |  9 |  0 |  3 | 1 |
-| Yuhanan Hailemichael | 20 |  7 |  2 |  0 | 3 |
-| Nikolas Frestad | 14 |  5 |  0 |  4 | 0 |
-| Aiden Kehoe |  8 |  1 |  1 |  3 | 5 |
-| Nireas Solidakis |  7 |  2 |  1 |  0 | 4 |
-| Leon Frestad |  4 |  1 |  0 |  2 | 0 |
-| Michail Tsoposidis |  3 |  0 |  1 |  0 | 2 |
-| Arvid Germgård |  2 |  1 |  0 |  0 | 0 |
+| Noel Gustafsson | 20 |  7 |  1 |  3 | 2 |
+| Holger Nerman | 14 |  4 |  1 |  3 | 2 |
+| Isac Gustafsson Göransson |  9 |  4 |  0 |  1 | 4 |
+| Alvin Gustafsson Göransson |  9 |  3 |  0 |  3 | 4 |
+| Kevin Phoonjan |  8 |  4 |  0 |  0 | 0 |
+| Thyr Arvidsson Bouvin |  3 |  1 |  0 |  1 | 2 |
+| Hugo Flack Georgsson |  2 |  1 |  0 |  0 | 0 |
+| Elias Engen |  2 |  1 |  0 |  0 | 0 |
+| Malte Novén |  0 |  0 |  0 |  0 | 0 |
 
-### Eastside Dragons Blue - Kvarnby Basket Gul
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Noah Ringheim | 15 |  6 |  1 |  0 | 4 |
-| Nireas Solidakis | 13 |  3 |  1 |  4 | 0 |
-| Novak Punos | 13 |  5 |  0 |  3 | 2 |
-| Henry von Knorring | 11 |  5 |  0 |  1 | 4 |
-| Yuhanan Hailemichael | 10 |  5 |  0 |  0 | 2 |
-| Michail Tsoposidis |  7 |  3 |  0 |  1 | 3 |
-| Nikolas Frestad |  6 |  3 |  0 |  0 | 2 |
-| Leon Frestad |  4 |  2 |  0 |  0 | 4 |
-| Aiden Kehoe |  0 |  0 |  0 |  0 | 2 |
-| Arvid Germgård |  0 |  0 |  0 |  0 | 0 |
-
-### Eastside Dragons Blue - Varbergs Basket
+### Länghems Basket - Basketklubben Marbo
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Noah Ringheim | 15 |  7 |  0 |  1 | 4 |
-| Yuhanan Hailemichael | 10 |  3 |  1 |  1 | 1 |
-| Novak Punos | 10 |  4 |  0 |  2 | 2 |
-| Leon Frestad |  9 |  3 |  1 |  0 | 3 |
-| Nireas Solidakis |  7 |  2 |  1 |  0 | 3 |
-| Michail Tsoposidis |  7 |  2 |  0 |  3 | 3 |
-| Henry von Knorring |  5 |  2 |  0 |  1 | 5 |
-| Arvid Germgård |  2 |  1 |  0 |  0 | 1 |
+| Noel Gustafsson | 28 | 11 |  1 |  3 | 3 |
+| Holger Nerman | 23 | 11 |  0 |  1 | 2 |
+| Isac Gustafsson Göransson | 20 |  9 |  0 |  2 | 4 |
+| Alvin Gustafsson Göransson |  7 |  3 |  0 |  1 | 2 |
+| Malte Novén |  7 |  2 |  1 |  0 | 0 |
+| Elias Engen |  4 |  2 |  0 |  0 | 0 |
+| Thyr Arvidsson Bouvin |  4 |  2 |  0 |  0 | 0 |
+| Hugo Flack Georgsson |  2 |  1 |  0 |  0 | 0 |
 
-### Eastside Dragons Blue - S:t Helena BK - Vit
-
-Players (sorted by points)
-
-| Name | Points | 2PM | 3PM | FT | Fouls |
-|:-----|-------:|----:|----:|---:|------:|
-| Nireas Solidakis | 21 |  4 |  4 |  1 | 3 |
-| Noah Ringheim | 21 | 10 |  0 |  1 | 4 |
-| Aiden Kehoe | 13 |  5 |  1 |  0 | 2 |
-| Nikolas Frestad |  9 |  4 |  0 |  1 | 5 |
-| Arvid Germgård |  7 |  2 |  1 |  0 | 0 |
-| Michail Tsoposidis |  6 |  3 |  0 |  0 | 3 |
-| Yuhanan Hailemichael |  4 |  2 |  0 |  0 | 5 |
-| Novak Punos |  4 |  2 |  0 |  0 | 0 |
-| Leon Frestad |  2 |  1 |  0 |  0 | 2 |
-| Henry von Knorring |  2 |  1 |  0 |  0 | 2 |
-
-### Pirates Basketboll Onsala - Eastside Dragons Blue
+### Pirates Basketboll Onsala - Länghems Basket
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Nireas Solidakis | 21 |  6 |  3 |  0 | 3 |
-| Yuhanan Hailemichael | 17 |  6 |  0 |  5 | 5 |
-| Arvid Germgård | 11 |  5 |  0 |  1 | 3 |
-| Michail Tsoposidis |  9 |  3 |  0 |  3 | 5 |
-| Novak Punos |  8 |  3 |  0 |  2 | 0 |
-| Henry von Knorring |  7 |  3 |  0 |  1 | 2 |
-| Sam Aldenborn |  0 |  0 |  0 |  0 | 0 |
-| Marcus Asplund |  0 |  0 |  0 |  0 | 0 |
+| Noel Gustafsson | 30 | 13 |  1 |  1 | 2 |
+| Holger Nerman | 27 | 10 |  0 |  7 | 1 |
+| Isac Gustafsson Göransson | 13 |  5 |  0 |  3 | 4 |
+| Alvin Gustafsson Göransson |  9 |  4 |  0 |  1 | 3 |
+| Hugo Flack Georgsson |  8 |  4 |  0 |  0 | 0 |
+| Thyr Arvidsson Bouvin |  6 |  2 |  0 |  2 | 0 |
+| Malte Novén |  4 |  2 |  0 |  0 | 1 |
+| Elias Engen |  0 |  0 |  0 |  0 | 0 |
 
-### Högsbo Basket P11 vit - Eastside Dragons Blue
+### Länghems Basket - Högsbo Basket P11 vit
 
 Players (sorted by points)
 
 | Name | Points | 2PM | 3PM | FT | Fouls |
 |:-----|-------:|----:|----:|---:|------:|
-| Nikolas Frestad | 15 |  5 |  1 |  2 | 1 |
-| Aiden Kehoe | 14 |  7 |  0 |  0 | 3 |
-| Nireas Solidakis | 13 |  2 |  3 |  0 | 2 |
-| Noah Ringheim | 10 |  5 |  0 |  0 | 2 |
-| Novak Punos |  8 |  4 |  0 |  0 | 0 |
-| Yuhanan Hailemichael |  4 |  2 |  0 |  0 | 3 |
-| Henry von Knorring |  4 |  1 |  0 |  2 | 0 |
-| Leon Frestad |  1 |  0 |  0 |  1 | 3 |
-| Sam Aldenborn |  0 |  0 |  0 |  0 | 2 |
-| Michail Tsoposidis |  0 |  0 |  0 |  0 | 4 |
+| Noel Gustafsson | 22 |  7 |  0 |  8 | 2 |
+| Holger Nerman | 21 |  9 |  0 |  3 | 1 |
+| Alvin Gustafsson Göransson | 11 |  2 |  2 |  1 | 1 |
+| Isac Gustafsson Göransson |  6 |  3 |  0 |  0 | 3 |
+| Kevin Phoonjan |  6 |  3 |  0 |  0 | 0 |
+| Hugo Flack Georgsson |  4 |  2 |  0 |  0 | 0 |
+| Elias Engen |  4 |  2 |  0 |  0 | 0 |
+| Thyr Arvidsson Bouvin |  2 |  1 |  0 |  0 | 2 |
+| Malte Novén |  0 |  0 |  0 |  0 | 0 |
+
+### Kvarnby Basket Gul - Länghems Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Noel Gustafsson | 28 | 12 |  0 |  4 | 3 |
+| Holger Nerman | 21 |  8 |  1 |  2 | 2 |
+| Isac Gustafsson Göransson | 10 |  5 |  0 |  0 | 4 |
+| Hugo Flack Georgsson |  9 |  3 |  1 |  0 | 0 |
+| Kevin Phoonjan |  6 |  3 |  0 |  0 | 0 |
+| Malte Novén |  4 |  2 |  0 |  0 | 0 |
+| Alvin Gustafsson Göransson |  2 |  1 |  0 |  0 | 2 |
+| Elias Engen |  2 |  1 |  0 |  0 | 0 |
+
+### Länghems Basket - Varbergs Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Noel Gustafsson | 28 |  9 |  1 |  7 | 2 |
+| Holger Nerman | 27 |  8 |  2 |  5 | 2 |
+| Alvin Gustafsson Göransson |  7 |  3 |  0 |  1 | 3 |
+| Isac Gustafsson Göransson |  6 |  3 |  0 |  0 | 3 |
+| Hugo Flack Georgsson |  6 |  3 |  0 |  0 | 1 |
+| Thyr Arvidsson Bouvin |  4 |  2 |  0 |  0 | 1 |
+| Kevin Phoonjan |  2 |  1 |  0 |  0 | 0 |
+| Elias Engen |  2 |  1 |  0 |  0 | 1 |
+
+### S:t Helena BK - Vit - Länghems Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Noel Gustafsson | 20 |  7 |  0 |  6 | 2 |
+| Holger Nerman | 17 |  7 |  1 |  0 | 5 |
+| Isac Gustafsson Göransson | 14 |  7 |  0 |  0 | 1 |
+| Alvin Gustafsson Göransson |  7 |  2 |  1 |  0 | 5 |
+| Malte Novén |  3 |  0 |  1 |  0 | 1 |
+| Hugo Flack Georgsson |  1 |  0 |  0 |  1 | 0 |
 
