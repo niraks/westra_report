@@ -38,8 +38,8 @@
 | 4 | [Filip Lundberg](hu15a_vår_team_5.md) | 6.88 |
 | 5 | [Valter Larsson](hu15a_vår_team_5.md) | 6.62 |
 | 6 | [Christian Gonzal](hu15a_vår_team_4.md) | 5.78 |
-| 7 | [Fabian Hjärtinge](hu15a_vår_team_2.md) | 5.56 |
 | 7 | [Hjalmar Spångberg](hu15a_vår_team_4.md) | 5.56 |
+| 7 | [Fabian Hjärtinge](hu15a_vår_team_2.md) | 5.56 |
 | 9 | [Charlie Lindblom](hu15a_vår_team_2.md) | 5.12 |
 | 10 | [Vincent Uzieblo](hu15a_vår_team_4.md) | 4.89 |
 
@@ -49,8 +49,8 @@
 |----:|:-------|------:|
 | 1 | [Oliver Reit](hu15a_vår_team_3.md) | 4.00 |
 | 2 | [Emil Järvinen](hu15a_vår_team_2.md) | 3.00 |
-| 3 | [Charlie Lindblom](hu15a_vår_team_2.md) | 2.25 |
 | 3 | [Eric Svensson](hu15a_vår_team_6.md) | 2.25 |
+| 3 | [Charlie Lindblom](hu15a_vår_team_2.md) | 2.25 |
 | 5 | [Felix Rezler](hu15a_vår_team_1.md) | 2.14 |
 | 6 | [Andreas Persson](hu15a_vår_team_1.md) | 1.50 |
 | 7 | [Evangelos Kochliaridis](hu15a_vår_team_4.md) | 1.44 |
@@ -77,14 +77,14 @@
 
 | Rank | Player | Value |
 |----:|:-------|------:|
+| 1 | [Eric Svensson](hu15a_vår_team_6.md) | 2.00 |
 | 1 | [Wilmer Myhr](hu15a_vår_team_1.md) | 2.00 |
 | 1 | [Washington Adanihomwan](hu15a_vår_team_2.md) | 2.00 |
-| 1 | [Eric Svensson](hu15a_vår_team_6.md) | 2.00 |
-| 4 | [Colin Amnéus](hu15a_vår_team_1.md) | 1.00 |
-| 4 | [Oliver Reit](hu15a_vår_team_3.md) | 1.00 |
 | 4 | [Filip Lundberg](hu15a_vår_team_5.md) | 1.00 |
+| 4 | [Malcom Truija Wellington](hu15a_vår_team_6.md) | 1.00 |
+| 4 | [Oliver Reit](hu15a_vår_team_3.md) | 1.00 |
+| 4 | [Colin Amnéus](hu15a_vår_team_1.md) | 1.00 |
 | 4 | [David Franco Weihe](hu15a_vår_team_2.md) | 1.00 |
 | 4 | [Emil Järvinen](hu15a_vår_team_2.md) | 1.00 |
 | 4 | [Fabian Hjärtinge](hu15a_vår_team_2.md) | 1.00 |
-| 4 | [Malcom Truija Wellington](hu15a_vår_team_6.md) | 1.00 |
 
