@@ -4,26 +4,41 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Trollhättans Basketbollklubb | 9 | 82.67 | 28.78 | 5.56 | 8.44 | 13.11 |
+| Trollhättans Basketbollklubb | 10 | 84.10 | 29.70 | 5.40 | 8.50 | 13.20 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ilon Åhman | 9 | 33.22 | 14.00 | 0.44 | 3.89 | 2.22 |
-| Oliver Reit | 9 | 22.11 | 4.44 | 4.00 | 1.22 | 1.22 |
-| Joseph Jonsson | 9 | 11.00 | 3.89 | 0.56 | 1.56 | 2.78 |
-| Gustav Karlsson Glasell | 8 | 10.88 | 4.50 | 0.12 | 1.50 | 3.00 |
-| Sabi Memedovski | 5 | 3.60 | 1.00 | 0.40 | 0.40 | 1.60 |
+| Ilon Åhman | 10 | 33.70 | 14.20 | 0.40 | 4.10 | 2.10 |
+| Oliver Reit | 10 | 21.70 | 4.30 | 4.00 | 1.10 | 1.40 |
+| Gustav Karlsson Glasell | 9 | 11.67 | 5.00 | 0.11 | 1.33 | 3.11 |
+| Joseph Jonsson | 10 | 11.40 | 4.10 | 0.50 | 1.70 | 2.70 |
+| Sabi Memedovski | 6 | 3.00 | 0.83 | 0.33 | 0.33 | 1.33 |
 | Viktor Brajkovic | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
-| Hugo Gidlund | 7 | 1.86 | 0.71 | 0.14 | 0.00 | 0.57 |
-| Alexandru Dena | 9 | 1.67 | 0.67 | 0.11 | 0.00 | 1.78 |
-| Leo Larsson Flensner | 7 | 1.43 | 0.57 | 0.00 | 0.29 | 1.43 |
+| Alexandru Dena | 10 | 1.90 | 0.80 | 0.10 | 0.00 | 1.90 |
+| Hugo Gidlund | 8 | 1.88 | 0.75 | 0.12 | 0.00 | 0.50 |
+| Leo Larsson Flensner | 8 | 1.50 | 0.62 | 0.00 | 0.25 | 1.38 |
 | Anas Khushfeh | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | Theodor Simonovic | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | Bassam Alolabi | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Trollhättans Basketbollklubb - Kungsbacka Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Ilon Åhman | 38 | 16 |  0 |  6 | 1 |
+| Oliver Reit | 18 |  3 |  4 |  0 | 3 |
+| Gustav Karlsson Glasell | 18 |  9 |  0 |  0 | 4 |
+| Joseph Jonsson | 15 |  6 |  0 |  3 | 2 |
+| Alexandru Dena |  4 |  2 |  0 |  0 | 3 |
+| Leo Larsson Flensner |  2 |  1 |  0 |  0 | 1 |
+| Hugo Gidlund |  2 |  1 |  0 |  0 | 0 |
+| Sabi Memedovski |  0 |  0 |  0 |  0 | 0 |
 
 ### Ale Basket - Trollhättans Basketbollklubb
 

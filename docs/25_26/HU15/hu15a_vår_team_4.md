@@ -4,24 +4,43 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eastside Falcons | 9 | 77.22 | 28.56 | 4.22 | 7.44 | 17.00 |
+| Eastside Falcons | 10 | 75.10 | 27.50 | 4.20 | 7.50 | 16.80 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Evangelos Kochliaridis | 9 | 13.11 | 3.67 | 1.44 | 1.44 | 1.78 |
-| Christian Gonzal | 9 | 12.56 | 5.78 | 0.00 | 1.00 | 1.78 |
-| Vincent Uzieblo | 9 | 12.22 | 4.89 | 0.11 | 2.11 | 1.22 |
-| Hjalmar Spångberg | 9 | 12.00 | 5.56 | 0.00 | 0.89 | 2.67 |
-| Vigan Raci | 9 | 9.56 | 3.33 | 0.67 | 0.89 | 1.56 |
-| Otis Foon | 8 | 5.62 | 1.25 | 1.00 | 0.12 | 1.12 |
-| Vidar Ekström | 9 | 5.44 | 0.67 | 1.11 | 0.78 | 3.44 |
-| Liam Dahlén | 4 | 4.25 | 2.00 | 0.00 | 0.25 | 1.25 |
-| Theodor Markey | 9 | 2.78 | 1.33 | 0.00 | 0.11 | 1.89 |
-| Albin Helmfridsson | 9 | 2.67 | 1.33 | 0.00 | 0.00 | 1.11 |
+| Evangelos Kochliaridis | 10 | 12.40 | 3.60 | 1.30 | 1.30 | 1.80 |
+| Christian Gonzal | 10 | 12.40 | 5.70 | 0.00 | 1.00 | 1.90 |
+| Hjalmar Spångberg | 10 | 12.20 | 5.40 | 0.10 | 1.10 | 2.50 |
+| Vincent Uzieblo | 10 | 11.40 | 4.60 | 0.10 | 1.90 | 1.10 |
+| Vigan Raci | 10 | 9.60 | 3.20 | 0.80 | 0.80 | 1.80 |
+| Otis Foon | 9 | 5.33 | 1.11 | 1.00 | 0.11 | 1.00 |
+| Vidar Ekström | 10 | 5.10 | 0.70 | 1.00 | 0.70 | 3.20 |
+| Liam Dahlén | 5 | 3.40 | 1.60 | 0.00 | 0.20 | 1.00 |
+| Theodor Markey | 10 | 2.70 | 1.30 | 0.00 | 0.10 | 1.80 |
+| Albin Helmfridsson | 10 | 2.60 | 1.20 | 0.00 | 0.20 | 1.10 |
+| Melker Ciba | 1 | 2.00 | 0.00 | 0.00 | 2.00 | 2.00 |
 
 ## Games
+
+### Högsbo Basket P11 röd - Eastside Falcons
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Hjalmar Spångberg | 14 |  4 |  1 |  3 | 1 |
+| Christian Gonzal | 11 |  5 |  0 |  1 | 3 |
+| Vigan Raci | 10 |  2 |  2 |  0 | 4 |
+| Evangelos Kochliaridis |  6 |  3 |  0 |  0 | 2 |
+| Vincent Uzieblo |  4 |  2 |  0 |  0 | 0 |
+| Otis Foon |  3 |  0 |  1 |  0 | 0 |
+| Albin Helmfridsson |  2 |  0 |  0 |  2 | 1 |
+| Theodor Markey |  2 |  1 |  0 |  0 | 1 |
+| Vidar Ekström |  2 |  1 |  0 |  0 | 1 |
+| Melker Ciba |  2 |  0 |  0 |  2 | 2 |
+| Liam Dahlén |  0 |  0 |  0 |  0 | 0 |
 
 ### Eastside Falcons - Gota Basket Blå
 

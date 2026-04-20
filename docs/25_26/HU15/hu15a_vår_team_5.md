@@ -4,25 +4,60 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Gota Basket Blå | 8 | 66.75 | 21.50 | 4.38 | 10.62 | 12.75 |
+| Gota Basket Blå | 10 | 64.70 | 21.50 | 3.80 | 10.30 | 13.40 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Valter Larsson | 8 | 21.12 | 6.62 | 0.88 | 5.25 | 3.50 |
-| Filip Lundberg | 8 | 18.50 | 6.88 | 1.12 | 1.38 | 1.75 |
+| Valter Larsson | 9 | 22.11 | 7.00 | 0.89 | 5.44 | 3.44 |
+| Filip Lundberg | 10 | 18.40 | 7.00 | 1.00 | 1.40 | 1.90 |
 | Jakov Markovic | 1 | 12.00 | 4.00 | 0.00 | 4.00 | 1.00 |
-| Nikolas Magnusson Giannourakis | 8 | 8.00 | 2.38 | 0.75 | 1.00 | 2.00 |
-| Charlie Mattsson Meijer | 7 | 6.57 | 1.00 | 1.14 | 1.14 | 2.00 |
-| Lukaz Livén Jonsson | 7 | 4.29 | 1.29 | 0.29 | 0.86 | 1.00 |
-| Alvin Bolteus | 6 | 4.17 | 1.67 | 0.17 | 0.33 | 1.00 |
-| Victor Björkman | 6 | 2.67 | 1.00 | 0.17 | 0.17 | 1.00 |
-| Mansour Iyoun Soud | 4 | 2.25 | 1.00 | 0.00 | 0.25 | 0.25 |
-| Charis Tyrovouzis | 7 | 2.00 | 0.71 | 0.14 | 0.14 | 0.57 |
-| Ebbe Crona-Sahlberg | 5 | 0.20 | 0.00 | 0.00 | 0.20 | 1.00 |
+| Nikolas Magnusson Giannourakis | 10 | 9.00 | 2.80 | 0.60 | 1.60 | 2.20 |
+| Charlie Mattsson Meijer | 9 | 5.78 | 1.11 | 0.89 | 0.89 | 2.11 |
+| Alvin Bolteus | 7 | 4.14 | 1.71 | 0.14 | 0.29 | 1.43 |
+| Erik Helgesson | 1 | 4.00 | 2.00 | 0.00 | 0.00 | 0.00 |
+| Lukaz Livén Jonsson | 8 | 3.75 | 1.12 | 0.25 | 0.75 | 1.12 |
+| Daniel Ecker | 1 | 3.00 | 0.00 | 1.00 | 0.00 | 0.00 |
+| Victor Björkman | 8 | 2.00 | 0.75 | 0.12 | 0.12 | 0.88 |
+| Salih Altunsaray | 1 | 2.00 | 1.00 | 0.00 | 0.00 | 3.00 |
+| Mansour Iyoun Soud | 5 | 1.80 | 0.80 | 0.00 | 0.20 | 0.20 |
+| Charis Tyrovouzis | 9 | 1.78 | 0.67 | 0.11 | 0.11 | 0.67 |
+| Ebbe Crona-Sahlberg | 6 | 0.17 | 0.00 | 0.00 | 0.17 | 1.00 |
 
 ## Games
+
+### Gota Basket Blå - Ale Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Nikolas Magnusson Giannourakis | 15 |  4 |  0 |  7 | 2 |
+| Filip Lundberg | 13 |  5 |  0 |  3 | 3 |
+| Erik Helgesson |  4 |  2 |  0 |  0 | 0 |
+| Daniel Ecker |  3 |  0 |  1 |  0 | 0 |
+| Charlie Mattsson Meijer |  2 |  1 |  0 |  0 | 3 |
+| Salih Altunsaray |  2 |  1 |  0 |  0 | 3 |
+| Charis Tyrovouzis |  2 |  1 |  0 |  0 | 1 |
+| Victor Björkman |  0 |  0 |  0 |  0 | 1 |
+
+### Kungsbacka Basket Blå - Gota Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Valter Larsson | 30 | 10 |  1 |  7 | 3 |
+| Filip Lundberg | 23 | 10 |  1 |  0 | 2 |
+| Nikolas Magnusson Giannourakis | 11 |  5 |  0 |  1 | 4 |
+| Charlie Mattsson Meijer |  4 |  2 |  0 |  0 | 2 |
+| Alvin Bolteus |  4 |  2 |  0 |  0 | 4 |
+| Victor Björkman |  0 |  0 |  0 |  0 | 0 |
+| Mansour Iyoun Soud |  0 |  0 |  0 |  0 | 0 |
+| Ebbe Crona-Sahlberg |  0 |  0 |  0 |  0 | 1 |
+| Lukaz Livén Jonsson |  0 |  0 |  0 |  0 | 2 |
+| Charis Tyrovouzis |  0 |  0 |  0 |  0 | 1 |
 
 ### Eastside Falcons - Gota Basket Blå
 

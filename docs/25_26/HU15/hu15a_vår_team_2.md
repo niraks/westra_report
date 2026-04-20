@@ -4,27 +4,46 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Ale Basket | 9 | 88.89 | 29.00 | 7.56 | 8.22 | 16.67 |
+| Ale Basket | 10 | 91.30 | 30.90 | 7.00 | 8.50 | 16.90 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Charlie Lindblom | 8 | 19.75 | 5.12 | 2.25 | 2.75 | 1.38 |
-| Emil Järvinen | 9 | 15.56 | 2.89 | 3.00 | 0.78 | 3.00 |
-| Fabian Hjärtinge | 9 | 13.00 | 5.56 | 0.11 | 1.56 | 1.89 |
-| Edvin Harbas | 9 | 11.11 | 3.44 | 1.11 | 0.89 | 1.89 |
-| Bakir Hasanovic | 9 | 9.78 | 3.89 | 0.44 | 0.67 | 2.22 |
-| Robin Hysén | 8 | 5.75 | 2.62 | 0.00 | 0.50 | 0.38 |
-| Noah Nilsson | 9 | 5.33 | 2.33 | 0.00 | 0.67 | 1.11 |
-| David Franco Weihe | 8 | 3.50 | 0.88 | 0.50 | 0.25 | 1.25 |
-| Washington Adanihomwan | 6 | 3.50 | 1.50 | 0.00 | 0.50 | 2.33 |
-| Jack Kilany | 9 | 3.33 | 1.44 | 0.11 | 0.11 | 1.33 |
+| Charlie Lindblom | 9 | 19.22 | 5.22 | 2.00 | 2.78 | 1.33 |
+| Emil Järvinen | 10 | 14.90 | 2.90 | 2.80 | 0.70 | 2.80 |
+| Fabian Hjärtinge | 10 | 12.70 | 5.40 | 0.10 | 1.60 | 2.10 |
+| Edvin Harbas | 10 | 11.20 | 3.60 | 1.00 | 1.00 | 1.90 |
+| Bakir Hasanovic | 10 | 10.30 | 4.20 | 0.40 | 0.70 | 2.20 |
+| Robin Hysén | 9 | 5.89 | 2.67 | 0.00 | 0.56 | 0.44 |
+| Noah Nilsson | 10 | 5.60 | 2.50 | 0.00 | 0.60 | 1.00 |
+| David Franco Weihe | 9 | 4.33 | 1.22 | 0.56 | 0.22 | 1.33 |
+| Jack Kilany | 10 | 4.30 | 1.90 | 0.10 | 0.20 | 1.40 |
+| Washington Adanihomwan | 7 | 4.29 | 1.86 | 0.00 | 0.57 | 2.00 |
 | Oscar Jansson | 2 | 3.00 | 0.00 | 1.00 | 0.00 | 0.50 |
-| Alvin Nylén | 9 | 1.56 | 0.56 | 0.11 | 0.11 | 0.89 |
-| Anton Hjärn | 7 | 0.57 | 0.29 | 0.00 | 0.00 | 0.00 |
+| Alvin Nylén | 10 | 1.40 | 0.50 | 0.10 | 0.10 | 1.20 |
+| Anton Hjärn | 8 | 1.00 | 0.50 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Gota Basket Blå - Ale Basket
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Charlie Lindblom | 15 |  6 |  0 |  3 | 1 |
+| Bakir Hasanovic | 15 |  7 |  0 |  1 | 2 |
+| Jack Kilany | 13 |  6 |  0 |  1 | 2 |
+| Edvin Harbas | 12 |  5 |  0 |  2 | 2 |
+| David Franco Weihe | 11 |  4 |  1 |  0 | 2 |
+| Fabian Hjärtinge | 10 |  4 |  0 |  2 | 4 |
+| Washington Adanihomwan |  9 |  4 |  0 |  1 | 0 |
+| Emil Järvinen |  9 |  3 |  1 |  0 | 1 |
+| Noah Nilsson |  8 |  4 |  0 |  0 | 0 |
+| Robin Hysén |  7 |  3 |  0 |  1 | 1 |
+| Anton Hjärn |  4 |  2 |  0 |  0 | 0 |
+| Alvin Nylén |  0 |  0 |  0 |  0 | 4 |
 
 ### Ale Basket - Trollhättans Basketbollklubb
 

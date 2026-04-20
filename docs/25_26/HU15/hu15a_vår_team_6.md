@@ -4,25 +4,56 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Kungsbacka Basket Blå | 8 | 61.88 | 19.25 | 3.88 | 11.75 | 11.50 |
+| Kungsbacka Basket Blå | 10 | 64.40 | 19.60 | 4.50 | 11.70 | 11.50 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Eric Svensson | 8 | 19.12 | 4.62 | 2.25 | 3.12 | 1.75 |
-| Malcom Truija Wellington | 8 | 12.25 | 3.75 | 0.62 | 2.88 | 1.50 |
+| Eric Svensson | 10 | 20.10 | 4.90 | 2.20 | 3.70 | 1.40 |
+| Malcom Truija Wellington | 10 | 12.20 | 3.80 | 0.70 | 2.50 | 1.70 |
 | Simon Bentley | 7 | 11.71 | 4.29 | 0.14 | 2.71 | 2.14 |
-| Nils Martinsson | 7 | 6.29 | 2.00 | 0.29 | 1.43 | 1.00 |
-| Algot Bui-Ljungqvist | 8 | 6.12 | 2.12 | 0.12 | 1.50 | 2.25 |
-| Dylan Lian | 7 | 4.14 | 1.86 | 0.00 | 0.43 | 0.86 |
-| Evan Fredriksson | 7 | 2.86 | 1.00 | 0.29 | 0.00 | 0.57 |
-| Melker Näsström | 6 | 2.83 | 1.00 | 0.17 | 0.33 | 1.50 |
-| Oskar Armini Lönberg | 2 | 1.50 | 0.00 | 0.50 | 0.00 | 2.50 |
-| Kristijonas Alminas | 2 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| Elton Westlund | 1 | 0.00 | 0.00 | 0.00 | 0.00 | 2.00 |
+| Nils Martinsson | 8 | 6.88 | 2.12 | 0.38 | 1.50 | 1.12 |
+| Algot Bui-Ljungqvist | 10 | 6.40 | 2.10 | 0.20 | 1.60 | 2.40 |
+| Dylan Lian | 9 | 5.00 | 1.89 | 0.22 | 0.56 | 0.89 |
+| Kristijonas Alminas | 4 | 4.75 | 1.25 | 0.75 | 0.00 | 0.50 |
+| Melker Näsström | 7 | 3.14 | 1.14 | 0.14 | 0.43 | 1.29 |
+| Evan Fredriksson | 9 | 2.89 | 1.11 | 0.22 | 0.00 | 0.78 |
+| Oskar Armini Lönberg | 4 | 1.50 | 0.00 | 0.50 | 0.00 | 1.75 |
+| Elton Westlund | 2 | 1.00 | 0.50 | 0.00 | 0.00 | 1.50 |
 
 ## Games
+
+### Trollhättans Basketbollklubb - Kungsbacka Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Eric Svensson | 25 |  4 |  3 |  8 | 0 |
+| Dylan Lian | 10 |  2 |  2 |  0 | 2 |
+| Kristijonas Alminas | 10 |  2 |  2 |  0 | 2 |
+| Malcom Truija Wellington |  9 |  3 |  1 |  0 | 2 |
+| Algot Bui-Ljungqvist |  9 |  2 |  1 |  2 | 1 |
+| Evan Fredriksson |  6 |  3 |  0 |  0 | 1 |
+| Oskar Armini Lönberg |  3 |  0 |  1 |  0 | 1 |
+| Elton Westlund |  2 |  1 |  0 |  0 | 1 |
+
+### Kungsbacka Basket Blå - Gota Basket Blå
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Eric Svensson | 23 |  8 |  1 |  4 | 0 |
+| Malcom Truija Wellington | 15 |  5 |  1 |  2 | 3 |
+| Nils Martinsson | 11 |  3 |  1 |  2 | 2 |
+| Kristijonas Alminas |  9 |  3 |  1 |  0 | 0 |
+| Dylan Lian |  6 |  2 |  0 |  2 | 0 |
+| Algot Bui-Ljungqvist |  6 |  2 |  0 |  2 | 5 |
+| Melker Näsström |  5 |  2 |  0 |  1 | 0 |
+| Evan Fredriksson |  0 |  0 |  0 |  0 | 2 |
+| Oskar Armini Lönberg |  0 |  0 |  0 |  0 | 1 |
 
 ### Kungsbacka Basket Blå - Högsbo Basket P11 röd
 

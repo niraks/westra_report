@@ -4,30 +4,48 @@
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Högsbo Basket P11 röd | 9 | 99.11 | 35.33 | 7.11 | 7.11 | 14.56 |
+| Högsbo Basket P11 röd | 10 | 99.70 | 35.60 | 7.20 | 6.90 | 14.40 |
 
 ## Players summary
 
 | Name | G | PPG | 2PM/G | 3PM/G | FTM/G | Fouls/G |
 |:-----|--:|----:|------:|------:|------:|--------:|
-| Filip Berndtsson | 9 | 21.56 | 9.33 | 0.22 | 2.22 | 2.22 |
-| Elliott Askenbäck | 9 | 21.11 | 8.00 | 1.33 | 1.11 | 1.89 |
-| Felix Rezler | 7 | 12.71 | 2.86 | 2.14 | 0.57 | 1.57 |
-| Ward Haddad | 9 | 10.44 | 3.67 | 0.78 | 0.78 | 1.89 |
-| Wilmer Myhr | 8 | 9.62 | 4.12 | 0.12 | 1.00 | 2.00 |
+| Filip Berndtsson | 10 | 21.40 | 9.30 | 0.20 | 2.20 | 2.00 |
+| Elliott Askenbäck | 10 | 20.90 | 8.00 | 1.30 | 1.00 | 1.70 |
+| Felix Rezler | 8 | 13.38 | 3.38 | 2.00 | 0.62 | 1.62 |
+| Ward Haddad | 10 | 10.60 | 3.40 | 1.00 | 0.80 | 1.90 |
+| Wilmer Myhr | 9 | 8.78 | 3.78 | 0.11 | 0.89 | 2.00 |
 | Eddy Kristofersson | 1 | 8.00 | 4.00 | 0.00 | 0.00 | 0.00 |
-| Noah Lansler | 7 | 6.57 | 2.43 | 0.57 | 0.00 | 0.71 |
-| Olle Sjöbom | 9 | 6.33 | 1.67 | 1.00 | 0.00 | 0.67 |
+| Olle Sjöbom | 10 | 7.00 | 1.80 | 1.10 | 0.10 | 0.60 |
+| Noah Lansler | 8 | 6.00 | 2.25 | 0.50 | 0.00 | 0.88 |
 | Andreas Persson | 2 | 5.50 | 0.50 | 1.50 | 0.00 | 1.50 |
 | Jonathan Silverwaldt | 1 | 5.00 | 1.00 | 1.00 | 0.00 | 4.00 |
-| Oskar Rosén | 5 | 4.80 | 2.00 | 0.20 | 0.20 | 0.40 |
+| Oskar Rosén | 6 | 4.67 | 2.00 | 0.17 | 0.17 | 0.33 |
+| Colin Amnéus | 5 | 4.60 | 1.20 | 0.20 | 1.60 | 1.00 |
 | Hugo Thorson | 7 | 4.57 | 1.43 | 0.43 | 0.43 | 0.86 |
-| Ibrahim Salma | 4 | 4.00 | 1.00 | 0.50 | 0.50 | 2.25 |
-| Colin Amnéus | 4 | 3.50 | 0.75 | 0.00 | 2.00 | 1.25 |
-| Alvin Hertzman | 9 | 3.44 | 1.00 | 0.44 | 0.11 | 1.11 |
+| Alvin Hertzman | 10 | 3.70 | 1.20 | 0.40 | 0.10 | 1.20 |
+| Ibrahim Salma | 5 | 3.20 | 0.80 | 0.40 | 0.40 | 2.40 |
 | Viggo Tapper | 2 | 2.00 | 1.00 | 0.00 | 0.00 | 0.00 |
 
 ## Games
+
+### Högsbo Basket P11 röd - Eastside Falcons
+
+Players (sorted by points)
+
+| Name | Points | 2PM | 3PM | FT | Fouls |
+|:-----|-------:|----:|----:|---:|------:|
+| Filip Berndtsson | 20 |  9 |  0 |  2 | 0 |
+| Elliott Askenbäck | 19 |  8 |  1 |  0 | 0 |
+| Felix Rezler | 18 |  7 |  1 |  1 | 2 |
+| Olle Sjöbom | 13 |  3 |  2 |  1 | 0 |
+| Ward Haddad | 12 |  1 |  3 |  1 | 2 |
+| Colin Amnéus |  9 |  3 |  1 |  0 | 0 |
+| Alvin Hertzman |  6 |  3 |  0 |  0 | 2 |
+| Oskar Rosén |  4 |  2 |  0 |  0 | 0 |
+| Noah Lansler |  2 |  1 |  0 |  0 | 2 |
+| Wilmer Myhr |  2 |  1 |  0 |  0 | 2 |
+| Ibrahim Salma |  0 |  0 |  0 |  0 | 3 |
 
 ### Kungsbacka Basket Blå - Högsbo Basket P11 röd
 
