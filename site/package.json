@@ -1,0 +1,14 @@
+{
+  "name": "westra-stats-site",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "predev": "rm -rf src/.observablehq/cache/data",
+    "dev": "observable preview",
+    "prebuild": "rm -rf src/.observablehq/cache/data",
+    "build": "observable build"
+  },
+  "devDependencies": {
+    "@observablehq/framework": "^1"
+  }
+}

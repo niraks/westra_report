@@ -1,0 +1,7 @@
+site/node_modules/
+site/src/.observablehq/cache/
+site/dist/
+
+# Emacs backup/lock files
+*~
+.#*
