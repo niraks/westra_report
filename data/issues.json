@@ -1,0 +1,74 @@
+[
+  {
+    "season": "24/25 Westra",
+    "category": "HU15A Vår",
+    "game_id": 32051742,
+    "date": "2025-02-02",
+    "home_team": "Lerum Basket P10 Svart",
+    "away_team": "Varbergs Basket",
+    "messages": [
+      "Failed to parse score sheet for game 32051742: Lerum Basket P10 Svart - Varbergs Basket (2025-02-02 13:00)",
+      "Points differ between game summary and score sheet: game 72-78 vs score sheet 0-0"
+    ]
+  },
+  {
+    "season": "24/25 Westra",
+    "category": "HU15A Vår",
+    "game_id": 32054240,
+    "date": "2025-01-25",
+    "home_team": "Varbergs Basket",
+    "away_team": "Eastside Aviators",
+    "messages": [
+      "Failed to parse score sheet for game 32054240: Varbergs Basket - Eastside Aviators (2025-01-25 14:30)",
+      "Points differ between game summary and score sheet: game 43-76 vs score sheet 0-0"
+    ]
+  },
+  {
+    "season": "24/25 Westra",
+    "category": "HU15B Vår",
+    "game_id": 32054205,
+    "date": "2025-03-13",
+    "home_team": "Trollhättans Basket Svart",
+    "away_team": "Hammarkullens Basketklubb HKB",
+    "messages": [
+      "Failed to parse score sheet for game 32054205: Trollhättans Basket Svart - Hammarkullens Basketklubb HKB (2025-03-13 19:00)",
+      "Points differ between game summary and score sheet: game 20-0 vs score sheet 0-0"
+    ]
+  },
+  {
+    "season": "24/25 Westra",
+    "category": "HU14A Höst",
+    "game_id": 31925778,
+    "date": "2024-12-07",
+    "home_team": "Sätila Basket",
+    "away_team": "Kvarnby Basket Grön",
+    "messages": [
+      "Failed to parse score sheet for game 31925778: Sätila Basket - Kvarnby Basket Grön (2024-12-07 14:00)",
+      "Points differ between game summary and score sheet: game 0-20 vs score sheet 0-0"
+    ]
+  },
+  {
+    "season": "24/25 Westra",
+    "category": "HU14A Vår",
+    "game_id": 32054550,
+    "date": "2025-02-09",
+    "home_team": "Högsbo Basket Röd",
+    "away_team": "Kortedala Basket, svart",
+    "messages": [
+      "Failed to parse score sheet for game 32054550: Högsbo Basket Röd - Kortedala Basket, svart (2025-02-09 15:30)",
+      "Points differ between game summary and score sheet: game 0-20 vs score sheet 0-0"
+    ]
+  },
+  {
+    "season": "24/25 Westra",
+    "category": "HU14A Vår",
+    "game_id": 32051694,
+    "date": "2025-02-02",
+    "home_team": "Borås Basket",
+    "away_team": "Kvarnby Basket Grön",
+    "messages": [
+      "Failed to parse score sheet for game 32051694: Borås Basket - Kvarnby Basket Grön (2025-02-02 12:00)",
+      "Points differ between game summary and score sheet: game 88-61 vs score sheet 0-0"
+    ]
+  }
+]
